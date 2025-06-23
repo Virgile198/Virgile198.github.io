@@ -2934,7 +2934,7 @@
 			"name": "Ruins Scavenger",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature — Shapeshifter Rogue",
 			"collector_number": "80",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/80_Ruins Scavenger.png"
