@@ -1,10 +1,10 @@
-[CustomCards]
+ï»¿[CustomCards]
 	[
 		{
 			"name": "Sootfurr Brute",
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "208",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/208_Sootfurr Brute.png"
@@ -24,7 +24,7 @@
 			"name": "Burning-Tree Blackhorn",
 			"rarity": "common",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Creature — Minotaur Berserker",
+			"type": "Creature â€” Minotaur Berserker",
 			"collector_number": "158",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/158_Burning-Tree Blackhorn.png"
@@ -34,7 +34,7 @@
 			"name": "Wildheart Raiders",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Lizard Berserker",
+			"type": "Creature â€” Lizard Berserker",
 			"collector_number": "115",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/115_Wildheart Raiders.png"
@@ -44,7 +44,7 @@
 			"name": "Inquisitive Minotaur",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Minotaur Wizard",
+			"type": "Creature â€” Minotaur Wizard",
 			"collector_number": "100",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/100_Inquisitive Minotaur.png"
@@ -54,7 +54,7 @@
 			"name": "Mountain Hurler",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Cyclops Warrior",
+			"type": "Creature â€” Cyclops Warrior",
 			"collector_number": "136",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/136_Mountain Hurler.png"
@@ -64,7 +64,7 @@
 			"name": "Shamanic Power",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "205",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/205_Shamanic Power.png"
@@ -74,7 +74,7 @@
 			"name": "Bloodrust Assailant",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Lizard Berserker",
+			"type": "Creature â€” Lizard Berserker",
 			"collector_number": "90",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/90_Bloodrust Assailant.png"
@@ -84,7 +84,7 @@
 			"name": "Fierce Maaka Kitten",
 			"rarity": "rare",
 			"mana_cost": "{R}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "96",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/96_Fierce Maaka Kitten.png"
@@ -94,7 +94,7 @@
 			"name": "Gate Breaker",
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Boar",
+			"type": "Creature â€” Boar",
 			"collector_number": "99",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/99_Gate Breaker.png"
@@ -104,7 +104,7 @@
 			"name": "Augmented Monstrosity",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
-			"type": "Artifact Creature — Minotaur Construct",
+			"type": "Artifact Creature â€” Minotaur Construct",
 			"collector_number": "89",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/89_Augmented Monstrosity.png"
@@ -114,7 +114,7 @@
 			"name": "Blightblood Abomination",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Snake Mutant",
+			"type": "Creature â€” Snake Mutant",
 			"collector_number": "118",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/118_Blightblood Abomination.png"
@@ -124,7 +124,7 @@
 			"name": "Razortusk Piglet",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Boar",
+			"type": "Creature â€” Boar",
 			"collector_number": "137",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/137_Razortusk Piglet.png"
@@ -134,7 +134,7 @@
 			"name": "Rejuvenated Wood-Kin",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature — Elemental Warrior",
+			"type": "Creature â€” Elemental Warrior",
 			"collector_number": "138",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/138_Rejuvenated Wood-Kin.png"
@@ -144,7 +144,7 @@
 			"name": "Mossback Pulverizer",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Mole Fungus",
+			"type": "Creature â€” Mole Fungus",
 			"collector_number": "135",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/135_Mossback Pulverizer.png"
@@ -154,7 +154,7 @@
 			"name": "Charitable Thrull",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Thrull",
+			"type": "Creature â€” Thrull",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/1_Charitable Thrull.png"
@@ -164,7 +164,7 @@
 			"name": "Spectral Advisor",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Spirit Advisor",
+			"type": "Creature â€” Spirit Advisor",
 			"collector_number": "26",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/26_Spectral Advisor.png"
@@ -174,7 +174,7 @@
 			"name": "Clergy Enforcer",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "63",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/63_Clergy Enforcer.png"
@@ -184,7 +184,7 @@
 			"name": "Cruel Robber",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Assassin",
+			"type": "Creature â€” Human Assassin",
 			"collector_number": "65",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/65_Cruel Robber.png"
@@ -194,7 +194,7 @@
 			"name": "Corpse Excavator",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Dog Zombie",
+			"type": "Creature â€” Dog Zombie",
 			"collector_number": "64",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/64_Corpse Excavator.png"
@@ -204,7 +204,7 @@
 			"name": "Euthanist Master",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Creature — Human Assassin",
+			"type": "Creature â€” Human Assassin",
 			"collector_number": "69",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/69_Euthanist Master.png"
@@ -224,7 +224,7 @@
 			"name": "Teysa Karlov, Master of Deals",
 			"rarity": "mythic",
 			"mana_cost": "{W}{W}{B}{B}",
-			"type": "Legendary Creature — Human Advisor",
+			"type": "Legendary Creature â€” Human Advisor",
 			"collector_number": "211",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/211_Teysa Karlov, Master of Deals.png"
@@ -234,7 +234,7 @@
 			"name": "Treasured Pet",
 			"rarity": "common",
 			"mana_cost": "{1}{W/B}",
-			"type": "Creature — Cat Spirit",
+			"type": "Creature â€” Cat Spirit",
 			"collector_number": "233",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/233_Treasured Pet.png"
@@ -244,7 +244,7 @@
 			"name": "Assessor of Worth",
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{B}{B}",
-			"type": "Creature — Angel",
+			"type": "Creature â€” Angel",
 			"collector_number": "149",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/149_Assessor of Worth.png"
@@ -254,7 +254,7 @@
 			"name": "Priest of The Welcoming",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Human Cleric",
+			"type": "Creature â€” Human Cleric",
 			"collector_number": "19",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/19_Priest of The Welcoming.png"
@@ -264,7 +264,7 @@
 			"name": "Vicious Blackmailer",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Creature — Human Citizen Rogue",
+			"type": "Creature â€” Human Citizen Rogue",
 			"collector_number": "86",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/86_Vicious Blackmailer.png"
@@ -274,7 +274,7 @@
 			"name": "Orzhov Seizebeast",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "15",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/15_Orzhov Seizebeast.png"
@@ -284,7 +284,7 @@
 			"name": "Vulpus Honorguard",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Wolf",
+			"type": "Creature â€” Wolf",
 			"collector_number": "144",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/144_Vulpus Honorguard.png"
@@ -294,7 +294,7 @@
 			"name": "Howling Gate",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Spirit Wall",
+			"type": "Creature â€” Spirit Wall",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/11_Howling Gate.png"
@@ -304,7 +304,7 @@
 			"name": "Knight of Denial",
 			"rarity": "common",
 			"mana_cost": "{4}{W}{B}",
-			"type": "Creature — Giant Knight",
+			"type": "Creature â€” Giant Knight",
 			"collector_number": "189",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/189_Knight of Denial.png"
@@ -314,7 +314,7 @@
 			"name": "Pontific Guard",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/17_Pontific Guard.png"
@@ -334,7 +334,7 @@
 			"name": "Ayla, Harmony's Embrace",
 			"rarity": "mythic",
 			"mana_cost": "{G}{G}{W}{W}",
-			"type": "Legendary Planeswalker — Ayla",
+			"type": "Legendary Planeswalker â€” Ayla",
 			"collector_number": "151",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/151_Ayla, Harmony's Embrace.png"
@@ -364,7 +364,7 @@
 			"name": "Precinct Archprotector",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Elephant Cleric",
+			"type": "Creature â€” Elephant Cleric",
 			"collector_number": "18",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/18_Precinct Archprotector.png"
@@ -374,7 +374,7 @@
 			"name": "Worldring Uroboros",
 			"rarity": "mythic",
 			"mana_cost": "{5}{G}{G}{G}{W}{W}",
-			"type": "Creature — Wurm",
+			"type": "Creature â€” Wurm",
 			"collector_number": "218",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/218_Worldring Uroboros.png"
@@ -394,7 +394,7 @@
 			"name": "Ledev Captain",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Elf Knight",
+			"type": "Creature â€” Elf Knight",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/13_Ledev Captain.png"
@@ -404,7 +404,7 @@
 			"name": "Flowermane Healer",
 			"rarity": "common",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Creature — Centaur Druid",
+			"type": "Creature â€” Centaur Druid",
 			"collector_number": "181",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/181_Flowermane Healer.png"
@@ -434,7 +434,7 @@
 			"name": "Protector of the Glade",
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
-			"type": "Creature — Dryad Warrior",
+			"type": "Creature â€” Dryad Warrior",
 			"collector_number": "231",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/231_Protector of the Glade.png"
@@ -444,7 +444,7 @@
 			"name": "Selesnya Caretaker",
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
-			"type": "Creature — Elephant Cleric",
+			"type": "Creature â€” Elephant Cleric",
 			"collector_number": "204",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/204_Selesnya Caretaker.png"
@@ -474,7 +474,7 @@
 			"name": "Ral, Thundering Genius",
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}{R}{R}",
-			"type": "Legendary Creature — Human Wizard",
+			"type": "Legendary Creature â€” Human Wizard",
 			"collector_number": "199",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/199_Ral, Thundering Genius.png"
@@ -544,7 +544,7 @@
 			"name": "Mass Scrambler",
 			"rarity": "common",
 			"mana_cost": "{2}{U/R}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental",
 			"collector_number": "230",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/230_Mass Scrambler.png"
@@ -554,7 +554,7 @@
 			"name": "Flux Launcher Maniac",
 			"rarity": "common",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Goblin Wizard",
+			"type": "Creature â€” Goblin Wizard",
 			"collector_number": "182",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/182_Flux Launcher Maniac.png"
@@ -564,7 +564,7 @@
 			"name": "Ecstatic Fluxburster",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Weird",
+			"type": "Creature â€” Weird",
 			"collector_number": "173",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/173_Ecstatic Fluxburster.png"
@@ -604,7 +604,7 @@
 			"name": "Gheshval, Night's Mantle",
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}{B}{B}",
-			"type": "Legendary Planeswalker — Gheshval",
+			"type": "Legendary Planeswalker â€” Gheshval",
 			"collector_number": "183",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/183_Gheshval, Night's Mantle.png"
@@ -634,7 +634,7 @@
 			"name": "Shambling Grotesquerie",
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
-			"type": "Creature — Horror",
+			"type": "Creature â€” Horror",
 			"collector_number": "206",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/206_Shambling Grotesquerie.png"
@@ -644,7 +644,7 @@
 			"name": "Deeproot Entity",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}{G}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental",
 			"collector_number": "126",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/126_Deeproot Entity.png"
@@ -654,7 +654,7 @@
 			"name": "Storm Eater",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "112",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/112_Storm Eater.png"
@@ -684,7 +684,7 @@
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains",
+			"type": "Basic Land â€” Plains",
 			"collector_number": "271",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/271_Plains.png"
@@ -694,7 +694,7 @@
 			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island",
+			"type": "Basic Land â€” Island",
 			"collector_number": "272",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/272_Island.png"
@@ -704,7 +704,7 @@
 			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
+			"type": "Basic Land â€” Swamp",
 			"collector_number": "273",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/273_Swamp.png"
@@ -714,7 +714,7 @@
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain",
+			"type": "Basic Land â€” Mountain",
 			"collector_number": "274",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/274_Mountain.png"
@@ -724,7 +724,7 @@
 			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest",
+			"type": "Basic Land â€” Forest",
 			"collector_number": "275",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/275_Forest.png"
@@ -734,7 +734,7 @@
 			"name": "Orzhov Guildgate",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Gate",
+			"type": "Land â€” Gate",
 			"collector_number": "263",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/263_Orzhov Guildgate.png"
@@ -744,7 +744,7 @@
 			"name": "Dimir Guildgate",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Gate",
+			"type": "Land â€” Gate",
 			"collector_number": "259",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/259_Dimir Guildgate.png"
@@ -754,7 +754,7 @@
 			"name": "Izzet Guildgate",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Gate",
+			"type": "Land â€” Gate",
 			"collector_number": "262",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/262_Izzet Guildgate.png"
@@ -764,7 +764,7 @@
 			"name": "Gruul Guildgate",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Gate",
+			"type": "Land â€” Gate",
 			"collector_number": "261",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/261_Gruul Guildgate.png"
@@ -774,7 +774,7 @@
 			"name": "Selesnya Guildgate",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Gate",
+			"type": "Land â€” Gate",
 			"collector_number": "264",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/264_Selesnya Guildgate.png"
@@ -784,7 +784,7 @@
 			"name": "Tin Street",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Land — Gate",
+			"type": "Land â€” Gate",
 			"collector_number": "268",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/268_Tin Street.png"
@@ -854,7 +854,7 @@
 			"name": "Guardians of the Guildpact",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "248",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/248_Guardians of the Guildpact.png"
@@ -864,7 +864,7 @@
 			"name": "Living Monument",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "251",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/251_Living Monument.png"
@@ -874,7 +874,7 @@
 			"name": "Shield of the Guildpact",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "256",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/256_Shield of the Guildpact.png"
@@ -904,7 +904,7 @@
 			"name": "Oblivion Urn",
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
-			"type": "Artifact — Treasure",
+			"type": "Artifact â€” Treasure",
 			"collector_number": "252",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/252_Oblivion Urn.png"
@@ -914,7 +914,7 @@
 			"name": "Prismatic Custodian",
 			"rarity": "rare",
 			"mana_cost": "{5}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "254",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/254_Prismatic Custodian.png"
@@ -924,7 +924,7 @@
 			"name": "Watery Grave",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Island Swamp",
+			"type": "Land â€” Island Swamp",
 			"collector_number": "270",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/270_Watery Grave.png"
@@ -934,7 +934,7 @@
 			"name": "Stomping Ground",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Mountain Forest",
+			"type": "Land â€” Mountain Forest",
 			"collector_number": "266",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/266_Stomping Ground.png"
@@ -944,7 +944,7 @@
 			"name": "Temple Garden",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Forest Plains",
+			"type": "Land â€” Forest Plains",
 			"collector_number": "267",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/267_Temple Garden.png"
@@ -954,7 +954,7 @@
 			"name": "Godless Shrine",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Plains Swamp",
+			"type": "Land â€” Plains Swamp",
 			"collector_number": "260",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/260_Godless Shrine.png"
@@ -964,7 +964,7 @@
 			"name": "Steam Vents",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Island Mountain",
+			"type": "Land â€” Island Mountain",
 			"collector_number": "265",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/265_Steam Vents.png"
@@ -994,7 +994,7 @@
 			"name": "Backstreet Informant",
 			"rarity": "common",
 			"mana_cost": "{2}{U/B}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "220",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/220_Backstreet Informant.png"
@@ -1024,7 +1024,7 @@
 			"name": "Moss Elemental",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental",
 			"collector_number": "134",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/134_Moss Elemental.png"
@@ -1034,7 +1034,7 @@
 			"name": "Protector of the Meek",
 			"rarity": "common",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Angel Warrior",
+			"type": "Creature â€” Angel Warrior",
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/20_Protector of the Meek.png"
@@ -1044,7 +1044,7 @@
 			"name": "Deep Sewage Lurker",
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Creature — Octopus",
+			"type": "Creature â€” Octopus",
 			"collector_number": "36",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/36_Deep Sewage Lurker.png"
@@ -1054,7 +1054,7 @@
 			"name": "Thrull Collectors",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Thrull",
+			"type": "Creature â€” Thrull",
 			"collector_number": "83",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/83_Thrull Collectors.png"
@@ -1064,7 +1064,7 @@
 			"name": "Frontline Cultivator",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/7_Frontline Cultivator.png"
@@ -1074,7 +1074,7 @@
 			"name": "Ninth District Benevolant",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Cleric",
+			"type": "Creature â€” Human Cleric",
 			"collector_number": "14",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/14_Ninth District Benevolant.png"
@@ -1084,7 +1084,7 @@
 			"name": "Walkers of the Dim",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Zombie",
+			"type": "Creature â€” Zombie",
 			"collector_number": "58",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/58_Walkers of the Dim.png"
@@ -1114,7 +1114,7 @@
 			"name": "Conclave Sentinel",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{W}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental",
 			"collector_number": "164",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/164_Conclave Sentinel.png"
@@ -1124,7 +1124,7 @@
 			"name": "Brilliant Artist",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Fairie Wizard",
+			"type": "Creature â€” Fairie Wizard",
 			"collector_number": "32",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/32_Brilliant Artist.png"
@@ -1144,7 +1144,7 @@
 			"name": "Duskmantle Agent",
 			"rarity": "common",
 			"mana_cost": "{4}{U}{B}",
-			"type": "Creature — Fairie Assassin",
+			"type": "Creature â€” Fairie Assassin",
 			"collector_number": "172",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/172_Duskmantle Agent.png"
@@ -1154,7 +1154,7 @@
 			"name": "Mad Alchemist",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Lizard Wizard",
+			"type": "Creature â€” Lizard Wizard",
 			"collector_number": "103",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/103_Mad Alchemist.png"
@@ -1164,7 +1164,7 @@
 			"name": "Mounted Warbeast",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "106",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/106_Mounted Warbeast.png"
@@ -1174,7 +1174,7 @@
 			"name": "Rumbling Drake",
 			"rarity": "common",
 			"mana_cost": "{4}{U}{R}",
-			"type": "Creature — Drake",
+			"type": "Creature â€” Drake",
 			"collector_number": "203",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/203_Rumbling Drake.png"
@@ -1184,7 +1184,7 @@
 			"name": "Catacombs Cleaner",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Insect Horror",
+			"type": "Creature â€” Insect Horror",
 			"collector_number": "33",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/33_Catacombs Cleaner.png"
@@ -1194,7 +1194,7 @@
 			"name": "Winged Mare",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Pegasus",
+			"type": "Creature â€” Pegasus",
 			"collector_number": "29",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/29_Winged Mare.png"
@@ -1204,7 +1204,7 @@
 			"name": "Thraka, Ire of the Wilds",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}{G}{G}",
-			"type": "Legendary Creature — Beast",
+			"type": "Legendary Creature â€” Beast",
 			"collector_number": "212",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/212_Thraka, Ire of the Wilds.png"
@@ -1214,7 +1214,7 @@
 			"name": "Cleanser of Debt",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Vampire Knight",
+			"type": "Creature â€” Vampire Knight",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/2_Cleanser of Debt.png"
@@ -1224,7 +1224,7 @@
 			"name": "Saproling",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Saproling",
+			"type": "Token Creature â€” Saproling",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/11_Saproling.png"
@@ -1234,7 +1234,7 @@
 			"name": "Spirit",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Spirit",
+			"type": "Token Creature â€” Spirit",
 			"collector_number": "18",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/18_Spirit.png"
@@ -1244,7 +1244,7 @@
 			"name": "Hellion",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Hellion",
+			"type": "Token Creature â€” Hellion",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/17_Hellion.png"
@@ -1254,7 +1254,7 @@
 			"name": "Construct",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Construct",
+			"type": "Token Artifact Creature â€” Construct",
 			"collector_number": "19",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/19_Construct.png"
@@ -1264,7 +1264,7 @@
 			"name": "Zombie",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Zombie",
+			"type": "Token Creature â€” Zombie",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/6_Zombie.png"
@@ -1274,7 +1274,7 @@
 			"name": "Zombie",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Zombie",
+			"type": "Token Creature â€” Zombie",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/7_Zombie.png"
@@ -1284,7 +1284,7 @@
 			"name": "Citizen",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Citizen",
+			"type": "Token Creature â€” Citizen",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/13_Citizen.png"
@@ -1294,7 +1294,7 @@
 			"name": "Elemental",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Elemental",
+			"type": "Token Creature â€” Elemental",
 			"collector_number": "15",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/15_Elemental.png"
@@ -1304,7 +1304,7 @@
 			"name": "Bird",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Bird",
+			"type": "Token Creature â€” Bird",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/2_Bird.png"
@@ -1324,7 +1324,7 @@
 			"name": "Elf Knight",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Elf Knight",
+			"type": "Token Creature â€” Elf Knight",
 			"collector_number": "16",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/16_Elf Knight.png"
@@ -1334,7 +1334,7 @@
 			"name": "Treasure",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
+			"type": "Token Artifact â€” Treasure",
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/20_Treasure.png"
@@ -1344,7 +1344,7 @@
 			"name": "Elemental",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Elemental",
+			"type": "Token Creature â€” Elemental",
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/8_Elemental.png"
@@ -1354,7 +1354,7 @@
 			"name": "Zhur-Taa Ember Shaman",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature â€” Human Shaman",
 			"collector_number": "116",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/116_Zhur-Taa Ember Shaman.png"
@@ -1384,7 +1384,7 @@
 			"name": "Deadly Familiar",
 			"rarity": "common",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Creature — Cat",
+			"type": "Creature â€” Cat",
 			"collector_number": "167",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/167_Deadly Familiar.png"
@@ -1414,7 +1414,7 @@
 			"name": "Izzet Apprentice",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Vedalken Wizard",
+			"type": "Creature â€” Vedalken Wizard",
 			"collector_number": "101",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/101_Izzet Apprentice.png"
@@ -1424,7 +1424,7 @@
 			"name": "Slitz-Clan Opportunist",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Lizard Rogue",
+			"type": "Creature â€” Lizard Rogue",
 			"collector_number": "140",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/140_Slitz-Clan Opportunist.png"
@@ -1434,7 +1434,7 @@
 			"name": "Debtor Hunter",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Bat",
+			"type": "Creature â€” Bat",
 			"collector_number": "66",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/66_Debtor Hunter.png"
@@ -1444,7 +1444,7 @@
 			"name": "Lightning Rider",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{R}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "190",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/190_Lightning Rider.png"
@@ -1454,7 +1454,7 @@
 			"name": "Priest of the Old Ways",
 			"rarity": "common",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Creature — Ogre Druid",
+			"type": "Creature â€” Ogre Druid",
 			"collector_number": "197",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/197_Priest of the Old Ways.png"
@@ -1464,7 +1464,7 @@
 			"name": "Magebane Rawhide",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "104",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/104_Magebane Rawhide.png"
@@ -1474,7 +1474,7 @@
 			"name": "Caller of the Wilds",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Human Druid",
+			"type": "Creature â€” Human Druid",
 			"collector_number": "121",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/121_Caller of the Wilds.png"
@@ -1484,7 +1484,7 @@
 			"name": "Illuminator Imp",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Imp",
+			"type": "Creature â€” Imp",
 			"collector_number": "70",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/70_Illuminator Imp.png"
@@ -1494,7 +1494,7 @@
 			"name": "Arrogant Ermit",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "30",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/30_Arrogant Ermit.png"
@@ -1504,7 +1504,7 @@
 			"name": "Guardian of the Hour",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}{W}",
-			"type": "Creature — Angel Warrior",
+			"type": "Creature â€” Angel Warrior",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/9_Guardian of the Hour.png"
@@ -1524,7 +1524,7 @@
 			"name": "Truesight Sphinx",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Sphinx",
+			"type": "Creature â€” Sphinx",
 			"collector_number": "57",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/57_Truesight Sphinx.png"
@@ -1534,7 +1534,7 @@
 			"name": "Lightning Catalyst",
 			"rarity": "rare",
 			"mana_cost": "{U/R}{U/R}",
-			"type": "Creature — Djinn",
+			"type": "Creature â€” Djinn",
 			"collector_number": "228",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/228_Lightning Catalyst.png"
@@ -1544,7 +1544,7 @@
 			"name": "Maree, Nivix Grand Chamberlain",
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
-			"type": "Legendary Creature — Goblin Wizard",
+			"type": "Legendary Creature â€” Goblin Wizard",
 			"collector_number": "191",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/191_Maree, Nivix Grand Chamberlain.png"
@@ -1574,7 +1574,7 @@
 			"name": "Workshop Supervisor",
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{R}",
-			"type": "Creature — Human Artificer Wizard",
+			"type": "Creature â€” Human Artificer Wizard",
 			"collector_number": "217",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/217_Workshop Supervisor.png"
@@ -1594,7 +1594,7 @@
 			"name": "Bushfire Shaman",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Creature — Cyclops Shaman",
+			"type": "Creature â€” Cyclops Shaman",
 			"collector_number": "159",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/159_Bushfire Shaman.png"
@@ -1604,7 +1604,7 @@
 			"name": "Ghor-Clan Charger",
 			"rarity": "rare",
 			"mana_cost": "{3}{R/G}{R/G}",
-			"type": "Creature — Centaur Warrior",
+			"type": "Creature â€” Centaur Warrior",
 			"collector_number": "225",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/225_Ghor-Clan Charger.png"
@@ -1624,7 +1624,7 @@
 			"name": "Rakasht, Spawn of Ulasht",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Legendary Creature — Hellion",
+			"type": "Legendary Creature â€” Hellion",
 			"collector_number": "198",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/198_Rakasht, Spawn of Ulasht.png"
@@ -1664,7 +1664,7 @@
 			"name": "Choosen of the Worldsoul",
 			"rarity": "rare",
 			"mana_cost": "{G/W}{G/W}",
-			"type": "Creature — Human Druid",
+			"type": "Creature â€” Human Druid",
 			"collector_number": "223",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/223_Choosen of the Worldsoul.png"
@@ -1694,7 +1694,7 @@
 			"name": "Circu, Butcher of Memories",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Legendary Creature — Human Wizard",
+			"type": "Legendary Creature â€” Human Wizard",
 			"collector_number": "161",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/161_Circu, Butcher of Memories.png"
@@ -1724,7 +1724,7 @@
 			"name": "Sewer Grafter",
 			"rarity": "rare",
 			"mana_cost": "{2}{U/B}{U/B}",
-			"type": "Creature — Shapeshifter Horror",
+			"type": "Creature â€” Shapeshifter Horror",
 			"collector_number": "232",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/232_Sewer Grafter.png"
@@ -1734,7 +1734,7 @@
 			"name": "Unending Nightmare",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
-			"type": "Creature — Nightmare Horror",
+			"type": "Creature â€” Nightmare Horror",
 			"collector_number": "213",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/213_Unending Nightmare.png"
@@ -1754,7 +1754,7 @@
 			"name": "Selesnya Sporewielder",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "23",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/23_Selesnya Sporewielder.png"
@@ -1764,7 +1764,7 @@
 			"name": "Cemetery Guardian",
 			"rarity": "rare",
 			"mana_cost": "{2}{W/B}{W/B}",
-			"type": "Artifact Creature — Gargoyle",
+			"type": "Artifact Creature â€” Gargoyle",
 			"collector_number": "221",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/221_Cemetery Guardian.png"
@@ -1774,7 +1774,7 @@
 			"name": "Cruel Advokist",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Creature — Human Advisor",
+			"type": "Creature â€” Human Advisor",
 			"collector_number": "166",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/166_Cruel Advokist.png"
@@ -1794,7 +1794,7 @@
 			"name": "Milana, Orzhov High Prelate",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Human Cleric",
+			"type": "Legendary Creature â€” Human Cleric",
 			"collector_number": "192",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/192_Milana, Orzhov High Prelate.png"
@@ -1854,7 +1854,7 @@
 			"name": "Torpor",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "56",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/56_Torpor.png"
@@ -1864,7 +1864,7 @@
 			"name": "Bloodletter's Bat",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Bat",
+			"type": "Creature â€” Bat",
 			"collector_number": "61",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/61_Bloodletter's Bat.png"
@@ -1874,7 +1874,7 @@
 			"name": "Wild Stomper",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "145",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/145_Wild Stomper.png"
@@ -1894,7 +1894,7 @@
 			"name": "Mindflayer of the Dim",
 			"rarity": "mythic",
 			"mana_cost": "{7}{U}{B}",
-			"type": "Creature — Leviathan Horror",
+			"type": "Creature â€” Leviathan Horror",
 			"collector_number": "193",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/193_Mindflayer of the Dim.png"
@@ -1914,7 +1914,7 @@
 			"name": "Ashentrunk Icinerator",
 			"rarity": "mythic",
 			"mana_cost": "{X}{R}{G}{G}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental",
 			"collector_number": "147",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/147_Ashentrunk Icinerator.png"
@@ -1924,7 +1924,7 @@
 			"name": "Factory Sentinel",
 			"rarity": "rare",
 			"mana_cost": "{U}{U}{R}{R}",
-			"type": "Artifact Creature — Drake Construct",
+			"type": "Artifact Creature â€” Drake Construct",
 			"collector_number": "178",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/178_Factory Sentinel.png"
@@ -1934,7 +1934,7 @@
 			"name": "Heart of Cinders",
 			"rarity": "rare",
 			"mana_cost": "{R}{R}{G}{G}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental",
 			"collector_number": "186",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/186_Heart of Cinders.png"
@@ -1944,7 +1944,7 @@
 			"name": "Flourishing Phytohydra",
 			"rarity": "rare",
 			"mana_cost": "{G}{G}{W}{W}",
-			"type": "Enchantment Creature — Plant Hydra",
+			"type": "Enchantment Creature â€” Plant Hydra",
 			"collector_number": "180",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/180_Flourishing Phytohydra.png"
@@ -1954,7 +1954,7 @@
 			"name": "Dimir Necrosage",
 			"rarity": "rare",
 			"mana_cost": "{U}{U}{B}{B}",
-			"type": "Creature — Skeleton Vampire Wizard",
+			"type": "Creature â€” Skeleton Vampire Wizard",
 			"collector_number": "169",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/169_Dimir Necrosage.png"
@@ -1964,7 +1964,7 @@
 			"name": "Coldhearted Cardinal",
 			"rarity": "rare",
 			"mana_cost": "{W}{W}{B}{B}",
-			"type": "Creature — Vampire Assassin Cleric",
+			"type": "Creature â€” Vampire Assassin Cleric",
 			"collector_number": "163",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/163_Coldhearted Cardinal.png"
@@ -1974,7 +1974,7 @@
 			"name": "Bolrac-Clan City Breacher",
 			"rarity": "common",
 			"mana_cost": "{4}{R}{G}",
-			"type": "Creature — Giant Warrior",
+			"type": "Creature â€” Giant Warrior",
 			"collector_number": "155",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/155_Bolrac-Clan City Breacher.png"
@@ -2004,7 +2004,7 @@
 			"name": "Gorz'Ghum, War Incense",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Legendary Creature — Ogre Shaman",
+			"type": "Legendary Creature â€” Ogre Shaman",
 			"collector_number": "184",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/184_Gorz'Ghum, War Incense.png"
@@ -2014,7 +2014,7 @@
 			"name": "Gravel-Hide Channeler",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
-			"type": "Creature — Goblin Shaman",
+			"type": "Creature â€” Goblin Shaman",
 			"collector_number": "185",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/185_Gravel-Hide Channeler.png"
@@ -2024,7 +2024,7 @@
 			"name": "Wrath Guildmage",
 			"rarity": "uncommon",
 			"mana_cost": "{R/G}{R/G}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature â€” Human Shaman",
 			"collector_number": "234",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/234_Wrath Guildmage.png"
@@ -2044,7 +2044,7 @@
 			"name": "Static Elemental",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental",
 			"collector_number": "53",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/53_Static Elemental.png"
@@ -2054,7 +2054,7 @@
 			"name": "Alcarus, Old Growth Protector",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{W}",
-			"type": "Legendary Creature — Elf Archer",
+			"type": "Legendary Creature â€” Elf Archer",
 			"collector_number": "146",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/146_Alcarus, Old Growth Protector.png"
@@ -2074,7 +2074,7 @@
 			"name": "Harmony Guildmage",
 			"rarity": "uncommon",
 			"mana_cost": "{G/W}{G/W}",
-			"type": "Creature — Elf Druid",
+			"type": "Creature â€” Elf Druid",
 			"collector_number": "226",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/226_Harmony Guildmage.png"
@@ -2114,7 +2114,7 @@
 			"name": "Rootguard Loxodon",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
-			"type": "Creature — Elephant Warrior",
+			"type": "Creature â€” Elephant Warrior",
 			"collector_number": "202",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/202_Rootguard Loxodon.png"
@@ -2124,7 +2124,7 @@
 			"name": "Flaming Claws",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "98",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/98_Flaming Claws.png"
@@ -2154,7 +2154,7 @@
 			"name": "Pontif Pet",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
-			"type": "Creature — Bat",
+			"type": "Creature â€” Bat",
 			"collector_number": "195",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/195_Pontif Pet.png"
@@ -2174,7 +2174,7 @@
 			"name": "Devotion Guildmage",
 			"rarity": "uncommon",
 			"mana_cost": "{W/B}{W/B}",
-			"type": "Creature — Human Cleric",
+			"type": "Creature â€” Human Cleric",
 			"collector_number": "224",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/224_Devotion Guildmage.png"
@@ -2184,7 +2184,7 @@
 			"name": "Priest of Purification",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Creature — Human Cleric",
+			"type": "Creature â€” Human Cleric",
 			"collector_number": "196",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/196_Priest of Purification.png"
@@ -2204,7 +2204,7 @@
 			"name": "The Cozen",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Human Assassin",
+			"type": "Legendary Creature â€” Human Assassin",
 			"collector_number": "165",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/165_The Cozen.png"
@@ -2214,7 +2214,7 @@
 			"name": "Powered-up Cyclops",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Cyclops Wizard",
+			"type": "Creature â€” Cyclops Wizard",
 			"collector_number": "107",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/107_Powered-up Cyclops.png"
@@ -2254,7 +2254,7 @@
 			"name": "Innovation Guildmage",
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "227",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/227_Innovation Guildmage.png"
@@ -2274,7 +2274,7 @@
 			"name": "Polarity Switcher",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "49",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/49_Polarity Switcher.png"
@@ -2284,7 +2284,7 @@
 			"name": "Rix Navven, Overcharged Brute",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
-			"type": "Legendary Creature — Ogre Wizard",
+			"type": "Legendary Creature â€” Ogre Wizard",
 			"collector_number": "201",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/201_Rix Navven, Overcharged Brute.png"
@@ -2324,7 +2324,7 @@
 			"name": "Crazed Rioter",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Goblin Berserker",
+			"type": "Creature â€” Goblin Berserker",
 			"collector_number": "92",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/92_Crazed Rioter.png"
@@ -2334,7 +2334,7 @@
 			"name": "Tamed Hellkite",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "113",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/113_Tamed Hellkite.png"
@@ -2354,7 +2354,7 @@
 			"name": "Dimir Cutthroat",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
-			"type": "Creature — Spirit Rogue",
+			"type": "Creature â€” Spirit Rogue",
 			"collector_number": "168",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/168_Dimir Cutthroat.png"
@@ -2374,7 +2374,7 @@
 			"name": "Manipulation Guildmage",
 			"rarity": "uncommon",
 			"mana_cost": "{U/B}{U/B}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "229",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/229_Manipulation Guildmage.png"
@@ -2384,7 +2384,7 @@
 			"name": "Sleeper Spybug",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
-			"type": "Creature — Insect Horror",
+			"type": "Creature â€” Insect Horror",
 			"collector_number": "207",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/207_Sleeper Spybug.png"
@@ -2404,7 +2404,7 @@
 			"name": "Zorin, Returned from the Dim",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Legendary Creature — Nightmare Horror",
+			"type": "Legendary Creature â€” Nightmare Horror",
 			"collector_number": "219",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/219_Zorin, Returned from the Dim.png"
@@ -2414,7 +2414,7 @@
 			"name": "Rabid Sewer Rat",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Rat Mutant",
+			"type": "Creature â€” Rat Mutant",
 			"collector_number": "78",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/78_Rabid Sewer Rat.png"
@@ -2424,7 +2424,7 @@
 			"name": "Sharer of the Ichor",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
-			"type": "Creature — Human Cleric",
+			"type": "Creature â€” Human Cleric",
 			"collector_number": "24",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/24_Sharer of the Ichor.png"
@@ -2434,7 +2434,7 @@
 			"name": "Escaped Prototype",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Artifact Creature — Goblin Construct",
+			"type": "Artifact Creature â€” Goblin Construct",
 			"collector_number": "95",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/95_Escaped Prototype.png"
@@ -2444,7 +2444,7 @@
 			"name": "Corrosive Bile Spitter",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Insect",
+			"type": "Creature â€” Insect",
 			"collector_number": "124",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/124_Corrosive Bile Spitter.png"
@@ -2464,7 +2464,7 @@
 			"name": "Sixth District Marshal",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "81",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/81_Sixth District Marshal.png"
@@ -2474,7 +2474,7 @@
 			"name": "Conclave Sharpshooter",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Elf Scout",
+			"type": "Creature â€” Elf Scout",
 			"collector_number": "122",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/122_Conclave Sharpshooter.png"
@@ -2484,7 +2484,7 @@
 			"name": "Undercity Bloodthirster",
 			"rarity": "rare",
 			"mana_cost": "{13}{B}{B}",
-			"type": "Creature — Demon Vampire",
+			"type": "Creature â€” Demon Vampire",
 			"collector_number": "84",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/84_Undercity Bloodthirster.png"
@@ -2514,7 +2514,7 @@
 			"name": "Tend to the Gardens",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "141",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/141_Tend to the Gardens.png"
@@ -2534,7 +2534,7 @@
 			"name": "Enforcers of the Guildpact",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Elf Warrior",
+			"type": "Creature â€” Elf Warrior",
 			"collector_number": "130",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/130_Enforcers of the Guildpact.png"
@@ -2544,7 +2544,7 @@
 			"name": "Insatiable Moroii",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Vampire",
+			"type": "Creature â€” Vampire",
 			"collector_number": "71",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/71_Insatiable Moroii.png"
@@ -2554,7 +2554,7 @@
 			"name": "Cloud Drinker",
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Creature — Leviathan Jellyfish",
+			"type": "Creature â€” Leviathan Jellyfish",
 			"collector_number": "34",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/34_Cloud Drinker.png"
@@ -2574,7 +2574,7 @@
 			"name": "Secret Seeker",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Creature — Fairie",
+			"type": "Creature â€” Fairie",
 			"collector_number": "50",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/50_Secret Seeker.png"
@@ -2584,7 +2584,7 @@
 			"name": "Forgotten Phantasm",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "43",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/43_Forgotten Phantasm.png"
@@ -2604,7 +2604,7 @@
 			"name": "Soldier",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Soldier",
+			"type": "Token Creature â€” Soldier",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/3_Soldier.png"
@@ -2614,7 +2614,7 @@
 			"name": "Rhino",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Rhino",
+			"type": "Token Creature â€” Rhino",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/10_Rhino.png"
@@ -2624,7 +2624,7 @@
 			"name": "Wurm",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Wurm",
+			"type": "Token Creature â€” Wurm",
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/12_Wurm.png"
@@ -2634,7 +2634,7 @@
 			"name": "Durn'mir",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Legendary Creature — Bird",
+			"type": "Token Legendary Creature â€” Bird",
 			"collector_number": "14",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/14_Durn'mir.png"
@@ -2644,7 +2644,7 @@
 			"name": "Aspect of Uniformity",
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}{W}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental",
 			"collector_number": "148",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/148_Aspect of Uniformity.png"
@@ -2674,7 +2674,7 @@
 			"name": "Vengeful Return",
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "214",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/214_Vengeful Return.png"
@@ -2684,7 +2684,7 @@
 			"name": "Fairie",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Fairie",
+			"type": "Token Creature â€” Fairie",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/4_Fairie.png"
@@ -2694,7 +2694,7 @@
 			"name": "Conclave Spirewatch",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Archer",
+			"type": "Creature â€” Human Archer",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/3_Conclave Spirewatch.png"
@@ -2714,7 +2714,7 @@
 			"name": "Spectral Rider",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Spectre",
+			"type": "Creature â€” Spectre",
 			"collector_number": "52",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/52_Spectral Rider.png"
@@ -2724,7 +2724,7 @@
 			"name": "Seventh Disctrict Scoundrel",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Citizen",
+			"type": "Creature â€” Human Citizen",
 			"collector_number": "51",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/51_Seventh Disctrict Scoundrel.png"
@@ -2754,7 +2754,7 @@
 			"name": "Retriever of Secrets",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
-			"type": "Creature — Vampire Wizard",
+			"type": "Creature â€” Vampire Wizard",
 			"collector_number": "200",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/200_Retriever of Secrets.png"
@@ -2764,7 +2764,7 @@
 			"name": "Sewer Penumbra",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Creature — Nightmare Horror",
+			"type": "Creature â€” Nightmare Horror",
 			"collector_number": "80",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/80_Sewer Penumbra.png"
@@ -2774,7 +2774,7 @@
 			"name": "Writhing Amalgamate",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Zombie Giant",
+			"type": "Creature â€” Zombie Giant",
 			"collector_number": "87",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/87_Writhing Amalgamate.png"
@@ -2794,7 +2794,7 @@
 			"name": "Blessing of Vitu-Ghazi",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "154",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/154_Blessing of Vitu-Ghazi.png"
@@ -2814,7 +2814,7 @@
 			"name": "Rousing Freemage",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "22",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/22_Rousing Freemage.png"
@@ -2824,7 +2824,7 @@
 			"name": "Guildpact's Blessing",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/10_Guildpact's Blessing.png"
@@ -2844,7 +2844,7 @@
 			"name": "Centaur",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Centaur",
+			"type": "Token Creature â€” Centaur",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/9_Centaur.png"
@@ -2854,7 +2854,7 @@
 			"name": "Votary Druid",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Elf Druid",
+			"type": "Creature â€” Elf Druid",
 			"collector_number": "143",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/143_Votary Druid.png"
@@ -2874,7 +2874,7 @@
 			"name": "Fifth District Avenger",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Lizard Warrior",
+			"type": "Creature â€” Lizard Warrior",
 			"collector_number": "131",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/131_Fifth District Avenger.png"
@@ -2884,7 +2884,7 @@
 			"name": "Furious Pangoduan",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Beast",
+			"type": "Creature â€” Beast",
 			"collector_number": "133",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/133_Furious Pangoduan.png"
@@ -2894,7 +2894,7 @@
 			"name": "Wasteful Inheritor",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Creature — Human Cleric",
+			"type": "Creature â€” Human Cleric",
 			"collector_number": "216",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/216_Wasteful Inheritor.png"
@@ -2904,7 +2904,7 @@
 			"name": "Disctrict Explorer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "127",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/127_Disctrict Explorer.png"
@@ -2914,7 +2914,7 @@
 			"name": "Ruins Scavenger",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Shapeshifter Rogue",
+			"type": "Creature â€” Shapeshifter Rogue",
 			"collector_number": "79",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/79_Ruins Scavenger.png"
@@ -2924,7 +2924,7 @@
 			"name": "Bat",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Bat",
+			"type": "Token Creature â€” Bat",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/5_Bat.png"
@@ -2934,7 +2934,7 @@
 			"name": "Deep Wound",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "67",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/67_Deep Wound.png"
@@ -2944,12 +2944,12 @@
 			"name": "Emmara, Ancestral Caregiver",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Legendary Creature — Elf Druid",
+			"type": "Legendary Creature â€” Elf Druid",
 			"collector_number": "174",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/174_Emmara, Ancestral Caregiver.png"
 			}
-		},
+		}
 	]
 
 [rare(1)]
@@ -3037,7 +3037,7 @@
 	2 Unyielding Determination
 	2 Retriever of Secrets
 	2 Emmara, Ancestral Caregiver
-[uncommon(4)]
+[uncommon(3)]
 	4 Shamanic Power
 	4 Augmented Monstrosity
 	4 Rejuvenated Wood-Kin

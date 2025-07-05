@@ -1,4 +1,40 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Orzhov Insignia
+rules_text: {T}: Add {W} or {B}.
+{WB}{WB}{WB}, {T}, Sacrifice this artifact: Look at the top three cards of your library. You may reveal a card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => {T}: Add {W} or {B}.
+{WB}{WB}{WB}, {T}, Sacrifice this artifact: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+
+Gruul Insignia
+rules_text: {T}: Add {R} or {G}.
+{RG}{RG}{RG}, {T}, Sacrifice this artifact: Look at the top three cards of your library. You may reveal a card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => {T}: Add {R} or {G}.
+{RG}{RG}{RG}, {T}, Sacrifice this artifact: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+
+Izzet Insignia
+rules_text: {T}: Add {U} or {R}.
+{UR}{UR}{UR}, {T}, Sacrifice this artifact: Look at the top three cards of your library. You may reveal a card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => {T}: Add {U} or {R}.
+{UR}{UR}{UR}, {T}, Sacrifice this artifact: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+
+Selesnya Insignia
+rules_text: {T}: Add {G} or {W}.
+{GW}{GW}{GW}, {T}, Sacrifice this artifact: Look at the top three cards of your library. You may reveal a card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => {T}: Add {G} or {W}.
+{GW}{GW}{GW}, {T}, Sacrifice this artifact: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+
+Dimir Insignia
+rules_text: {T}: Add {U} or {B}.
+{UB}{UB}{UB}, {T}, Sacrifice this artifact: Look at the top three cards of your library. You may reveal a card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => {T}: Add {U} or {B}.
+{UB}{UB}{UB}, {T}, Sacrifice this artifact: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+
+Arrogant Ermit
+rules_text: {T}: Add {C}{C}. You can't spend this mana to cast permanent spells. => Ward {2}
+{T}: Add {U}. Spend this mana only to cast an instant or sorcery spell.
+{T}: Add {C}{C}. Spend this mana only to cast spells and activate abilities from your graveyard.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
