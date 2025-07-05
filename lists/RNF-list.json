@@ -928,16 +928,10 @@
     },
     "a->gold",
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Cognition Theft",
         "number": 162,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Ashentrunk Icinerator",
@@ -952,16 +946,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Assessor of Worth",
+        "number": 149,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Branching Possibilities",
+        "number": 156,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Gheshval, Night's Mantle",
         "number": 183,
         "shape": "planeswalker",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Sootfurr Brute",
@@ -976,16 +976,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Due of the Powerless",
+        "number": 171,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Hyper Space Time Bubble",
+        "number": 187,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Mindflayer of the Dim",
         "number": 193,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Thraka, Ire of the Wilds",
@@ -1000,16 +1006,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Teysa Karlov, Master of Deals",
+        "number": 211,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Ral, Thundering Genius",
+        "number": 199,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Circu, Butcher of Memories",
         "number": 161,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Blessing of Savagery",
@@ -1024,16 +1036,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Coldhearted Cardinal",
+        "number": 163,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Factory Line",
+        "number": 177,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Dimir Necrosage",
         "number": 169,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Bushfire Shaman",
@@ -1048,16 +1066,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Cruel Advokist",
+        "number": 166,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Factory Sentinel",
+        "number": 178,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Retriever of Secrets",
         "number": 200,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Heart of Cinders",
@@ -1072,16 +1096,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Dispossession",
+        "number": 170,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Maree, Nivix Grand Chamberlain",
+        "number": 191,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Unending Nightmare",
         "number": 213,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Rakasht, Spawn of Ulasht",
@@ -1096,16 +1126,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Milana, Orzhov High Prelate",
+        "number": 192,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Workshop Supervisor",
+        "number": 217,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Sewer Grafter",
         "number": 232,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Ghor-Clan Charger",
@@ -1120,16 +1156,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Cemetery Guardian",
+        "number": 221,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Lightning Catalyst",
+        "number": 228,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Examination",
         "number": 236,
         "shape": "fuse split",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Ram",
@@ -1144,16 +1186,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Vitality",
+        "number": 244,
+        "shape": "fuse split",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Reload",
+        "number": 240,
+        "shape": "fuse split",
+        "set": "RNF"
     },
     {
         "card_name": "Dimir Cutthroat",
         "number": 168,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Escalating Wrath",
@@ -1168,16 +1216,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Become Dust",
+        "number": 152,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Cerebrospiker",
+        "number": 160,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Incisive Reversal",
         "number": 188,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Fiery Form",
@@ -1192,16 +1246,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "The Cozen",
+        "number": 165,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Ecstatic Fluxburster",
+        "number": 173,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Sleeper Spybug",
         "number": 207,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Gorz'Ghum, War Incense",
@@ -1216,16 +1276,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Pontif Pet",
+        "number": 195,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Lightning Rider",
+        "number": 190,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Violent Reshaping",
         "number": 215,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Gravel-Hide Channeler",
@@ -1240,16 +1306,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Priest of Purification",
+        "number": 196,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Rix Navven, Overcharged Brute",
+        "number": 201,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Zorin, Returned from the Dim",
         "number": 219,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Shamanic Power",
@@ -1264,16 +1336,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Wasteful Inheritor",
+        "number": 216,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Subjugating Bolt",
+        "number": 210,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Manipulation Guildmage",
         "number": 229,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Wrath Guildmage",
@@ -1288,16 +1366,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Devotion Guildmage",
+        "number": 224,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Innovation Guildmage",
+        "number": 227,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Duskmantle Agent",
         "number": 172,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Bolrac-Clan City Breacher",
@@ -1312,16 +1396,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Deadly Familiar",
+        "number": 167,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Augmented Strength",
+        "number": 150,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Essence Shift",
         "number": 176,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Burning-Tree Blackhorn",
@@ -1336,16 +1426,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Knight of Denial",
+        "number": 189,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Flux Launcher Maniac",
+        "number": 182,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Shambling Grotesquerie",
         "number": 206,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Priest of the Old Ways",
@@ -1360,399 +1456,6 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Backstreet Informant",
-        "number": 220,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Ceremony of Fury",
-        "number": 222,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Assessor of Worth",
-        "number": 149,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Branching Possibilities",
-        "number": 156,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Due of the Powerless",
-        "number": 171,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Hyper Space Time Bubble",
-        "number": 187,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Teysa Karlov, Master of Deals",
-        "number": 211,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Ral, Thundering Genius",
-        "number": 199,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Coldhearted Cardinal",
-        "number": 163,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Factory Line",
-        "number": 177,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Cruel Advokist",
-        "number": 166,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Factory Sentinel",
-        "number": 178,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Dispossession",
-        "number": 170,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Maree, Nivix Grand Chamberlain",
-        "number": 191,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Milana, Orzhov High Prelate",
-        "number": 192,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Workshop Supervisor",
-        "number": 217,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Cemetery Guardian",
-        "number": 221,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Lightning Catalyst",
-        "number": 228,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Vitality",
-        "number": 244,
-        "shape": "fuse split",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Reload",
-        "number": 240,
-        "shape": "fuse split",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Become Dust",
-        "number": 152,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Cerebrospiker",
-        "number": 160,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "The Cozen",
-        "number": 165,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Ecstatic Fluxburster",
-        "number": 173,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Pontif Pet",
-        "number": 195,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Lightning Rider",
-        "number": 190,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Priest of Purification",
-        "number": 196,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Rix Navven, Overcharged Brute",
-        "number": 201,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Wasteful Inheritor",
-        "number": 216,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Subjugating Bolt",
-        "number": 210,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Devotion Guildmage",
-        "number": 224,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Innovation Guildmage",
-        "number": 227,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Deadly Familiar",
-        "number": 167,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Augmented Strength",
-        "number": 150,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Knight of Denial",
-        "number": 189,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Flux Launcher Maniac",
-        "number": 182,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "Vengeful Return",
         "number": 214,
         "shape": "normal",
@@ -1765,10 +1468,16 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Backstreet Informant",
+        "number": 220,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Ceremony of Fury",
+        "number": 222,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "e"
@@ -1784,15 +1493,6 @@
         "number": 230,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1907,16 +1607,10 @@
         "card_name": "er"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Watery Grave",
         "number": 270,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Stomping Ground",
@@ -1931,63 +1625,6 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Dimir Guildgate",
-        "number": 259,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Gruul Guildgate",
-        "number": 261,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Temple Garden",
-        "number": 267,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Selesnya Guildgate",
-        "number": 264,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
         "card_name": "Godless Shrine",
         "number": 260,
         "shape": "normal",
@@ -2000,13 +1637,22 @@
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Dimir Guildgate",
+        "number": 259,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Gruul Guildgate",
+        "number": 261,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Temple Garden",
+        "number": 267,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Orzhov Guildgate",
@@ -2022,6 +1668,15 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Selesnya Guildgate",
+        "number": 264,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "e"
