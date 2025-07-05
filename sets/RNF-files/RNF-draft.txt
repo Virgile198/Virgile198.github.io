@@ -75,9 +75,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Lizard Berserker",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/89_Bloodrust Assailant.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/90_Bloodrust Assailant.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Beast",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/95_Fierce Maaka Kitten.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/96_Fierce Maaka Kitten.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Boar",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/98_Gate Breaker.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/99_Gate Breaker.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Minotaur Construct",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/88_Augmented Monstrosity.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/89_Augmented Monstrosity.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{W}{B}{B}",
 			"type": "Creature — Angel",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/150_Assessor of Worth.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/149_Assessor of Worth.png"
 			}
 		},
 		{
@@ -353,7 +353,7 @@
 		{
 			"name": "Flowerbed Envoy's Call",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}{G}",
+			"mana_cost": "{4}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "132",
 			"image_uris": {
@@ -425,9 +425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/122_Coordinated Assault.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/123_Coordinated Assault.png"
 			}
 		},
 		{
@@ -453,8 +453,8 @@
 		{
 			"name": "Sowing Courier",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Sorcery",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Instant",
 			"collector_number": "25",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/25_Sowing Courier.png"
@@ -485,9 +485,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}{U}",
 			"type": "Instant",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/38_Essencesnatch.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/39_Essencesnatch.png"
 			}
 		},
 		{
@@ -503,8 +503,8 @@
 		{
 			"name": "Overflowing Buffer",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{U}",
-			"type": "Instant",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/48_Overflowing Buffer.png"
@@ -513,7 +513,7 @@
 		{
 			"name": "Thought Accelerator",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "55",
 			"image_uris": {
@@ -521,23 +521,23 @@
 			}
 		},
 		{
-			"name": "Cryofilm Launcher",
+			"name": "Blinding Flash",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "33",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/33_Cryofilm Launcher.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/31_Blinding Flash.png"
 			}
 		},
 		{
-			"name": "Electrolizer",
+			"name": "Electrolize",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Instant",
-			"collector_number": "93",
+			"type": "Sorcery",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/93_Electrolizer.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/94_Electrolize.png"
 			}
 		},
 		{
@@ -571,33 +571,33 @@
 			}
 		},
 		{
-			"name": "Aether Condensator",
+			"name": "Augmented Strength",
 			"rarity": "common",
 			"mana_cost": "{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "146",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/146_Aether Condensator.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/150_Augmented Strength.png"
 			}
 		},
 		{
 			"name": "Fluctuating Reality",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{U}",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/41_Fluctuating Reality.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/42_Fluctuating Reality.png"
 			}
 		},
 		{
-			"name": "Impulse Extractor",
+			"name": "Aether Condensator",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "99",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/99_Impulse Extractor.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/88_Aether Condensator.png"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/125_Deeproot Entity.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/126_Deeproot Entity.png"
 			}
 		},
 		{
@@ -975,9 +975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Enchantment",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/44_Hidden Scrutiny.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/45_Hidden Scrutiny.png"
 			}
 		},
 		{
@@ -1003,11 +1003,11 @@
 		{
 			"name": "Deep Search",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Sorcery",
-			"collector_number": "34",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/34_Deep Search.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/35_Deep Search.png"
 			}
 		},
 		{
@@ -1045,9 +1045,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Octopus",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/35_Deep Sewage Lurker.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/36_Deep Sewage Lurker.png"
 			}
 		},
 		{
@@ -1105,9 +1105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/96_Fires of Reclamation.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/97_Fires of Reclamation.png"
 			}
 		},
 		{
@@ -1125,9 +1125,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Fairie Wizard",
-			"collector_number": "30",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/30_Brilliant Artist.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/32_Brilliant Artist.png"
 			}
 		},
 		{
@@ -1135,9 +1135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/40_Flood of Memories.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/41_Flood of Memories.png"
 			}
 		},
 		{
@@ -1185,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Insect Horror",
-			"collector_number": "31",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/31_Catacombs Cleaner.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/33_Catacombs Cleaner.png"
 			}
 		},
 		{
@@ -1351,13 +1351,13 @@
 			}
 		},
 		{
-			"name": "Zhur-taa Ember Shaman",
+			"name": "Zhur-Taa Ember Shaman",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/116_Zhur-taa Ember Shaman.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/116_Zhur-Taa Ember Shaman.png"
 			}
 		},
 		{
@@ -1375,9 +1375,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/90_Call of the Hunt.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/91_Call of the Hunt.png"
 			}
 		},
 		{
@@ -1405,9 +1405,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/45_Mind Tap.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/46_Mind Tap.png"
 			}
 		},
 		{
@@ -1491,13 +1491,13 @@
 			}
 		},
 		{
-			"name": "Monsoon Caller",
+			"name": "Arrogant Ermit",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "47",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/47_Monsoon Caller.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/30_Arrogant Ermit.png"
 			}
 		},
 		{
@@ -1563,7 +1563,7 @@
 		{
 			"name": "Factory Line",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{R}",
+			"mana_cost": "{X}{U}{R}",
 			"type": "Sorcery",
 			"collector_number": "177",
 			"image_uris": {
@@ -1635,9 +1635,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/46_Mind Warp.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/47_Mind Warp.png"
 			}
 		},
 		{
@@ -1653,7 +1653,7 @@
 		{
 			"name": "Essence Shift",
 			"rarity": "common",
-			"mana_cost": "{U}{B}",
+			"mana_cost": "{1}{U}{B}",
 			"type": "Sorcery",
 			"collector_number": "176",
 			"image_uris": {
@@ -1812,12 +1812,12 @@
 		},
 		{
 			"name": "Fragmentize",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/43_Fragmentize.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/44_Fragmentize.png"
 			}
 		},
 		{
@@ -1825,9 +1825,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/36_Dissect Thoughts.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/37_Dissect Thoughts.png"
 			}
 		},
 		{
@@ -1845,9 +1845,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{X}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/39_Fac Simile Project.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/40_Fac Simile Project.png"
 			}
 		},
 		{
@@ -1903,7 +1903,7 @@
 		{
 			"name": "Hyper Space Time Bubble",
 			"rarity": "mythic",
-			"mana_cost": "{1}{U}{R}{R}",
+			"mana_cost": "{2}{U}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "187",
 			"image_uris": {
@@ -1915,9 +1915,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{R}{G}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/148_Ashentrunk Icinerator.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/147_Ashentrunk Icinerator.png"
 			}
 		},
 		{
@@ -1983,11 +1983,11 @@
 		{
 			"name": "Cultivated Strength",
 			"rarity": "common",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/124_Cultivated Strength.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/125_Cultivated Strength.png"
 			}
 		},
 		{
@@ -2055,9 +2055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Elf Archer",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/147_Alcarus, Old Growth Protector.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/146_Alcarus, Old Growth Protector.png"
 			}
 		},
 		{
@@ -2074,7 +2074,7 @@
 			"name": "Harmony Guildmage",
 			"rarity": "uncommon",
 			"mana_cost": "{G/W}{G/W}",
-			"type": "Creature — Elephant Druid",
+			"type": "Creature — Elf Druid",
 			"collector_number": "226",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/226_Harmony Guildmage.png"
@@ -2125,16 +2125,16 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/97_Flaming Claws.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/98_Flaming Claws.png"
 			}
 		},
 		{
 			"name": "Repurpose the Scraps",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "110",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/110_Repurpose the Scraps.png"
@@ -2174,7 +2174,7 @@
 			"name": "Devotion Guildmage",
 			"rarity": "uncommon",
 			"mana_cost": "{W/B}{W/B}",
-			"type": "Creature — Spirit Cleric",
+			"type": "Creature — Human Cleric",
 			"collector_number": "224",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/224_Devotion Guildmage.png"
@@ -2241,13 +2241,13 @@
 			}
 		},
 		{
-			"name": "Subjugating flare",
+			"name": "Subjugating Bolt",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Sorcery",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/210_Subjugating flare.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/210_Subjugating Bolt.png"
 			}
 		},
 		{
@@ -2315,9 +2315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/92_Eidolon's Fury.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/93_Eidolon's Fury.png"
 			}
 		},
 		{
@@ -2325,9 +2325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Goblin Berserker",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/91_Crazed Rioter.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/92_Crazed Rioter.png"
 			}
 		},
 		{
@@ -2374,7 +2374,7 @@
 			"name": "Manipulation Guildmage",
 			"rarity": "uncommon",
 			"mana_cost": "{U/B}{U/B}",
-			"type": "Creature — Vampire Wizard",
+			"type": "Creature — Human Wizard",
 			"collector_number": "229",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/229_Manipulation Guildmage.png"
@@ -2435,9 +2435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Artifact Creature — Goblin Construct",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/94_Escaped Prototype.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/95_Escaped Prototype.png"
 			}
 		},
 		{
@@ -2445,9 +2445,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/123_Corrosive Bile Spitter.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/124_Corrosive Bile Spitter.png"
 			}
 		},
 		{
@@ -2471,13 +2471,13 @@
 			}
 		},
 		{
-			"name": "Disctrict Vigilante",
+			"name": "Conclave Sharpshooter",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "127",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/127_Disctrict Vigilante.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/122_Conclave Sharpshooter.png"
 			}
 		},
 		{
@@ -2511,13 +2511,13 @@
 			}
 		},
 		{
-			"name": "Tend to the Garden",
+			"name": "Tend to the Gardens",
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/141_Tend to the Garden.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/141_Tend to the Gardens.png"
 			}
 		},
 		{
@@ -2555,9 +2555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Leviathan Jellyfish",
-			"collector_number": "32",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/32_Cloud Drinker.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/34_Cloud Drinker.png"
 			}
 		},
 		{
@@ -2565,9 +2565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/37_Eidolon's Wisdom.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/38_Eidolon's Wisdom.png"
 			}
 		},
 		{
@@ -2585,9 +2585,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Spirit",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/42_Forgotten Phantasm.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/43_Forgotten Phantasm.png"
 			}
 		},
 		{
@@ -2645,9 +2645,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}{W}",
 			"type": "Creature — Elemental",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/149_Aspect of Uniformity.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/148_Aspect of Uniformity.png"
 			}
 		},
 		{
@@ -2905,9 +2905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/126_Disctrict Explorer.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/127_Disctrict Explorer.png"
 			}
 		},
 		{
@@ -2992,7 +2992,7 @@
 	2 Mad Alchemist
 	1 Thraka, Ire of the Wilds
 	2 Caller of the Wilds
-	2 Monsoon Caller
+	2 Arrogant Ermit
 	1 Guardian of the Hour
 	2 Unearthed Mysteries
 	2 Lightning Catalyst
@@ -3049,8 +3049,7 @@
 	4 Coordinated Assault
 	4 Thought Accelerator
 	4 Ecstatic Fluxburster
-	4 Fluctuating Reality
-	4 Impulse Extractor
+	4 Aether Condensator
 	4 Clawing Grasp
 	4 Mind Hemorrhage
 	4 Guardians of the Guildpact
@@ -3070,6 +3069,7 @@
 	4 Incisive Reversal
 	4 Boon of the Worldsoul
 	4 Selesnya Sporewielder
+	4 Fragmentize
 	4 Fiery Form
 	4 Gorz'Ghum, War Incense
 	4 Gravel-Hide Channeler
@@ -3089,7 +3089,7 @@
 	4 The Cozen
 	4 Wave of Agitation
 	4 Cerebrospiker
-	4 Subjugating flare
+	4 Subjugating Bolt
 	4 Innovation Guildmage
 	4 Now
 	4 Polarity Switcher
@@ -3145,11 +3145,12 @@
 	8 Selesnya Caretaker
 	8 Sowing Courier
 	8 Ceremony of Fury
-	8 Cryofilm Launcher
-	8 Electrolizer
+	8 Blinding Flash
+	8 Electrolize
 	8 Mass Scrambler
 	8 Flux Launcher Maniac
-	8 Aether Condensator
+	8 Augmented Strength
+	8 Fluctuating Reality
 	8 Shambling Grotesquerie
 	8 Orzhov Guildgate
 	8 Dimir Guildgate
@@ -3178,7 +3179,7 @@
 	8 Mounted Warbeast
 	8 Rumbling Drake
 	8 Winged Mare
-	8 Zhur-taa Ember Shaman
+	8 Zhur-Taa Ember Shaman
 	8 Falling Apart
 	8 Call of the Hunt
 	8 Deadly Familiar
@@ -3190,7 +3191,6 @@
 	8 Priest of the Old Ways
 	8 Syphon Psyche
 	8 Essence Shift
-	8 Fragmentize
 	8 Dissect Thoughts
 	8 Subvert
 	8 Torpor
@@ -3207,10 +3207,10 @@
 	8 Rabid Scavenger
 	8 Sharer of the Ichor
 	8 Corrosive Bile Spitter
-	8 Disctrict Vigilante
+	8 Conclave Sharpshooter
 	8 Shredding Barrage
 	8 Dryads' Blessing
-	8 Tend to the Garden
+	8 Tend to the Gardens
 	8 Blessing of Wrath
 	8 Enforcers of the Guildpact
 	8 Forgotten Phantasm
@@ -3278,14 +3278,14 @@
 	6 Ceremony of Fury
 	7 Overflowing Buffer
 	15 Thought Accelerator
-	6 Cryofilm Launcher
-	6 Electrolizer
+	6 Blinding Flash
+	6 Electrolize
 	6 Mass Scrambler
 	6 Flux Launcher Maniac
 	15 Ecstatic Fluxburster
-	6 Aether Condensator
-	15 Fluctuating Reality
-	15 Impulse Extractor
+	6 Augmented Strength
+	6 Fluctuating Reality
+	15 Aether Condensator
 	4 Gheshval, Night's Mantle
 	4 Cognition Theft
 	4 Blooddrenched Gold
@@ -3343,7 +3343,7 @@
 	6 Winged Mare
 	4 Thraka, Ire of the Wilds
 	15 Cleanser of Debt
-	6 Zhur-taa Ember Shaman
+	6 Zhur-Taa Ember Shaman
 	6 Falling Apart
 	6 Call of the Hunt
 	6 Deadly Familiar
@@ -3357,7 +3357,7 @@
 	15 Magebane Rawhide
 	7 Caller of the Wilds
 	15 Illuminator Imp
-	7 Monsoon Caller
+	7 Arrogant Ermit
 	4 Guardian of the Hour
 	7 Unearthed Mysteries
 	15 Truesight Sphinx
@@ -3389,7 +3389,7 @@
 	7 Dispossession
 	7 Milana, Orzhov High Prelate
 	7 Vitality
-	6 Fragmentize
+	15 Fragmentize
 	6 Dissect Thoughts
 	6 Subvert
 	7 Fac Simile Project
@@ -3432,7 +3432,7 @@
 	6 Powered-up Cyclops
 	15 Wave of Agitation
 	15 Cerebrospiker
-	15 Subjugating flare
+	15 Subjugating Bolt
 	15 Innovation Guildmage
 	15 Now
 	15 Polarity Switcher
@@ -3455,11 +3455,11 @@
 	6 Corrosive Bile Spitter
 	7 Door to Everywhere
 	7 Sixth District Marshal
-	6 Disctrict Vigilante
+	6 Conclave Sharpshooter
 	7 Undercity Bloodthirster
 	6 Shredding Barrage
 	6 Dryads' Blessing
-	6 Tend to the Garden
+	6 Tend to the Gardens
 	6 Blessing of Wrath
 	6 Enforcers of the Guildpact
 	15 Insatiable Moroii
