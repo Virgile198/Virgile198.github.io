@@ -801,53 +801,53 @@
 			}
 		},
 		{
-			"name": "Orzhov Amulet",
+			"name": "Orzhov Insignia",
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/253_Orzhov Amulet.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/253_Orzhov Insignia.png"
 			}
 		},
 		{
-			"name": "Gruul Amulet",
+			"name": "Gruul Insignia",
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/247_Gruul Amulet.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/247_Gruul Insignia.png"
 			}
 		},
 		{
-			"name": "Izzet Amulet",
+			"name": "Izzet Insignia",
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/250_Izzet Amulet.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/250_Izzet Insignia.png"
 			}
 		},
 		{
-			"name": "Selesnya Amulet",
+			"name": "Selesnya Insignia",
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/255_Selesnya Amulet.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/255_Selesnya Insignia.png"
 			}
 		},
 		{
-			"name": "Dimir Amulet",
+			"name": "Dimir Insignia",
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/245_Dimir Amulet.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/245_Dimir Insignia.png"
 			}
 		},
 		{
@@ -2254,7 +2254,7 @@
 			"name": "Innovation Guildmage",
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
-			"type": "Creature — Lizard Wizard",
+			"type": "Creature — Human Wizard",
 			"collector_number": "227",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/227_Innovation Guildmage.png"
@@ -2411,13 +2411,13 @@
 			}
 		},
 		{
-			"name": "Rabid Scavenger",
+			"name": "Rabid Sewer Rat",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Rat Mutant",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/78_Rabid Scavenger.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/78_Rabid Sewer Rat.png"
 			}
 		},
 		{
@@ -3158,11 +3158,11 @@
 	8 Gruul Guildgate
 	8 Selesnya Guildgate
 	8 Tin Street
-	8 Orzhov Amulet
-	8 Gruul Amulet
-	8 Izzet Amulet
-	8 Selesnya Amulet
-	8 Dimir Amulet
+	8 Orzhov Insignia
+	8 Gruul Insignia
+	8 Izzet Insignia
+	8 Selesnya Insignia
+	8 Dimir Insignia
 	8 Backstreet Informant
 	8 Deep Search
 	8 Anguished Fall
@@ -3204,7 +3204,7 @@
 	8 Repurpose the Scraps
 	8 Reconfigure
 	8 Powered-up Cyclops
-	8 Rabid Scavenger
+	8 Rabid Sewer Rat
 	8 Sharer of the Ichor
 	8 Corrosive Bile Spitter
 	8 Conclave Sharpshooter
@@ -3301,11 +3301,11 @@
 	6 Selesnya Guildgate
 	6 Tin Street
 	7 Transguild Square
-	6 Orzhov Amulet
-	6 Gruul Amulet
-	6 Izzet Amulet
-	6 Selesnya Amulet
-	6 Dimir Amulet
+	6 Orzhov Insignia
+	6 Gruul Insignia
+	6 Izzet Insignia
+	6 Selesnya Insignia
+	6 Dimir Insignia
 	15 Guardians of the Guildpact
 	15 Living Monument
 	15 Shield of the Guildpact
@@ -3449,7 +3449,7 @@
 	15 Sleeper Spybug
 	15 Violent Reshaping
 	15 Zorin, Returned from the Dim
-	6 Rabid Scavenger
+	6 Rabid Sewer Rat
 	6 Sharer of the Ichor
 	15 Escaped Prototype
 	6 Corrosive Bile Spitter

@@ -105,7 +105,7 @@
             "cost": "{3}{G}",
             "rules_text": "Reach, trample",
             "flavor_text": "[i]\u201cAin't no problem a well aimed rock can't fix.\u201d\n\u2014Bolrac-Clan saying[/i]",
-            "pt": "5/4",
+            "pt": "5/3",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -1446,7 +1446,7 @@
             "notes": ""
         },
         {
-            "card_name": "Orzhov Amulet",
+            "card_name": "Orzhov Insignia",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
@@ -1460,11 +1460,11 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Crashington",
             "notes": ""
         },
         {
-            "card_name": "Gruul Amulet",
+            "card_name": "Gruul Insignia",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
@@ -1478,11 +1478,11 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Crashington",
             "notes": ""
         },
         {
-            "card_name": "Izzet Amulet",
+            "card_name": "Izzet Insignia",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
@@ -1496,11 +1496,11 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Crashington",
             "notes": ""
         },
         {
-            "card_name": "Selesnya Amulet",
+            "card_name": "Selesnya Insignia",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
@@ -1514,11 +1514,11 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Crashington",
             "notes": ""
         },
         {
-            "card_name": "Dimir Amulet",
+            "card_name": "Dimir Insignia",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
@@ -1532,7 +1532,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Crashington",
             "notes": ""
         },
         {
@@ -2838,7 +2838,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "yoji grey",
             "notes": ""
         },
         {
@@ -3490,7 +3490,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Timi Honkanen",
             "notes": ""
         },
         {
@@ -4129,7 +4129,7 @@
             "card_name": "Innovation Guildmage",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Lizard Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 227,
             "color_identity": "UR",
             "cost": "{UR}{UR}",
@@ -4258,7 +4258,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Siddhant Singh",
             "notes": ""
         },
         {
@@ -4312,7 +4312,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Rick Troula",
             "notes": ""
         },
         {
@@ -4434,7 +4434,7 @@
             "notes": ""
         },
         {
-            "card_name": "Rabid Scavenger",
+            "card_name": "Rabid Sewer Rat",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Rat Mutant",
@@ -5034,7 +5034,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Warmtail",
             "notes": ""
         },
         {
@@ -5178,7 +5178,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Adrien Gonzalez",
             "notes": ""
         },
         {
