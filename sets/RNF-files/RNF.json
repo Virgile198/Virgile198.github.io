@@ -28,7 +28,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 105,
+            "number": 106,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
             "rules_text": "This spell can't be countered.\nThis spell deals [ 5 ] damage to target creature or planeswalker you don't control. If that permanent would die this turn, exile it instead.\nIterate {3}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
@@ -254,7 +254,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "Clowreed910",
+            "artist": "Patmos",
             "notes": ""
         },
         {
@@ -1122,11 +1122,11 @@
             "notes": ""
         },
         {
-            "card_name": "Blooddrenched Gold",
+            "card_name": "Bloodrenched Spoil",
             "color": "B",
             "rarity": "mythic",
             "type": "Artifact",
-            "number": 60,
+            "number": 61,
             "color_identity": "B",
             "cost": "{B}{B}{B}",
             "rules_text": "This artifact enters tapped with three stun counters on it.\nAt the beginning of each end step, if you've gained life that turn, untap this artifact.\n{T}: The next time you cast a spell this turn, pay life equal to its mana value rather than pay its mana cost.",
@@ -1136,7 +1136,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "DireImpulse",
             "notes": ""
         },
         {
@@ -1557,18 +1557,18 @@
             "card_name": "Living Monument",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2014 Construct",
+            "type": "Artifact Creature \u2014 Golem",
             "number": 251,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "Defender [i](This creature can't attack.)[/i]\nWhenever one or more Gates enter under your control, until end of turn, this creature gains vigilance and haste, can attack as though it didn't have defender, and assigns combat damage equal to its toughness rather than its power.",
             "flavor_text": "[i][/i]",
-            "pt": "0/5",
+            "pt": "0/6",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Chaim Garcia",
             "notes": ""
         },
         {
@@ -1579,14 +1579,14 @@
             "number": 256,
             "color_identity": "C",
             "cost": "{2}",
-            "rules_text": "Equipped creature gets +0/+2 and has ward {1} and vigilance for each Gate you control.\nEquip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
+            "rules_text": "Equipped creature gets +0/+2 and has vigilance and ward {1} for each Gate you control.\nEquip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Crop Circle Base",
             "notes": ""
         },
         {
@@ -1972,7 +1972,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 102,
+            "number": 103,
             "color_identity": "RG",
             "cost": "{1}{R}",
             "rules_text": "This spell deals 3 damage to up to one target creature. If {G} was spent to cast this spell, up to one target land you control becomes a 3/3 Elemental creature with vigilance and haste until end of turn. It's still a land.",
@@ -2080,7 +2080,7 @@
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2014 Lizard Wizard",
-            "number": 103,
+            "number": 104,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Haste\n{T}, Discard a card: Create X tapped Treasure tokens, then this creature deals X damage to you, where X is the mana value of the card discarded this way.",
@@ -2098,7 +2098,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Beast",
-            "number": 106,
+            "number": 107,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "First strike, haste\n{R}, Sacrifice this creature: Target creature you control rages. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i]",
@@ -2548,7 +2548,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Vedalken Wizard",
-            "number": 101,
+            "number": 102,
             "color_identity": "UR",
             "cost": "{2}{R}",
             "rules_text": "The first instant or sorcery spell you cast each turn costs {1} less to cast.\n{2}{U}, {T}, Exile an instant or sorcery card from your graveyard: Draw a card. Activate only as a sorcery.",
@@ -2638,7 +2638,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Beast",
-            "number": 104,
+            "number": 105,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Trample\nWhenever an opponent casts a noncreature spell, this creature rages. Then, it deals damage equal to the number of counters on it to that player. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on this creature.)[/i]",
@@ -2767,9 +2767,9 @@
             "number": 228,
             "color_identity": "UR",
             "cost": "{UR}{UR}",
-            "rules_text": "Prowess\nWhenever you cast an instant or sorcery spell that targets a single creature you control, you may cast a copy of that spell and chose new targets for the copy.\n{T}: Add {C}{C}. This mana can't be spent to cast permanent spells.",
+            "rules_text": "Prowess\nWhenever this creature becomes the target of a spell with a single target, you may copy that spell with a new target. This ability triggers only once each turn.\n{UR}{UR}, {T}: Change the target of target spell with a single target to this creature.",
             "flavor_text": "[i][/i]",
-            "pt": "1/3",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -3167,7 +3167,7 @@
             "number": 213,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
-            "rules_text": "Deathtouch\nThis creature can't block.\nWhen this creature enters, return up to one target creature to its owner's hand.\nWhenever you exile a card from your graveyard, you may return this card from your graveyard to your hand.",
+            "rules_text": "Deathtouch\nThis creature can't block.\nWhen this creature enters, return up to one target creature to its owner's hand.\nWhenever one or more cards leave your graveyard, you may return this card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3408,7 +3408,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Bat",
-            "number": 61,
+            "number": 60,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Flying\nLifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]",
@@ -4054,11 +4054,11 @@
             "notes": ""
         },
         {
-            "card_name": "Powered-up Cyclops",
+            "card_name": "Ironclad Cyclops",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Cyclops Wizard",
-            "number": 107,
+            "number": 101,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Reach, prowess\nWhenever you cast an instant or sorcery spell, untap this creature.",
@@ -4114,8 +4114,8 @@
             "type": "Sorcery",
             "number": 210,
             "color_identity": "UR",
-            "cost": "{1}{U}{R}",
-            "rules_text": "Gain control of target artifact or creature with mana value [ 3 ] or less until end of turn. Untap that permanent. It gains haste until end of turn.\nIterate {3}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
+            "cost": "{U}{R}",
+            "rules_text": "Gain control of target artifact or creature with mana value [ 3 ] or less until end of turn. Untap that permanent. It gains haste until end of turn.\nIterate {2}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4658,8 +4658,8 @@
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "Vigilance\nThis creature can't be blocked by monocolored creatures.",
-            "flavor_text": "[i]\u201cIt is only through the strict enforcement of the Guildpact and the reign of the the Ten that Ravnica may prosper. No mercy shall be given to the traitors and fools who desire to break the natural order.\u201d[/i]",
-            "pt": "6/3",
+            "flavor_text": "[i]\u201cIt is only through the strict enforcement of the Guildpact and the reign of the Ten that Ravnica may prosper. No mercy shall be given to the traitors and fools who desire to break the natural order.\u201d[/i]",
+            "pt": "5/4",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -5034,7 +5034,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "Warmtail",
+            "artist": "Walisson Mikael",
             "notes": ""
         },
         {
@@ -5052,7 +5052,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Rick Hertel",
             "notes": ""
         },
         {
@@ -5124,7 +5124,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "JB Casacop",
             "notes": ""
         },
         {
@@ -5196,7 +5196,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
+            "artist": "Warmtail",
             "notes": ""
         },
         {
@@ -5416,5 +5416,5 @@
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 3
 }

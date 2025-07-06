@@ -1,4 +1,73 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Bloodrenched Spoil added.
+Ironclad Cyclops added.
+
+Blooddrenched Gold removed.
+Powered-up Cyclops removed.
+
+Mizzium Canon
+
+Rejuvenated Wood-Kin
+
+Living Monument
+type: Artifact Creature — Construct => Artifact Creature — Golem
+pt: 0/5 => 0/6
+
+Shield of the Guildpact
+rules_text: Equipped creature gets +0/+2 and has ward {1} and vigilance for each Gate you control.
+Equip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Equipped creature gets +0/+2 and has vigilance and ward {1} for each Gate you control.
+Equip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Lightningquake
+
+Mad Alchemist
+
+Mounted Warbeast
+
+Izzet Apprentice
+
+Magebane Rawhide
+
+Lightning Catalyst
+rules_text: Prowess
+Whenever you cast an instant or sorcery spell that targets a single creature you control, you may cast a copy of that spell and chose new targets for the copy.
+{T}: Add {C}{C}. This mana can't be spent to cast permanent spells. => Prowess
+Whenever this creature becomes the target of a spell with a single target, you may copy that spell with a new target. This ability triggers only once each turn.
+{UR}{UR}, {T}: Change the target of target spell with a single target to this creature.
+pt: 1/3 => 2/2
+
+Unending Nightmare
+rules_text: Deathtouch
+This creature can't block.
+When this creature enters, return up to one target creature to its owner's hand.
+Whenever you exile a card from your graveyard, you may return this card from your graveyard to your hand. => Deathtouch
+This creature can't block.
+When this creature enters, return up to one target creature to its owner's hand.
+Whenever one or more cards leave your graveyard, you may return this card from your graveyard to your hand.
+
+Bloodletter's Bat
+
+Subjugating Bolt
+cost: {1}{U}{R} => {U}{R}
+rules_text: Gain control of target artifact or creature with mana value [ 3 ] or less until end of turn. Untap that permanent. It gains haste until end of turn.
+Iterate {3}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Gain control of target artifact or creature with mana value [ 3 ] or less until end of turn. Untap that permanent. It gains haste until end of turn.
+Iterate {2}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Enforcers of the Guildpact
+pt: 6/3 => 5/4
+
+Unyielding Determination
+
+Eidolon's Call
+
+Galvanizing Call
+
+Guildpact's Blessing
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

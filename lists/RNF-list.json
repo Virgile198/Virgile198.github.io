@@ -12,8 +12,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Blooddrenched Gold",
-        "number": 60,
+        "card_name": "Bloodrenched Spoil",
+        "number": 61,
         "shape": "normal",
         "set": "RNF"
     },
@@ -139,7 +139,7 @@
     },
     {
         "card_name": "Mad Alchemist",
-        "number": 103,
+        "number": 104,
         "shape": "normal",
         "set": "RNF"
     },
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Mizzium Canon",
-        "number": 105,
+        "number": 106,
         "shape": "normal",
         "set": "RNF"
     },
@@ -349,7 +349,7 @@
     },
     {
         "card_name": "Magebane Rawhide",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "RNF"
     },
@@ -493,7 +493,7 @@
     },
     {
         "card_name": "Bloodletter's Bat",
-        "number": 61,
+        "number": 60,
         "shape": "normal",
         "set": "RNF"
     },
@@ -648,7 +648,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Izzet Apprentice",
+        "card_name": "Ironclad Cyclops",
         "number": 101,
         "shape": "normal",
         "set": "RNF"
@@ -678,7 +678,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Lightningquake",
+        "card_name": "Izzet Apprentice",
         "number": 102,
         "shape": "normal",
         "set": "RNF"
@@ -708,8 +708,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Mounted Warbeast",
-        "number": 106,
+        "card_name": "Lightningquake",
+        "number": 103,
         "shape": "normal",
         "set": "RNF"
     },
@@ -738,7 +738,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Powered-up Cyclops",
+        "card_name": "Mounted Warbeast",
         "number": 107,
         "shape": "normal",
         "set": "RNF"

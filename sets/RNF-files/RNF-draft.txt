@@ -15,9 +15,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/105_Mizzium Canon.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/106_Mizzium Canon.png"
 			}
 		},
 		{
@@ -621,13 +621,13 @@
 			}
 		},
 		{
-			"name": "Blooddrenched Gold",
+			"name": "Bloodrenched Spoil",
 			"rarity": "mythic",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Artifact",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/60_Blooddrenched Gold.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/61_Bloodrenched Spoil.png"
 			}
 		},
 		{
@@ -864,7 +864,7 @@
 			"name": "Living Monument",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature — Golem",
 			"collector_number": "251",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/251_Living Monument.png"
@@ -1095,9 +1095,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/102_Lightningquake.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/103_Lightningquake.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Lizard Wizard",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/103_Mad Alchemist.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/104_Mad Alchemist.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Beast",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/106_Mounted Warbeast.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/107_Mounted Warbeast.png"
 			}
 		},
 		{
@@ -1415,9 +1415,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Vedalken Wizard",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/101_Izzet Apprentice.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/102_Izzet Apprentice.png"
 			}
 		},
 		{
@@ -1465,9 +1465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Beast",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/104_Magebane Rawhide.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/105_Magebane Rawhide.png"
 			}
 		},
 		{
@@ -1865,9 +1865,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Bat",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/61_Bloodletter's Bat.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/60_Bloodletter's Bat.png"
 			}
 		},
 		{
@@ -2211,13 +2211,13 @@
 			}
 		},
 		{
-			"name": "Powered-up Cyclops",
+			"name": "Ironclad Cyclops",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Cyclops Wizard",
-			"collector_number": "107",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/107_Powered-up Cyclops.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/101_Ironclad Cyclops.png"
 			}
 		},
 		{
@@ -2243,7 +2243,7 @@
 		{
 			"name": "Subjugating Bolt",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{R}",
+			"mana_cost": "{U}{R}",
 			"type": "Sorcery",
 			"collector_number": "210",
 			"image_uris": {
@@ -2976,7 +2976,7 @@
 	2 Overflowing Buffer
 	1 Gheshval, Night's Mantle
 	1 Cognition Theft
-	1 Blooddrenched Gold
+	1 Bloodrenched Spoil
 	1 Deeproot Entity
 	1 Storm Eater
 	2 Transguild Square
@@ -3203,7 +3203,7 @@
 	8 Flaming Claws
 	8 Repurpose the Scraps
 	8 Reconfigure
-	8 Powered-up Cyclops
+	8 Ironclad Cyclops
 	8 Rabid Sewer Rat
 	8 Sharer of the Ichor
 	8 Corrosive Bile Spitter
@@ -3288,7 +3288,7 @@
 	15 Aether Condensator
 	4 Gheshval, Night's Mantle
 	4 Cognition Theft
-	4 Blooddrenched Gold
+	4 Bloodrenched Spoil
 	6 Shambling Grotesquerie
 	4 Deeproot Entity
 	4 Storm Eater
@@ -3429,7 +3429,7 @@
 	15 Priest of Purification
 	15 Skin
 	15 The Cozen
-	6 Powered-up Cyclops
+	6 Ironclad Cyclops
 	15 Wave of Agitation
 	15 Cerebrospiker
 	15 Subjugating Bolt
