@@ -1,4 +1,50 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Frying Strike added.
+Bionic Strength added.
+
+Electrolize removed.
+Augmented Strength removed.
+
+Fierce Maaka Kitten
+
+Euthanist Master
+
+Ayla, Harmony's Embrace
+
+Ecstatic Fluxburster
+rules_text: Flash
+As you cast this spell, choose one —
+• This creature enters with two +1/+1 counters on it. 
+• Exile target instant or sorcery card from your graveyard. When this creature enters, it deals damage equal to the exiled card mana value to any target. => Flash
+Flying
+As you cast this spell, choose one —
+• This creature enters with two +1/+1 counters on it. 
+• Exile target instant or sorcery card from your graveyard. When this creature enters, it deals damage equal to the exiled card mana value to any target.
+pt: 1/0 => 0/0
+
+Fires of Reclamation
+
+Reload
+
+Torpor
+
+Flaming Claws
+
+Become Dust
+
+Cerebrospiker
+
+Subjugating Bolt
+
+Scorching Thunder
+rules_text: Players can't gain life this turn. Damage can't be prevented this turn. This spell deals X plus one damage to any target. => Players can't gain life this turn. Damage can't be prevented this turn. This spell deals X damage to any target.
+
+Escaped Prototype
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Bloodrenched Spoil added.

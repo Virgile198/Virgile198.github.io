@@ -79,7 +79,7 @@
     },
     {
         "card_name": "Fierce Maaka Kitten",
-        "number": 96,
+        "number": 95,
         "shape": "normal",
         "set": "RNF"
     },
@@ -109,7 +109,7 @@
     },
     {
         "card_name": "Fires of Reclamation",
-        "number": 97,
+        "number": 96,
         "shape": "normal",
         "set": "RNF"
     },
@@ -319,7 +319,7 @@
     },
     {
         "card_name": "Escaped Prototype",
-        "number": 95,
+        "number": 94,
         "shape": "normal",
         "set": "RNF"
     },
@@ -528,8 +528,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Electrolize",
-        "number": 94,
+        "card_name": "Flaming Claws",
+        "number": 97,
         "shape": "normal",
         "set": "RNF"
     },
@@ -558,7 +558,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Flaming Claws",
+        "card_name": "Frying Strike",
         "number": 98,
         "shape": "normal",
         "set": "RNF"
@@ -971,7 +971,7 @@
     },
     {
         "card_name": "Ayla, Harmony's Embrace",
-        "number": 151,
+        "number": 150,
         "shape": "planeswalker",
         "set": "RNF"
     },
@@ -1217,7 +1217,7 @@
     },
     {
         "card_name": "Become Dust",
-        "number": 152,
+        "number": 151,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1402,8 +1402,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Augmented Strength",
-        "number": 150,
+        "card_name": "Bionic Strength",
+        "number": 152,
         "shape": "normal",
         "set": "RNF"
     },

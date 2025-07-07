@@ -85,9 +85,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Beast",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/96_Fierce Maaka Kitten.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/95_Fierce Maaka Kitten.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{G}{W}{W}",
 			"type": "Legendary Planeswalker — Ayla",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/151_Ayla, Harmony's Embrace.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/150_Ayla, Harmony's Embrace.png"
 			}
 		},
 		{
@@ -531,13 +531,13 @@
 			}
 		},
 		{
-			"name": "Electrolize",
+			"name": "Frying Strike",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "94",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/94_Electrolize.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/98_Frying Strike.png"
 			}
 		},
 		{
@@ -571,13 +571,13 @@
 			}
 		},
 		{
-			"name": "Augmented Strength",
+			"name": "Bionic Strength",
 			"rarity": "common",
 			"mana_cost": "{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "150",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/150_Augmented Strength.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/152_Bionic Strength.png"
 			}
 		},
 		{
@@ -1105,9 +1105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/97_Fires of Reclamation.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/96_Fires of Reclamation.png"
 			}
 		},
 		{
@@ -2125,9 +2125,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/98_Flaming Claws.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/97_Flaming Claws.png"
 			}
 		},
 		{
@@ -2165,9 +2165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Instant",
-			"collector_number": "152",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/152_Become Dust.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/151_Become Dust.png"
 			}
 		},
 		{
@@ -2435,9 +2435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Artifact Creature — Goblin Construct",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/95_Escaped Prototype.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/94_Escaped Prototype.png"
 			}
 		},
 		{
@@ -3146,10 +3146,10 @@
 	8 Sowing Courier
 	8 Ceremony of Fury
 	8 Blinding Flash
-	8 Electrolize
+	8 Frying Strike
 	8 Mass Scrambler
 	8 Flux Launcher Maniac
-	8 Augmented Strength
+	8 Bionic Strength
 	8 Fluctuating Reality
 	8 Shambling Grotesquerie
 	8 Orzhov Guildgate
@@ -3279,11 +3279,11 @@
 	7 Overflowing Buffer
 	15 Thought Accelerator
 	6 Blinding Flash
-	6 Electrolize
+	6 Frying Strike
 	6 Mass Scrambler
 	6 Flux Launcher Maniac
 	15 Ecstatic Fluxburster
-	6 Augmented Strength
+	6 Bionic Strength
 	6 Fluctuating Reality
 	15 Aether Condensator
 	4 Gheshval, Night's Mantle
