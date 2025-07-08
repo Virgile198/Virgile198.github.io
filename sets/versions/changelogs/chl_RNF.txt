@@ -1,4 +1,26 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Bolstering Spores
+
+Boon of the Worldsoul
+
+Milana, Orzhov High Prelate
+rules_text: Lifelink
+Ward—{2}, Pay 2 life.
+Pay 2 life: Tap target untapped creature you don't control. It gets -1/-1 and it loses all its abilities until end of turn. => Deathtouch, lifelink
+Ward—{2}, Pay 2 life.
+Pay 2 life: Tap target untapped creature you don't control. It gets -1/-1 and it loses all its abilities until end of turn.
+
+Coldhearted Cardinal
+rules_text: Flying, double strike, deathtouch
+[i]Oblation 2[/i] — When this creature enters, you may pay 2 life. If you do, target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles. => Flying, double strike
+[i]Oblation 2[/i] — When this creature enters, you may pay 2 life. If you do, target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 

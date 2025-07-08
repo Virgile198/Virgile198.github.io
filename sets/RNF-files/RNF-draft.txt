@@ -2953,546 +2953,275 @@
 	]
 
 [rare(1)]
-	1 Sootfurr Brute
-	2 Mizzium Canon
-	2 Bloodrust Assailant
-	2 Fierce Maaka Kitten
-	2 Blightblood Abomination
-	2 Mossback Pulverizer
-	2 Spectral Advisor
-	2 Profitable Demise
-	1 Teysa Karlov, Master of Deals
-	1 Assessor of Worth
-	2 Priest of The Welcoming
-	2 Vicious Blackmailer
-	1 Ayla, Harmony's Embrace
-	2 Pruning
-	2 Flowerbed Envoy's Call
-	2 Precinct Archprotector
-	1 Worldring Uroboros
-	1 Branching Possibilities
-	1 Ral, Thundering Genius
-	1 Essencesnatch
-	2 Overflowing Buffer
-	1 Gheshval, Night's Mantle
-	1 Cognition Theft
-	1 Bloodrenched Spoil
-	1 Deeproot Entity
-	1 Storm Eater
-	2 Transguild Square
-	2 Vault of the Paruns
-	2 Prismatic Custodian
-	2 Watery Grave
-	2 Stomping Ground
-	2 Temple Garden
-	2 Godless Shrine
-	2 Steam Vents
-	2 Vital Reclamation
-	2 Fires of Reclamation
-	2 Mad Alchemist
-	1 Thraka, Ire of the Wilds
-	2 Caller of the Wilds
-	2 Arrogant Ermit
-	1 Guardian of the Hour
-	2 Unearthed Mysteries
-	2 Lightning Catalyst
-	2 Maree, Nivix Grand Chamberlain
-	2 Reload
-	2 Factory Line
-	2 Workshop Supervisor
-	2 Blessing of Savagery
-	2 Bushfire Shaman
-	2 Ghor-Clan Charger
-	2 Ram
-	2 Rakasht, Spawn of Ulasht
-	2 Mind Warp
-	2 Choosen of the Worldsoul
-	2 Spore Waltz
-	2 Vanish
-	2 Circu, Butcher of Memories
-	2 Examination
-	2 Sewer Grafter
-	2 Unending Nightmare
-	2 Cemetery Guardian
-	2 Cruel Advokist
-	2 Dispossession
-	2 Milana, Orzhov High Prelate
-	2 Vitality
-	2 Fac Simile Project
-	1 Due of the Powerless
-	1 Mindflayer of the Dim
-	1 Hyper Space Time Bubble
-	1 Ashentrunk Icinerator
-	2 Factory Sentinel
-	2 Heart of Cinders
-	2 Flourishing Phytohydra
-	2 Dimir Necrosage
-	2 Coldhearted Cardinal
-	2 Door to Everywhere
-	2 Sixth District Marshal
-	2 Undercity Bloodthirster
-	2 Cloud Drinker
-	1 Aspect of Uniformity
-	2 Blooming Sanctuary
-	2 Retriever of Secrets
-	2 Emmara, Ancestral Caregiver
-	2 Dew's Benediction
+	5 Sootfurr Brute
+	5 Mizzium Canon
+	5 Bloodrust Assailant
+	5 Fierce Maaka Kitten
+	5 Blightblood Abomination
+	5 Mossback Pulverizer
+	5 Spectral Advisor
+	5 Profitable Demise
+	5 Teysa Karlov, Master of Deals
+	5 Assessor of Worth
+	5 Priest of The Welcoming
+	5 Vicious Blackmailer
+	5 Ayla, Harmony's Embrace
+	5 Pruning
+	5 Flowerbed Envoy's Call
+	5 Precinct Archprotector
+	5 Worldring Uroboros
+	5 Branching Possibilities
+	5 Ral, Thundering Genius
+	5 Essencesnatch
+	5 Overflowing Buffer
+	5 Gheshval, Night's Mantle
+	5 Cognition Theft
+	5 Bloodrenched Spoil
+	5 Deeproot Entity
+	5 Storm Eater
+	5 Transguild Square
+	5 Vault of the Paruns
+	5 Prismatic Custodian
+	5 Watery Grave
+	5 Stomping Ground
+	5 Temple Garden
+	5 Godless Shrine
+	5 Steam Vents
+	5 Vital Reclamation
+	5 Fires of Reclamation
+	5 Mad Alchemist
+	5 Thraka, Ire of the Wilds
+	5 Caller of the Wilds
+	5 Arrogant Ermit
+	5 Guardian of the Hour
+	5 Unearthed Mysteries
+	5 Lightning Catalyst
+	5 Maree, Nivix Grand Chamberlain
+	5 Reload
+	5 Factory Line
+	5 Workshop Supervisor
+	5 Blessing of Savagery
+	5 Bushfire Shaman
+	5 Ghor-Clan Charger
+	5 Ram
+	5 Rakasht, Spawn of Ulasht
+	5 Mind Warp
+	5 Choosen of the Worldsoul
+	5 Spore Waltz
+	5 Vanish
+	5 Circu, Butcher of Memories
+	5 Examination
+	5 Sewer Grafter
+	5 Unending Nightmare
+	5 Cemetery Guardian
+	5 Cruel Advokist
+	5 Dispossession
+	5 Milana, Orzhov High Prelate
+	5 Vitality
+	5 Fac Simile Project
+	5 Due of the Powerless
+	5 Mindflayer of the Dim
+	5 Hyper Space Time Bubble
+	5 Ashentrunk Icinerator
+	5 Factory Sentinel
+	5 Heart of Cinders
+	5 Flourishing Phytohydra
+	5 Dimir Necrosage
+	5 Coldhearted Cardinal
+	5 Door to Everywhere
+	5 Sixth District Marshal
+	5 Undercity Bloodthirster
+	5 Cloud Drinker
+	5 Aspect of Uniformity
+	5 Blooming Sanctuary
+	5 Retriever of Secrets
+	5 Emmara, Ancestral Caregiver
+	5 Dew's Benediction
 [uncommon(3)]
-	4 Shamanic Power
-	4 Augmented Monstrosity
-	4 Rejuvenated Wood-Kin
-	4 Charitable Thrull
-	4 Euthanist Master
-	4 Orzhov Seizebeast
-	4 Bolstering Spores
-	4 Pollen Storm
-	4 Coordinated Assault
-	4 Thought Accelerator
-	4 Ecstatic Fluxburster
-	4 Aether Condensator
-	4 Clawing Grasp
-	4 Mind Hemorrhage
-	4 Guardians of the Guildpact
-	4 Living Monument
-	4 Shield of the Guildpact
-	4 Heart of Communion
-	4 Oblivion Urn
-	4 Hidden Scrutiny
-	4 Thrull Collectors
-	4 Flood of Memories
-	4 Catacombs Cleaner
-	4 Cleanser of Debt
-	4 Lightning Rider
-	4 Magebane Rawhide
-	4 Illuminator Imp
-	4 Truesight Sphinx
-	4 Incisive Reversal
-	4 Boon of the Worldsoul
-	4 Selesnya Sporewielder
-	4 Fragmentize
-	4 Fiery Form
-	4 Gorz'Ghum, War Incense
-	4 Gravel-Hide Channeler
-	4 Wrath Guildmage
-	4 Alcarus, Old Growth Protector
-	4 Burgeoning Troops
-	4 Harmony Guildmage
-	4 Ironroot Bindings
-	4 Poised to Strike
-	4 Rise
-	4 Rootguard Loxodon
-	4 Pontif Pet
-	4 Become Dust
-	4 Devotion Guildmage
-	4 Priest of Purification
-	4 Skin
-	4 The Cozen
-	4 Wave of Agitation
-	4 Cerebrospiker
-	4 Subjugating Bolt
-	4 Innovation Guildmage
-	4 Now
-	4 Polarity Switcher
-	4 Rix Navven, Overcharged Brute
-	4 Pestilent Haze
-	4 Scorching Thunder
-	4 Eidolon's Fury
-	4 Crazed Rioter
-	4 Tamed Hellkite
-	4 Eidolon's Thirst
-	4 Dimir Cutthroat
-	4 Lost
-	4 Manipulation Guildmage
-	4 Sleeper Spybug
-	4 Violent Reshaping
-	4 Zorin, Returned from the Dim
-	4 Escaped Prototype
-	4 Insatiable Moroii
-	4 Eidolon's Wisdom
-	4 Secret Seeker
-	4 Above
-	4 Escalating Wrath
-	4 Eidolon's Call
-	4 Galvanizing Call
-	4 Blessing of Vitu-Ghazi
-	4 Rousing Freemage
-	4 Votary Druid
-	4 Eidolon's Vitality
-	4 Fifth District Avenger
-	4 Furious Pangoduan
-	4 Wasteful Inheritor
-	4 Disctrict Explorer
-	4 Ruins Scavenger
-[common(7)]
-	8 Burning-Tree Blackhorn
-	8 Wildheart Raiders
-	8 Inquisitive Minotaur
-	8 Mountain Hurler
-	8 Gate Breaker
-	8 Razortusk Piglet
-	8 Clergy Enforcer
-	8 Cruel Robber
-	8 Corpse Excavator
-	8 Treasured Pet
-	8 Vulpus Honorguard
-	8 Howling Gate
-	8 Knight of Denial
-	8 Pontific Guard
-	8 Profane Ceremony
-	8 Ledev Captain
-	8 Flowermane Healer
-	8 Protector of the Glade
-	8 Selesnya Caretaker
-	8 Sowing Courier
-	8 Ceremony of Fury
-	8 Blinding Flash
-	8 Voltaic Strike
-	8 Mass Scrambler
-	8 Flux Launcher Maniac
-	8 Bionic Strength
-	8 Fluctuating Reality
-	8 Shambling Grotesquerie
-	8 Orzhov Guildgate
-	8 Dimir Guildgate
-	8 Izzet Guildgate
-	8 Tin Street
-	8 Orzhov Insignia
-	8 Gruul Insignia
-	8 Izzet Insignia
-	8 Selesnya Insignia
-	8 Dimir Insignia
-	8 Backstreet Informant
-	8 Deep Search
-	8 Anguished Fall
-	8 Moss Elemental
-	8 Protector of the Meek
-	8 Deep Sewage Lurker
-	8 Frontline Cultivator
-	8 Ninth District Benevolant
-	8 Walkers of the Dim
-	8 Lightningquake
-	8 Conclave Sentinel
-	8 Brilliant Artist
-	8 Duskmantle Agent
-	8 Mounted Warbeast
-	8 Rumbling Drake
-	8 Winged Mare
-	8 Zhur-Taa Ember Shaman
-	8 Falling Apart
-	8 Call of the Hunt
-	8 Deadly Familiar
-	8 Deafening Cacophony
-	8 Mind Tap
-	8 Izzet Apprentice
-	8 Slitz-Clan Opportunist
-	8 Debtor Hunter
-	8 Priest of the Old Ways
-	8 Syphon Psyche
-	8 Essence Shift
-	8 Dissect Thoughts
-	8 Subvert
-	8 Torpor
-	8 Bloodletter's Bat
-	8 Wild Stomper
-	8 Bolrac-Clan City Breacher
-	8 Cultivated Strength
-	8 Ravage
-	8 Static Elemental
-	8 Flaming Claws
-	8 Repurpose the Scraps
-	8 Reconfigure
-	8 Ironclad Cyclops
-	8 Rabid Sewer Rat
-	8 Sharer of the Ichor
-	8 Corrosive Bile Spitter
-	8 Conclave Sharpshooter
-	8 Shredding Barrage
-	8 Dryads' Blessing
-	8 Tend to the Gardens
-	8 Blessing of Wrath
-	8 Enforcers of the Guildpact
-	8 Forgotten Phantasm
-	8 Oppress
-	8 Vengeful Return
-	8 Conclave Spirewatch
-	8 Spectral Rider
-	8 Seventh Disctrict Scoundrel
-	8 Sewer Penumbra
-	8 Writhing Amalgamate
-	8 Memorable Feast
-	8 Guildpact's Blessing
-	8 Surgical Strike
-	8 Deep Wound
-	8 Gruul Guildgate
-	8 Selesnya Guildgate
-[wildcard(2)]
-	4 Sootfurr Brute
-	7 Mizzium Canon
-	6 Burning-Tree Blackhorn
-	6 Wildheart Raiders
-	6 Inquisitive Minotaur
-	6 Mountain Hurler
-	15 Shamanic Power
-	7 Bloodrust Assailant
-	7 Fierce Maaka Kitten
-	6 Gate Breaker
-	15 Augmented Monstrosity
-	7 Blightblood Abomination
-	6 Razortusk Piglet
-	15 Rejuvenated Wood-Kin
-	7 Mossback Pulverizer
-	15 Charitable Thrull
-	7 Spectral Advisor
-	6 Clergy Enforcer
-	6 Cruel Robber
-	6 Corpse Excavator
-	15 Euthanist Master
-	7 Profitable Demise
-	4 Teysa Karlov, Master of Deals
-	6 Treasured Pet
-	4 Assessor of Worth
-	7 Priest of The Welcoming
-	7 Vicious Blackmailer
-	15 Orzhov Seizebeast
-	6 Vulpus Honorguard
-	6 Howling Gate
-	6 Knight of Denial
-	6 Pontific Guard
-	6 Profane Ceremony
-	4 Ayla, Harmony's Embrace
-	7 Pruning
-	7 Flowerbed Envoy's Call
-	7 Precinct Archprotector
-	4 Worldring Uroboros
-	15 Bolstering Spores
-	6 Ledev Captain
-	6 Flowermane Healer
-	15 Pollen Storm
-	15 Coordinated Assault
-	6 Protector of the Glade
-	6 Selesnya Caretaker
-	6 Sowing Courier
-	4 Branching Possibilities
-	4 Ral, Thundering Genius
-	4 Essencesnatch
-	6 Ceremony of Fury
-	7 Overflowing Buffer
-	15 Thought Accelerator
-	6 Blinding Flash
-	6 Voltaic Strike
-	6 Mass Scrambler
-	6 Flux Launcher Maniac
-	15 Ecstatic Fluxburster
-	6 Bionic Strength
-	6 Fluctuating Reality
-	15 Aether Condensator
-	4 Gheshval, Night's Mantle
-	4 Cognition Theft
-	4 Bloodrenched Spoil
-	6 Shambling Grotesquerie
-	4 Deeproot Entity
-	4 Storm Eater
-	15 Clawing Grasp
-	15 Mind Hemorrhage
-	6 Orzhov Guildgate
-	6 Dimir Guildgate
-	6 Izzet Guildgate
-	6 Tin Street
-	7 Transguild Square
-	6 Orzhov Insignia
-	6 Gruul Insignia
-	6 Izzet Insignia
-	6 Selesnya Insignia
-	6 Dimir Insignia
-	15 Guardians of the Guildpact
-	15 Living Monument
-	15 Shield of the Guildpact
-	15 Heart of Communion
-	7 Vault of the Paruns
-	15 Oblivion Urn
-	7 Prismatic Custodian
-	7 Watery Grave
-	7 Stomping Ground
-	7 Temple Garden
-	7 Godless Shrine
-	7 Steam Vents
-	15 Hidden Scrutiny
-	7 Vital Reclamation
-	6 Backstreet Informant
-	6 Deep Search
-	6 Anguished Fall
-	6 Moss Elemental
-	6 Protector of the Meek
-	6 Deep Sewage Lurker
-	15 Thrull Collectors
-	6 Frontline Cultivator
-	6 Ninth District Benevolant
-	6 Walkers of the Dim
-	6 Lightningquake
-	7 Fires of Reclamation
-	6 Conclave Sentinel
-	6 Brilliant Artist
-	15 Flood of Memories
-	6 Duskmantle Agent
-	7 Mad Alchemist
-	6 Mounted Warbeast
-	6 Rumbling Drake
-	15 Catacombs Cleaner
-	6 Winged Mare
-	4 Thraka, Ire of the Wilds
-	15 Cleanser of Debt
-	6 Zhur-Taa Ember Shaman
-	6 Falling Apart
-	6 Call of the Hunt
-	6 Deadly Familiar
-	6 Deafening Cacophony
-	6 Mind Tap
-	6 Izzet Apprentice
-	6 Slitz-Clan Opportunist
-	6 Debtor Hunter
-	15 Lightning Rider
-	6 Priest of the Old Ways
-	15 Magebane Rawhide
-	7 Caller of the Wilds
-	15 Illuminator Imp
-	7 Arrogant Ermit
-	4 Guardian of the Hour
-	7 Unearthed Mysteries
-	15 Truesight Sphinx
-	7 Lightning Catalyst
-	7 Maree, Nivix Grand Chamberlain
-	7 Reload
-	7 Factory Line
-	7 Workshop Supervisor
-	7 Blessing of Savagery
-	7 Bushfire Shaman
-	7 Ghor-Clan Charger
-	7 Ram
-	7 Rakasht, Spawn of Ulasht
-	7 Mind Warp
-	6 Syphon Psyche
-	6 Essence Shift
-	7 Choosen of the Worldsoul
-	7 Spore Waltz
-	7 Vanish
-	7 Circu, Butcher of Memories
-	7 Examination
-	15 Incisive Reversal
-	7 Sewer Grafter
-	7 Unending Nightmare
-	15 Boon of the Worldsoul
-	15 Selesnya Sporewielder
-	7 Cemetery Guardian
-	7 Cruel Advokist
-	7 Dispossession
-	7 Milana, Orzhov High Prelate
-	7 Vitality
-	15 Fragmentize
-	6 Dissect Thoughts
-	6 Subvert
-	7 Fac Simile Project
-	6 Torpor
-	6 Bloodletter's Bat
-	6 Wild Stomper
-	4 Due of the Powerless
-	4 Mindflayer of the Dim
-	4 Hyper Space Time Bubble
-	4 Ashentrunk Icinerator
-	7 Factory Sentinel
-	7 Heart of Cinders
-	7 Flourishing Phytohydra
-	7 Dimir Necrosage
-	7 Coldhearted Cardinal
-	6 Bolrac-Clan City Breacher
-	6 Cultivated Strength
-	15 Fiery Form
-	15 Gorz'Ghum, War Incense
-	15 Gravel-Hide Channeler
-	15 Wrath Guildmage
-	6 Ravage
-	6 Static Elemental
-	15 Alcarus, Old Growth Protector
-	15 Burgeoning Troops
-	15 Harmony Guildmage
-	15 Ironroot Bindings
-	15 Poised to Strike
-	15 Rise
-	15 Rootguard Loxodon
-	6 Flaming Claws
-	6 Repurpose the Scraps
-	6 Reconfigure
-	15 Pontif Pet
-	15 Become Dust
-	15 Devotion Guildmage
-	15 Priest of Purification
-	15 Skin
-	15 The Cozen
-	6 Ironclad Cyclops
-	15 Wave of Agitation
-	15 Cerebrospiker
-	15 Subjugating Bolt
-	15 Innovation Guildmage
-	15 Now
-	15 Polarity Switcher
-	15 Rix Navven, Overcharged Brute
-	15 Pestilent Haze
-	15 Scorching Thunder
-	15 Eidolon's Fury
-	15 Crazed Rioter
-	15 Tamed Hellkite
-	15 Eidolon's Thirst
-	15 Dimir Cutthroat
-	15 Lost
-	15 Manipulation Guildmage
-	15 Sleeper Spybug
-	15 Violent Reshaping
-	15 Zorin, Returned from the Dim
-	6 Rabid Sewer Rat
-	6 Sharer of the Ichor
-	15 Escaped Prototype
-	6 Corrosive Bile Spitter
-	7 Door to Everywhere
-	7 Sixth District Marshal
-	6 Conclave Sharpshooter
-	7 Undercity Bloodthirster
-	6 Shredding Barrage
-	6 Dryads' Blessing
-	6 Tend to the Gardens
-	6 Blessing of Wrath
-	6 Enforcers of the Guildpact
-	15 Insatiable Moroii
-	7 Cloud Drinker
-	15 Eidolon's Wisdom
-	15 Secret Seeker
-	6 Forgotten Phantasm
-	6 Oppress
-	4 Aspect of Uniformity
-	15 Above
-	7 Blooming Sanctuary
-	6 Vengeful Return
-	6 Conclave Spirewatch
-	15 Escalating Wrath
-	6 Spectral Rider
-	6 Seventh Disctrict Scoundrel
-	15 Eidolon's Call
-	7 Retriever of Secrets
-	6 Sewer Penumbra
-	6 Writhing Amalgamate
-	15 Galvanizing Call
-	15 Blessing of Vitu-Ghazi
-	6 Memorable Feast
-	15 Rousing Freemage
-	6 Guildpact's Blessing
-	6 Surgical Strike
-	15 Votary Druid
-	15 Eidolon's Vitality
-	15 Fifth District Avenger
-	15 Furious Pangoduan
-	15 Wasteful Inheritor
-	15 Disctrict Explorer
-	15 Ruins Scavenger
-	6 Deep Wound
-	7 Emmara, Ancestral Caregiver
-	6 Gruul Guildgate
-	6 Selesnya Guildgate
-	7 Dew's Benediction
+	5 Shamanic Power
+	5 Augmented Monstrosity
+	5 Rejuvenated Wood-Kin
+	5 Charitable Thrull
+	5 Euthanist Master
+	5 Orzhov Seizebeast
+	5 Bolstering Spores
+	5 Pollen Storm
+	5 Coordinated Assault
+	5 Thought Accelerator
+	5 Ecstatic Fluxburster
+	5 Aether Condensator
+	5 Clawing Grasp
+	5 Mind Hemorrhage
+	5 Guardians of the Guildpact
+	5 Living Monument
+	5 Shield of the Guildpact
+	5 Heart of Communion
+	5 Oblivion Urn
+	5 Hidden Scrutiny
+	5 Thrull Collectors
+	5 Flood of Memories
+	5 Catacombs Cleaner
+	5 Cleanser of Debt
+	5 Lightning Rider
+	5 Magebane Rawhide
+	5 Illuminator Imp
+	5 Truesight Sphinx
+	5 Incisive Reversal
+	5 Boon of the Worldsoul
+	5 Selesnya Sporewielder
+	5 Fragmentize
+	5 Fiery Form
+	5 Gorz'Ghum, War Incense
+	5 Gravel-Hide Channeler
+	5 Wrath Guildmage
+	5 Alcarus, Old Growth Protector
+	5 Burgeoning Troops
+	5 Harmony Guildmage
+	5 Ironroot Bindings
+	5 Poised to Strike
+	5 Rise
+	5 Rootguard Loxodon
+	5 Pontif Pet
+	5 Become Dust
+	5 Devotion Guildmage
+	5 Priest of Purification
+	5 Skin
+	5 The Cozen
+	5 Wave of Agitation
+	5 Cerebrospiker
+	5 Subjugating Bolt
+	5 Innovation Guildmage
+	5 Now
+	5 Polarity Switcher
+	5 Rix Navven, Overcharged Brute
+	5 Pestilent Haze
+	5 Scorching Thunder
+	5 Eidolon's Fury
+	5 Crazed Rioter
+	5 Tamed Hellkite
+	5 Eidolon's Thirst
+	5 Dimir Cutthroat
+	5 Lost
+	5 Manipulation Guildmage
+	5 Sleeper Spybug
+	5 Violent Reshaping
+	5 Zorin, Returned from the Dim
+	5 Escaped Prototype
+	5 Insatiable Moroii
+	5 Eidolon's Wisdom
+	5 Secret Seeker
+	5 Above
+	5 Escalating Wrath
+	5 Eidolon's Call
+	5 Galvanizing Call
+	5 Blessing of Vitu-Ghazi
+	5 Rousing Freemage
+	5 Votary Druid
+	5 Eidolon's Vitality
+	5 Fifth District Avenger
+	5 Furious Pangoduan
+	5 Wasteful Inheritor
+	5 Disctrict Explorer
+	5 Ruins Scavenger
+[common(10)]
+	5 Burning-Tree Blackhorn
+	5 Wildheart Raiders
+	5 Inquisitive Minotaur
+	5 Mountain Hurler
+	5 Gate Breaker
+	5 Razortusk Piglet
+	5 Clergy Enforcer
+	5 Cruel Robber
+	5 Corpse Excavator
+	5 Treasured Pet
+	5 Vulpus Honorguard
+	5 Howling Gate
+	5 Knight of Denial
+	5 Pontific Guard
+	5 Profane Ceremony
+	5 Ledev Captain
+	5 Flowermane Healer
+	5 Protector of the Glade
+	5 Selesnya Caretaker
+	5 Sowing Courier
+	5 Ceremony of Fury
+	5 Blinding Flash
+	5 Voltaic Strike
+	5 Mass Scrambler
+	5 Flux Launcher Maniac
+	5 Bionic Strength
+	5 Fluctuating Reality
+	5 Shambling Grotesquerie
+	5 Orzhov Guildgate
+	5 Dimir Guildgate
+	5 Izzet Guildgate
+	5 Tin Street
+	5 Orzhov Insignia
+	5 Gruul Insignia
+	5 Izzet Insignia
+	5 Selesnya Insignia
+	5 Dimir Insignia
+	5 Backstreet Informant
+	5 Deep Search
+	5 Anguished Fall
+	5 Moss Elemental
+	5 Protector of the Meek
+	5 Deep Sewage Lurker
+	5 Frontline Cultivator
+	5 Ninth District Benevolant
+	5 Walkers of the Dim
+	5 Lightningquake
+	5 Conclave Sentinel
+	5 Brilliant Artist
+	5 Duskmantle Agent
+	5 Mounted Warbeast
+	5 Rumbling Drake
+	5 Winged Mare
+	5 Zhur-Taa Ember Shaman
+	5 Falling Apart
+	5 Call of the Hunt
+	5 Deadly Familiar
+	5 Deafening Cacophony
+	5 Mind Tap
+	5 Izzet Apprentice
+	5 Slitz-Clan Opportunist
+	5 Debtor Hunter
+	5 Priest of the Old Ways
+	5 Syphon Psyche
+	5 Essence Shift
+	5 Dissect Thoughts
+	5 Subvert
+	5 Torpor
+	5 Bloodletter's Bat
+	5 Wild Stomper
+	5 Bolrac-Clan City Breacher
+	5 Cultivated Strength
+	5 Ravage
+	5 Static Elemental
+	5 Flaming Claws
+	5 Repurpose the Scraps
+	5 Reconfigure
+	5 Ironclad Cyclops
+	5 Rabid Sewer Rat
+	5 Sharer of the Ichor
+	5 Corrosive Bile Spitter
+	5 Conclave Sharpshooter
+	5 Shredding Barrage
+	5 Dryads' Blessing
+	5 Tend to the Gardens
+	5 Blessing of Wrath
+	5 Enforcers of the Guildpact
+	5 Forgotten Phantasm
+	5 Oppress
+	5 Vengeful Return
+	5 Conclave Spirewatch
+	5 Spectral Rider
+	5 Seventh Disctrict Scoundrel
+	5 Sewer Penumbra
+	5 Writhing Amalgamate
+	5 Memorable Feast
+	5 Guildpact's Blessing
+	5 Surgical Strike
+	5 Deep Wound
+	5 Gruul Guildgate
+	5 Selesnya Guildgate

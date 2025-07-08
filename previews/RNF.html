@@ -5,6 +5,10 @@
 	<link rel="stylesheet" href="/resources/header.css">
 	<title>RNF visual preview</title>
 	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -82,7 +86,7 @@
 		.banner {
 			width: 100%;
 			height: auto;
-			padding-top: 20px;
+			padding-top: 80px;
 			padding-bottom: 50px;
 		}
 		.logo {
@@ -118,33 +122,40 @@
 			background-size: contain;
 			background-position: center;
 		}
-		.icon-bar {
-			display: grid;
-			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
-			gap: 1px;
-			padding-left: 5%;
-			padding-right: 5%;
-			padding-top: 2%;
-			padding-bottom: 1%;
-			justify-items: center;
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
 			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
 		}
-		.icon-bar .icon img {
-			width: 90%;
-			max-width: 80px;
-			height: auto;
-			display: block;
-			padding: 5%;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
 		}
-		.icon-bar .dot img {
-			width: 50%;
-			max-width: 65px;
-			height: auto;
-			display: block;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
 		}
 		.preload-hidden {
 			display: none;
@@ -178,9 +189,10 @@
 		</div>
 	</div>
 
-	<div class="icon-bar">
-			<div class="icon"><a href="RNF"><img src="/sets/RNF-files/icon.png"></img></a></div>
-
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="RNF"><img src="/sets/RNF-files/icon.png">Ravnica Fractured</a>
+	
 		</div>
 		<div class="banner">
 		<img class="logo" src="/sets/RNF-files/logo.png">
@@ -262,86 +274,76 @@
 				<div class="container"><img alt="/sets\RNF-files\img\83_Thrull Collectors.png" id="83_Thrull Collectors" data-flag="@X" onclick="openSidebar('83_Thrull Collectors',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\114_Wave of Agitation.png" id="114_Wave of Agitation" data-flag="@X" onclick="openSidebar('114_Wave of Agitation',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\143_Votary Druid.png" id="143_Votary Druid" data-flag="@X" onclick="openSidebar('143_Votary Druid',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\242_Skin.png" id="242_Skin" data-flag="@X" onclick="openSidebar('242_Skin',true)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\237_Lost.png" id="237_Lost" data-flag="@X" onclick="openSidebar('237_Lost',true)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\59_Anguished Fall.png" id="59_Anguished Fall" data-flag="@X" onclick="openSidebar('59_Anguished Fall',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\235_Above.png" id="235_Above" data-flag="@X" onclick="openSidebar('235_Above',true)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\241_Rise.png" id="241_Rise" data-flag="@X" onclick="openSidebar('241_Rise',true)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\3_Conclave Spirewatch.png" id="3_Conclave Spirewatch" data-flag="@X" onclick="openSidebar('3_Conclave Spirewatch',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\238_Now.png" id="238_Now" data-flag="@X" onclick="openSidebar('238_Now',true)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\60_Bloodletter's Bat.png" id="60_Bloodletters Bat" data-flag="@X" onclick="openSidebar('60_Bloodletters Bat',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\31_Blinding Flash.png" id="31_Blinding Flash" data-flag="@X" onclick="openSidebar('31_Blinding Flash',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\59_Anguished Fall.png" id="59_Anguished Fall" data-flag="@X" onclick="openSidebar('59_Anguished Fall',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\91_Call of the Hunt.png" id="91_Call of the Hunt" data-flag="@X" onclick="openSidebar('91_Call of the Hunt',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\117_Blessing of Wrath.png" id="117_Blessing of Wrath" data-flag="@X" onclick="openSidebar('117_Blessing of Wrath',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\4_Deafening Cacophony.png" id="4_Deafening Cacophony" data-flag="@X" onclick="openSidebar('4_Deafening Cacophony',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\31_Blinding Flash.png" id="31_Blinding Flash" data-flag="@X" onclick="openSidebar('31_Blinding Flash',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\63_Clergy Enforcer.png" id="63_Clergy Enforcer" data-flag="@X" onclick="openSidebar('63_Clergy Enforcer',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\32_Brilliant Artist.png" id="32_Brilliant Artist" data-flag="@X" onclick="openSidebar('32_Brilliant Artist',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\60_Bloodletter's Bat.png" id="60_Bloodletters Bat" data-flag="@X" onclick="openSidebar('60_Bloodletters Bat',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\97_Flaming Claws.png" id="97_Flaming Claws" data-flag="@X" onclick="openSidebar('97_Flaming Claws',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\122_Conclave Sharpshooter.png" id="122_Conclave Sharpshooter" data-flag="@X" onclick="openSidebar('122_Conclave Sharpshooter',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\7_Falling Apart.png" id="7_Falling Apart" data-flag="@X" onclick="openSidebar('7_Falling Apart',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\32_Brilliant Artist.png" id="32_Brilliant Artist" data-flag="@X" onclick="openSidebar('32_Brilliant Artist',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\64_Corpse Excavator.png" id="64_Corpse Excavator" data-flag="@X" onclick="openSidebar('64_Corpse Excavator',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\35_Deep Search.png" id="35_Deep Search" data-flag="@X" onclick="openSidebar('35_Deep Search',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\63_Clergy Enforcer.png" id="63_Clergy Enforcer" data-flag="@X" onclick="openSidebar('63_Clergy Enforcer',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\98_Gate Breaker.png" id="98_Gate Breaker" data-flag="@X" onclick="openSidebar('98_Gate Breaker',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\124_Corrosive Bile Spitter.png" id="124_Corrosive Bile Spitter" data-flag="@X" onclick="openSidebar('124_Corrosive Bile Spitter',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\8_Frontline Cultivator.png" id="8_Frontline Cultivator" data-flag="@X" onclick="openSidebar('8_Frontline Cultivator',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\35_Deep Search.png" id="35_Deep Search" data-flag="@X" onclick="openSidebar('35_Deep Search',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\65_Cruel Robber.png" id="65_Cruel Robber" data-flag="@X" onclick="openSidebar('65_Cruel Robber',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\36_Deep Sewage Lurker.png" id="36_Deep Sewage Lurker" data-flag="@X" onclick="openSidebar('36_Deep Sewage Lurker',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\64_Corpse Excavator.png" id="64_Corpse Excavator" data-flag="@X" onclick="openSidebar('64_Corpse Excavator',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\99_Inquisitive Minotaur.png" id="99_Inquisitive Minotaur" data-flag="@X" onclick="openSidebar('99_Inquisitive Minotaur',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\125_Cultivated Strength.png" id="125_Cultivated Strength" data-flag="@X" onclick="openSidebar('125_Cultivated Strength',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\11_Guildpact's Blessing.png" id="11_Guildpacts Blessing" data-flag="@X" onclick="openSidebar('11_Guildpacts Blessing',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\36_Deep Sewage Lurker.png" id="36_Deep Sewage Lurker" data-flag="@X" onclick="openSidebar('36_Deep Sewage Lurker',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\66_Debtor Hunter.png" id="66_Debtor Hunter" data-flag="@X" onclick="openSidebar('66_Debtor Hunter',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\37_Dissect Thoughts.png" id="37_Dissect Thoughts" data-flag="@X" onclick="openSidebar('37_Dissect Thoughts',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\65_Cruel Robber.png" id="65_Cruel Robber" data-flag="@X" onclick="openSidebar('65_Cruel Robber',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\100_Ironclad Cyclops.png" id="100_Ironclad Cyclops" data-flag="@X" onclick="openSidebar('100_Ironclad Cyclops',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\128_Dryads' Blessing.png" id="128_Dryads Blessing" data-flag="@X" onclick="openSidebar('128_Dryads Blessing',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\12_Howling Gate.png" id="12_Howling Gate" data-flag="@X" onclick="openSidebar('12_Howling Gate',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\37_Dissect Thoughts.png" id="37_Dissect Thoughts" data-flag="@X" onclick="openSidebar('37_Dissect Thoughts',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\67_Deep Wound.png" id="67_Deep Wound" data-flag="@X" onclick="openSidebar('67_Deep Wound',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\42_Fluctuating Reality.png" id="42_Fluctuating Reality" data-flag="@X" onclick="openSidebar('42_Fluctuating Reality',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\66_Debtor Hunter.png" id="66_Debtor Hunter" data-flag="@X" onclick="openSidebar('66_Debtor Hunter',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\101_Izzet Apprentice.png" id="101_Izzet Apprentice" data-flag="@X" onclick="openSidebar('101_Izzet Apprentice',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\130_Enforcers of the Guildpact.png" id="130_Enforcers of the Guildpact" data-flag="@X" onclick="openSidebar('130_Enforcers of the Guildpact',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\14_Ledev Captain.png" id="14_Ledev Captain" data-flag="@X" onclick="openSidebar('14_Ledev Captain',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\42_Fluctuating Reality.png" id="42_Fluctuating Reality" data-flag="@X" onclick="openSidebar('42_Fluctuating Reality',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\72_Memorable Feast.png" id="72_Memorable Feast" data-flag="@X" onclick="openSidebar('72_Memorable Feast',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\43_Forgotten Phantasm.png" id="43_Forgotten Phantasm" data-flag="@X" onclick="openSidebar('43_Forgotten Phantasm',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\67_Deep Wound.png" id="67_Deep Wound" data-flag="@X" onclick="openSidebar('67_Deep Wound',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\102_Lightningquake.png" id="102_Lightningquake" data-flag="@X" onclick="openSidebar('102_Lightningquake',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\134_Moss Elemental.png" id="134_Moss Elemental" data-flag="@X" onclick="openSidebar('134_Moss Elemental',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\15_Ninth District Benevolant.png" id="15_Ninth District Benevolant" data-flag="@X" onclick="openSidebar('15_Ninth District Benevolant',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\43_Forgotten Phantasm.png" id="43_Forgotten Phantasm" data-flag="@X" onclick="openSidebar('43_Forgotten Phantasm',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\74_Oppress.png" id="74_Oppress" data-flag="@X" onclick="openSidebar('74_Oppress',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\46_Mind Tap.png" id="46_Mind Tap" data-flag="@X" onclick="openSidebar('46_Mind Tap',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\72_Memorable Feast.png" id="72_Memorable Feast" data-flag="@X" onclick="openSidebar('72_Memorable Feast',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\106_Mounted Warbeast.png" id="106_Mounted Warbeast" data-flag="@X" onclick="openSidebar('106_Mounted Warbeast',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\136_Mountain Hurler.png" id="136_Mountain Hurler" data-flag="@X" onclick="openSidebar('136_Mountain Hurler',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\18_Pontific Guard.png" id="18_Pontific Guard" data-flag="@X" onclick="openSidebar('18_Pontific Guard',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\46_Mind Tap.png" id="46_Mind Tap" data-flag="@X" onclick="openSidebar('46_Mind Tap',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\76_Profane Ceremony.png" id="76_Profane Ceremony" data-flag="@X" onclick="openSidebar('76_Profane Ceremony',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\51_Seventh Disctrict Scoundrel.png" id="51_Seventh Disctrict Scoundrel" data-flag="@X" onclick="openSidebar('51_Seventh Disctrict Scoundrel',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\74_Oppress.png" id="74_Oppress" data-flag="@X" onclick="openSidebar('74_Oppress',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\107_Ravage.png" id="107_Ravage" data-flag="@X" onclick="openSidebar('107_Ravage',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\137_Razortusk Piglet.png" id="137_Razortusk Piglet" data-flag="@X" onclick="openSidebar('137_Razortusk Piglet',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\21_Protector of the Meek.png" id="21_Protector of the Meek" data-flag="@X" onclick="openSidebar('21_Protector of the Meek',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\51_Seventh Disctrict Scoundrel.png" id="51_Seventh Disctrict Scoundrel" data-flag="@X" onclick="openSidebar('51_Seventh Disctrict Scoundrel',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\78_Rabid Sewer Rat.png" id="78_Rabid Sewer Rat" data-flag="@X" onclick="openSidebar('78_Rabid Sewer Rat',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\52_Spectral Rider.png" id="52_Spectral Rider" data-flag="@X" onclick="openSidebar('52_Spectral Rider',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\76_Profane Ceremony.png" id="76_Profane Ceremony" data-flag="@X" onclick="openSidebar('76_Profane Ceremony',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\108_Reconfigure.png" id="108_Reconfigure" data-flag="@X" onclick="openSidebar('108_Reconfigure',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\139_Shredding Barrage.png" id="139_Shredding Barrage" data-flag="@X" onclick="openSidebar('139_Shredding Barrage',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\25_Sharer of the Ichor.png" id="25_Sharer of the Ichor" data-flag="@X" onclick="openSidebar('25_Sharer of the Ichor',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\52_Spectral Rider.png" id="52_Spectral Rider" data-flag="@X" onclick="openSidebar('52_Spectral Rider',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\80_Sewer Penumbra.png" id="80_Sewer Penumbra" data-flag="@X" onclick="openSidebar('80_Sewer Penumbra',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\53_Static Elemental.png" id="53_Static Elemental" data-flag="@X" onclick="openSidebar('53_Static Elemental',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\78_Rabid Sewer Rat.png" id="78_Rabid Sewer Rat" data-flag="@X" onclick="openSidebar('78_Rabid Sewer Rat',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\109_Repurpose the Scraps.png" id="109_Repurpose the Scraps" data-flag="@X" onclick="openSidebar('109_Repurpose the Scraps',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\140_Slitz-Clan Opportunist.png" id="140_Slitz-Clan Opportunist" data-flag="@X" onclick="openSidebar('140_Slitz-Clan Opportunist',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\26_Sowing Courier.png" id="26_Sowing Courier" data-flag="@X" onclick="openSidebar('26_Sowing Courier',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\53_Static Elemental.png" id="53_Static Elemental" data-flag="@X" onclick="openSidebar('53_Static Elemental',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\82_Syphon Psyche.png" id="82_Syphon Psyche" data-flag="@X" onclick="openSidebar('82_Syphon Psyche',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\54_Subvert.png" id="54_Subvert" data-flag="@X" onclick="openSidebar('54_Subvert',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\80_Sewer Penumbra.png" id="80_Sewer Penumbra" data-flag="@X" onclick="openSidebar('80_Sewer Penumbra',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\113_Voltaic Strike.png" id="113_Voltaic Strike" data-flag="@X" onclick="openSidebar('113_Voltaic Strike',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\141_Tend to the Gardens.png" id="141_Tend to the Gardens" data-flag="@X" onclick="openSidebar('141_Tend to the Gardens',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\28_Surgical Strike.png" id="28_Surgical Strike" data-flag="@X" onclick="openSidebar('28_Surgical Strike',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\54_Subvert.png" id="54_Subvert" data-flag="@X" onclick="openSidebar('54_Subvert',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\87_Writhing Amalgamate.png" id="87_Writhing Amalgamate" data-flag="@X" onclick="openSidebar('87_Writhing Amalgamate',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\56_Torpor.png" id="56_Torpor" data-flag="@X" onclick="openSidebar('56_Torpor',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\82_Syphon Psyche.png" id="82_Syphon Psyche" data-flag="@X" onclick="openSidebar('82_Syphon Psyche',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\115_Wildheart Raiders.png" id="115_Wildheart Raiders" data-flag="@X" onclick="openSidebar('115_Wildheart Raiders',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\144_Vulpus Honorguard.png" id="144_Vulpus Honorguard" data-flag="@X" onclick="openSidebar('144_Vulpus Honorguard',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\29_Winged Mare.png" id="29_Winged Mare" data-flag="@X" onclick="openSidebar('29_Winged Mare',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\56_Torpor.png" id="56_Torpor" data-flag="@X" onclick="openSidebar('56_Torpor',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\58_Walkers of the Dim.png" id="58_Walkers of the Dim" data-flag="@X" onclick="openSidebar('58_Walkers of the Dim',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\87_Writhing Amalgamate.png" id="87_Writhing Amalgamate" data-flag="@X" onclick="openSidebar('87_Writhing Amalgamate',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\116_Zhur-Taa Ember Shaman.png" id="116_Zhur-Taa Ember Shaman" data-flag="@X" onclick="openSidebar('116_Zhur-Taa Ember Shaman',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\145_Wild Stomper.png" id="145_Wild Stomper" data-flag="@X" onclick="openSidebar('145_Wild Stomper',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\58_Walkers of the Dim.png" id="58_Walkers of the Dim" data-flag="@X" onclick="openSidebar('58_Walkers of the Dim',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
@@ -419,9 +421,14 @@
 				<div class="container"><img alt="/sets\RNF-files\img\210_Subjugating Bolt.png" id="210_Subjugating Bolt" data-flag="@X" onclick="openSidebar('210_Subjugating Bolt',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\229_Manipulation Guildmage.png" id="229_Manipulation Guildmage" data-flag="@X" onclick="openSidebar('229_Manipulation Guildmage',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\234_Wrath Guildmage.png" id="234_Wrath Guildmage" data-flag="@X" onclick="openSidebar('234_Wrath Guildmage',false)"></div>
-				<div class="container"><img alt="/sets\RNF-files\img\164_Conclave Sentinel.png" id="164_Conclave Sentinel" data-flag="@X" onclick="openSidebar('164_Conclave Sentinel',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\241_Rise.png" id="241_Rise" data-flag="@X" onclick="openSidebar('241_Rise',true)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\224_Devotion Guildmage.png" id="224_Devotion Guildmage" data-flag="@X" onclick="openSidebar('224_Devotion Guildmage',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\227_Innovation Guildmage.png" id="227_Innovation Guildmage" data-flag="@X" onclick="openSidebar('227_Innovation Guildmage',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\237_Lost.png" id="237_Lost" data-flag="@X" onclick="openSidebar('237_Lost',true)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\235_Above.png" id="235_Above" data-flag="@X" onclick="openSidebar('235_Above',true)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\164_Conclave Sentinel.png" id="164_Conclave Sentinel" data-flag="@X" onclick="openSidebar('164_Conclave Sentinel',false)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\242_Skin.png" id="242_Skin" data-flag="@X" onclick="openSidebar('242_Skin',true)"></div>
+				<div class="container"><img alt="/sets\RNF-files\img\238_Now.png" id="238_Now" data-flag="@X" onclick="openSidebar('238_Now',true)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\172_Duskmantle Agent.png" id="172_Duskmantle Agent" data-flag="@X" onclick="openSidebar('172_Duskmantle Agent',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\155_Bolrac-Clan City Breacher.png" id="155_Bolrac-Clan City Breacher" data-flag="@X" onclick="openSidebar('155_Bolrac-Clan City Breacher',false)"></div>
 				<div class="container"><img alt="/sets\RNF-files\img\181_Flowermane Healer.png" id="181_Flowermane Healer" data-flag="@X" onclick="openSidebar('181_Flowermane Healer',false)"></div>
@@ -700,6 +707,24 @@
 
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
 	}
 
 	document.getElementById("search").addEventListener("keypress", function(event) {

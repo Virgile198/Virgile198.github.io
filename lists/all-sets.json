@@ -1,1 +1,9 @@
-﻿{"sets": [{"set_code": "RNF", "set_name": "Ravnica Fractured", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "RNF",
+            "set_name": "Ravnica Fractured",
+            "formats": ""
+        }
+    ]
+}

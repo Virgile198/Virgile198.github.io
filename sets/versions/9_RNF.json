@@ -3,7 +3,7 @@
     "formats": "",
     "trimmed": "n",
     "image_type": "png",
-    "draft_structure": "play booster",
+    "draft_structure": "draft booster",
     "cards": [
         {
             "card_name": "Sootfurr Brute",
@@ -705,7 +705,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ThemeFinland",
-            "notes": "!tag Selesnya"
+            "notes": ""
         },
         {
             "card_name": "Ledev Captain",
@@ -3157,7 +3157,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "KrankArt",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Selesnya Sporewielder",
@@ -3239,7 +3239,7 @@
             "number": 192,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Lifelink\nWard\u2014{2}, Pay 2 life.\nPay 2 life: Tap target untapped creature you don't control. It gets -1/-1 and it loses all its abilities until end of turn.",
+            "rules_text": "Deathtouch, lifelink\nWard\u2014{2}, Pay 2 life.\nPay 2 life: Tap target untapped creature you don't control. It gets -1/-1 and it loses all its abilities until end of turn.",
             "flavor_text": "[i]Kneel.[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -3555,7 +3555,7 @@
             "number": 163,
             "color_identity": "WB",
             "cost": "{W}{W}{B}{B}",
-            "rules_text": "Flying, double strike, deathtouch\n[i]Oblation 2[/i] \u2014 When this creature enters, you may pay 2 life. If you do, target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.",
+            "rules_text": "Flying, double strike\n[i]Oblation 2[/i] \u2014 When this creature enters, you may pay 2 life. If you do, target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",

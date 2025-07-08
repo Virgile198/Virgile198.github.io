@@ -450,50 +450,20 @@
         "set": "RNF"
     },
     {
-        "card_name": "Skin",
-        "number": 242,
-        "shape": "fuse split",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Lost",
-        "number": 237,
-        "shape": "fuse split",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Anguished Fall",
-        "number": 59,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Above",
-        "number": 235,
-        "shape": "fuse split",
-        "set": "RNF"
-    },
-    {
-        "card_name": "Rise",
-        "number": 241,
-        "shape": "fuse split",
-        "set": "RNF"
-    },
-    {
         "card_name": "Conclave Spirewatch",
         "number": 3,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Now",
-        "number": 238,
-        "shape": "fuse split",
+        "card_name": "Blinding Flash",
+        "number": 31,
+        "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Bloodletter's Bat",
-        "number": 60,
+        "card_name": "Anguished Fall",
+        "number": 59,
         "shape": "normal",
         "set": "RNF"
     },
@@ -516,14 +486,14 @@
         "set": "RNF"
     },
     {
-        "card_name": "Blinding Flash",
-        "number": 31,
+        "card_name": "Brilliant Artist",
+        "number": 32,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Clergy Enforcer",
-        "number": 63,
+        "card_name": "Bloodletter's Bat",
+        "number": 60,
         "shape": "normal",
         "set": "RNF"
     },
@@ -546,14 +516,14 @@
         "set": "RNF"
     },
     {
-        "card_name": "Brilliant Artist",
-        "number": 32,
+        "card_name": "Deep Search",
+        "number": 35,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Corpse Excavator",
-        "number": 64,
+        "card_name": "Clergy Enforcer",
+        "number": 63,
         "shape": "normal",
         "set": "RNF"
     },
@@ -576,14 +546,14 @@
         "set": "RNF"
     },
     {
-        "card_name": "Deep Search",
-        "number": 35,
+        "card_name": "Deep Sewage Lurker",
+        "number": 36,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Cruel Robber",
-        "number": 65,
+        "card_name": "Corpse Excavator",
+        "number": 64,
         "shape": "normal",
         "set": "RNF"
     },
@@ -606,14 +576,14 @@
         "set": "RNF"
     },
     {
-        "card_name": "Deep Sewage Lurker",
-        "number": 36,
+        "card_name": "Dissect Thoughts",
+        "number": 37,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Debtor Hunter",
-        "number": 66,
+        "card_name": "Cruel Robber",
+        "number": 65,
         "shape": "normal",
         "set": "RNF"
     },
@@ -636,14 +606,14 @@
         "set": "RNF"
     },
     {
-        "card_name": "Dissect Thoughts",
-        "number": 37,
+        "card_name": "Fluctuating Reality",
+        "number": 42,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Deep Wound",
-        "number": 67,
+        "card_name": "Debtor Hunter",
+        "number": 66,
         "shape": "normal",
         "set": "RNF"
     },
@@ -666,14 +636,14 @@
         "set": "RNF"
     },
     {
-        "card_name": "Fluctuating Reality",
-        "number": 42,
+        "card_name": "Forgotten Phantasm",
+        "number": 43,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Memorable Feast",
-        "number": 72,
+        "card_name": "Deep Wound",
+        "number": 67,
         "shape": "normal",
         "set": "RNF"
     },
@@ -696,14 +666,14 @@
         "set": "RNF"
     },
     {
-        "card_name": "Forgotten Phantasm",
-        "number": 43,
+        "card_name": "Mind Tap",
+        "number": 46,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Oppress",
-        "number": 74,
+        "card_name": "Memorable Feast",
+        "number": 72,
         "shape": "normal",
         "set": "RNF"
     },
@@ -726,14 +696,14 @@
         "set": "RNF"
     },
     {
-        "card_name": "Mind Tap",
-        "number": 46,
+        "card_name": "Seventh Disctrict Scoundrel",
+        "number": 51,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Profane Ceremony",
-        "number": 76,
+        "card_name": "Oppress",
+        "number": 74,
         "shape": "normal",
         "set": "RNF"
     },
@@ -756,14 +726,14 @@
         "set": "RNF"
     },
     {
-        "card_name": "Seventh Disctrict Scoundrel",
-        "number": 51,
+        "card_name": "Spectral Rider",
+        "number": 52,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Rabid Sewer Rat",
-        "number": 78,
+        "card_name": "Profane Ceremony",
+        "number": 76,
         "shape": "normal",
         "set": "RNF"
     },
@@ -786,14 +756,14 @@
         "set": "RNF"
     },
     {
-        "card_name": "Spectral Rider",
-        "number": 52,
+        "card_name": "Static Elemental",
+        "number": 53,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Sewer Penumbra",
-        "number": 80,
+        "card_name": "Rabid Sewer Rat",
+        "number": 78,
         "shape": "normal",
         "set": "RNF"
     },
@@ -816,14 +786,14 @@
         "set": "RNF"
     },
     {
-        "card_name": "Static Elemental",
-        "number": 53,
+        "card_name": "Subvert",
+        "number": 54,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Syphon Psyche",
-        "number": 82,
+        "card_name": "Sewer Penumbra",
+        "number": 80,
         "shape": "normal",
         "set": "RNF"
     },
@@ -846,14 +816,14 @@
         "set": "RNF"
     },
     {
-        "card_name": "Subvert",
-        "number": 54,
+        "card_name": "Torpor",
+        "number": 56,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Writhing Amalgamate",
-        "number": 87,
+        "card_name": "Syphon Psyche",
+        "number": 82,
         "shape": "normal",
         "set": "RNF"
     },
@@ -876,13 +846,16 @@
         "set": "RNF"
     },
     {
-        "card_name": "Torpor",
-        "number": 56,
+        "card_name": "Walkers of the Dim",
+        "number": 58,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "e"
+        "card_name": "Writhing Amalgamate",
+        "number": 87,
+        "shape": "normal",
+        "set": "RNF"
     },
     {
         "card_name": "Zhur-Taa Ember Shaman",
@@ -895,24 +868,6 @@
         "number": 145,
         "shape": "normal",
         "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Walkers of the Dim",
-        "number": 58,
-        "shape": "normal",
-        "set": "RNF"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1360,9 +1315,9 @@
         "set": "RNF"
     },
     {
-        "card_name": "Conclave Sentinel",
-        "number": 164,
-        "shape": "normal",
+        "card_name": "Rise",
+        "number": 241,
+        "shape": "fuse split",
         "set": "RNF"
     },
     {
@@ -1375,6 +1330,36 @@
         "card_name": "Innovation Guildmage",
         "number": 227,
         "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Lost",
+        "number": 237,
+        "shape": "fuse split",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Above",
+        "number": 235,
+        "shape": "fuse split",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Conclave Sentinel",
+        "number": 164,
+        "shape": "normal",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Skin",
+        "number": 242,
+        "shape": "fuse split",
+        "set": "RNF"
+    },
+    {
+        "card_name": "Now",
+        "number": 238,
+        "shape": "fuse split",
         "set": "RNF"
     },
     {
