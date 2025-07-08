@@ -1,4 +1,449 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Dew's Benediction added.
+
+Unyielding Determination removed.
+
+Sootfurr Brute
+
+Mizzium Canon
+
+Burning-Tree Blackhorn
+
+Wildheart Raiders
+
+Inquisitive Minotaur
+
+Mountain Hurler
+
+Shamanic Power
+
+Bloodrust Assailant
+
+Augmented Monstrosity
+
+Razortusk Piglet
+
+Rejuvenated Wood-Kin
+
+Charitable Thrull
+
+Spectral Advisor
+
+Clergy Enforcer
+
+Cruel Robber
+
+Corpse Excavator
+
+Euthanist Master
+
+Profitable Demise
+
+Teysa Karlov, Master of Deals
+
+Treasured Pet
+
+Assessor of Worth
+
+Priest of The Welcoming
+
+Orzhov Seizebeast
+
+Vulpus Honorguard
+
+Howling Gate
+
+Knight of Denial
+
+Pontific Guard
+
+Profane Ceremony
+
+Pruning
+
+Flowerbed Envoy's Call
+
+Precinct Archprotector
+
+Worldring Uroboros
+
+Bolstering Spores
+
+Ledev Captain
+
+Flowermane Healer
+
+Pollen Storm
+rules_text: This spell costs {3} less to cast if it targets a tapped permanent.
+Exile target nonland permanent. => This spell costs {3} less to cast if it targets a tapped permanent.
+Exile target nonland permanent. You gain 2 life.
+
+Coordinated Assault
+
+Protector of the Glade
+
+Selesnya Caretaker
+
+Sowing Courier
+
+Branching Possibilities
+
+Ral, Thundering Genius
+
+Ceremony of Fury
+
+Overflowing Buffer
+
+Thought Accelerator
+
+Blinding Flash
+
+Voltaic Strike
+
+Mass Scrambler
+
+Flux Launcher Maniac
+
+Ecstatic Fluxburster
+
+Bionic Strength
+
+Fluctuating Reality
+
+Aether Condensator
+
+Cognition Theft
+
+Shambling Grotesquerie
+
+Clawing Grasp
+
+Mind Hemorrhage
+
+Orzhov Guildgate
+
+Dimir Guildgate
+
+Izzet Guildgate
+
+Orzhov Insignia
+
+Gruul Insignia
+
+Izzet Insignia
+
+Selesnya Insignia
+
+Dimir Insignia
+
+Watery Grave
+
+Stomping Ground
+
+Temple Garden
+
+Godless Shrine
+
+Steam Vents
+
+Hidden Scrutiny
+
+Backstreet Informant
+
+Deep Search
+
+Anguished Fall
+
+Moss Elemental
+
+Protector of the Meek
+
+Thrull Collectors
+
+Frontline Cultivator
+
+Ninth District Benevolant
+
+Walkers of the Dim
+
+Lightningquake
+
+Conclave Sentinel
+
+Brilliant Artist
+
+Flood of Memories
+
+Duskmantle Agent
+
+Mounted Warbeast
+
+Rumbling Drake
+
+Catacombs Cleaner
+
+Thraka, Ire of the Wilds
+
+Cleanser of Debt
+
+Spirit
+
+Hellion
+
+Elemental
+
+Bird
+
+Elf Knight
+
+Elemental
+
+Zhur-Taa Ember Shaman
+
+Falling Apart
+
+Call of the Hunt
+
+Deadly Familiar
+
+Deafening Cacophony
+
+Mind Tap
+
+Izzet Apprentice
+
+Slitz-Clan Opportunist
+
+Debtor Hunter
+
+Lightning Rider
+
+Priest of the Old Ways
+
+Magebane Rawhide
+
+Caller of the Wilds
+
+Guardian of the Hour
+
+Unearthed Mysteries
+
+Lightning Catalyst
+
+Maree, Nivix Grand Chamberlain
+
+Reload
+
+Factory Line
+
+Workshop Supervisor
+
+Blessing of Savagery
+
+Bushfire Shaman
+
+Ghor-Clan Charger
+
+Ram
+
+Rakasht, Spawn of Ulasht
+
+Mind Warp
+
+Syphon Psyche
+
+Essence Shift
+
+Choosen of the Worldsoul
+
+Spore Waltz
+
+Vanish
+
+Circu, Butcher of Memories
+
+Examination
+
+Incisive Reversal
+
+Sewer Grafter
+
+Unending Nightmare
+
+Selesnya Sporewielder
+
+Cemetery Guardian
+
+Cruel Advokist
+
+Dispossession
+
+Milana, Orzhov High Prelate
+
+Vitality
+
+Dissect Thoughts
+
+Wild Stomper
+
+Due of the Powerless
+
+Mindflayer of the Dim
+
+Hyper Space Time Bubble
+
+Ashentrunk Icinerator
+
+Factory Sentinel
+
+Heart of Cinders
+
+Flourishing Phytohydra
+
+Dimir Necrosage
+
+Coldhearted Cardinal
+
+Bolrac-Clan City Breacher
+
+Cultivated Strength
+
+Fiery Form
+
+Gorz'Ghum, War Incense
+
+Gravel-Hide Channeler
+
+Wrath Guildmage
+
+Alcarus, Old Growth Protector
+
+Burgeoning Troops
+
+Harmony Guildmage
+
+Ironroot Bindings
+
+Poised to Strike
+
+Rise
+
+Rootguard Loxodon
+
+Repurpose the Scraps
+
+Pontif Pet
+
+Become Dust
+
+Devotion Guildmage
+
+Priest of Purification
+
+Skin
+
+The Cozen
+
+Ironclad Cyclops
+
+Cerebrospiker
+
+Subjugating Bolt
+
+Innovation Guildmage
+
+Now
+
+Polarity Switcher
+
+Rix Navven, Overcharged Brute
+
+Scorching Thunder
+rules_text: Players can't gain life this turn. Damage can't be prevented this turn. This spell deals X damage to any target. => Players can't gain life this turn. Damage can't be prevented this turn. This spell deals X damage to any target.
+This spell costs {1} less to cast for each creature you control with 4 or greater.
+
+Dimir Cutthroat
+
+Lost
+
+Manipulation Guildmage
+
+Sleeper Spybug
+
+Violent Reshaping
+
+Zorin, Returned from the Dim
+
+Sharer of the Ichor
+
+Corrosive Bile Spitter
+
+Conclave Sharpshooter
+
+Secret Seeker
+
+Rhino
+
+Wurm
+
+Durn'mir
+
+Aspect of Uniformity
+
+Above
+
+Blooming Sanctuary
+
+Vengeful Return
+
+Conclave Spirewatch
+
+Escalating Wrath
+
+Spectral Rider
+
+Eidolon's Call
+
+Retriever of Secrets
+
+Sewer Penumbra
+
+Writhing Amalgamate
+
+Galvanizing Call
+
+Blessing of Vitu-Ghazi
+
+Memorable Feast
+
+Rousing Freemage
+
+Guildpact's Blessing
+
+Surgical Strike
+
+Centaur
+
+Votary Druid
+
+Furious Pangoduan
+
+Wasteful Inheritor
+
+Ruins Scavenger
+
+Bat
+
+Emmara, Ancestral Caregiver
+
+Gruul Guildgate
+
+Selesnya Guildgate
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

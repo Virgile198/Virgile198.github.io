@@ -1,7 +1,7 @@
 ﻿[
     {
         "card_name": "Guardian of the Hour",
-        "number": 9,
+        "number": 10,
         "shape": "normal",
         "set": "RNF"
     },
@@ -30,8 +30,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Precinct Archprotector",
-        "number": 18,
+        "card_name": "Dew's Benediction",
+        "number": 5,
         "shape": "normal",
         "set": "RNF"
     },
@@ -60,7 +60,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Priest of The Welcoming",
+        "card_name": "Precinct Archprotector",
         "number": 19,
         "shape": "normal",
         "set": "RNF"
@@ -90,8 +90,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Pruning",
-        "number": 21,
+        "card_name": "Priest of The Welcoming",
+        "number": 20,
         "shape": "normal",
         "set": "RNF"
     },
@@ -120,8 +120,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Spectral Advisor",
-        "number": 26,
+        "card_name": "Pruning",
+        "number": 22,
         "shape": "normal",
         "set": "RNF"
     },
@@ -150,8 +150,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Unyielding Determination",
-        "number": 28,
+        "card_name": "Spectral Advisor",
+        "number": 27,
         "shape": "normal",
         "set": "RNF"
     },
@@ -241,7 +241,7 @@
     },
     {
         "card_name": "Eidolon's Call",
-        "number": 5,
+        "number": 6,
         "shape": "normal",
         "set": "RNF"
     },
@@ -271,7 +271,7 @@
     },
     {
         "card_name": "Galvanizing Call",
-        "number": 8,
+        "number": 9,
         "shape": "normal",
         "set": "RNF"
     },
@@ -301,7 +301,7 @@
     },
     {
         "card_name": "Ironroot Bindings",
-        "number": 12,
+        "number": 13,
         "shape": "normal",
         "set": "RNF"
     },
@@ -331,7 +331,7 @@
     },
     {
         "card_name": "Orzhov Seizebeast",
-        "number": 15,
+        "number": 16,
         "shape": "normal",
         "set": "RNF"
     },
@@ -361,7 +361,7 @@
     },
     {
         "card_name": "Pollen Storm",
-        "number": 16,
+        "number": 17,
         "shape": "normal",
         "set": "RNF"
     },
@@ -391,7 +391,7 @@
     },
     {
         "card_name": "Rousing Freemage",
-        "number": 22,
+        "number": 23,
         "shape": "normal",
         "set": "RNF"
     },
@@ -421,7 +421,7 @@
     },
     {
         "card_name": "Selesnya Sporewielder",
-        "number": 23,
+        "number": 24,
         "shape": "normal",
         "set": "RNF"
     },
@@ -541,7 +541,7 @@
     },
     {
         "card_name": "Falling Apart",
-        "number": 6,
+        "number": 7,
         "shape": "normal",
         "set": "RNF"
     },
@@ -571,7 +571,7 @@
     },
     {
         "card_name": "Frontline Cultivator",
-        "number": 7,
+        "number": 8,
         "shape": "normal",
         "set": "RNF"
     },
@@ -601,7 +601,7 @@
     },
     {
         "card_name": "Guildpact's Blessing",
-        "number": 10,
+        "number": 11,
         "shape": "normal",
         "set": "RNF"
     },
@@ -631,7 +631,7 @@
     },
     {
         "card_name": "Howling Gate",
-        "number": 11,
+        "number": 12,
         "shape": "normal",
         "set": "RNF"
     },
@@ -661,7 +661,7 @@
     },
     {
         "card_name": "Ledev Captain",
-        "number": 13,
+        "number": 14,
         "shape": "normal",
         "set": "RNF"
     },
@@ -691,7 +691,7 @@
     },
     {
         "card_name": "Ninth District Benevolant",
-        "number": 14,
+        "number": 15,
         "shape": "normal",
         "set": "RNF"
     },
@@ -721,7 +721,7 @@
     },
     {
         "card_name": "Pontific Guard",
-        "number": 17,
+        "number": 18,
         "shape": "normal",
         "set": "RNF"
     },
@@ -751,7 +751,7 @@
     },
     {
         "card_name": "Protector of the Meek",
-        "number": 20,
+        "number": 21,
         "shape": "normal",
         "set": "RNF"
     },
@@ -781,7 +781,7 @@
     },
     {
         "card_name": "Sharer of the Ichor",
-        "number": 24,
+        "number": 25,
         "shape": "normal",
         "set": "RNF"
     },
@@ -811,7 +811,7 @@
     },
     {
         "card_name": "Sowing Courier",
-        "number": 25,
+        "number": 26,
         "shape": "normal",
         "set": "RNF"
     },
@@ -841,7 +841,7 @@
     },
     {
         "card_name": "Surgical Strike",
-        "number": 27,
+        "number": 28,
         "shape": "normal",
         "set": "RNF"
     },

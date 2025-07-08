@@ -165,9 +165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Spirit Advisor",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/26_Spectral Advisor.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/27_Spectral Advisor.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/19_Priest of The Welcoming.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/20_Priest of The Welcoming.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Beast",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/15_Orzhov Seizebeast.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/16_Orzhov Seizebeast.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Spirit Wall",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/11_Howling Gate.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/12_Howling Gate.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Spirit",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/17_Pontific Guard.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/18_Pontific Guard.png"
 			}
 		},
 		{
@@ -345,9 +345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/21_Pruning.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/22_Pruning.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Elephant Cleric",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/18_Precinct Archprotector.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/19_Precinct Archprotector.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elf Knight",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/13_Ledev Captain.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/14_Ledev Captain.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Instant",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/16_Pollen Storm.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/17_Pollen Storm.png"
 			}
 		},
 		{
@@ -455,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Instant",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/25_Sowing Courier.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/26_Sowing Courier.png"
 			}
 		},
 		{
@@ -1015,9 +1015,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/20_Protector of the Meek.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/21_Protector of the Meek.png"
 			}
 		},
 		{
@@ -1045,9 +1045,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/7_Frontline Cultivator.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/8_Frontline Cultivator.png"
 			}
 		},
 		{
@@ -1055,9 +1055,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/14_Ninth District Benevolant.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/15_Ninth District Benevolant.png"
 			}
 		},
 		{
@@ -1345,9 +1345,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/6_Falling Apart.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/7_Falling Apart.png"
 			}
 		},
 		{
@@ -1485,9 +1485,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}{W}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/9_Guardian of the Hour.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/10_Guardian of the Hour.png"
 			}
 		},
 		{
@@ -1735,9 +1735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/23_Selesnya Sporewielder.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/24_Selesnya Sporewielder.png"
 			}
 		},
 		{
@@ -2065,9 +2065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/12_Ironroot Bindings.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/13_Ironroot Bindings.png"
 			}
 		},
 		{
@@ -2405,9 +2405,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/24_Sharer of the Ichor.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/25_Sharer of the Ichor.png"
 			}
 		},
 		{
@@ -2711,23 +2711,13 @@
 			}
 		},
 		{
-			"name": "Unyielding Determination",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}",
-			"type": "Enchantment",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/28_Unyielding Determination.png"
-			}
-		},
-		{
 			"name": "Eidolon's Call",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/5_Eidolon's Call.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/6_Eidolon's Call.png"
 			}
 		},
 		{
@@ -2765,9 +2755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/8_Galvanizing Call.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/9_Galvanizing Call.png"
 			}
 		},
 		{
@@ -2795,9 +2785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/22_Rousing Freemage.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/23_Rousing Freemage.png"
 			}
 		},
 		{
@@ -2805,9 +2795,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/10_Guildpact's Blessing.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/11_Guildpact's Blessing.png"
 			}
 		},
 		{
@@ -2815,9 +2805,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/27_Surgical Strike.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/28_Surgical Strike.png"
 			}
 		},
 		{
@@ -2949,6 +2939,16 @@
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/264_Selesnya Guildgate.png"
 			}
+		},
+		{
+			"name": "Dew's Benediction",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/5_Dew's Benediction.png"
+			}
 		}
 	]
 
@@ -3034,9 +3034,9 @@
 	2 Cloud Drinker
 	1 Aspect of Uniformity
 	2 Blooming Sanctuary
-	2 Unyielding Determination
 	2 Retriever of Secrets
 	2 Emmara, Ancestral Caregiver
+	2 Dew's Benediction
 [uncommon(3)]
 	4 Shamanic Power
 	4 Augmented Monstrosity
@@ -3474,7 +3474,6 @@
 	15 Escalating Wrath
 	6 Spectral Rider
 	6 Seventh Disctrict Scoundrel
-	7 Unyielding Determination
 	15 Eidolon's Call
 	7 Retriever of Secrets
 	6 Sewer Penumbra
@@ -3496,3 +3495,4 @@
 	7 Emmara, Ancestral Caregiver
 	6 Gruul Guildgate
 	6 Selesnya Guildgate
+	7 Dew's Benediction
