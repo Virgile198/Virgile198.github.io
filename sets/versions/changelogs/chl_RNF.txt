@@ -1,4 +1,442 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+Sootfurr Brute
+
+Mizzium Canon
+
+Burning-Tree Blackhorn
+
+Wildheart Raiders
+
+Inquisitive Minotaur
+
+Mountain Hurler
+
+Shamanic Power
+
+Bloodrust Assailant
+
+Fierce Maaka Kitten
+rules_text: Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
+Discard a card: This creature gains your choice of first strike, menace, trample or haste until end of turn. => Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
+At the beginning of combat on your turn, you may discard a card. If you do, this creature gains your choice of first strike, menace, trample or haste until end of turn.
+
+Augmented Monstrosity
+
+Razortusk Piglet
+
+Rejuvenated Wood-Kin
+
+Charitable Thrull
+
+Clergy Enforcer
+
+Cruel Robber
+
+Corpse Excavator
+
+Euthanist Master
+
+Profitable Demise
+
+Teysa Karlov, Master of Deals
+
+Treasured Pet
+
+Assessor of Worth
+
+Priest of The Welcoming
+
+Orzhov Seizebeast
+
+Vulpus Honorguard
+
+Howling Gate
+
+Knight of Denial
+
+Pontific Guard
+
+Profane Ceremony
+
+Pruning
+
+Flowerbed Envoy's Call
+
+Worldring Uroboros
+
+Bolstering Spores
+rules_text: Choose one —
+• Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature or planeswalker you don't control.
+• Creatures you control get +0/+3 and gain reach until end of turn. => Choose one —
+• Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don't control.
+• Creatures you control get +0/+3 and gain reach until end of turn.
+
+Ledev Captain
+
+Flowermane Healer
+
+Pollen Storm
+
+Coordinated Assault
+
+Protector of the Glade
+
+Selesnya Caretaker
+
+Sowing Courier
+
+Branching Possibilities
+
+Ral, Thundering Genius
+
+Ceremony of Fury
+
+Overflowing Buffer
+
+Thought Accelerator
+
+Blinding Flash
+
+Voltaic Strike
+
+Mass Scrambler
+
+Flux Launcher Maniac
+
+Ecstatic Fluxburster
+
+Bionic Strength
+
+Fluctuating Reality
+
+Aether Condensator
+
+Cognition Theft
+
+Shambling Grotesquerie
+
+Clawing Grasp
+
+Mind Hemorrhage
+
+Orzhov Guildgate
+
+Dimir Guildgate
+
+Izzet Guildgate
+
+Orzhov Insignia
+
+Gruul Insignia
+
+Izzet Insignia
+
+Selesnya Insignia
+
+Dimir Insignia
+
+Watery Grave
+
+Stomping Ground
+
+Temple Garden
+
+Godless Shrine
+
+Steam Vents
+
+Hidden Scrutiny
+
+Backstreet Informant
+
+Deep Search
+
+Anguished Fall
+
+Moss Elemental
+
+Thrull Collectors
+
+Frontline Cultivator
+
+Walkers of the Dim
+
+Lightningquake
+
+Conclave Sentinel
+
+Brilliant Artist
+
+Flood of Memories
+
+Duskmantle Agent
+
+Mounted Warbeast
+
+Rumbling Drake
+
+Catacombs Cleaner
+
+Thraka, Ire of the Wilds
+
+Cleanser of Debt
+
+Spirit
+
+Hellion
+
+Elemental
+
+Bird
+
+Elf Knight
+
+Elemental
+
+Zhur-Taa Ember Shaman
+
+Call of the Hunt
+
+Deadly Familiar
+
+Deafening Cacophony
+
+Mind Tap
+
+Izzet Apprentice
+
+Slitz-Clan Opportunist
+
+Debtor Hunter
+
+Lightning Rider
+
+Priest of the Old Ways
+
+Magebane Rawhide
+
+Caller of the Wilds
+
+Arrogant Ermit
+rules_text: Ward {2}
+{T}: Add {U}. Spend this mana only to cast an instant or sorcery spell.
+{T}: Add {C}{C}. Spend this mana only to cast spells and activate abilities from your graveyard. => Ward {1}
+{T}: Add {U}. Spend this mana only to cast an instant or sorcery spell.
+{T}: Add {C}{C}. Spend this mana only to cast spells and activate abilities from your graveyard.
+
+Unearthed Mysteries
+
+Lightning Catalyst
+
+Maree, Nivix Grand Chamberlain
+
+Reload
+
+Factory Line
+
+Workshop Supervisor
+
+Blessing of Savagery
+
+Bushfire Shaman
+
+Ghor-Clan Charger
+
+Ram
+
+Rakasht, Spawn of Ulasht
+
+Mind Warp
+
+Syphon Psyche
+
+Essence Shift
+
+Choosen of the Worldsoul
+
+Spore Waltz
+
+Vanish
+
+Circu, Butcher of Memories
+
+Examination
+
+Incisive Reversal
+
+Sewer Grafter
+
+Unending Nightmare
+
+Selesnya Sporewielder
+
+Cemetery Guardian
+
+Cruel Advokist
+
+Dispossession
+
+Milana, Orzhov High Prelate
+
+Vitality
+
+Dissect Thoughts
+
+Wild Stomper
+
+Due of the Powerless
+
+Mindflayer of the Dim
+
+Hyper Space Time Bubble
+
+Ashentrunk Icinerator
+
+Factory Sentinel
+
+Heart of Cinders
+
+Flourishing Phytohydra
+
+Dimir Necrosage
+
+Coldhearted Cardinal
+
+Bolrac-Clan City Breacher
+
+Cultivated Strength
+
+Fiery Form
+
+Gorz'Ghum, War Incense
+
+Gravel-Hide Channeler
+
+Wrath Guildmage
+
+Alcarus, Old Growth Protector
+
+Burgeoning Troops
+
+Harmony Guildmage
+
+Ironroot Bindings
+
+Poised to Strike
+
+Rise
+
+Rootguard Loxodon
+
+Repurpose the Scraps
+
+Pontif Pet
+
+Become Dust
+
+Devotion Guildmage
+
+Priest of Purification
+
+Skin
+
+The Cozen
+
+Ironclad Cyclops
+
+Cerebrospiker
+
+Subjugating Bolt
+
+Innovation Guildmage
+
+Now
+
+Polarity Switcher
+
+Rix Navven, Overcharged Brute
+
+Scorching Thunder
+
+Dimir Cutthroat
+
+Lost
+
+Manipulation Guildmage
+
+Sleeper Spybug
+
+Violent Reshaping
+
+Zorin, Returned from the Dim
+
+Sharer of the Ichor
+
+Corrosive Bile Spitter
+
+Conclave Sharpshooter
+
+Insatiable Moroii
+pt: 4/4 => 5/4
+
+Secret Seeker
+
+Rhino
+
+Wurm
+
+Durn'mir
+
+Aspect of Uniformity
+
+Above
+
+Blooming Sanctuary
+
+Vengeful Return
+
+Conclave Spirewatch
+
+Escalating Wrath
+
+Spectral Rider
+
+Retriever of Secrets
+
+Sewer Penumbra
+
+Writhing Amalgamate
+
+Galvanizing Call
+
+Blessing of Vitu-Ghazi
+
+Memorable Feast
+
+Centaur
+
+Votary Druid
+
+Furious Pangoduan
+
+Wasteful Inheritor
+
+Ruins Scavenger
+
+Bat
+
+Emmara, Ancestral Caregiver
+
+Gruul Guildgate
+
+Selesnya Guildgate
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Voltaic Strike added.

@@ -761,16 +761,6 @@
 			}
 		},
 		{
-			"name": "Selesnya Guildgate",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land — Gate",
-			"collector_number": "264",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/264_Selesnya Guildgate.png"
-			}
-		},
-		{
 			"name": "Tin Street",
 			"rarity": "common",
 			"mana_cost": "",
@@ -2949,6 +2939,16 @@
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/261_Gruul Guildgate.png"
 			}
+		},
+		{
+			"name": "Selesnya Guildgate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Gate",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/264_Selesnya Guildgate.png"
+			}
 		}
 	]
 
@@ -3155,7 +3155,6 @@
 	8 Orzhov Guildgate
 	8 Dimir Guildgate
 	8 Izzet Guildgate
-	8 Selesnya Guildgate
 	8 Tin Street
 	8 Orzhov Insignia
 	8 Gruul Insignia
@@ -3225,6 +3224,7 @@
 	8 Surgical Strike
 	8 Deep Wound
 	8 Gruul Guildgate
+	8 Selesnya Guildgate
 [wildcard(2)]
 	4 Sootfurr Brute
 	7 Mizzium Canon
@@ -3297,7 +3297,6 @@
 	6 Orzhov Guildgate
 	6 Dimir Guildgate
 	6 Izzet Guildgate
-	6 Selesnya Guildgate
 	6 Tin Street
 	7 Transguild Square
 	6 Orzhov Insignia
@@ -3496,3 +3495,4 @@
 	6 Deep Wound
 	7 Emmara, Ancestral Caregiver
 	6 Gruul Guildgate
+	6 Selesnya Guildgate
