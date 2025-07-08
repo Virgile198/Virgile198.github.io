@@ -21,7 +21,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Nazgulith",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Mizzium Canon",
@@ -39,7 +39,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mingchen Shen",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Burning-Tree Blackhorn",
@@ -57,7 +57,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "AlexAlexandrov",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Wildheart Raiders",
@@ -75,7 +75,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Chris Neff",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Inquisitive Minotaur",
@@ -93,7 +93,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Stefan Kopinski",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Mountain Hurler",
@@ -111,7 +111,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Stanislav Ilyashenko",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Shamanic Power",
@@ -129,7 +129,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "kolychka-k",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Bloodrust Assailant",
@@ -147,7 +147,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "aaronflorento",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Fierce Maaka Kitten",
@@ -201,7 +201,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rod Wong",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Blightblood Abomination",
@@ -237,7 +237,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Hamsterfly",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Rejuvenated Wood-Kin",
@@ -255,7 +255,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Patmos",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Mossback Pulverizer",
@@ -291,7 +291,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andrew Mar",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Spectral Advisor",
@@ -327,7 +327,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alessandro Musumeci",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Cruel Robber",
@@ -345,7 +345,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Thomas Dumey",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Corpse Excavator",
@@ -363,7 +363,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Darkcloud013",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Euthanist Master",
@@ -381,7 +381,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Samuel Matthews",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Profitable Demise",
@@ -399,7 +399,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "India-Lee Crews",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Teysa Karlov, Master of Deals",
@@ -417,7 +417,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mike Pape",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Treasured Pet",
@@ -435,7 +435,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Loonaris",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Assessor of Worth",
@@ -453,7 +453,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pat Gabrielli",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Priest of The Welcoming",
@@ -471,7 +471,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Josep Perez",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Vicious Blackmailer",
@@ -507,7 +507,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Wayne Barlowe",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Vulpus Honorguard",
@@ -525,7 +525,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Epicron Art",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Howling Gate",
@@ -543,7 +543,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "juhamattipulkkinen",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Knight of Denial",
@@ -561,7 +561,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Inkyh",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Pontific Guard",
@@ -579,7 +579,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mahealani Rodrigues",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Profane Ceremony",
@@ -597,7 +597,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Wraith Whisperer",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Ayla, Harmony's Embrace",
@@ -633,7 +633,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Samuel Speziali",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Flowerbed Envoy's Call",
@@ -651,7 +651,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Elena Mar\u00eda Vacas",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Precinct Archprotector",
@@ -687,7 +687,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pitta",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Bolstering Spores",
@@ -705,7 +705,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ThemeFinland",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Ledev Captain",
@@ -723,7 +723,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "davehollandart",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Flowermane Healer",
@@ -741,7 +741,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "booublik",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Pollen Storm",
@@ -759,7 +759,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Randy Hullihen",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Coordinated Assault",
@@ -777,7 +777,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sonech",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Protector of the Glade",
@@ -795,7 +795,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "anotherwanderer",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Selesnya Caretaker",
@@ -813,7 +813,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "MelvinChanArt",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Sowing Courier",
@@ -831,7 +831,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sarahlovellart",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Branching Possibilities",
@@ -849,7 +849,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rashed AlAkroka",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Ral, Thundering Genius",
@@ -867,7 +867,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Riccardo La Barbera",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Essencesnatch",
@@ -903,7 +903,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Automatic Moon",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Overflowing Buffer",
@@ -921,7 +921,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sava Ivkov",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Thought Accelerator",
@@ -939,7 +939,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Oliver Wetter",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Blinding Flash",
@@ -957,7 +957,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "MTG-Deviants",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Voltaic Strike",
@@ -975,7 +975,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "nastasiaki",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Mass Scrambler",
@@ -993,7 +993,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Ishton",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Flux Launcher Maniac",
@@ -1011,7 +1011,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gianluca Capodiferro",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Ecstatic Fluxburster",
@@ -1029,7 +1029,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "SeBeL",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Bionic Strength",
@@ -1047,7 +1047,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mariusz Gandzel",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Fluctuating Reality",
@@ -1065,7 +1065,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Harshanand Singh",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Aether Condensator",
@@ -1083,7 +1083,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Paulo Niki",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Gheshval, Night's Mantle",
@@ -1119,7 +1119,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alberto Costa",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Bloodrenched Spoil",
@@ -1155,7 +1155,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Vaghauk",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Deeproot Entity",
@@ -1209,7 +1209,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Keely Yanes",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Mind Hemorrhage",
@@ -1227,7 +1227,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "AshShadows69",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Plains",
@@ -1335,7 +1335,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Benjamin Roach",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Dimir Guildgate",
@@ -1353,7 +1353,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Khaian",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Izzet Guildgate",
@@ -1371,7 +1371,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Johnson Truong",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Tin Street",
@@ -1425,7 +1425,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Gruul Insignia",
@@ -1443,7 +1443,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Izzet Insignia",
@@ -1461,7 +1461,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Selesnya Insignia",
@@ -1479,7 +1479,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Dimir Insignia",
@@ -1497,7 +1497,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Guardians of the Guildpact",
@@ -1641,7 +1641,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Stomping Ground",
@@ -1659,7 +1659,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Temple Garden",
@@ -1677,7 +1677,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Godless Shrine",
@@ -1695,7 +1695,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Steam Vents",
@@ -1713,7 +1713,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Hidden Scrutiny",
@@ -1731,7 +1731,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Grace Oldman",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Vital Reclamation",
@@ -1767,7 +1767,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Hyrum Baker",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Deep Search",
@@ -1785,7 +1785,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Link Chiang",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Anguished Fall",
@@ -1803,7 +1803,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Korpus-",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Moss Elemental",
@@ -1821,7 +1821,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Agrifex",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Protector of the Meek",
@@ -1875,7 +1875,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Dawn Murin",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Frontline Cultivator",
@@ -1893,7 +1893,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "artborne-wd",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Ninth District Benevolant",
@@ -1929,7 +1929,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rotaken",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Lightningquake",
@@ -1947,7 +1947,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "A. Shipwright",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Fires of Reclamation",
@@ -1983,7 +1983,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "sifterone",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Brilliant Artist",
@@ -2001,7 +2001,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Adeerborn",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Flood of Memories",
@@ -2019,7 +2019,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jacqueline Pallett",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Duskmantle Agent",
@@ -2037,7 +2037,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Lucy Lisett",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Mad Alchemist",
@@ -2073,7 +2073,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "sandara",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Rumbling Drake",
@@ -2091,7 +2091,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Haskiens",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Catacombs Cleaner",
@@ -2109,7 +2109,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gladys Domalaon",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Winged Mare",
@@ -2145,7 +2145,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Catharina Wendland",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Cleanser of Debt",
@@ -2163,7 +2163,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "BASTIEN LECOUFFE DEHARME",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Saproling",
@@ -2199,7 +2199,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "youxiandaxia",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Hellion",
@@ -2217,7 +2217,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "chillier17",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Construct",
@@ -2307,7 +2307,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "KORHIPER",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Bird",
@@ -2325,7 +2325,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "AlaxendrA",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Copy",
@@ -2361,7 +2361,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "lzfrusnckop",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Treasure",
@@ -2397,7 +2397,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ConceptartistJR",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Zhur-Taa Ember Shaman",
@@ -2415,7 +2415,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "BobKehl",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Falling Apart",
@@ -2451,7 +2451,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Marcos Raya Delgado",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Deadly Familiar",
@@ -2469,7 +2469,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "DON",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Deafening Cacophony",
@@ -2487,7 +2487,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "myndsnare",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Mind Tap",
@@ -2505,7 +2505,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jehan Choo",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Izzet Apprentice",
@@ -2523,7 +2523,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pat Gabrielli",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Slitz-Clan Opportunist",
@@ -2541,7 +2541,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Ehkion",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Debtor Hunter",
@@ -2559,7 +2559,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Marius Boenisch",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Lightning Rider",
@@ -2577,7 +2577,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gavin Manners",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Priest of the Old Ways",
@@ -2595,7 +2595,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Magebane Rawhide",
@@ -2613,7 +2613,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Edgar S\u00e1nchez Hidalgo",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Caller of the Wilds",
@@ -2631,7 +2631,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andrew Sonea",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Illuminator Imp",
@@ -2703,7 +2703,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Donglu Yu",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Truesight Sphinx",
@@ -2739,7 +2739,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Zerahoc",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Maree, Nivix Grand Chamberlain",
@@ -2757,7 +2757,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "TheGentlemanCupcake",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Reload",
@@ -2785,7 +2785,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Factory Line",
@@ -2803,7 +2803,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "yoji grey",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Workshop Supervisor",
@@ -2821,7 +2821,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Graey Erb",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Blessing of Savagery",
@@ -2839,7 +2839,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andrea Schepisi",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Bushfire Shaman",
@@ -2857,7 +2857,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Valeriy Vegera",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Ghor-Clan Charger",
@@ -2875,7 +2875,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "guillem h. pongiluppi",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Ram",
@@ -2903,7 +2903,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Rakasht, Spawn of Ulasht",
@@ -2921,7 +2921,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Mind Warp",
@@ -2939,7 +2939,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Lucas Melo",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Syphon Psyche",
@@ -2957,7 +2957,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Nick Acuna",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Essence Shift",
@@ -2975,7 +2975,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Choosen of the Worldsoul",
@@ -2993,7 +2993,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Entei Ryu",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Spore Waltz",
@@ -3011,7 +3011,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Dominik Mayer",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Vanish",
@@ -3039,7 +3039,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Circu, Butcher of Memories",
@@ -3057,7 +3057,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "tegehel",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Examination",
@@ -3085,7 +3085,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Incisive Reversal",
@@ -3103,7 +3103,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Artur M\u00f3sca",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Sewer Grafter",
@@ -3121,7 +3121,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Aberiu",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Unending Nightmare",
@@ -3139,7 +3139,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Boon of the Worldsoul",
@@ -3175,7 +3175,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "John Bentley S. De Guzman",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Cemetery Guardian",
@@ -3193,7 +3193,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Eryk Szczygie\u0142",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Cruel Advokist",
@@ -3211,7 +3211,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Federico Musetti",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Dispossession",
@@ -3229,7 +3229,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Erick Lucas",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Milana, Orzhov High Prelate",
@@ -3247,7 +3247,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Anna N",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Vitality",
@@ -3275,7 +3275,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Fragmentize",
@@ -3311,7 +3311,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "wolchenka",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Subvert",
@@ -3401,7 +3401,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Max Duran",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Due of the Powerless",
@@ -3419,7 +3419,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Visual Arts Passage",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Mindflayer of the Dim",
@@ -3437,7 +3437,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "M0AI",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Hyper Space Time Bubble",
@@ -3455,7 +3455,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Timi Honkanen",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Ashentrunk Icinerator",
@@ -3473,7 +3473,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Fetsch",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Factory Sentinel",
@@ -3491,7 +3491,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alaiaorax",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Heart of Cinders",
@@ -3509,7 +3509,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gameco.com",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Flourishing Phytohydra",
@@ -3527,7 +3527,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "BlueSzpon",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Dimir Necrosage",
@@ -3545,7 +3545,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Coldhearted Cardinal",
@@ -3563,7 +3563,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "BASTIEN LECOUFFE DEHARME",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Bolrac-Clan City Breacher",
@@ -3581,7 +3581,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "VVnan",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Cultivated Strength",
@@ -3599,7 +3599,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mari Suomela",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Fiery Form",
@@ -3617,7 +3617,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Marie Moinard",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Gorz'Ghum, War Incense",
@@ -3635,7 +3635,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Markus Neidel",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Gravel-Hide Channeler",
@@ -3653,7 +3653,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Brendan Lancaster",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Wrath Guildmage",
@@ -3671,7 +3671,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andrea Schepisi",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Ravage",
@@ -3725,7 +3725,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Connor Sheehan",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Burgeoning Troops",
@@ -3743,7 +3743,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jason Behnke",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Harmony Guildmage",
@@ -3761,7 +3761,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Agerkvist",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Ironroot Bindings",
@@ -3779,7 +3779,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Berenica",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Poised to Strike",
@@ -3797,7 +3797,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Janos Brumar",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Rise",
@@ -3825,7 +3825,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Rootguard Loxodon",
@@ -3843,7 +3843,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "I am power",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Flaming Claws",
@@ -3879,7 +3879,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "stonefang_inventors",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Reconfigure",
@@ -3915,7 +3915,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Elli Eyng",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Become Dust",
@@ -3933,7 +3933,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alexis Caroff",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Devotion Guildmage",
@@ -3951,7 +3951,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jonathan Gee",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Priest of Purification",
@@ -3969,7 +3969,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Teagan Dadich",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Skin",
@@ -3997,7 +3997,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "The Cozen",
@@ -4015,7 +4015,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Dariusz Kieliszek",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Ironclad Cyclops",
@@ -4033,7 +4033,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "j_cfauvelle",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Wave of Agitation",
@@ -4069,7 +4069,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Astrov",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Subjugating Bolt",
@@ -4087,7 +4087,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Anthony Catillaz",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Innovation Guildmage",
@@ -4105,7 +4105,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Karen Papazian",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Now",
@@ -4133,7 +4133,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Polarity Switcher",
@@ -4151,7 +4151,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Kevin McKenna",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Rix Navven, Overcharged Brute",
@@ -4169,7 +4169,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Anna Mihaela",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Pestilent Haze",
@@ -4205,7 +4205,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mike Zairos Pifano",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Eidolon's Fury",
@@ -4295,7 +4295,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Justice Wong",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Lost",
@@ -4323,7 +4323,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Manipulation Guildmage",
@@ -4341,7 +4341,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "lathander1987",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Sleeper Spybug",
@@ -4359,7 +4359,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "DavesRightMind",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Violent Reshaping",
@@ -4377,7 +4377,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "hdslave",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Zorin, Returned from the Dim",
@@ -4395,7 +4395,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ChrisCold",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Rabid Sewer Rat",
@@ -4431,7 +4431,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Nord-Sol",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Escaped Prototype",
@@ -4467,7 +4467,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Karol Bem",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Door to Everywhere",
@@ -4521,7 +4521,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Firdaus Abu Bakar",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Undercity Bloodthirster",
@@ -4701,7 +4701,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andy Aslamov",
-            "notes": "!tag\nIzzet"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Forgotten Phantasm",
@@ -4773,7 +4773,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "willwarburton",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Wurm",
@@ -4791,7 +4791,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Athayar",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Durn'mir",
@@ -4809,7 +4809,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Chris-Owl",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Aspect of Uniformity",
@@ -4827,7 +4827,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Brian Valeza",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Above",
@@ -4855,7 +4855,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Blooming Sanctuary",
@@ -4873,7 +4873,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Vengeful Return",
@@ -4891,7 +4891,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Lucas Torquato",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Fairie",
@@ -4927,7 +4927,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Tyler Witteried",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Escalating Wrath",
@@ -4945,7 +4945,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Ismar Vyr\u00f8sk",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Spectral Rider",
@@ -4963,7 +4963,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Olga Kaplan",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Seventh Disctrict Scoundrel",
@@ -5017,7 +5017,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Ed Binkley",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Sewer Penumbra",
@@ -5035,7 +5035,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "DenisZhbankov",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Writhing Amalgamate",
@@ -5053,7 +5053,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "David Metzger",
-            "notes": "!tag\nDimir"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Galvanizing Call",
@@ -5089,7 +5089,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Othon Nikolaidis",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Memorable Feast",
@@ -5107,7 +5107,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Othon Nikolaidis",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Rousing Freemage",
@@ -5179,7 +5179,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Federico Arguissein",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Votary Druid",
@@ -5197,7 +5197,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Zara Alfonso",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Eidolon's Vitality",
@@ -5251,7 +5251,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pencil Equipped",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Wasteful Inheritor",
@@ -5269,7 +5269,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Enrique Mel\u00e9ndez Gal\u00e1n",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Disctrict Explorer",
@@ -5323,7 +5323,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Philippine VANHOUTTE",
-            "notes": "!tag\nOrzhov"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Deep Wound",
@@ -5359,7 +5359,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Wizard of the coast",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Gruul Guildgate",
@@ -5377,7 +5377,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rayph",
-            "notes": "!tag\nGruul"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Selesnya Guildgate",
@@ -5395,7 +5395,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rob Alexander",
-            "notes": "!tag\nSelesnya"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Dew's Benediction",
@@ -5416,5 +5416,5 @@
             "notes": ""
         }
     ],
-    "version": 7
+    "version": 8
 }
