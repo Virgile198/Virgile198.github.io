@@ -19,7 +19,7 @@
     },
     {
         "card_name": "Storm Eater",
-        "number": 112,
+        "number": 111,
         "shape": "normal",
         "set": "RNF"
     },
@@ -139,7 +139,7 @@
     },
     {
         "card_name": "Mad Alchemist",
-        "number": 104,
+        "number": 103,
         "shape": "normal",
         "set": "RNF"
     },
@@ -169,7 +169,7 @@
     },
     {
         "card_name": "Mizzium Canon",
-        "number": 106,
+        "number": 105,
         "shape": "normal",
         "set": "RNF"
     },
@@ -349,7 +349,7 @@
     },
     {
         "card_name": "Magebane Rawhide",
-        "number": 105,
+        "number": 104,
         "shape": "normal",
         "set": "RNF"
     },
@@ -379,7 +379,7 @@
     },
     {
         "card_name": "Scorching Thunder",
-        "number": 111,
+        "number": 110,
         "shape": "normal",
         "set": "RNF"
     },
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "Tamed Hellkite",
-        "number": 113,
+        "number": 112,
         "shape": "normal",
         "set": "RNF"
     },
@@ -558,7 +558,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Frying Strike",
+        "card_name": "Gate Breaker",
         "number": 98,
         "shape": "normal",
         "set": "RNF"
@@ -588,7 +588,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Gate Breaker",
+        "card_name": "Inquisitive Minotaur",
         "number": 99,
         "shape": "normal",
         "set": "RNF"
@@ -618,7 +618,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Inquisitive Minotaur",
+        "card_name": "Ironclad Cyclops",
         "number": 100,
         "shape": "normal",
         "set": "RNF"
@@ -648,7 +648,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Ironclad Cyclops",
+        "card_name": "Izzet Apprentice",
         "number": 101,
         "shape": "normal",
         "set": "RNF"
@@ -678,7 +678,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Izzet Apprentice",
+        "card_name": "Lightningquake",
         "number": 102,
         "shape": "normal",
         "set": "RNF"
@@ -708,8 +708,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Lightningquake",
-        "number": 103,
+        "card_name": "Mounted Warbeast",
+        "number": 106,
         "shape": "normal",
         "set": "RNF"
     },
@@ -738,7 +738,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Mounted Warbeast",
+        "card_name": "Ravage",
         "number": 107,
         "shape": "normal",
         "set": "RNF"
@@ -768,7 +768,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Ravage",
+        "card_name": "Reconfigure",
         "number": 108,
         "shape": "normal",
         "set": "RNF"
@@ -798,7 +798,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Reconfigure",
+        "card_name": "Repurpose the Scraps",
         "number": 109,
         "shape": "normal",
         "set": "RNF"
@@ -828,8 +828,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Repurpose the Scraps",
-        "number": 110,
+        "card_name": "Voltaic Strike",
+        "number": 113,
         "shape": "normal",
         "set": "RNF"
     },

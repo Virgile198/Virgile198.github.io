@@ -21,14 +21,14 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Nazgulith",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Mizzium Canon",
             "color": "R",
             "rarity": "rare",
             "type": "Sorcery",
-            "number": 106,
+            "number": 105,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
             "rules_text": "This spell can't be countered.\nThis spell deals [ 5 ] damage to target creature or planeswalker you don't control. If that permanent would die this turn, exile it instead.\nIterate {3}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
@@ -39,7 +39,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mingchen Shen",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Burning-Tree Blackhorn",
@@ -57,7 +57,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "AlexAlexandrov",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Wildheart Raiders",
@@ -75,14 +75,14 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Chris Neff",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Inquisitive Minotaur",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Minotaur Wizard",
-            "number": 100,
+            "number": 99,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Menace, prowess",
@@ -93,7 +93,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Stefan Kopinski",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Mountain Hurler",
@@ -111,7 +111,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Stanislav Ilyashenko",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Shamanic Power",
@@ -129,7 +129,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "kolychka-k",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Bloodrust Assailant",
@@ -147,7 +147,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "aaronflorento",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Fierce Maaka Kitten",
@@ -172,7 +172,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Boar",
-            "number": 99,
+            "number": 98,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
             "rules_text": "Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]\nHaste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]",
@@ -201,7 +201,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rod Wong",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Blightblood Abomination",
@@ -237,7 +237,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Hamsterfly",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Rejuvenated Wood-Kin",
@@ -255,7 +255,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Patmos",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Mossback Pulverizer",
@@ -291,7 +291,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andrew Mar",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Spectral Advisor",
@@ -327,7 +327,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alessandro Musumeci",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Cruel Robber",
@@ -345,7 +345,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Thomas Dumey",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Corpse Excavator",
@@ -363,7 +363,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Darkcloud013",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Euthanist Master",
@@ -381,7 +381,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Samuel Matthews",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Profitable Demise",
@@ -399,7 +399,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "India-Lee Crews",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Teysa Karlov, Master of Deals",
@@ -417,7 +417,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mike Pape",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Treasured Pet",
@@ -435,7 +435,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Loonaris",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Assessor of Worth",
@@ -453,7 +453,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pat Gabrielli",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Priest of The Welcoming",
@@ -471,7 +471,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Josep Perez",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Vicious Blackmailer",
@@ -507,7 +507,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Wayne Barlowe",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Vulpus Honorguard",
@@ -525,7 +525,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Epicron Art",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Howling Gate",
@@ -543,7 +543,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "juhamattipulkkinen",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Knight of Denial",
@@ -561,7 +561,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Inkyh",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Pontific Guard",
@@ -579,7 +579,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mahealani Rodrigues",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Profane Ceremony",
@@ -597,7 +597,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Wraith Whisperer",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Ayla, Harmony's Embrace",
@@ -633,7 +633,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Samuel Speziali",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Flowerbed Envoy's Call",
@@ -651,7 +651,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Elena Mar\u00eda Vacas",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Precinct Archprotector",
@@ -687,7 +687,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pitta",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Bolstering Spores",
@@ -705,7 +705,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ThemeFinland",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Ledev Captain",
@@ -723,7 +723,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "davehollandart",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Flowermane Healer",
@@ -741,7 +741,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "booublik",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Pollen Storm",
@@ -759,7 +759,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Randy Hullihen",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Coordinated Assault",
@@ -777,7 +777,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sonech",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Protector of the Glade",
@@ -795,7 +795,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "anotherwanderer",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Selesnya Caretaker",
@@ -807,13 +807,13 @@
             "cost": "{G}{W}",
             "rules_text": "When this creature enters, search your library for a basic Forest card or a basic Plains card, reveal it, put it into your hand, then shuffle.",
             "flavor_text": "[i]\u201cTo cultivate the land and our bonds is our sacred duty.\u201d[/i]",
-            "pt": "1/4",
+            "pt": "1/3",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "MelvinChanArt",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Sowing Courier",
@@ -831,7 +831,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sarahlovellart",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Branching Possibilities",
@@ -841,7 +841,7 @@
             "number": 156,
             "color_identity": "UR",
             "cost": "{X}{X}{U}{R}",
-            "rules_text": "This spell can't be countered or copied.\nCopy target instant or sorcery spell or activated or triggered ability X times. You may choose new targets for the copies. The copies can't be countered.",
+            "rules_text": "This spell can't be countered or copied.\nCopy target instant spell, sorcery spell, activated ability, or triggered ability X times. You may choose new targets for the copies. The copies can't be countered.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -849,7 +849,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rashed AlAkroka",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Ral, Thundering Genius",
@@ -867,7 +867,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Riccardo La Barbera",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Essencesnatch",
@@ -903,7 +903,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Automatic Moon",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Overflowing Buffer",
@@ -921,7 +921,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sava Ivkov",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Thought Accelerator",
@@ -939,7 +939,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Oliver Wetter",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Blinding Flash",
@@ -957,14 +957,14 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "MTG-Deviants",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
-            "card_name": "Frying Strike",
+            "card_name": "Voltaic Strike",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 98,
+            "number": 113,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "This spell deals [ 2 ] damage to any target.\nIterate {5}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
@@ -975,7 +975,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "nastasiaki",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Mass Scrambler",
@@ -993,7 +993,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Ishton",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Flux Launcher Maniac",
@@ -1003,7 +1003,7 @@
             "number": 182,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "Vigilance, trample, haste\nWhenever you cast your first instant or sorcery spell each turn, this creature gets +X/+0 until end of turn, where X is the amount of mana spent on that spell.",
+            "rules_text": "Vigilance, first strike, trample\nWhenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature. If that spell was cast from your graveyard, put two +1/+1 counters on this creature instead.",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1011,7 +1011,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gianluca Capodiferro",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Ecstatic Fluxburster",
@@ -1021,7 +1021,7 @@
             "number": 173,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "Flash\nFlying\nAs you cast this spell, choose one \u2014\n\u2022 This creature enters with two +1/+1 counters on it. \n\u2022 Exile target instant or sorcery card from your graveyard. When this creature enters, it deals damage equal to the exiled card mana value to any target.",
+            "rules_text": "Flash\nFlying, haste\nAs you cast this spell, choose one \u2014\n\u2022 This creature enters with two +1/+1 counters on it. \n\u2022 Exile target instant or sorcery card from your graveyard. When this creature enters, it deals damage equal to the exiled card mana value to any target.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -1029,7 +1029,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "SeBeL",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Bionic Strength",
@@ -1047,7 +1047,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mariusz Gandzel",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Fluctuating Reality",
@@ -1065,7 +1065,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Harshanand Singh",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Aether Condensator",
@@ -1083,7 +1083,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Paulo Niki",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Gheshval, Night's Mantle",
@@ -1096,7 +1096,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[+1]: Each player mill three cards. Draw a card.\n[-3]: Search your library for a card with mana value X or less, reveal it, put it into your hand, then shuffle, where X is the number of cards in target player's graveyard.\n[-8]: Exile all graveyards. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled.",
+            "special_text": "[+1]: Target player mills three cards. Draw a card.\n[-3]: Search your library for a card with mana value X or less, reveal it, put it into your hand, then shuffle, where X is the number of cards in target player's graveyard.\n[-8]: Exile all graveyards. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled.",
             "shape": "planeswalker",
             "set": "RNF",
             "loyalty": "5",
@@ -1119,7 +1119,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alberto Costa",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Bloodrenched Spoil",
@@ -1155,7 +1155,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Vaghauk",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Deeproot Entity",
@@ -1165,7 +1165,7 @@
             "number": 126,
             "color_identity": "G",
             "cost": "{2}{G}{G}{G}",
-            "rules_text": "Trample, ward {1}\nIf a triggered ability of another creature or land you control triggers, it triggers an additional time.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",
+            "rules_text": "Trample, ward {2}\nIf a triggered ability of another creature or land you control triggers, it triggers an additional time.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -1180,7 +1180,7 @@
             "color": "R",
             "rarity": "mythic",
             "type": "Creature \u2014 Dragon",
-            "number": 112,
+            "number": 111,
             "color_identity": "R",
             "cost": "{2}{R}{R}{R}",
             "rules_text": "Flying\nWard\u2014Pay 3 life.\nWhenever you cast a spell, this creature deals X damage to any target, where X is the amount of mana spend to cast that spell. This ability triggers only once each turn.",
@@ -1209,7 +1209,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Keely Yanes",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Mind Hemorrhage",
@@ -1227,7 +1227,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "AshShadows69",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Plains",
@@ -1334,8 +1334,8 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
-            "notes": ""
+            "artist": "Benjamin Roach",
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Dimir Guildgate",
@@ -1352,8 +1352,8 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
-            "notes": ""
+            "artist": "Khaian",
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Izzet Guildgate",
@@ -1370,26 +1370,8 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
-            "notes": ""
-        },
-        {
-            "card_name": "Gruul Guildgate",
-            "color": "",
-            "rarity": "common",
-            "type": "Land \u2014 Gate",
-            "number": 261,
-            "color_identity": "RG",
-            "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {R} or {G}.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "RNF",
-            "loyalty": "",
-            "artist": "",
-            "notes": ""
+            "artist": "Johnson Truong",
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Selesnya Guildgate",
@@ -1406,8 +1388,8 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "",
-            "notes": ""
+            "artist": "Bibi95-3D",
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Tin Street",
@@ -1461,7 +1443,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Gruul Insignia",
@@ -1479,7 +1461,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Izzet Insignia",
@@ -1497,7 +1479,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Selesnya Insignia",
@@ -1515,7 +1497,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Dimir Insignia",
@@ -1533,7 +1515,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Guardians of the Guildpact",
@@ -1677,7 +1659,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Stomping Ground",
@@ -1695,7 +1677,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Temple Garden",
@@ -1713,7 +1695,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Godless Shrine",
@@ -1731,7 +1713,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Steam Vents",
@@ -1749,7 +1731,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Hidden Scrutiny",
@@ -1767,7 +1749,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Grace Oldman",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Vital Reclamation",
@@ -1803,7 +1785,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Hyrum Baker",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Deep Search",
@@ -1821,7 +1803,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Link Chiang",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Anguished Fall",
@@ -1839,7 +1821,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Korpus-",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Moss Elemental",
@@ -1857,7 +1839,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Agrifex",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Protector of the Meek",
@@ -1911,7 +1893,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Dawn Murin",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Frontline Cultivator",
@@ -1929,7 +1911,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "artborne-wd",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Ninth District Benevolant",
@@ -1965,14 +1947,14 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rotaken",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Lightningquake",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 103,
+            "number": 102,
             "color_identity": "RG",
             "cost": "{1}{R}",
             "rules_text": "This spell deals 3 damage to up to one target creature. If {G} was spent to cast this spell, up to one target land you control becomes a 3/3 Elemental creature with vigilance and haste until end of turn. It's still a land.",
@@ -1983,7 +1965,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "A. Shipwright",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Fires of Reclamation",
@@ -2019,7 +2001,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "sifterone",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Brilliant Artist",
@@ -2037,7 +2019,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Adeerborn",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Flood of Memories",
@@ -2055,7 +2037,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jacqueline Pallett",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Duskmantle Agent",
@@ -2073,14 +2055,14 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Lucy Lisett",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Mad Alchemist",
             "color": "R",
             "rarity": "rare",
             "type": "Creature \u2014 Lizard Wizard",
-            "number": 104,
+            "number": 103,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Haste\n{T}, Discard a card: Create X tapped Treasure tokens, then this creature deals X damage to you, where X is the mana value of the card discarded this way.",
@@ -2098,7 +2080,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Beast",
-            "number": 107,
+            "number": 106,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "First strike, haste\n{R}, Sacrifice this creature: Target creature you control rages. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i]",
@@ -2109,7 +2091,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "sandara",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Rumbling Drake",
@@ -2127,7 +2109,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Haskiens",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Catacombs Cleaner",
@@ -2145,7 +2127,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gladys Domalaon",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Winged Mare",
@@ -2173,7 +2155,7 @@
             "number": 212,
             "color_identity": "RG",
             "cost": "{2}{R}{R}{G}{G}",
-            "rules_text": "This spell can't be countered.\nTrample, ward {4}\nWhenever this creature attacks, each creature you control rages, then it deals X damage to each opponent, where X is the number of creature and land cards in your graveyard. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on this creature.)[/i]",
+            "rules_text": "This spell can't be countered.\nTrample, ward {4}\nWhenever this creature attacks, each creature you control rages, then it deals X damage to each opponent, where X is the number of creature and land cards in your graveyard. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -2181,7 +2163,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Catharina Wendland",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Cleanser of Debt",
@@ -2199,7 +2181,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "BASTIEN LECOUFFE DEHARME",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Saproling",
@@ -2235,7 +2217,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "youxiandaxia",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Hellion",
@@ -2253,7 +2235,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "chillier17",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Construct",
@@ -2343,7 +2325,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "KORHIPER",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Bird",
@@ -2361,7 +2343,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "AlaxendrA",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Copy",
@@ -2397,7 +2379,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "lzfrusnckop",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Treasure",
@@ -2433,7 +2415,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ConceptartistJR",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Zhur-Taa Ember Shaman",
@@ -2451,7 +2433,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "BobKehl",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Falling Apart",
@@ -2487,7 +2469,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Marcos Raya Delgado",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Deadly Familiar",
@@ -2505,7 +2487,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "DON",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Deafening Cacophony",
@@ -2523,7 +2505,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "myndsnare",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Mind Tap",
@@ -2541,14 +2523,14 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jehan Choo",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Izzet Apprentice",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Vedalken Wizard",
-            "number": 102,
+            "number": 101,
             "color_identity": "UR",
             "cost": "{2}{R}",
             "rules_text": "The first instant or sorcery spell you cast each turn costs {1} less to cast.\n{2}{U}, {T}, Exile an instant or sorcery card from your graveyard: Draw a card. Activate only as a sorcery.",
@@ -2559,7 +2541,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pat Gabrielli",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Slitz-Clan Opportunist",
@@ -2577,7 +2559,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Ehkion",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Debtor Hunter",
@@ -2595,7 +2577,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Marius Boenisch",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Lightning Rider",
@@ -2613,7 +2595,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gavin Manners",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Priest of the Old Ways",
@@ -2631,14 +2613,14 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Magebane Rawhide",
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Beast",
-            "number": 105,
+            "number": 104,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Trample\nWhenever an opponent casts a noncreature spell, this creature rages. Then, it deals damage equal to the number of counters on it to that player. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on this creature.)[/i]",
@@ -2649,7 +2631,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Edgar S\u00e1nchez Hidalgo",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Caller of the Wilds",
@@ -2667,7 +2649,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andrew Sonea",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Illuminator Imp",
@@ -2739,7 +2721,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Donglu Yu",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Truesight Sphinx",
@@ -2749,9 +2731,9 @@
             "number": 57,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "Flying, vigilance\nWhen this creature enters, draw X cards, where X is the number of Gates you control.",
+            "rules_text": "Flash\nFlying, vigilance\nWhen this creature enters, draw X cards, where X is the number of Gates you control.",
             "flavor_text": "[i]\u201cYou Dimir spawns know nothing of this city's true secrets.\u201d[/i]",
-            "pt": "3/3",
+            "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -2767,7 +2749,7 @@
             "number": 228,
             "color_identity": "UR",
             "cost": "{UR}{UR}",
-            "rules_text": "Prowess\nWhenever this creature becomes the target of a spell with a single target, you may copy that spell with a new target. This ability triggers only once each turn.\n{UR}{UR}, {T}: Change the target of target spell with a single target to this creature.",
+            "rules_text": "Prowess\nWhenever this creature becomes the target of a spell with a single target, you may copy that spell. You may chose new targets for the copy. This ability triggers only once each turn.\n{UR}{UR}, {T}: Change the target of target spell with a single target to this creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2775,7 +2757,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Zerahoc",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Maree, Nivix Grand Chamberlain",
@@ -2785,7 +2767,7 @@
             "number": 191,
             "color_identity": "UR",
             "cost": "{U}{R}",
-            "rules_text": "Whenever an instant or sorcery card leaves your graveyard, draw a card and this creature deals 1 damage to each opponent.\n{T}: Draw a card, then discard a card.",
+            "rules_text": "Haste\nWhenever an instant or sorcery card leaves your graveyard, draw a card and this creature deals 1 damage to each opponent.\n{T}: Draw a card, then discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -2793,7 +2775,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "TheGentlemanCupcake",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Reload",
@@ -2821,7 +2803,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Factory Line",
@@ -2839,7 +2821,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "yoji grey",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Workshop Supervisor",
@@ -2857,7 +2839,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Graey Erb",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Blessing of Savagery",
@@ -2875,7 +2857,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andrea Schepisi",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Bushfire Shaman",
@@ -2893,7 +2875,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Valeriy Vegera",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Ghor-Clan Charger",
@@ -2911,7 +2893,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "guillem h. pongiluppi",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Ram",
@@ -2939,7 +2921,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Rakasht, Spawn of Ulasht",
@@ -2957,7 +2939,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Mind Warp",
@@ -2975,7 +2957,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Lucas Melo",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Syphon Psyche",
@@ -2993,7 +2975,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Nick Acuna",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Essence Shift",
@@ -3011,7 +2993,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Choosen of the Worldsoul",
@@ -3029,7 +3011,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Entei Ryu",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Spore Waltz",
@@ -3047,7 +3029,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Dominik Mayer",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Vanish",
@@ -3075,7 +3057,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Circu, Butcher of Memories",
@@ -3093,7 +3075,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "tegehel",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Examination",
@@ -3121,7 +3103,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Incisive Reversal",
@@ -3139,7 +3121,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Artur M\u00f3sca",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Sewer Grafter",
@@ -3157,7 +3139,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Aberiu",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Unending Nightmare",
@@ -3175,7 +3157,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Boon of the Worldsoul",
@@ -3211,7 +3193,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "John Bentley S. De Guzman",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Cemetery Guardian",
@@ -3229,7 +3211,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Eryk Szczygie\u0142",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Cruel Advokist",
@@ -3239,7 +3221,7 @@
             "number": 166,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Vigilance, lifelink\nAs this creature enters, look at an opponent's hand, then choose any nonland card name.\nWhenever an opponent casts a spell with the chosen name or activates an ability of a permanent with the chosen name, this creature deals 3 damage to that player.",
+            "rules_text": "Lifelink\nAs this creature enters, look at an opponent's hand, then choose any nonland card name.\nWhenever an opponent casts a spell with the chosen name or activates an ability of a permanent with the chosen name, this creature deals 3 damage to that player.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3247,7 +3229,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Federico Musetti",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Dispossession",
@@ -3265,7 +3247,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Erick Lucas",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Milana, Orzhov High Prelate",
@@ -3275,7 +3257,7 @@
             "number": 192,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Vigilance, lifelink\nWard\u2014Pay 3 life.\nPay 2 life: Tap target untapped creature you don't control. It gets -1/-1 and it loses all its abilities until end of turn.",
+            "rules_text": "Lifelink\nWard\u2014{2}, Pay 2 life.\nPay 2 life: Tap target untapped creature you don't control. It gets -1/-1 and it loses all its abilities until end of turn.",
             "flavor_text": "[i]Kneel.[/i]",
             "pt": "1/3",
             "special_text": "",
@@ -3283,7 +3265,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Anna N",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Vitality",
@@ -3311,7 +3293,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Fragmentize",
@@ -3347,7 +3329,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "wolchenka",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Subvert",
@@ -3437,7 +3419,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Max Duran",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Due of the Powerless",
@@ -3455,7 +3437,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Visual Arts Passage",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Mindflayer of the Dim",
@@ -3473,7 +3455,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "M0AI",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Hyper Space Time Bubble",
@@ -3491,7 +3473,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Timi Honkanen",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Ashentrunk Icinerator",
@@ -3509,7 +3491,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Fetsch",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Factory Sentinel",
@@ -3519,7 +3501,7 @@
             "number": 178,
             "color_identity": "UR",
             "cost": "{U}{U}{R}{R}",
-            "rules_text": "Flying, haste\nWhenever this creature deals combat damage to player, you may draw that many cards. If you do, discard that many cards.\nWhenever you discard one or more cards, this creature deals X damage to target creature or planeswalker, where X is the greatest mana value among cards you discarded.",
+            "rules_text": "Flying\nWhenever this creature deals combat damage to player, you may draw that many cards. If you do, discard that many cards.\nWhenever you discard one or more cards for the first time each turn, this creature deals X damage to up to one target creature or planeswalker, where X is the greatest mana value among cards you discarded.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3527,7 +3509,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alaiaorax",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Heart of Cinders",
@@ -3545,7 +3527,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gameco.com",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Flourishing Phytohydra",
@@ -3563,7 +3545,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "BlueSzpon",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Dimir Necrosage",
@@ -3581,7 +3563,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Coldhearted Cardinal",
@@ -3599,7 +3581,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "BASTIEN LECOUFFE DEHARME",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Bolrac-Clan City Breacher",
@@ -3617,7 +3599,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "VVnan",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Cultivated Strength",
@@ -3627,7 +3609,7 @@
             "number": 125,
             "color_identity": "WG",
             "cost": "{2}{G}",
-            "rules_text": "Create a 3/3 green Centaur creature token with vigilance and trample. If {W} was spent to cast this spell, you gain 4 life.",
+            "rules_text": "Create a 3/3 green Centaur creature token with vigilance and trample. If {W} was spent to cast this spell, you gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3635,7 +3617,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mari Suomela",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Fiery Form",
@@ -3653,7 +3635,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Marie Moinard",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Gorz'Ghum, War Incense",
@@ -3671,7 +3653,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Markus Neidel",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Gravel-Hide Channeler",
@@ -3689,7 +3671,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Brendan Lancaster",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Wrath Guildmage",
@@ -3707,14 +3689,14 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andrea Schepisi",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Ravage",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 108,
+            "number": 107,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
             "rules_text": "This spell costs {1} less to cast for each monocolored permanent it targets.\nChoose one \u2014\n\u2022 This spell deals 6 damage to up to one target creature.\n\u2022 Up to three target creatures can't block this turn.",
@@ -3761,7 +3743,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Connor Sheehan",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Burgeoning Troops",
@@ -3779,7 +3761,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jason Behnke",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Harmony Guildmage",
@@ -3797,7 +3779,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Agerkvist",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Ironroot Bindings",
@@ -3815,7 +3797,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Berenica",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Poised to Strike",
@@ -3833,7 +3815,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Janos Brumar",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Rise",
@@ -3861,7 +3843,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Rootguard Loxodon",
@@ -3879,7 +3861,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "I am power",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Flaming Claws",
@@ -3904,7 +3886,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 110,
+            "number": 109,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "As an additional cost to cast this spell, discard [one] card.\nDraw [two] cards and create [one] Treasure token.\nIterate {4}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
@@ -3915,14 +3897,14 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "stonefang_inventors",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Reconfigure",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 109,
+            "number": 108,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Chose one \u2014\n\u2022 Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\n\u2022 Destroy target artifact.",
@@ -3943,7 +3925,7 @@
             "number": 195,
             "color_identity": "WB",
             "cost": "{W}{B}",
-            "rules_text": "Flying, vigilance\nWhenever this creature deals combat damage to a player, you may remove up to that many counters from that player or a target permanent. When you do, put X +1/+1 counters on this creature and you gain X life, where X is the amount of counters removed this way.",
+            "rules_text": "Flying, first strike\nWhenever this creature deals combat damage to a player, you may remove up to that many counters from that player or a target permanent. When you do, put X +1/+1 counters on this creature and you gain X life, where X is the amount of counters removed this way.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -3951,7 +3933,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Elli Eyng",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Become Dust",
@@ -3969,7 +3951,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alexis Caroff",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Devotion Guildmage",
@@ -3987,7 +3969,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jonathan Gee",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Priest of Purification",
@@ -4005,7 +3987,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Teagan Dadich",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Skin",
@@ -4033,7 +4015,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "The Cozen",
@@ -4051,14 +4033,14 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Dariusz Kieliszek",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Ironclad Cyclops",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Cyclops Wizard",
-            "number": 101,
+            "number": 100,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Reach, prowess\nWhenever you cast an instant or sorcery spell, untap this creature.",
@@ -4069,7 +4051,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "j_cfauvelle",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Wave of Agitation",
@@ -4097,7 +4079,7 @@
             "number": 160,
             "color_identity": "UR",
             "cost": "{U}{R}",
-            "rules_text": "This spell deals [ 2 ] damage to target opponent. Look at the top [two] cards of your library, then put a card from among them into your hand and the rest into your graveyard.\nIterate {2}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
+            "rules_text": "This spell deals [ 2 ] damage to target opponent. Look at the top [two] cards of your library, then put a card from among them into your hand and the rest into your graveyard.\nIterate {1}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4105,7 +4087,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Astrov",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Subjugating Bolt",
@@ -4115,7 +4097,7 @@
             "number": 210,
             "color_identity": "UR",
             "cost": "{U}{R}",
-            "rules_text": "Gain control of target artifact or creature with mana value [ 3 ] or less until end of turn. Untap that permanent. It gains haste until end of turn.\nIterate {2}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
+            "rules_text": "Gain control of target artifact or creature with mana value [ 3 ] or less until end of turn. Untap that permanent. It gains haste until end of turn.\nIterate {2}{U}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4123,7 +4105,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Anthony Catillaz",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Innovation Guildmage",
@@ -4133,7 +4115,7 @@
             "number": 227,
             "color_identity": "UR",
             "cost": "{UR}{UR}",
-            "rules_text": "{2}{UR}, {T}: Draw two cards, then discard two cards.\n{2}{UR}{UR}, {T}: Copy target instant or sorcery spell you control. You may chose new targets for the copy.",
+            "rules_text": "{2}{UR}, {T}: Draw two cards, then discard two cards.\n{2}{UR}{UR}, {T}: Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4141,7 +4123,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Karen Papazian",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Now",
@@ -4169,7 +4151,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Polarity Switcher",
@@ -4187,7 +4169,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Kevin McKenna",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Rix Navven, Overcharged Brute",
@@ -4197,15 +4179,15 @@
             "number": 201,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
-            "rules_text": "Vigilance, trample, ward {1}\nWhenever you cast an instant or sorcery spell for the first time each turn, put X +1/+1 counters on this creature, where X is the amount of mana spent on that spell.",
+            "rules_text": "Vigilance, trample, ward {2}\nWhenever this creature attacks, it gets +X/+X until end of turn, where X is the total number of instant and sorcery cards you own in exile and in your graveyard.",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Anna Mihaela",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Pestilent Haze",
@@ -4230,7 +4212,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Instant",
-            "number": 111,
+            "number": 110,
             "color_identity": "R",
             "cost": "{X}{1}{R}",
             "rules_text": "Players can't gain life this turn. Damage can't be prevented this turn. This spell deals X damage to any target.",
@@ -4241,7 +4223,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mike Zairos Pifano",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Eidolon's Fury",
@@ -4284,7 +4266,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Dragon",
-            "number": 113,
+            "number": 112,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
             "rules_text": "Flying\nWhen this creature enters, it deals X damage distributed between any number of targets, where X is the number of Gates you control.",
@@ -4331,7 +4313,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Justice Wong",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Lost",
@@ -4359,7 +4341,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Manipulation Guildmage",
@@ -4377,7 +4359,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "lathander1987",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Sleeper Spybug",
@@ -4395,7 +4377,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "DavesRightMind",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Violent Reshaping",
@@ -4413,7 +4395,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "hdslave",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Zorin, Returned from the Dim",
@@ -4431,7 +4413,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ChrisCold",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Rabid Sewer Rat",
@@ -4467,7 +4449,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Nord-Sol",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Escaped Prototype",
@@ -4503,7 +4485,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Karol Bem",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Door to Everywhere",
@@ -4557,7 +4539,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Firdaus Abu Bakar",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Undercity Bloodthirster",
@@ -4737,7 +4719,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andy Aslamov",
-            "notes": ""
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Forgotten Phantasm",
@@ -4809,7 +4791,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "willwarburton",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Wurm",
@@ -4827,7 +4809,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Athayar",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Durn'mir",
@@ -4845,7 +4827,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Chris-Owl",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Aspect of Uniformity",
@@ -4863,7 +4845,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Brian Valeza",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Above",
@@ -4891,7 +4873,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Blooming Sanctuary",
@@ -4909,7 +4891,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Vengeful Return",
@@ -4927,7 +4909,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Lucas Torquato",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Fairie",
@@ -4963,7 +4945,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Tyler Witteried",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Escalating Wrath",
@@ -4981,7 +4963,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Ismar Vyr\u00f8sk",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Spectral Rider",
@@ -4999,7 +4981,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Olga Kaplan",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Seventh Disctrict Scoundrel",
@@ -5071,7 +5053,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Ed Binkley",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Sewer Penumbra",
@@ -5089,7 +5071,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "DenisZhbankov",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Writhing Amalgamate",
@@ -5107,7 +5089,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "David Metzger",
-            "notes": ""
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Galvanizing Call",
@@ -5134,7 +5116,7 @@
             "type": "Enchantment \u2014 Aura",
             "number": 154,
             "color_identity": "WG",
-            "cost": "{1}{G}{W}",
+            "cost": "{G}{W}",
             "rules_text": "Enchant creature you control\nWhen this enchantment enters, create a 1/1 green Saproling creature token.\nEnchanted creature gets +1/+1 for each creature you control or each counters among creatures you control, whichever is greater, and has first strike and trample.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -5143,7 +5125,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Othon Nikolaidis",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Memorable Feast",
@@ -5161,7 +5143,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Othon Nikolaidis",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Rousing Freemage",
@@ -5233,7 +5215,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Federico Arguissein",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Votary Druid",
@@ -5251,7 +5233,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Zara Alfonso",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Eidolon's Vitality",
@@ -5297,7 +5279,7 @@
             "number": 133,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Haste, ward {2}\nWhenever this creature becomes the target of a spell you control, it rages. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i]",
+            "rules_text": "Vigilance, haste, ward {1}\nWhenever this creature becomes the target of a spell you control, it rages. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -5305,7 +5287,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pencil Equipped",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Wasteful Inheritor",
@@ -5315,15 +5297,15 @@
             "number": 216,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
-            "rules_text": "Vigilance\n[i]Oblation 2[/i] \u2014 When this creature enters, you may pay 2 life. If you do, create two Treasure tokens.\n{1}, Sacrifice a token: Draw a card.",
-            "flavor_text": "[i]\u201cWhat's the point of having so much money if not to spend it at your every whim?\u201d[/i]",
-            "pt": "3/3",
+            "rules_text": "[i]Oblation 2[/i] \u2014 When this creature enters, you may pay 2 life. If you do, create two Treasure tokens.\n{1}, Sacrifice another creature or token: Draw a card.",
+            "flavor_text": "[i]\u201cWhat's the point of money if not to spend it at your every whim?\u201d[/i]",
+            "pt": "3/5",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Enrique Mel\u00e9ndez Gal\u00e1n",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Disctrict Explorer",
@@ -5359,7 +5341,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Oleksandr Kozachenko",
-            "notes": ""
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Bat",
@@ -5377,7 +5359,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Philippine VANHOUTTE",
-            "notes": ""
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Deep Wound",
@@ -5413,7 +5395,25 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Wizard of the coast",
-            "notes": ""
+            "notes": "!tag Selesnya"
+        },
+        {
+            "card_name": "Gruul Guildgate",
+            "color": "",
+            "rarity": "common",
+            "type": "Land \u2014 Gate",
+            "number": 261,
+            "color_identity": "RG",
+            "cost": "",
+            "rules_text": "This land enters tapped.\n{T}: Add {R} or {G}.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "RNF",
+            "loyalty": "",
+            "artist": "Rayph",
+            "notes": "!tag Gruul"
         }
     ]
 }

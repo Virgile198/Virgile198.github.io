@@ -1,4 +1,524 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Voltaic Strike added.
+
+Frying Strike removed.
+
+Sootfurr Brute
+
+Mizzium Canon
+
+Burning-Tree Blackhorn
+
+Wildheart Raiders
+
+Inquisitive Minotaur
+
+Mountain Hurler
+
+Shamanic Power
+
+Bloodrust Assailant
+
+Gate Breaker
+
+Augmented Monstrosity
+
+Razortusk Piglet
+
+Rejuvenated Wood-Kin
+
+Charitable Thrull
+
+Clergy Enforcer
+
+Cruel Robber
+
+Corpse Excavator
+
+Euthanist Master
+
+Profitable Demise
+
+Teysa Karlov, Master of Deals
+
+Treasured Pet
+
+Assessor of Worth
+
+Priest of The Welcoming
+
+Orzhov Seizebeast
+
+Vulpus Honorguard
+
+Howling Gate
+
+Knight of Denial
+
+Pontific Guard
+
+Profane Ceremony
+
+Pruning
+
+Flowerbed Envoy's Call
+
+Worldring Uroboros
+
+Bolstering Spores
+
+Ledev Captain
+
+Flowermane Healer
+
+Pollen Storm
+
+Coordinated Assault
+
+Protector of the Glade
+
+Selesnya Caretaker
+pt: 1/4 => 1/3
+
+Sowing Courier
+
+Branching Possibilities
+rules_text: This spell can't be countered or copied.
+Copy target instant or sorcery spell or activated or triggered ability X times. You may choose new targets for the copies. The copies can't be countered. => This spell can't be countered or copied.
+Copy target instant spell, sorcery spell, activated ability, or triggered ability X times. You may choose new targets for the copies. The copies can't be countered.
+
+Ral, Thundering Genius
+
+Ceremony of Fury
+
+Overflowing Buffer
+
+Thought Accelerator
+
+Blinding Flash
+
+Mass Scrambler
+
+Flux Launcher Maniac
+rules_text: Vigilance, trample, haste
+Whenever you cast your first instant or sorcery spell each turn, this creature gets +X/+0 until end of turn, where X is the amount of mana spent on that spell. => Vigilance, first strike, trample
+Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature. If that spell was cast from your graveyard, put two +1/+1 counters on this creature instead.
+
+Ecstatic Fluxburster
+rules_text: Flash
+Flying
+As you cast this spell, choose one —
+• This creature enters with two +1/+1 counters on it. 
+• Exile target instant or sorcery card from your graveyard. When this creature enters, it deals damage equal to the exiled card mana value to any target. => Flash
+Flying, haste
+As you cast this spell, choose one —
+• This creature enters with two +1/+1 counters on it. 
+• Exile target instant or sorcery card from your graveyard. When this creature enters, it deals damage equal to the exiled card mana value to any target.
+
+Bionic Strength
+
+Fluctuating Reality
+
+Aether Condensator
+
+Gheshval, Night's Mantle
+special_text: [+1]: Each player mill three cards. Draw a card.
+[-3]: Search your library for a card with mana value X or less, reveal it, put it into your hand, then shuffle, where X is the number of cards in target player's graveyard.
+[-8]: Exile all graveyards. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled. => [+1]: Target player mills three cards. Draw a card.
+[-3]: Search your library for a card with mana value X or less, reveal it, put it into your hand, then shuffle, where X is the number of cards in target player's graveyard.
+[-8]: Exile all graveyards. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled.
+
+Cognition Theft
+
+Shambling Grotesquerie
+
+Deeproot Entity
+rules_text: Trample, ward {1}
+If a triggered ability of another creature or land you control triggers, it triggers an additional time.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead. => Trample, ward {2}
+If a triggered ability of another creature or land you control triggers, it triggers an additional time.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.
+
+Storm Eater
+
+Clawing Grasp
+
+Mind Hemorrhage
+
+Orzhov Guildgate
+
+Dimir Guildgate
+
+Izzet Guildgate
+
+Selesnya Guildgate
+
+Orzhov Insignia
+
+Gruul Insignia
+
+Izzet Insignia
+
+Selesnya Insignia
+
+Dimir Insignia
+
+Watery Grave
+
+Stomping Ground
+
+Temple Garden
+
+Godless Shrine
+
+Steam Vents
+
+Hidden Scrutiny
+
+Backstreet Informant
+
+Deep Search
+
+Anguished Fall
+
+Moss Elemental
+
+Thrull Collectors
+
+Frontline Cultivator
+
+Walkers of the Dim
+
+Lightningquake
+
+Conclave Sentinel
+
+Brilliant Artist
+
+Flood of Memories
+
+Duskmantle Agent
+
+Mad Alchemist
+
+Mounted Warbeast
+
+Rumbling Drake
+
+Catacombs Cleaner
+
+Thraka, Ire of the Wilds
+rules_text: This spell can't be countered.
+Trample, ward {4}
+Whenever this creature attacks, each creature you control rages, then it deals X damage to each opponent, where X is the number of creature and land cards in your graveyard. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on this creature.)[/i] => This spell can't be countered.
+Trample, ward {4}
+Whenever this creature attacks, each creature you control rages, then it deals X damage to each opponent, where X is the number of creature and land cards in your graveyard. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i]
+
+Cleanser of Debt
+
+Spirit
+
+Hellion
+
+Elemental
+
+Bird
+
+Elf Knight
+
+Elemental
+
+Zhur-Taa Ember Shaman
+
+Call of the Hunt
+
+Deadly Familiar
+
+Deafening Cacophony
+
+Mind Tap
+
+Izzet Apprentice
+
+Slitz-Clan Opportunist
+
+Debtor Hunter
+
+Lightning Rider
+
+Priest of the Old Ways
+
+Magebane Rawhide
+
+Caller of the Wilds
+
+Unearthed Mysteries
+
+Truesight Sphinx
+rules_text: Flying, vigilance
+When this creature enters, draw X cards, where X is the number of Gates you control. => Flash
+Flying, vigilance
+When this creature enters, draw X cards, where X is the number of Gates you control.
+pt: 3/3 => 3/2
+
+Lightning Catalyst
+rules_text: Prowess
+Whenever this creature becomes the target of a spell with a single target, you may copy that spell with a new target. This ability triggers only once each turn.
+{UR}{UR}, {T}: Change the target of target spell with a single target to this creature. => Prowess
+Whenever this creature becomes the target of a spell with a single target, you may copy that spell. You may chose new targets for the copy. This ability triggers only once each turn.
+{UR}{UR}, {T}: Change the target of target spell with a single target to this creature.
+
+Maree, Nivix Grand Chamberlain
+rules_text: Whenever an instant or sorcery card leaves your graveyard, draw a card and this creature deals 1 damage to each opponent.
+{T}: Draw a card, then discard a card. => Haste
+Whenever an instant or sorcery card leaves your graveyard, draw a card and this creature deals 1 damage to each opponent.
+{T}: Draw a card, then discard a card.
+
+Reload
+
+Factory Line
+
+Workshop Supervisor
+
+Blessing of Savagery
+
+Bushfire Shaman
+
+Ghor-Clan Charger
+
+Ram
+
+Rakasht, Spawn of Ulasht
+
+Mind Warp
+
+Syphon Psyche
+
+Essence Shift
+
+Choosen of the Worldsoul
+
+Spore Waltz
+
+Vanish
+
+Circu, Butcher of Memories
+
+Examination
+
+Incisive Reversal
+
+Sewer Grafter
+
+Unending Nightmare
+
+Selesnya Sporewielder
+
+Cemetery Guardian
+
+Cruel Advokist
+rules_text: Vigilance, lifelink
+As this creature enters, look at an opponent's hand, then choose any nonland card name.
+Whenever an opponent casts a spell with the chosen name or activates an ability of a permanent with the chosen name, this creature deals 3 damage to that player. => Lifelink
+As this creature enters, look at an opponent's hand, then choose any nonland card name.
+Whenever an opponent casts a spell with the chosen name or activates an ability of a permanent with the chosen name, this creature deals 3 damage to that player.
+
+Dispossession
+
+Milana, Orzhov High Prelate
+rules_text: Vigilance, lifelink
+Ward—Pay 3 life.
+Pay 2 life: Tap target untapped creature you don't control. It gets -1/-1 and it loses all its abilities until end of turn. => Lifelink
+Ward—{2}, Pay 2 life.
+Pay 2 life: Tap target untapped creature you don't control. It gets -1/-1 and it loses all its abilities until end of turn.
+
+Vitality
+
+Dissect Thoughts
+
+Wild Stomper
+
+Due of the Powerless
+
+Mindflayer of the Dim
+
+Hyper Space Time Bubble
+
+Ashentrunk Icinerator
+
+Factory Sentinel
+rules_text: Flying, haste
+Whenever this creature deals combat damage to player, you may draw that many cards. If you do, discard that many cards.
+Whenever you discard one or more cards, this creature deals X damage to target creature or planeswalker, where X is the greatest mana value among cards you discarded. => Flying
+Whenever this creature deals combat damage to player, you may draw that many cards. If you do, discard that many cards.
+Whenever you discard one or more cards for the first time each turn, this creature deals X damage to up to one target creature or planeswalker, where X is the greatest mana value among cards you discarded.
+
+Heart of Cinders
+
+Flourishing Phytohydra
+
+Dimir Necrosage
+
+Coldhearted Cardinal
+
+Bolrac-Clan City Breacher
+
+Cultivated Strength
+rules_text: Create a 3/3 green Centaur creature token with vigilance and trample. If {W} was spent to cast this spell, you gain 4 life. => Create a 3/3 green Centaur creature token with vigilance and trample. If {W} was spent to cast this spell, you gain 3 life.
+
+Fiery Form
+
+Gorz'Ghum, War Incense
+
+Gravel-Hide Channeler
+
+Wrath Guildmage
+
+Ravage
+
+Alcarus, Old Growth Protector
+
+Burgeoning Troops
+
+Harmony Guildmage
+
+Ironroot Bindings
+
+Poised to Strike
+
+Rise
+
+Rootguard Loxodon
+
+Repurpose the Scraps
+
+Reconfigure
+
+Pontif Pet
+rules_text: Flying, vigilance
+Whenever this creature deals combat damage to a player, you may remove up to that many counters from that player or a target permanent. When you do, put X +1/+1 counters on this creature and you gain X life, where X is the amount of counters removed this way. => Flying, first strike
+Whenever this creature deals combat damage to a player, you may remove up to that many counters from that player or a target permanent. When you do, put X +1/+1 counters on this creature and you gain X life, where X is the amount of counters removed this way.
+
+Become Dust
+
+Devotion Guildmage
+
+Priest of Purification
+
+Skin
+
+The Cozen
+
+Ironclad Cyclops
+
+Cerebrospiker
+rules_text: This spell deals [ 2 ] damage to target opponent. Look at the top [two] cards of your library, then put a card from among them into your hand and the rest into your graveyard.
+Iterate {2}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => This spell deals [ 2 ] damage to target opponent. Look at the top [two] cards of your library, then put a card from among them into your hand and the rest into your graveyard.
+Iterate {1}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Subjugating Bolt
+rules_text: Gain control of target artifact or creature with mana value [ 3 ] or less until end of turn. Untap that permanent. It gains haste until end of turn.
+Iterate {2}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Gain control of target artifact or creature with mana value [ 3 ] or less until end of turn. Untap that permanent. It gains haste until end of turn.
+Iterate {2}{U}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Innovation Guildmage
+rules_text: {2}{UR}, {T}: Draw two cards, then discard two cards.
+{2}{UR}{UR}, {T}: Copy target instant or sorcery spell you control. You may chose new targets for the copy. => {2}{UR}, {T}: Draw two cards, then discard two cards.
+{2}{UR}{UR}, {T}: Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.
+
+Now
+
+Polarity Switcher
+
+Rix Navven, Overcharged Brute
+rules_text: Vigilance, trample, ward {1}
+Whenever you cast an instant or sorcery spell for the first time each turn, put X +1/+1 counters on this creature, where X is the amount of mana spent on that spell. => Vigilance, trample, ward {2}
+Whenever this creature attacks, it gets +X/+X until end of turn, where X is the total number of instant and sorcery cards you own in exile and in your graveyard.
+pt: 2/2 => 3/3
+
+Scorching Thunder
+
+Tamed Hellkite
+
+Dimir Cutthroat
+
+Lost
+
+Manipulation Guildmage
+
+Sleeper Spybug
+
+Violent Reshaping
+
+Zorin, Returned from the Dim
+
+Sharer of the Ichor
+
+Corrosive Bile Spitter
+
+Conclave Sharpshooter
+
+Secret Seeker
+
+Rhino
+
+Wurm
+
+Durn'mir
+
+Aspect of Uniformity
+
+Above
+
+Blooming Sanctuary
+
+Vengeful Return
+
+Conclave Spirewatch
+
+Escalating Wrath
+
+Spectral Rider
+
+Retriever of Secrets
+
+Sewer Penumbra
+
+Writhing Amalgamate
+
+Blessing of Vitu-Ghazi
+cost: {1}{G}{W} => {G}{W}
+
+Memorable Feast
+
+Centaur
+
+Votary Druid
+
+Furious Pangoduan
+rules_text: Haste, ward {2}
+Whenever this creature becomes the target of a spell you control, it rages. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i] => Vigilance, haste, ward {1}
+Whenever this creature becomes the target of a spell you control, it rages. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i]
+
+Wasteful Inheritor
+rules_text: Vigilance
+[i]Oblation 2[/i] — When this creature enters, you may pay 2 life. If you do, create two Treasure tokens.
+{1}, Sacrifice a token: Draw a card. => [i]Oblation 2[/i] — When this creature enters, you may pay 2 life. If you do, create two Treasure tokens.
+{1}, Sacrifice another creature or token: Draw a card.
+pt: 3/3 => 3/5
+
+Ruins Scavenger
+
+Bat
+
+Emmara, Ancestral Caregiver
+
+Gruul Guildgate
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Frying Strike added.

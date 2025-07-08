@@ -15,9 +15,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/106_Mizzium Canon.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/105_Mizzium Canon.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Minotaur Wizard",
-			"collector_number": "100",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/100_Inquisitive Minotaur.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/99_Inquisitive Minotaur.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Boar",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/99_Gate Breaker.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/98_Gate Breaker.png"
 			}
 		},
 		{
@@ -531,13 +531,13 @@
 			}
 		},
 		{
-			"name": "Frying Strike",
+			"name": "Voltaic Strike",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "98",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/98_Frying Strike.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/113_Voltaic Strike.png"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/112_Storm Eater.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/111_Storm Eater.png"
 			}
 		},
 		{
@@ -758,16 +758,6 @@
 			"collector_number": "262",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/262_Izzet Guildgate.png"
-			}
-		},
-		{
-			"name": "Gruul Guildgate",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land — Gate",
-			"collector_number": "261",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/261_Gruul Guildgate.png"
 			}
 		},
 		{
@@ -1095,9 +1085,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/103_Lightningquake.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/102_Lightningquake.png"
 			}
 		},
 		{
@@ -1155,9 +1145,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Lizard Wizard",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/104_Mad Alchemist.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/103_Mad Alchemist.png"
 			}
 		},
 		{
@@ -1165,9 +1155,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Beast",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/107_Mounted Warbeast.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/106_Mounted Warbeast.png"
 			}
 		},
 		{
@@ -1415,9 +1405,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Vedalken Wizard",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/102_Izzet Apprentice.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/101_Izzet Apprentice.png"
 			}
 		},
 		{
@@ -1465,9 +1455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Beast",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/105_Magebane Rawhide.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/104_Magebane Rawhide.png"
 			}
 		},
 		{
@@ -2035,9 +2025,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/108_Ravage.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/107_Ravage.png"
 			}
 		},
 		{
@@ -2135,9 +2125,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/110_Repurpose the Scraps.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/109_Repurpose the Scraps.png"
 			}
 		},
 		{
@@ -2145,9 +2135,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/109_Reconfigure.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/108_Reconfigure.png"
 			}
 		},
 		{
@@ -2215,9 +2205,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Cyclops Wizard",
-			"collector_number": "101",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/101_Ironclad Cyclops.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/100_Ironclad Cyclops.png"
 			}
 		},
 		{
@@ -2305,9 +2295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{1}{R}",
 			"type": "Instant",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/111_Scorching Thunder.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/110_Scorching Thunder.png"
 			}
 		},
 		{
@@ -2335,9 +2325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/113_Tamed Hellkite.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/112_Tamed Hellkite.png"
 			}
 		},
 		{
@@ -2793,7 +2783,7 @@
 		{
 			"name": "Blessing of Vitu-Ghazi",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
+			"mana_cost": "{G}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "154",
 			"image_uris": {
@@ -2948,6 +2938,16 @@
 			"collector_number": "174",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/174_Emmara, Ancestral Caregiver.png"
+			}
+		},
+		{
+			"name": "Gruul Guildgate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Gate",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/261_Gruul Guildgate.png"
 			}
 		}
 	]
@@ -3146,7 +3146,7 @@
 	8 Sowing Courier
 	8 Ceremony of Fury
 	8 Blinding Flash
-	8 Frying Strike
+	8 Voltaic Strike
 	8 Mass Scrambler
 	8 Flux Launcher Maniac
 	8 Bionic Strength
@@ -3155,7 +3155,6 @@
 	8 Orzhov Guildgate
 	8 Dimir Guildgate
 	8 Izzet Guildgate
-	8 Gruul Guildgate
 	8 Selesnya Guildgate
 	8 Tin Street
 	8 Orzhov Insignia
@@ -3225,6 +3224,7 @@
 	8 Guildpact's Blessing
 	8 Surgical Strike
 	8 Deep Wound
+	8 Gruul Guildgate
 [wildcard(2)]
 	4 Sootfurr Brute
 	7 Mizzium Canon
@@ -3279,7 +3279,7 @@
 	7 Overflowing Buffer
 	15 Thought Accelerator
 	6 Blinding Flash
-	6 Frying Strike
+	6 Voltaic Strike
 	6 Mass Scrambler
 	6 Flux Launcher Maniac
 	15 Ecstatic Fluxburster
@@ -3297,7 +3297,6 @@
 	6 Orzhov Guildgate
 	6 Dimir Guildgate
 	6 Izzet Guildgate
-	6 Gruul Guildgate
 	6 Selesnya Guildgate
 	6 Tin Street
 	7 Transguild Square
@@ -3496,3 +3495,4 @@
 	15 Ruins Scavenger
 	6 Deep Wound
 	7 Emmara, Ancestral Caregiver
+	6 Gruul Guildgate
