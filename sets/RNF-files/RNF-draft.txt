@@ -3116,7 +3116,7 @@
 	5 Galvanizing Call
 	5 Blessing of Vitu-Ghazi
 	5 Rousing Freemage
-	5 Votary Druid
+	5 Druid of the Votary
 	5 Eidolon's Vitality
 	5 Fifth District Avenger
 	5 Furious Pangoduan
