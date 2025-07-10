@@ -1721,31 +1721,31 @@
         "card_name": "er"
     },
     {
-        "card_name": "Plains",
+        "card_name": "Plains_RNF",
         "number": 271,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Island",
+        "card_name": "Island_RNF",
         "number": 272,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Swamp",
+        "card_name": "Swamp_RNF",
         "number": 273,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Mountain",
+        "card_name": "Mountain_RNF",
         "number": 274,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Forest",
+        "card_name": "Forest_RNF",
         "number": 275,
         "shape": "normal",
         "set": "RNF"

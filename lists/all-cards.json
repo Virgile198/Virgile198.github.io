@@ -84,9 +84,9 @@
             "number": 99,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Menace, prowess\nWhenever one or more instant or sorcery cards are put into your graveyard from anywhere, scry 1.",
+            "rules_text": "Menace, prowess",
             "flavor_text": "[i][/i]",
-            "pt": "1/2",
+            "pt": "1/3",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -1293,7 +1293,7 @@
             "image_type": "png"
         },
         {
-            "card_name": "Plains",
+            "card_name": "Plains_RNF",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Plains",
@@ -1308,11 +1308,11 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Lara Petkovic",
-            "notes": "",
+            "notes": "!exportname Plains_RNF",
             "image_type": "png"
         },
         {
-            "card_name": "Island",
+            "card_name": "Island_RNF",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Island",
@@ -1327,11 +1327,11 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mauger Baptiste",
-            "notes": "",
+            "notes": "!exportname Island_RNF",
             "image_type": "png"
         },
         {
-            "card_name": "Swamp",
+            "card_name": "Swamp_RNF",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Swamp",
@@ -1346,11 +1346,11 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Maxime Desmettre",
-            "notes": "",
+            "notes": "!exportname Swamp_RNF",
             "image_type": "png"
         },
         {
-            "card_name": "Mountain",
+            "card_name": "Mountain_RNF",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Mountain",
@@ -1365,11 +1365,11 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Vadim Koval",
-            "notes": "",
+            "notes": "!exportname Mountain_RNF",
             "image_type": "png"
         },
         {
-            "card_name": "Forest",
+            "card_name": "Forest_RNF",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2013 Forest",
@@ -1384,7 +1384,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Miha Marusko",
-            "notes": "",
+            "notes": "!exportname Forest_RNF",
             "image_type": "png"
         },
         {
@@ -3746,7 +3746,7 @@
             "cost": "{W}{W}{B}{B}",
             "rules_text": "Flying, double strike\n[i]Oblation 2[/i] \u2013 When this creature enters, you may pay 2 life. If you do, target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.",
             "flavor_text": "[i][/i]",
-            "pt": "2/4",
+            "pt": "2/5",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
