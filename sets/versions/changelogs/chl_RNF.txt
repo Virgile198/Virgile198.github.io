@@ -1,4 +1,62 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Gate Breaker
+
+Mad Alchemist
+rules_text: Haste
+{T}, Discard a card: Create X tapped Treasure tokens, then this creature deals X damage to you and itself, where X is the mana value of the card discarded this way. => Haste
+{T}, Discard a card: Create X tapped Treasure tokens, then this creature deals twice X damage to you, where X is the mana value of the card discarded this way.
+
+Thraka, Ire of the Wilds
+rules_text: This spell can't be countered.
+Trample, ward {4}
+Whenever this creature attacks, each creature you control rages, then it deals X damage to each opponent, where X is the number of creature and land cards in your graveyard. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i] => This spell can't be countered.
+Trample, ward {4}
+Whenever this creature attacks, each creature you control rages X times, where X is the number of creature and land cards in your graveyard. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i]
+
+Illuminator Imp
+rules_text: Flying
+When this creature enters, look at target opponent's hand. You may exile a nonland card from it. if you exiled a card this way, that player draws a card. => Flying
+When this creature enters, look at target opponent's hand. You may exile a nonland card from it. If you exiled a card this way, that player draws a card.
+
+Arrogant Ermit
+rules_text: Whenever you cast a spell with mana value 5 or more, draw a card.
+{T}: Add {U}. Spend this mana only to cast an instant or sorcery spell.
+{T}: Add {C}{C}. Spend this mana only to cast spells from your graveyard and/or activate abilities. => Whenever you spend 5 or more mana to cast a spell, draw a card.
+{T}: Add {U}. Spend this mana only to cast an instant or sorcery spell.
+{T}: Add {C}{C}. Spend this mana only to cast spells from your graveyard and/or activate abilities.
+
+Fragmentize
+
+Fac Simile Project
+
+Torpor
+
+Gorz'Ghum, War Incense
+rules_text: If an effect causes you to discard one or more cards, exile them instead. Until the end of your next turn, you may play those cards. => If an effect causes you to discard one or more cards, you may exile them instead. Until end of turn, you may play those cards.
+Whenever you put one or more counters on a creature you control, it gets +1/+1 until end of turn.
+pt: 3/2 => 2/2
+
+Escaped Prototype
+rules_text: Haste
+Whenever this creature attacks, until end of turn, instant and sorcery spells you cast cost {1} less to cast. => Haste
+As long as this creature is tapped, instant and sorcery spells you cast cost {1} less to cast.
+
+Secret Seeker
+
+Rousing Freemage
+pt: 3/5 => 3/4
+
+Eidolon's Vitality
+rules_text: When this enchantment enters, search your library for a land card, then put it onto the battlefield untapped.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand. => When this enchantment enters, search your library for a land card or a creature card with mana value 2 or less, then put it onto the battlefield tapped.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 
