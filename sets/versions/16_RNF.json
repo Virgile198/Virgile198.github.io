@@ -535,7 +535,7 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Defender [i](This creature can't attack.)[/i]\nWhenever you gain or lose life, scry 1. This ability triggers only once each turn.",
+            "rules_text": "Defender [i](This creature can't attack.)[/i]\nAt the beginning of your end step, if you gained or lost life this turn, Scry 1.",
             "flavor_text": "[i]The front door of Pontiff Morov's manor act as both a repellent for thieves and a reminder to any who may think about defaulting on their debts to him.[/i]",
             "pt": "0/3",
             "special_text": "",
@@ -859,7 +859,7 @@
             "number": 39,
             "color_identity": "U",
             "cost": "{U}{U}{U}",
-            "rules_text": "Counter target spell. Choose one \u2014\n\u2022 Create a 1/1 blue Faerie creature token with flying and prowess.\n\u2022 Target player mills three cards.\n\u2022 Put two +1/+1 counters on target creature you control.\n\u2022 Draw a card.",
+            "rules_text": "Counter target spell. Choose one \u2014\n\u2022 Create a 1/1 blue Faerie creature token with flying and prowess.\n\u2022 Target player mills four cards.\n\u2022 Put two +1/+1 counters on target creature you control.\n\u2022 Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1524,8 +1524,8 @@
             "type": "Artifact",
             "number": 249,
             "color_identity": "C",
-            "cost": "{2}",
-            "rules_text": "This artifact enters tapped.\nAs this artifact enters, choose two colors.\n{1}, {T}: Add two mana in any combination of the chosen colors.",
+            "cost": "{3}",
+            "rules_text": "{T}: Add one mana of any color. If that mana is spent to cast a multicolored creature, it enters with an additional +1/+1 counter on it.\n{10}, {T}, Sacrifice this artifact: You draw three cards and you gain 3 life. This ability costs {1} less to activate for each color among creatures you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3971,9 +3971,9 @@
             "number": 165,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Deathtouch\nWhenever you gain life or lose during your turn, put a +1/+1 counter on this creature if you gained life. Otherwise put two +1/+1 counters on it. This ability triggers only once each turn.",
+            "rules_text": "As long as you've lost life during your turn, this creature has first strike and deathtouch.\nWhenever you gain life, put a +1/+1 counter on this creature.\nWhen this creature dies, you gain life equal to the number of +1/+1 counters on it.",
             "flavor_text": "[i][/i]",
-            "pt": "2/1",
+            "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -5395,7 +5395,7 @@
             "set": "RNF",
             "loyalty": "4",
             "artist": "Christophe Young",
-            "notes": ""
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Gheshval, Night's Mantle",
@@ -5408,12 +5408,12 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Whenever you put one or more cards into your graveyard from your library, you may put one of them into your hand.\n[+1]: Each player mill three cards.\n[-2]: Return target nonland permanent to its owner's hand, then that player discards a card.\n[-8]: Exile each graveyard. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled.",
+            "special_text": "Whenever you put one or more cards into your graveyard from your library, you may put one of them into your hand.\n[+1]: Each player mills three cards.\n[-2]: Return target nonland permanent to its owner's hand, then that player discards a card.\n[-8]: Exile each graveyard. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled.",
             "shape": "planeswalker",
             "set": "RNF",
             "loyalty": "5",
             "artist": "Tomasz Ryger",
-            "notes": ""
+            "notes": "!tag Dimir"
         }
     ]
 }

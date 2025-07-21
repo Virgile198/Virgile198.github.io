@@ -1,4 +1,57 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Essencesnatch
+rules_text: Counter target spell. Choose one —
+• Create a 1/1 blue Faerie creature token with flying and prowess.
+• Target player mills three cards.
+• Put two +1/+1 counters on target creature you control.
+• Draw a card. => Counter target spell. Choose one —
+• Create a 1/1 blue Faerie creature token with flying and prowess.
+• Target player mills four cards.
+• Put two +1/+1 counters on target creature you control.
+• Draw a card.
+
+Ayla, Harmony's Embrace
+
+Gheshval, Night's Mantle
+special_text: Whenever you put one or more cards into your graveyard from your library, you may put one of them into your hand.
+[+1]: Each player mill three cards.
+[-2]: Return target nonland permanent to its owner's hand, then that player discards a card.
+[-8]: Exile each graveyard. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled. => Whenever you put one or more cards into your graveyard from your library, you may put one of them into your hand.
+[+1]: Each player mills three cards.
+[-2]: Return target nonland permanent to its owner's hand, then that player discards a card.
+[-8]: Exile each graveyard. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled.
+
+
+VERSION 15 CHANGELOG
+====================
+
+
+
+Howling Gate
+rules_text: Defender [i](This creature can't attack.)[/i]
+Whenever you gain or lose life, scry 1. This ability triggers only once each turn. => Defender [i](This creature can't attack.)[/i]
+At the beginning of your end step, if you gained or lost life this turn, Scry 1.
+
+Heart of Communion
+cost: {2} => {3}
+rules_text: This artifact enters tapped.
+As this artifact enters, choose two colors.
+{1}, {T}: Add two mana in any combination of the chosen colors. => {T}: Add one mana of any color. If that mana is spent to cast a multicolored creature, it enters with an additional +1/+1 counter on it.
+{10}, {T}, Sacrifice this artifact: You draw three cards and you gain 3 life. This ability costs {1} less to activate for each color among creatures you control.
+
+The Cozen
+rules_text: Deathtouch
+Whenever you gain life or lose during your turn, put a +1/+1 counter on this creature if you gained life. Otherwise put two +1/+1 counters on it. This ability triggers only once each turn. => As long as you've lost life during your turn, this creature has first strike and deathtouch.
+Whenever you gain life, put a +1/+1 counter on this creature.
+When this creature dies, you gain life equal to the number of +1/+1 counters on it.
+pt: 2/1 => 3/2
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Arrogant Hermit added.
