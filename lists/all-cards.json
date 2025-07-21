@@ -2517,7 +2517,7 @@
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Choose one \u2013\n\u2022 Destroy target artifact or enchantment.\n\u2022 Destroy target tapped creature.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cRejoice, for your debt has been paid.\u201d[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
