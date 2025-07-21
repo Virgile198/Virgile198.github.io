@@ -1,4 +1,476 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Arrogant Hermit added.
+Third Disctrict Sharpshooter added.
+
+Arrogant Ermit removed.
+Conclave Sharpshooter removed.
+
+Mizzium Canon
+rules_text: This spell can't be countered.
+This spell deals [ 5 ] damage to target creature or planeswalker you don't control. If that permanent would die this turn, exile it instead.
+Iterate {3}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => This spell can't be countered.
+This spell deals [ 5 ] damage to target creature or planeswalker you don't control. If that permanent would die this turn, exile it instead.
+Iterate {2}{R}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Mountain Hurler
+
+Bloodrust Assailant
+rules_text: Double strike
+Your opponents can't gain life.
+Whenever an opponent loses 1 or more life, this creature rages. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on this creature.)[/i] => Double strike
+Your opponents can't gain life.
+Whenever an opponent loses 1 or more life, this creature rages. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Razortusk Piglet
+rules_text: Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+{2}{G}: This creature rages. Activate only as a sorcery. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on this creature.)[/i] => Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+{2}{G}: This creature rages. Activate only as a sorcery. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Rejuvenated Wood-Kin
+
+Mossback Pulverizer
+
+Corpse Excavator
+rules_text: Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i][i]Oblation 2[/i][/i] — When this creature enters, you may pay 2 life. If you do, mill three cards, then return target creature card from your graveyard to your hand and put a finality counter on this creature. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i][i]Oblation 2[/i][/i] — When this creature enters, you may pay 2 life. If you do, mill three cards, then you may return a creature card from your graveyard to your hand. If you do, put a finality counter on this creature.
+
+Euthanist Master
+rules_text: Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i]Oblation 4[/i] — When this creature enters, you may pay 4 life. If you do, destroy target creature or planeswalker an opponents controls. => [i]Oblation 4[/i] — When this creature enters, you may pay 4 life. If you do, destroy target creature or planeswalker an opponents controls.
+
+Vulpus Honorguard
+type: Creature — Wolf => Creature — Fox
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+{T}: Add {G}.
+{1}, {T}: Add one mana of any color. => When this creature enters, flourish 1. [i](Put a +1/+1 counter on each of up to a creatures you control. You gain 1 life for each of those creatures.)[/i]
+{T}: Add {G}.
+{1}, {T}: Add one mana of any color.
+pt: 1/3 => 0/2
+
+Howling Gate
+rules_text: Defender
+Whenever you gain or lose life, scry 1. This ability triggers only once each turn. => Defender [i](This creature can't attack.)[/i]
+Whenever you gain or lose life, scry 1. This ability triggers only once each turn.
+
+Profane Ceremony
+
+Flowerbed Envoy's Call
+
+Coordinated Assault
+
+Selesnya Caretaker
+rules_text: When this creature enters, search your library for a basic Forest card or a basic Plains card, reveal it, put it into your hand, then shuffle. => Vigilance
+When this creature enters, search your library for a basic Forest card or a basic Plains card, reveal it, put it into your hand, then shuffle.
+
+Ceremony of Fury
+type: Sorcery => Instant
+rules_text: Target creature you control rages three times. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i] => Target creature you control rages. It fights up to one target creature you don't control. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Thought Accelerator
+rules_text: Draw [two] cards, then discard [one] card.
+Iterate {2}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Draw [two] cards, then discard [one] card(s).
+Iterate {2}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Blinding Flash
+rules_text: Tap up to one target creature and put [one] stun counter on it.
+Draw a card.
+Iterate {3}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Tap up to one target creature and put [one] stun counter(s) on it.
+Draw a card.
+Iterate {3}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Mass Scrambler
+rules_text: Whenever you cast a spell, this creature gets +X/+X until end of turn, where X is the amount of mana you spent on it. This ability triggers only once each turn. => Whenever you discard one or more cards or cast an instant or sorcery spell, put a +1/+1 counter on this creature.
+
+Ecstatic Fluxburster
+rules_text: Flash
+Flying, haste
+As you cast this spell, choose one —
+• This creature enters with two +1/+1 counters on it. 
+• Exile target instant or sorcery card from your graveyard. When this creature enters, it deals damage equal to the exiled card mana value to any target. => Flash
+Flying, haste
+As you cast this spell, choose one —
+• This creature enters with two +1/+1 counters on it. 
+• Exile target instant or sorcery card from your graveyard. When this creature enters, it deals damage equal to that card's mana value to any target.
+
+Bionic Strength
+rules_text: Put [one] +1/+1 counter on target creature you control. It gains haste and “Whenever this creature deals combat damage to a player, draw [one] card” until end of turn.
+Iterate {2}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Put [one] +1/+1 counter(s) on target creature you control. It gains haste and “Whenever this creature deals combat damage to a player, draw [one] card(s)” until end of turn.
+Iterate {2}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Fluctuating Reality
+type: Instant => Sorcery
+cost: {3}{U} => {1}{U}
+rules_text: Choose one —
+• The owner of target nonland permanent puts it on their choice of the top or bottom of their library.
+• Counter target creature or planeswalker spell. => Choose [one] —
+• Return up to one target creature to its owner's hand.
+• Mill three cards. You may put a nonpermanent card from among the milled cards into your hand.
+Iterate {2}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Aether Condensator
+rules_text: Exile the top [one] card of your library. You may play cards exiled this way this turn.
+Iterate {R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Exile the top [one] card(s) of your library. You may play cards exiled this way this turn.
+Iterate {R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Bloodrenched Spoil
+rules_text: This artifact enters tapped with three stun counters on it.
+At the beginning of each end step, if you've gained life that turn, untap this artifact.
+{T}: The next time you cast a spell this turn, pay life equal to its mana value rather than pay its mana cost. => This artifact enters tapped with two stun counters on it.
+At the beginning of each end step, if you've gained life that turn, untap this artifact.
+{T}: The next time you cast a spell this turn, pay life equal to its mana value rather than pay its mana cost.
+
+Deeproot Entity
+
+Orzhov Guildgate
+
+Dimir Guildgate
+
+Izzet Guildgate
+
+Orzhov Insignia
+cost: {3} => {2}
+rules_text: {T}: Add {W} or {B}.
+{WB}{WB}{WB}, {T}, Sacrifice this artifact: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. => This artifact enters tapped.
+{T}: Add {W} or {B}.
+{1}{W}{B}, {T}, Sacrifice this artifact: Exile up to three target cards from a single graveyard. You gain 1 life for each creature card exiled this way.
+
+Gruul Insignia
+cost: {3} => {2}
+rules_text: {T}: Add {R} or {G}.
+{RG}{RG}{RG}, {T}, Sacrifice this artifact: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. => This artifact enters tapped.
+{T}: Add {R} or {G}.
+{1}{R}{G}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature you control. It gains trample and haste until end of turn.
+
+Izzet Insignia
+cost: {3} => {2}
+rules_text: {T}: Add {U} or {R}.
+{UR}{UR}{UR}, {T}, Sacrifice this artifact: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. => This artifact enters tapped.
+{T}: Add {U} or {R}.
+{3}{U}{R}, {T}, Sacrifice this artifact: Draw three cards, then discard two cards.
+
+Selesnya Insignia
+cost: {3} => {2}
+rules_text: {T}: Add {G} or {W}.
+{GW}{GW}{GW}, {T}, Sacrifice this artifact: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. => This artifact enters tapped.
+{T}: Add {G} or {W}.
+{2}{G}{W}, {T}, Sacrifice this artifact: Create a 2/2 green and white Elf Knight creature token with vigilance.
+
+Dimir Insignia
+cost: {3} => {2}
+rules_text: {T}: Add {U} or {B}.
+{UB}{UB}{UB}, {T}, Sacrifice this artifact: Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. => This artifact enters tapped.
+{T}: Add {U} or {B}.
+{1}{U}{B}, {T}, Sacrifice this artifact: Draw a card, then each player mills two cards.
+
+Living Monument
+
+Shield of the Guildpact
+rules_text: Equipped creature gets +0/+2 and has vigilance and ward {1} for each Gate you control.
+Equip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Equipped creature has vigilance.
+Equipped creature gets +0/+2 and has ward {1} for each Gate you control.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Watery Grave
+
+Stomping Ground
+
+Temple Garden
+
+Godless Shrine
+
+Steam Vents
+
+Moss Elemental
+
+Deep Sewage Lurker
+rules_text: When this creature enters, tap target nonland permanent an opponent controls and target player mills six cards. That permanent can't be untap until this creature leaves the battlefield. => When this creature enters, tap up to one target creature an opponent controls, then that creature's controller mills five cards. That creature doesn't untap for as long as you control this creature.
+
+Thrull Collectors
+rules_text: Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.
+When this creature dies, if any player lost or gained life this turn, draw a card and create a Treasure token. => Menace
+Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.
+When this creature dies, if a player lost or gained life this turn, draw a card and create a Treasure token.
+
+Ninth District Benevolant
+pt: 1/3 => 2/2
+
+Mounted Warbeast
+rules_text: First strike, haste
+{R}, Sacrifice this creature: Target creature you control rages. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i] => First strike, haste
+{R}, Sacrifice this creature: Target creature you control rages. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Thraka, Ire of the Wilds
+rules_text: This spell can't be countered.
+Trample, ward {4}
+Whenever this creature attacks, each creature you control rages X times, where X is the number of creature and land cards in your graveyard. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i] => This spell can't be countered.
+Trample, ward {4}
+Whenever this creature attacks, each creature you control rages X times, where X is the number of creature and land cards in your graveyard. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Zhur-Taa Ember Shaman
+rules_text: {T}: Another target creature you control gains haste until end of turn.
+{1}{R}, {T}: Another target creature you control rages. Activate only as a sorcery. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i] => {T}: Another target creature you control gains haste until end of turn.
+{1}{R}, {T}: Another target creature you control rages. Activate only as a sorcery. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Slitz-Clan Opportunist
+rules_text: This creature can't be blocked by more than one creature.
+{2}{R}: This creature gains first strike until end of turn. Activate only once during each of your turn. => This creature can't be blocked by more than one creature.
+{2}{R}: This creature gains first strike until end of turn.
+
+Lightning Rider
+pt: 6/4 => 5/4
+
+Priest of the Old Ways
+rules_text: First strike, trample
+When this creature enters, target creature you control rages twice. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i] => First strike, trample
+When this creature enters, target creature you control rages twice. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Magebane Rawhide
+rules_text: Trample
+Whenever an opponent casts a noncreature spell, this creature rages. Then, it deals damage equal to the number of counters on it to that player. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on this creature.)[/i] => Trample
+Whenever an opponent casts a noncreature spell, this creature rages. Then, it deals damage equal to the number of counters on it to that player. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Caller of the Wilds
+rules_text: At the beginning of combat on your turn, target creature you control rages X times, where X is its power. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i] => At the beginning of combat on your turn, target creature you control rages X times, where X is its power. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Lightning Catalyst
+rules_text: Prowess
+Whenever this creature becomes the target of a spell with a single target, you may copy that spell. You may chose new targets for the copy. This ability triggers only once each turn.
+{UR}{UR}, {T}: Change the target of target spell with a single target to this creature. => Prowess
+Whenever this creature becomes the target of a spell with a single target, you may copy that spell. You may chose new targets for the copy. This ability triggers only once each turn.
+{1}{UR}{UR}, {T}: Change the target of target spell with a single creature target to this creature.
+
+Workshop Supervisor
+rules_text: Ward—{2}, Pay 2 life.
+Whenever you cast your first instant or sorcery spell each turn, create X 1/1 colorless Construct artifact creature tokens, where X is the amount of mana spent on that spell. Creatures you control gain haste until end of turn. => Ward—{2}, Pay 2 life.
+Whenever you cast your first instant or sorcery spell each turn, create X 1/1 colorless Construct artifact creature tokens, where X is the amount of mana spent to cast. Creatures you control gain haste until end of turn.
+
+Bushfire Shaman
+rules_text: Trample, haste
+Whenever this creature deals combat damage to a player, search your library for a basic land card or Gate card, put it onto the battlefield tapped, then shuffle.
+{R}{G}, Sacrifice a land: You gain 2 life and draw a card. => Trample, haste
+Whenever this creature deals combat damage to a player, search your library for a basic land or Gate card, put it onto the battlefield tapped, then shuffle.
+{R}{G}, Sacrifice a land: You gain 2 life and draw a card.
+
+Rakasht, Spawn of Ulasht
+cost: {2}{R}{G} => {X}{2}{R}{G}
+rules_text: This creature enters with a number of +1/+1 counters on it equal to the number of creature and land cards in all graveyards.
+{X}, Remove X +1/+1 counters from among creatures you control: Choose one—
+• Create a X/X red and green Hellion creature token with trample and haste. X can't be 0.
+• This creature deals X damage to any target. X can't be 0. => This creature enters with a number of +1/+1 counters on it equal to amount of mana spent to cast it.
+{X}, Remove X +1/+1 counters from among creatures you control: Choose one—
+• Create a X/X red and green Hellion creature token with trample and haste. X can't be 0.
+• This creature deals X damage to any target. X can't be 0.
+
+Incisive Reversal
+rules_text: Counter target spell. Its controller discards a card.
+Cover-up 3—{2}{U}{B} [i]({2}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Counter target spell. Its controller loses 2 life.
+Cover-up 3—{2}{U}{B} [i]({2}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+
+Cemetery Guardian
+cost: {2}{WB}{WB} => {3}{WB}{WB}
+
+Milana, Orzhov High Prelate
+rules_text: Deathtouch, lifelink
+Ward—{2}, Pay 2 life.
+Pay 2 life: Tap target untapped creature you don't control. It gets -1/-1 and it loses all its abilities until end of turn. => Vigilance, lifelink
+Ward—Pay 3 life.
+{7}{W}{B}, {T}: Return target permanent for a graveyard to the battlefield under your control. This ability costs {1} less to activate for each 1 life you gained or lost this turn. Activate only as a sorcery.
+pt: 1/3 => 2/3
+
+Subvert
+cost: {1}{U} => {2}{U}{U}
+rules_text: This spell costs {1} less to cast if it targets a monocolored creature.
+Return target creature to its owner's hand. Scry 1. => This spell costs {1} less to cast if it targets a monocolored spell or permanent.
+Choose one —
+• The owner of target nonland permanent puts it on their choice of the top or bottom of their library.
+• Counter target creature or planeswalker spell.
+
+Torpor
+rules_text: Flash
+Enchant creature
+When this Aura enters, tap enchanted permanent.
+Whenever enchanted creature becomes tapped, put a stun counter on it. => Flash
+Enchant creature
+When this Aura enters, tap enchanted creature.
+Whenever enchanted creature becomes tapped, put a stun counter on it.
+
+Wild Stomper
+rules_text: When this creature enters, exile up to one target card from a graveyard. If you exiled a noncreature card this way, this creature rages. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on this creature.)[/i] => Trample
+When this creature enters, exile up to one target card from a graveyard. If you exiled a noncreature card this way, this creature rages. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Hyper Space Time Bubble
+rules_text: Flip [one] coin. For each flip you win, take an extra turn after this one. For each flip you lose, add {U}{U}{R}{R} and exile the top [two] cards of your library. Until end of your next turn, you may play lands and cast spells from among them.
+Iterate {7}{U}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Flip [one] coin(s). For each flip you win, take an extra turn after this one. For each flip you lose, add {U}{U}{R}{R} and exile the top [two] cards of your library. Until end of your next turn, you may play those cards.
+Iterate {7}{U}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Ashentrunk Icinerator
+rules_text: This spell can't be countered.
+Combat damage dealt by creatures you control can't be prevented.
+When this creature enters, you gain X life and it rages X times. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on this creature.)[/i] => This spell can't be countered.
+Combat damage dealt by creatures you control can't be prevented.
+When this creature enters, you gain X life and it rages X times. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Heart of Cinders
+rules_text: Ward {X}, where X is the number of creature and/or land cards in your graveyard.
+Whenever this creature enters or attacks, it rages, then it deals damage equal to the number of counters on it to each opponent. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on this creature.)[/i] => Ward {X}, where X is the number of creature and/or land cards in your graveyard.
+Whenever this creature attacks, it rages, then it deals damage equal to the number of counters on it to each opponent. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Flourishing Phytohydra
+type: Enchantment Creature — Plant Hydra => Creature — Plant Hydra
+
+Cultivated Strength
+
+Gravel-Hide Channeler
+rules_text: {T}: Add one mana of any color. If that mana is spent to cast a creature spell, it can't be countered and it gains “When this creature enters, it rages.” [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)[/i] => {T}: Add one mana of any color. If that mana is spent to cast a creature spell, it can't be countered and it gains “When this creature enters, it rages.” [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Burgeoning Troops
+rules_text: Creatures you control with a +1/+1 counter on them have “{T}: Add one mana of any color.”
+{1}{G}{W}: Flourish 1. Activate only as a sorcery. [i](Put a +1/+1 counter on up to one creature you control. If you do, you gain 1 life.)[/i] => When this enchantment enters, create a 1/1 green Saproling creature token.
+Creatures you control with a +1/+1 counter on them have “{T}: Add one mana of any color.”
+{1}{G}{W}: Flourish 1. Activate only as a sorcery. [i](Put a +1/+1 counter on up to one creature you control. If you do, you gain 1 life.)[/i]
+
+Harmony Guildmage
+rules_text: {1}{GW}, {T}: Target player gains 3 life.
+{3}{GW}{GW}, {T}: Create two 1/1 green Saproling creature tokens. => {1}{GW}, {T}: Target player gains 4 life.
+{3}{GW}{GW}, {T}: Create two 1/1 green Saproling creature tokens.
+
+Ironroot Bindings
+rules_text: When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. Create a 1/1 green Saproling creature token. => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. Create a 1/1 green Saproling creature token and you gain 1 life.
+
+Poised to Strike
+rules_text: This spell deals X damages to target creature or planeswalker, where X is the number of creatures and/or lands you control or the number of counters among creatures you control, whichever is greater. => Choose target creature or planeswalker you don't control. Each creature you control deals damage equal to its power to that permanent.
+
+Repurpose the Scraps
+rules_text: As an additional cost to cast this spell, discard [one] card.
+Draw [two] cards and create [one] Treasure token.
+Iterate {4}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => As an additional cost to cast this spell, discard [one] card(s).
+Draw [two] cards and create [one] Treasure token(s).
+Iterate {4}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Become Dust
+rules_text: As an additional cost to cast this spell, pay 3 life or discard a card.
+Destroy target artifact, creature, enchantment or planeswalker. => As an additional cost to cast this spell, pay 3 life or discard a card.
+Destroy target creature, enchantment or planeswalker.
+
+Priest of Purification
+
+The Cozen
+rules_text: Deathtouch
+Whenever you gain or lose life, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+Sacrifice this creature: You gain life equal to the total life lost by all players this turn. => Deathtouch
+Whenever you gain life or lose during your turn, put a +1/+1 counter on this creature if you gained life. Otherwise put two +1/+1 counters on it. This ability triggers only once each turn.
+
+Cerebrospiker
+rules_text: This spell deals [ 2 ] damage to target opponent. Look at the top [two] cards of your library, then put a card from among them into your hand and the rest into your graveyard.
+Iterate {1}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => This spell deals [ 2 ] damage to target opponent. Look at the top [two] cards of your library, then put a card from among them into your hand and the rest into your graveyard.
+Iterate {2}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Now
+rules_text: Draw a card. => Scry 1.
+Draw a card.
+
+Rix Navven, Overcharged Brute
+rules_text: Vigilance, trample, ward {2}
+Whenever this creature attacks, it gets +X/+X until end of turn, where X is the total number of instant and sorcery cards you own in exile and in your graveyard. => Trample, ward {2}
+Whenever this creature attacks, it gets +X/+X until end of turn, where X is the total number of instant and sorcery cards you own in exile and in your graveyard.
+
+Eidolon's Thirst
+
+Lost
+rules_text: Put target creature or planeswalker you don't control on top its owner's library. => Put target creature or planeswalker you don't control on top of its owner's library.
+
+Manipulation Guildmage
+rules_text: {UB}, {T}: Target player mills three cards.
+{UB}{UB}, {T}: Until your next turn, target creature can't block or be blocked. => {UB}, {T}: Target player mills two cards.
+{1}{UB}{UB}, {T}: Target creature can't be blocked this turn.
+
+Corrosive Bile Spitter
+
+Shredding Barrage
+
+Dryads' Blessing
+
+Tend to the Gardens
+
+Enforcers of the Guildpact
+pt: 5/4 => 4/3
+
+Secret Seeker
+rules_text: Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+At the beginning of your end step, if an instant or sorcery card left your graveyard this turn, put a +1/+1 counter on this creature. => Flying
+At the beginning of your end step, if an instant or sorcery card left your graveyard this turn, put a +1/+1 counter on this creature.
+
+Oppress
+rules_text: Destroy target creature. You lose 2 life unless you destroyed a monocolored creature this way. => Destroy target creature. You lose 3 life unless you destroyed a monocolored creature this way.
+
+Escalating Wrath
+rules_text: At the beginning of combat on your turn, target creature you control rages. It gains your choice of trample or haste until end of turn. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on this creature.)[/i] => At the beginning of combat on your turn, target creature you control rages. It gains your choice of trample or haste until end of turn. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Blessing of Vitu-Ghazi
+rules_text: Enchant creature you control
+When this enchantment enters, create a 1/1 green Saproling creature token.
+Enchanted creature gets +1/+1 for each creature you control or each counters among creatures you control, whichever is greater, and has first strike and trample. => Enchant creature you control
+When this enchantment enters, create a 1/1 green Saproling creature token.
+Enchanted creature gets +1/+1 for each creature you control or each counter among creature you control, whichever is greater and has first strike and trample.
+
+Guildpact's Blessing
+cost: {1}{W} => {2}{W}
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Enchant creature you control
+Enchanted creature gets +1/+1 and has vigilance and hexproof from monocolored. => Enchant creature you control
+When this Aura enters, untap enchanted creature.
+Enchanted creature gets +1/+3 and has vigilance and hexproof from monocolored.
+
+Druid of the Votary
+pt: 1/3 => 2/3
+
+Eidolon's Vitality
+
+Fifth District Avenger
+rules_text: Trample
+When this creature enters, put two +1/+1 counters on it for each Gate you control. Then it fights up to one target creature you don't control. => Trample
+When this creature enters, put a +1/+1 counter on it for each Gate you control. Then it fights up to one target creature you don't control.
+
+Furious Pangoduan
+pt: 3/3 => 3/4
+
+Disctrict Explorer
+
+Deep Wound
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Enchant a creature
+Enchanted creature gets -2/-2.
+When this aura is put into your graveyard from anywhere, scry 1. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Enchant a creature
+Enchanted creature gets -2/-2.
+When this card is put into your graveyard from anywhere, scry 1.
+
+Selesnya Guildgate
+
+Gruul Guildgate
+
+Ayla, Harmony's Embrace
+special_text: [+1]: Flourish 2.
+[-3]: Exile target artifact, creature or enchantment. Its owner gains life equal to that permanent's mana value.
+[-5]: For each token you control, create a token that's a copy of it. Then flourish X, where X is the number of creatures you control. => Whenever Ayla or a creature you control enters, you may create a 1/1 green Saproling creature token. This ability triggers only once each turn.
+[+1]: Flourish 2.
+[-3]: Exile target artifact, creature or enchantment. Its owner gains life equal to that permanent's mana value.
+[-8]: You get an emblem with “At the beginning of each upkeep, create three 1/1 green Saproling creature tokens, then put a +1/+1 counter on each creature you control.”
+loyalty: 5 => 4
+
+Gheshval, Night's Mantle
+special_text: [+1]: Target player mills three cards. Draw a card.
+[-3]: Search your library for a card with mana value X or less, reveal it, put it into your hand, then shuffle, where X is the number of cards in target player's graveyard.
+[-8]: Exile all graveyards. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled. => Whenever you put one or more cards into your graveyard from your library, you may put one of them into your hand.
+[+1]: Each player mill three cards.
+[-2]: Return target nonland permanent to its owner's hand, then that player discards a card.
+[-8]: Exile each graveyard. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 
