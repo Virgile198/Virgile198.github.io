@@ -4930,7 +4930,7 @@
             "notes": "!tag Dimir"
         },
         {
-            "card_name": "Seventh Disctrict Scoundrel",
+            "card_name": "Seventh District Scoundrel",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Human Citizen",
@@ -5416,5 +5416,5 @@
             "notes": "!tag Dimir"
         }
     ],
-    "version": 21
+    "version": 22
 }

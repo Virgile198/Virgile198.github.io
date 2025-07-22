@@ -1,4 +1,12 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+Seventh District Scoundrel added.
+
+Seventh Disctrict Scoundrel removed.
+
+
+VERSION 21 CHANGELOG
 ====================
 
 District Explorer added.
