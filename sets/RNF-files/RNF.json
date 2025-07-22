@@ -1860,7 +1860,7 @@
             "notes": "!tag Selesnya"
         },
         {
-            "card_name": "Ninth District Benevolant",
+            "card_name": "Ninth District Benevolent",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Human Cleric",
@@ -2695,7 +2695,7 @@
             "number": 228,
             "color_identity": "UR",
             "cost": "{UR}{UR}",
-            "rules_text": "Prowess\nWhenever this creature becomes the target of a spell with a single target, you may copy that spell. You may chose new targets for the copy. This ability triggers only once each turn.\n{1}{UR}{UR}, {T}: Change the target of target spell with a single creature target to this creature.",
+            "rules_text": "Prowess\nWhenever this creature becomes the target of a spell with a single target, you may copy that spell. You may chose new targets for the copy. This ability triggers only once each turn.\n{1}{UR}{UR}, {T}: Change the target of target spell with a single target creature to this creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3203,9 +3203,9 @@
             "number": 192,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Vigilance, lifelink\nWard\u2014Pay 3 life.\n{7}{W}{B}, {T}: Return target permanent for a graveyard to the battlefield under your control. This ability costs {1} less to activate for each 1 life you gained or lost this turn. Activate only as a sorcery.",
+            "rules_text": "Lifelink\nWard\u2014Pay 3 life.\nAt the beginning of your end step, if you gained or lost 3 or more life this turn, you may return target creature or enchantment with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.",
             "flavor_text": "[i][/i]",
-            "pt": "2/3",
+            "pt": "1/3",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -3973,7 +3973,7 @@
             "cost": "{1}{W}{B}",
             "rules_text": "As long as you've lost life during your turn, this creature has first strike and deathtouch.\nWhenever you gain life, put a +1/+1 counter on this creature.\nWhen this creature dies, you gain life equal to the number of +1/+1 counters on it.",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -5416,5 +5416,5 @@
             "notes": "!tag Dimir"
         }
     ],
-    "version": 18
+    "version": 19
 }
