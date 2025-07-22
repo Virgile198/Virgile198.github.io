@@ -1,4 +1,15 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+Become Dust
+rules_text: As an additional cost to cast this spell, pay 3 life or discard a card.
+Destroy target creature, enchantment or planeswalker. => As an additional cost to cast this spell, pay 3 life or discard a card.
+Destroy target artifact, creature, enchantment or planeswalker.
+
+
+VERSION 17 CHANGELOG
 ====================
 
 

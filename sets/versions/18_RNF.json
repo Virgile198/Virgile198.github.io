@@ -3889,7 +3889,7 @@
             "number": 151,
             "color_identity": "WB",
             "cost": "{W}{B}",
-            "rules_text": "As an additional cost to cast this spell, pay 3 life or discard a card.\nDestroy target creature, enchantment or planeswalker.",
+            "rules_text": "As an additional cost to cast this spell, pay 3 life or discard a card.\nDestroy target artifact, creature, enchantment or planeswalker.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
