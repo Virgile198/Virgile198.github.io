@@ -4470,7 +4470,7 @@
             "notes": ""
         },
         {
-            "card_name": "Third Disctrict Sharpshooter",
+            "card_name": "Third District Sharpshooter",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Elf Scout",
@@ -5416,5 +5416,5 @@
             "notes": "!tag Dimir"
         }
     ],
-    "version": 19
+    "version": 20
 }

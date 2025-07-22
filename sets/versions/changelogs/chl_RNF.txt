@@ -1,4 +1,12 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+Third District Sharpshooter added.
+
+Third Disctrict Sharpshooter removed.
+
+
+VERSION 19 CHANGELOG
 ====================
 
 Ninth District Benevolent added.
