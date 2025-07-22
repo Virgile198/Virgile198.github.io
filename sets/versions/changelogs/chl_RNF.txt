@@ -1,4 +1,12 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+District Explorer added.
+
+Disctrict Explorer removed.
+
+
+VERSION 20 CHANGELOG
 ====================
 
 Third District Sharpshooter added.
