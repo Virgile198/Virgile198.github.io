@@ -1,4 +1,120 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+
+
+Fierce Maaka Kitten
+cost: {1}{R} => {R}
+rules_text: Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
+At the beginning of combat on your turn, you may discard a card. If you do, this creature gains your choice of first strike, menace, trample or haste until end of turn. => Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
+Whenever you put one or more +1/+1 counters on this creature, it gains your choice of first strike, menace, trample or haste until end of turn.
+
+Mossback Pulverizer
+
+Profitable Demise
+
+Teysa Karlov, Master of Deals
+
+Assessor of Worth
+rules_text: Flying, first strike, vigilance, lifelink
+Ward—Pay 4 life.
+[i][i]Oblation 6[/i][/i] — When this creature enters, you may pay 6 life. If you do, destroy each other nonland permanent. => Flying, vigilance, lifelink
+Ward—Pay 4 life.
+[i][i]Oblation 6[/i][/i] — When this creature enters, you may pay 6 life. If you do, destroy each other nonland permanent.
+
+Orzhov Seizebeast
+
+Flowerbed Envoy's Call
+
+Worldring Uroboros
+
+Ledev Captain
+
+Sowing Courier
+
+Essencesnatch
+
+Tin Street
+
+Selesnya Insignia
+
+Vault of the Paruns
+
+Thrull Collectors
+
+Frontline Cultivator
+pt: 2/2 => 2/1
+
+Fires of Reclamation
+
+Mad Alchemist
+
+Cleanser of Debt
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+At the beginning of your end step, if you gained or lost life, create a 1/1 black Bat creature token with flying. => First strike, lifelink
+At the beginning of your end step, if you gained or lost life this turn, create a 1/1 black Bat creature token with flying.
+
+Slitz-Clan Opportunist
+rules_text: This creature can't be blocked by more than one creature.
+{2}{R}: This creature gains first strike until end of turn. => This creature can't be blocked by more than one creature.
+{1}{R}: This creature gains first strike until end of turn. Activate only during your turn.
+
+Factory Line
+
+Workshop Supervisor
+
+Rakasht, Spawn of Ulasht
+
+Choosen of the Worldsoul
+
+Spore Waltz
+
+Cemetery Guardian
+
+Vitality
+
+Fac Simile Project
+
+Cultivated Strength
+
+Alcarus, Old Growth Protector
+
+Burgeoning Troops
+
+Harmony Guildmage
+
+Ironroot Bindings
+
+Rise
+
+Repurpose the Scraps
+
+Devotion Guildmage
+
+Sixth District Marshal
+
+Enforcers of the Guildpact
+rules_text: Vigilance
+This creature can't be blocked by monocolored creatures. => Vigilance
+Whenever this creature blocks or becomes blocked by a monocolored creature, it gets +1/+1 until end of turn for each of those creatures.
+pt: 4/3 => 5/4
+
+Eidolon's Call
+
+Writhing Amalgamate
+
+Blessing of Vitu-Ghazi
+
+Wasteful Inheritor
+
+Emmara, Ancestral Caregiver
+
+Dew's Benediction
+
+Ayla, Harmony's Embrace
+
+
+VERSION 23 CHANGELOG
 ====================
 
 Zombie Star; added.

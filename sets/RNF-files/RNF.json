@@ -156,8 +156,8 @@
             "type": "Creature \u2014 Beast",
             "number": 95,
             "color_identity": "R",
-            "cost": "{1}{R}",
-            "rules_text": "Whenever you discard one or more cards, put that many +1/+1 counters on this creature.\nAt the beginning of combat on your turn, you may discard a card. If you do, this creature gains your choice of first strike, menace, trample or haste until end of turn.",
+            "cost": "{R}",
+            "rules_text": "Whenever you discard one or more cards, put that many +1/+1 counters on this creature.\nWhenever you put one or more +1/+1 counters on this creature, it gains your choice of first strike, menace, trample or haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -269,11 +269,11 @@
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Aries13",
-            "notes": "!token Saproling RNF"
+            "notes": ""
         },
         {
             "card_name": "Charitable Thrull",
@@ -395,11 +395,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "India-Lee Crews",
-            "notes": "!tag Orzhov;\n!token Treasure RNF"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Teysa Karlov, Master of Deals",
@@ -413,11 +413,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Mike Pape",
-            "notes": "!tag Orzhov;\n!token Spirit RNF; Treasure RNF"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Treasured Pet",
@@ -445,7 +445,7 @@
             "number": 149,
             "color_identity": "WB",
             "cost": "{4}{W}{B}{B}",
-            "rules_text": "Flying, first strike, vigilance, lifelink\nWard\u2014Pay 4 life.\n[i][i]Oblation 6[/i][/i] \u2014 When this creature enters, you may pay 6 life. If you do, destroy each other nonland permanent.",
+            "rules_text": "Flying, vigilance, lifelink\nWard\u2014Pay 4 life.\n[i][i]Oblation 6[/i][/i] \u2014 When this creature enters, you may pay 6 life. If you do, destroy each other nonland permanent.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -503,11 +503,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Wayne Barlowe",
-            "notes": "!tag Orzhov;\n!token Treasure RNF"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Vulpus Honorguard",
@@ -629,11 +629,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Elena Mar\u00eda Vacas",
-            "notes": "!tag Selesnya;\n!token Rhino RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Precinct Archprotector",
@@ -665,11 +665,11 @@
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Pitta",
-            "notes": "!tag Selesnya;\n!token Wurm RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Bolstering Spores",
@@ -701,11 +701,11 @@
             "flavor_text": "[i]\u201cThe soldiers and faithful of the Conclave are never alone.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "davehollandart",
-            "notes": "!tag Selesnya;\n!token Elf Knight RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Flowermane Healer",
@@ -809,11 +809,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Sarahlovellart",
-            "notes": "!tag Selesnya;\n!token Bird RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Branching Possibilities",
@@ -863,11 +863,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "karipaints",
-            "notes": "!token Faerie RNF"
+            "notes": ""
         },
         {
             "card_name": "Ceremony of Fury",
@@ -1349,11 +1349,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Sam",
-            "notes": "!token Treasure RNF"
+            "notes": ""
         },
         {
             "card_name": "Transguild Square",
@@ -1439,11 +1439,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag Selesnya;\n!token Elf Knight RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Dimir Insignia",
@@ -1547,11 +1547,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "KuteynikovRoman",
-            "notes": "!token Citizen RNF"
+            "notes": ""
         },
         {
             "card_name": "Oblivion Urn",
@@ -1835,11 +1835,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Dawn Murin",
-            "notes": "!tag Orzhov;\n!token Treasure RNF"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Frontline Cultivator",
@@ -1851,7 +1851,7 @@
             "cost": "{2}{W}",
             "rules_text": "When this creature enters, flourish 1. [i](Put a +1/+1 counter on up to one creature you control. If you do, you gain 1 life.)[/i]\nDuring your turn, creatures you control with a +1/+1 counter on them have first strike.",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -1925,11 +1925,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "javi-ure",
-            "notes": "!token Elemental RNF"
+            "notes": ""
         },
         {
             "card_name": "Conclave Sentinel",
@@ -2015,11 +2015,11 @@
             "flavor_text": "[i][/i]",
             "pt": "0/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Timi Honkanen",
-            "notes": "!token Treasure RNF"
+            "notes": ""
         },
         {
             "card_name": "Mounted Warbeast",
@@ -2119,15 +2119,15 @@
             "number": 2,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\nAt the beginning of your end step, if you gained or lost life, create a 1/1 black Bat creature token with flying.",
+            "rules_text": "First strike, lifelink\nAt the beginning of your end step, if you gained or lost life this turn, create a 1/1 black Bat creature token with flying.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "BASTIEN LECOUFFE DEHARME",
-            "notes": "!tag Orzhov;\n!token Bat RNF"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Saproling",
@@ -2497,7 +2497,7 @@
             "number": 140,
             "color_identity": "RG",
             "cost": "{3}{G}",
-            "rules_text": "This creature can't be blocked by more than one creature.\n{2}{R}: This creature gains first strike until end of turn.",
+            "rules_text": "This creature can't be blocked by more than one creature.\n{1}{R}: This creature gains first strike until end of turn. Activate only during your turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -2763,11 +2763,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "yoji grey",
-            "notes": "!tag Izzett;\n!token Construct RNF"
+            "notes": "!tag Izzett"
         },
         {
             "card_name": "Workshop Supervisor",
@@ -2781,11 +2781,11 @@
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Graey Erb",
-            "notes": "!tag Izzett;\n!token Construct RNF"
+            "notes": "!tag Izzett"
         },
         {
             "card_name": "Blessing of Savagery",
@@ -2881,11 +2881,11 @@
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
-            "notes": "!tag Gruull;\n!token Hellion RNF"
+            "notes": "!tag Gruull"
         },
         {
             "card_name": "Mind Warp",
@@ -2953,11 +2953,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Entei Ryu",
-            "notes": "!tag Selesnya;\n!token Saproling RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Spore Waltz",
@@ -2971,11 +2971,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Dominik Mayer",
-            "notes": "!tag Selesnya;\n!token Saproling RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Vanish",
@@ -3153,11 +3153,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Eryk Szczygie\u0142",
-            "notes": "!tag Orzhov;\n!token Spirit RNF"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Cruel Advokist",
@@ -3225,7 +3225,7 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "fuse split",
             "set": "RNF",
             "loyalty": "",
             "artist": "Dominik Mayer",
@@ -3239,7 +3239,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Orzhov;\n!token Copy RNF; Zombie Star RNF"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Fragmentize",
@@ -3307,11 +3307,11 @@
             "flavor_text": "[i]\u201cWhen the Izzet League itself tells you to \u2018Slow down' and \u2018Your project is too dangerous to pursue', you know you've struck gold!\u201d[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Wizard of the Coast",
-            "notes": "!token Copy RNF"
+            "notes": ""
         },
         {
             "card_name": "Torpor",
@@ -3559,11 +3559,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Mari Suomela",
-            "notes": "!tag Selesnya;\n!token Centaur RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Fiery Form",
@@ -3685,11 +3685,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Connor Sheehan",
-            "notes": "!tag Selesnya;\n!token Durn'mir RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Burgeoning Troops",
@@ -3703,11 +3703,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Jason Behnke",
-            "notes": "!tag Selesnya;\n!token Saproling RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Harmony Guildmage",
@@ -3721,11 +3721,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Agerkvist",
-            "notes": "!tag Selesnya;\n!token Saproling RNF<2>"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Ironroot Bindings",
@@ -3739,11 +3739,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Berenica",
-            "notes": "!tag Selesnya;\n!token Saproling RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Poised to Strike",
@@ -3775,7 +3775,7 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "fuse split",
             "set": "RNF",
             "loyalty": "",
             "artist": "Sigrid Appelberg",
@@ -3789,7 +3789,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Selesnya;\n!token Saproling RNF<2>; Elemental RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Rootguard Loxodon",
@@ -3839,11 +3839,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "stonefang_inventors",
-            "notes": "!tag Izzet;\n!token Treasure RNF"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Reconfigure",
@@ -3911,11 +3911,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Jonathan Gee",
-            "notes": "!tag Orzhov;\n!token Spirit RNF"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Priest of Purification",
@@ -4463,11 +4463,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "John Burns",
-            "notes": "!token Soldier RNF; Treasure RNF"
+            "notes": ""
         },
         {
             "card_name": "Third District Sharpshooter",
@@ -4585,9 +4585,9 @@
             "number": 130,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Vigilance\nThis creature can't be blocked by monocolored creatures.",
-            "flavor_text": "[i]\u201cIt is only through the strict enforcement of the Guildpact and the reign of the Ten that Ravnica may prosper. No mercy shall be given to the traitors and fools who desire to break the natural order.\u201d[/i]",
-            "pt": "4/3",
+            "rules_text": "Vigilance\nWhenever this creature blocks or becomes blocked by a monocolored creature, it gets +1/+1 until end of turn for each of those creatures.",
+            "flavor_text": "[i]\u201cIt is only through the strict enforcement of the Guildpact and the reign of the Ten that Ravnica may prosper. No mercy shall be given to those who desire to break the natural order.\u201d[/i]",
+            "pt": "5/4",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -4959,11 +4959,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Rick Hertel",
-            "notes": "!token Soldier RNF<2>"
+            "notes": ""
         },
         {
             "card_name": "Retriever of Secrets",
@@ -5013,11 +5013,11 @@
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "David Metzger",
-            "notes": "!tag Dimir;\n!token Zombie RNF"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Galvanizing Call",
@@ -5049,11 +5049,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Othon Nikolaidis",
-            "notes": "!tag Selesnya;\n!token Saproling RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Memorable Feast",
@@ -5229,11 +5229,11 @@
             "flavor_text": "[i]\u201cWhat's the point of having money if not to spend it at your every whim?\u201d[/i]",
             "pt": "3/5",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Enrique Mel\u00e9ndez Gal\u00e1n",
-            "notes": "!tag Orzhov;\n!token Treasure RNF<2>"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "District Explorer",
@@ -5319,11 +5319,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Wizard of the coast",
-            "notes": "!tag Selesnya;\n!token Saproling RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Selesnya Guildgate",
@@ -5355,11 +5355,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Yurian",
-            "notes": "!token Bird RNF"
+            "notes": ""
         },
         {
             "card_name": "Gruul Guildgate",
@@ -5391,11 +5391,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever Ayla or a creature you control enters, you may create a 1/1 green Saproling creature token. Do this only once each turn.\n[+1]: Flourish 2.\n[-3]: Exile target artifact, creature or enchantment. Its owner gains life equal to that permanent's mana value.\n[-8]: You get an emblem with \u201cAt the beginning of each upkeep, create two 1/1 green Saproling creature tokens, then put a +1/+1 counter on each creature you control.\u201d",
-            "shape": "token",
+            "shape": "planeswalker",
             "set": "RNF",
             "loyalty": "4",
             "artist": "Christophe Young",
-            "notes": "!tag Selesnya;\n!token Saproling RNF"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Gheshval, Night's Mantle",
@@ -5416,5 +5416,5 @@
             "notes": "!tag Dimir"
         }
     ],
-    "version": 23
+    "version": 24
 }
