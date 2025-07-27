@@ -31,7 +31,7 @@
             "number": 105,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "This spell can't be countered.\nThis spell deals [ 5 ] damage to target creature or planeswalker you don't control. If that permanent would die this turn, exile it instead.\nIterate {2}{R}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
+            "rules_text": "This spell can't be countered.\nThis spell deals [5] damage to target creature or planeswalker you don't control. If that permanent would die this turn, exile it instead.\nIterate {2}{R}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -85,7 +85,7 @@
             "number": 99,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Menace, prowess",
+            "rules_text": "Menace [i](This creature can't be blocked except by two or more creatures.)[/i]\nProwess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -139,7 +139,7 @@
             "number": 90,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Double strike\nYour opponents can't gain life.\nWhenever an opponent loses 1 or more life, this creature rages. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]",
+            "rules_text": "Double strike\nYour opponents can't gain life.\nWhenever an opponent loses life, this creature rages. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -211,7 +211,7 @@
             "number": 118,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "When this creature enters, distribute two +1/+1 counters among one or two target creatures you control.\nCreatures you control with a +1/+1 counter on them have deathtouch.\nWhenever a creature you control deals combat damage to a player, you draw a card.",
+            "rules_text": "When this creature enters, distribute two +1/+1 counters among one or two target creatures you control.\nEach creature you control with a +1/+1 counter on it has deathtouch.\nWhenever a creature you control deals combat damage to a player, you draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "2/5",
             "special_text": "",
@@ -269,11 +269,11 @@
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Aries13",
-            "notes": ""
+            "notes": "!token Saproling RNF"
         },
         {
             "card_name": "Charitable Thrull",
@@ -301,7 +301,7 @@
             "number": 27,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Vigilance, lifelink\nOnce each turn, whenever you lose life, you may pay {2}. If you do, you draw a card.",
+            "rules_text": "Vigilance, lifelink\nWhenever you gain or lose life for the first time during each of your turns, you may pay {2}. If you do, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -395,11 +395,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "India-Lee Crews",
-            "notes": "!tag Orzhov"
+            "notes": "!tag Orzhov;\n!token Treasure RNF"
         },
         {
             "card_name": "Teysa Karlov, Master of Deals",
@@ -413,11 +413,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Mike Pape",
-            "notes": "!tag Orzhov"
+            "notes": "!tag Orzhov;\n!token Spirit RNF; Treasure RNF"
         },
         {
             "card_name": "Treasured Pet",
@@ -427,7 +427,7 @@
             "number": 233,
             "color_identity": "WB",
             "cost": "{1}{WB}",
-            "rules_text": "Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]",
+            "rules_text": "Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\nWhen this creature dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -499,15 +499,15 @@
             "number": 16,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "[i][i]Oblation 3[/i][/i] \u2014 When this creature enters, you may pay 3 life. If you do, destroy target artifact or enchantment.",
+            "rules_text": "Vigilance\n[i][i]Oblation 5[/i][/i] \u2014 When this creature enters, you may pay 5 life. If you do, exile target artifact or enchantment.\nWhen this creature dies, you and target opponent each create a Treasure token.",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "3/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Wayne Barlowe",
-            "notes": "!tag Orzhov"
+            "notes": "!tag Orzhov;\n!token Treasure RNF"
         },
         {
             "card_name": "Vulpus Honorguard",
@@ -517,7 +517,7 @@
             "number": 144,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "When this creature enters, flourish 1. [i](Put a +1/+1 counter on each of up to a creatures you control. You gain 1 life for each of those creatures.)[/i]\n{T}: Add {G}.\n{1}, {T}: Add one mana of any color.",
+            "rules_text": "When this creature enters, flourish 1. [i](Put a +1/+1 counter on up to one creature you control. If you do, you gain 1 life.)[/i]\n{T}: Add {G}.\n{1}, {T}: Add one mana of any color.",
             "flavor_text": "[i][/i]",
             "pt": "0/2",
             "special_text": "",
@@ -535,7 +535,7 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Defender [i](This creature can't attack.)[/i]\nAt the beginning of your end step, if you gained or lost life this turn, Scry 1.",
+            "rules_text": "Defender [i](This creature can't attack.)[/i]\nAt the beginning of your end step, if you gained or lost life this turn, surveil 1.",
             "flavor_text": "[i]The front door of Pontiff Morov's manor act as both a repellent for thieves and a reminder to any who may think about defaulting on their debts to him.[/i]",
             "pt": "0/3",
             "special_text": "",
@@ -629,11 +629,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Elena Mar\u00eda Vacas",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Rhino RNF"
         },
         {
             "card_name": "Precinct Archprotector",
@@ -665,11 +665,11 @@
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Pitta",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Wurm RNF"
         },
         {
             "card_name": "Bolstering Spores",
@@ -698,14 +698,14 @@
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]\nWhen this creature enters, create a 2/2 green and white Elf Knight creature tokens with vigilance.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cThe soldiers and faithful of the Conclave are never alone.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "davehollandart",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Elf Knight RNF"
         },
         {
             "card_name": "Flowermane Healer",
@@ -715,7 +715,7 @@
             "number": 181,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
-            "rules_text": "Vigilance\nWhen this creature enters, flourish 2. [i](Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)[/i]\nCreatures you control with a +1/+1 counter on them have ward {1}.",
+            "rules_text": "Vigilance\nWhen this creature enters, flourish 2. [i](Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)[/i]\nEach creature you control with a +1/+1 counter on it has ward {1}.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -809,11 +809,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Sarahlovellart",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Bird RNF"
         },
         {
             "card_name": "Branching Possibilities",
@@ -863,20 +863,20 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "karipaints",
-            "notes": ""
+            "notes": "!token Faerie RNF"
         },
         {
             "card_name": "Ceremony of Fury",
             "color": "RG",
             "rarity": "common",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 222,
             "color_identity": "RG",
-            "cost": "{2}{RG}",
+            "cost": "{1}{RG}",
             "rules_text": "Target creature you control rages. It fights up to one target creature you don't control. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -949,7 +949,7 @@
             "number": 113,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "This spell deals [ 2 ] damage to any target.\nIterate {5}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
+            "rules_text": "This spell deals [2] damage to any target.\nIterate {5}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1111,7 +1111,7 @@
             "number": 206,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\nWhen this card leaves your graveyard, target player mills four cards.\nCover-up 2\u2014{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\nWhen this card leaves your graveyard, target player mills four cards.\nCover-up 2\u2014{U}{B} [i]({U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1349,11 +1349,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Sam",
-            "notes": ""
+            "notes": "!token Treasure RNF"
         },
         {
             "card_name": "Transguild Square",
@@ -1363,7 +1363,7 @@
             "number": 269,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "When this land enters, scry X, where X is the number of different colors of mana Gates you control could produce.\n{T}: Add {C}.\n{T}: Add one mana of any color a Gate you control could produce. If that mana is spent on a multicolored spell, you gain 1 life.",
+            "rules_text": "When this land enters, surveil X, where X is the number of different colors of mana Gates you control could produce.\n{T}: Add {C}.\n{T}: Add one mana of any color a Gate you control could produce. If that mana is spent on a multicolored spell, you gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1439,11 +1439,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Elf Knight RNF"
         },
         {
             "card_name": "Dimir Insignia",
@@ -1547,11 +1547,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "KuteynikovRoman",
-            "notes": ""
+            "notes": "!token Citizen RNF"
         },
         {
             "card_name": "Oblivion Urn",
@@ -1687,7 +1687,7 @@
             "number": 45,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "If an effect you control would make you look at the top cards of any player's library, you may look at that many cards plus one instead.\nWhenever one or more cards leave your graveyard, scry 1.",
+            "rules_text": "If an effect you control would make you look at the top cards of any player's library, you may look at that many cards plus one instead.\nWhenever one or more cards leave your graveyard, surveil 1.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1725,7 +1725,7 @@
             "cost": "{2}{UB}",
             "rules_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\nCover-up 2\u2014{2}{UB} [i]({2}{UB}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "3/1",
+            "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -1741,7 +1741,7 @@
             "number": 35,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Target creature gets -3/-0 until end of turn. Scry 2.\nCover-up 2\u2014{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "Target creature gets -2/-0 until end of turn. Surveil 2.\nCover-up 2\u2014{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1759,7 +1759,7 @@
             "number": 59,
             "color_identity": "UB",
             "cost": "{1}{B}",
-            "rules_text": "Each opponent sacrifices a creature. If {U} was spent to cast this spell, target player mills three cards.",
+            "rules_text": "Each opponent sacrifices a creature. If {U} was spent to cast this spell, any number of target players each mill three cards.",
             "flavor_text": "[i]\u201cDie knowing none shall remember your name nor glory.\u201d\n\u2014Dimir Necrosage[/i]",
             "pt": "",
             "special_text": "",
@@ -1795,7 +1795,7 @@
             "number": 21,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Flash\nFlying, vigilance\nWhen this creature enters, other creatures you control get +1/+1 until end of turn.",
+            "rules_text": "Flash\nFlying, vigilance\nWhen this creature enters, each other creature you control gets +1/+1 until end of turn and you gain 1 life for each of those creature.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -1815,7 +1815,7 @@
             "cost": "{4}{U}{U}",
             "rules_text": "When this creature enters, tap up to one target creature an opponent controls, then that creature's controller mills five cards. That creature doesn't untap for as long as you control this creature.",
             "flavor_text": "[i][/i]",
-            "pt": "3/6",
+            "pt": "4/6",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -1835,11 +1835,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Dawn Murin",
-            "notes": "!tag Orzhov"
+            "notes": "!tag Orzhov;\n!token Treasure RNF"
         },
         {
             "card_name": "Frontline Cultivator",
@@ -1925,11 +1925,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "javi-ure",
-            "notes": ""
+            "notes": "!token Elemental RNF"
         },
         {
             "card_name": "Conclave Sentinel",
@@ -2011,15 +2011,15 @@
             "number": 103,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Haste\n{T}, Discard a card: Create X tapped Treasure tokens, then this creature deals twice X damage to you, where X is the mana value of the card discarded this way.",
+            "rules_text": "Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]\n{T}, Discard a card: Create X tapped Treasure tokens, then this creature deals twice X damage to you, where X is the mana value of the card discarded this way.",
             "flavor_text": "[i][/i]",
             "pt": "0/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Timi Honkanen",
-            "notes": ""
+            "notes": "!token Treasure RNF"
         },
         {
             "card_name": "Mounted Warbeast",
@@ -2097,7 +2097,7 @@
             "card_name": "Thraka, Ire of the Wilds",
             "color": "RG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Beast",
+            "type": "Legendary Creature \u2014 Beast God",
             "number": 212,
             "color_identity": "RG",
             "cost": "{2}{R}{R}{G}{G}",
@@ -2123,11 +2123,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "BASTIEN LECOUFFE DEHARME",
-            "notes": "!tag Orzhov"
+            "notes": "!tag Orzhov;\n!token Bat RNF"
         },
         {
             "card_name": "Saproling",
@@ -2145,7 +2145,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "T. Alex Mills",
-            "notes": ""
+            "notes": "!token"
         },
         {
             "card_name": "Spirit",
@@ -2163,7 +2163,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "youxiandaxia",
-            "notes": "!tag Orzhov"
+            "notes": "!tag Orzhov;\n!token"
         },
         {
             "card_name": "Hellion",
@@ -2181,7 +2181,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "chillier17",
-            "notes": "!tag Gruul"
+            "notes": "!tag Gruul;\n!token"
         },
         {
             "card_name": "Construct",
@@ -2198,8 +2198,8 @@
             "shape": "token",
             "set": "RNF",
             "loyalty": "",
-            "artist": "Grafit-art",
-            "notes": ""
+            "artist": "Aleksi Briclot",
+            "notes": "!token"
         },
         {
             "card_name": "Zombie",
@@ -2217,10 +2217,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Florian Herold",
-            "notes": ""
+            "notes": "!token"
         },
         {
-            "card_name": "Zombie",
+            "card_name": "Zombie Star;",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Zombie",
@@ -2235,7 +2235,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Neronapalm",
-            "notes": ""
+            "notes": "!exportname Zombie Star;\n!token"
         },
         {
             "card_name": "Citizen",
@@ -2253,7 +2253,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rene Gross",
-            "notes": ""
+            "notes": "!token"
         },
         {
             "card_name": "Elemental",
@@ -2271,7 +2271,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "KORHIPER",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Bird",
@@ -2289,7 +2289,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "AlaxendrA",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Copy",
@@ -2307,7 +2307,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alex Rommel",
-            "notes": ""
+            "notes": "!token"
         },
         {
             "card_name": "Elf Knight",
@@ -2325,7 +2325,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "lzfrusnckop",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Treasure",
@@ -2343,7 +2343,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "gugu-troll",
-            "notes": ""
+            "notes": "!token"
         },
         {
             "card_name": "Elemental",
@@ -2361,7 +2361,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ConceptartistJR",
-            "notes": "!tag Gruul"
+            "notes": "!tag Gruul;\n!token"
         },
         {
             "card_name": "Zhur-Taa Ember Shaman",
@@ -2535,7 +2535,7 @@
             "cost": "{4}{U}{R}",
             "rules_text": "Flying, haste\nIf you've spent six or more mana to cast noncreature spells this turn, until end of turn, you may cast this spell without paying its mana cost and as though it has flash.",
             "flavor_text": "[i]The Izzet soon discovered the wonders of the Aether thanks to the many newly recruited Kaladeshans.[/i]",
-            "pt": "5/4",
+            "pt": "6/4",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -2569,7 +2569,7 @@
             "number": 104,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Trample\nWhenever an opponent casts a noncreature spell, this creature rages. Then, it deals damage equal to the number of counters on it to that player. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]",
+            "rules_text": "Trample\nWhenever an opponent casts a noncreature spell, this creature rages, then deals damage equal to the number of counters on it to that player. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -2641,7 +2641,7 @@
             "number": 10,
             "color_identity": "W",
             "cost": "{2}{W}{W}{W}",
-            "rules_text": "Flash\nFlying, vigilance\nWhen this creature enters, if it was during a turn other than yours, end the combat phase and your opponents can't cast spells this turn. Otherwise, creatures you control get +1/+0 and gain indestructible until end of turn.",
+            "rules_text": "Flash\nFlying, vigilance\nWhen this creature enters, if it's an opponent's combat phase, end the phase and that player can't cast spells this turn. Otherwise, creatures you control get +1/+0 and gain indestructible until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -2759,15 +2759,15 @@
             "number": 177,
             "color_identity": "UR",
             "cost": "{X}{U}{R}",
-            "rules_text": "Create [ X ] 1/1 colorless Construct artifact creature tokens. They gain flying and haste until end of turn.\nIterate {X}{U}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
+            "rules_text": "Create [X] 1/1 colorless Construct artifact creature tokens. They gain flying and haste until end of turn.\nIterate {X}{U}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "yoji grey",
-            "notes": "!tag Izzet"
+            "notes": "!tag Izzett;\n!token Construct RNF"
         },
         {
             "card_name": "Workshop Supervisor",
@@ -2777,15 +2777,15 @@
             "number": 217,
             "color_identity": "UR",
             "cost": "{4}{U}{R}",
-            "rules_text": "Ward\u2014{2}, Pay 2 life.\nWhenever you cast your first instant or sorcery spell each turn, create X 1/1 colorless Construct artifact creature tokens, where X is the amount of mana spent to cast. Creatures you control gain haste until end of turn.",
+            "rules_text": "Ward\u2014{2}, Pay 2 life.\nWhenever you cast an instant or sorcery spell, create X 1/1 colorless Construct artifact creature tokens, where X is the amount of mana spent to cast that spell. Creatures you control gain haste until end of turn. This ability triggers only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Graey Erb",
-            "notes": "!tag Izzet"
+            "notes": "!tag Izzett;\n!token Construct RNF"
         },
         {
             "card_name": "Blessing of Savagery",
@@ -2831,7 +2831,7 @@
             "number": 225,
             "color_identity": "RG",
             "cost": "{3}{RG}{RG}",
-            "rules_text": "Haste\nWhenever this creature attacks, put a +1/+1 counter on each attacking creature you control.\nCreatures you control with a +1/+1 counter on them have trample.",
+            "rules_text": "Haste\nWhenever this creature attacks, put a +1/+1 counter on each attacking creature you control.\nEach creature you control with a +1/+1 counter on it has trample.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2876,16 +2876,16 @@
             "type": "Legendary Creature \u2014 Hellion",
             "number": 198,
             "color_identity": "RG",
-            "cost": "{X}{2}{R}{G}",
-            "rules_text": "This creature enters with a number of +1/+1 counters on it equal to amount of mana spent to cast it.\n{X}, Remove X +1/+1 counters from among creatures you control: Choose one\u2014\n\u2022 Create a X/X red and green Hellion creature token with trample and haste. X can't be 0.\n\u2022 This creature deals X damage to any target. X can't be 0.",
+            "cost": "{2}{R}{G}",
+            "rules_text": "This creature enters with a number of +1/+1 counters on it equal to number of creature and/or land cards in all graveyards.\n{X}, Remove X +1/+1 counters from among creatures you control: Choose one\u2014\n\u2022 Create a X/X red and green Hellion creature token with trample and haste. X can't be 0.\n\u2022 This creature deals X damage to any target. X can't be 0.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
-            "notes": "!tag Gruul"
+            "notes": "!tag Gruull;\n!token Hellion RNF"
         },
         {
             "card_name": "Mind Warp",
@@ -2913,7 +2913,7 @@
             "number": 82,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile them.\nCover-up 2\u2014{2}{B} [i]({2}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile those cards.\nCover-up 2\u2014{2}{B} [i]({2}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2953,11 +2953,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Entei Ryu",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Saproling RNF"
         },
         {
             "card_name": "Spore Waltz",
@@ -2971,11 +2971,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Dominik Mayer",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Saproling RNF"
         },
         {
             "card_name": "Vanish",
@@ -3059,7 +3059,7 @@
             "number": 188,
             "color_identity": "UB",
             "cost": "{U}{U}{B}",
-            "rules_text": "Counter target spell. Its controller loses 2 life.\nCover-up 3\u2014{2}{U}{B} [i]({2}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "Counter target spell. Its controller loses 2 life.\nCover-up 4\u2014{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3153,11 +3153,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Eryk Szczygie\u0142",
-            "notes": "!tag Orzhov"
+            "notes": "!tag Orzhov;\n!token Spirit RNF"
         },
         {
             "card_name": "Cruel Advokist",
@@ -3184,7 +3184,7 @@
             "type": "Sorcery",
             "number": 170,
             "color_identity": "WB",
-            "cost": "{W}{W}{B}{B}",
+            "cost": "{1}{W}{W}{B}",
             "rules_text": "Destroy all creatures. Exile all graveyards and all cards in exile.",
             "flavor_text": "[i]\u201cFollowing the directives of the agreement 406, paragraph 7, of the contract legally binding the inhabitants of this precinct to the Ministry of Obligation, all your souls and possessions are now forfeit.\u201d[/i]",
             "pt": "",
@@ -3225,7 +3225,7 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "fuse split",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Dominik Mayer",
@@ -3239,7 +3239,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Orzhov"
+            "notes": "!tag Orzhov;\n!token Copy RNF; Zombie Star RNF"
         },
         {
             "card_name": "Fragmentize",
@@ -3307,11 +3307,11 @@
             "flavor_text": "[i]\u201cWhen the Izzet League itself tells you to \u2018Slow down' and \u2018Your project is too dangerous to pursue', you know you've struck gold!\u201d[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Wizard of the Coast",
-            "notes": ""
+            "notes": "!token Copy RNF"
         },
         {
             "card_name": "Torpor",
@@ -3519,7 +3519,7 @@
             "number": 163,
             "color_identity": "WB",
             "cost": "{W}{W}{B}{B}",
-            "rules_text": "Flying, double strike\n[i]Oblation 2[/i] \u2014 When this creature enters, you may pay 2 life. If you do, target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.",
+            "rules_text": "Flying, double strike\n[i]Oblation 3[/i] \u2014 When this creature enters, you may pay 3 life. If you do, target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.",
             "flavor_text": "[i][/i]",
             "pt": "2/5",
             "special_text": "",
@@ -3559,11 +3559,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Mari Suomela",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Centaur RNF"
         },
         {
             "card_name": "Fiery Form",
@@ -3681,15 +3681,15 @@
             "number": 146,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
-            "rules_text": "First strike, reach\nWhen this creature enters, create Durn'mir, a legendary 2/3 green and white Bird creature token with flying and trample.\nCreatures you control with a +1/+1 counter on them have vigilance.",
+            "rules_text": "First strike, reach\nWhen this creature enters, create Durn'mir, a legendary 2/3 green and white Bird creature token with flying and trample.\nEach creature you control with a +1/+1 counter on it has vigilance.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Connor Sheehan",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Durn'mir RNF"
         },
         {
             "card_name": "Burgeoning Troops",
@@ -3699,15 +3699,15 @@
             "number": 157,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "When this enchantment enters, create a 1/1 green Saproling creature token.\nCreatures you control with a +1/+1 counter on them have \u201c{T}: Add one mana of any color.\u201d\n{1}{G}{W}: Flourish 1. Activate only as a sorcery. [i](Put a +1/+1 counter on up to one creature you control. If you do, you gain 1 life.)[/i]",
+            "rules_text": "When this enchantment enters, create a 1/1 green Saproling creature token.\nEach creature you control with a +1/+1 counter on it has \u201c{T}: Add one mana of any color.\u201d\n{1}{G}{W}: Flourish 1. Activate only as a sorcery. [i](Put a +1/+1 counter on up to one creature you control. If you do, you gain 1 life.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Jason Behnke",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Saproling RNF"
         },
         {
             "card_name": "Harmony Guildmage",
@@ -3721,11 +3721,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Agerkvist",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Saproling RNF<2>"
         },
         {
             "card_name": "Ironroot Bindings",
@@ -3739,11 +3739,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Berenica",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Saproling RNF"
         },
         {
             "card_name": "Poised to Strike",
@@ -3775,7 +3775,7 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "fuse split",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Sigrid Appelberg",
@@ -3789,7 +3789,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Saproling RNF<2>; Elemental RNF"
         },
         {
             "card_name": "Rootguard Loxodon",
@@ -3839,11 +3839,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "stonefang_inventors",
-            "notes": "!tag Izzet"
+            "notes": "!tag Izzet;\n!token Treasure RNF"
         },
         {
             "card_name": "Reconfigure",
@@ -3911,11 +3911,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Jonathan Gee",
-            "notes": "!tag Orzhov"
+            "notes": "!tag Orzhov;\n!token Spirit RNF"
         },
         {
             "card_name": "Priest of Purification",
@@ -3955,7 +3955,7 @@
             "color2": "B",
             "type2": "Sorcery",
             "cost2": "{2}{B}",
-            "rules_text2": "You gain 2 life. Return up to one target creature with mana value X or less from your graveyard to the battlefield, where X is the amount of life you gained this turn.",
+            "rules_text2": "You gain 2 life. Return up to one target creature if it has mana value X or less from your graveyard to the battlefield, where X is the amount of life you gained this turn.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -4025,7 +4025,7 @@
             "number": 160,
             "color_identity": "UR",
             "cost": "{U}{R}",
-            "rules_text": "This spell deals [ 2 ] damage to target opponent. Look at the top [two] cards of your library, then put a card from among them into your hand and the rest into your graveyard.\nIterate {2}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
+            "rules_text": "This spell deals [2] damage to target opponent. Look at the top [two] cards of your library, then put a card from among them into your hand and the rest into your graveyard.\nIterate {2}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4043,7 +4043,7 @@
             "number": 210,
             "color_identity": "UR",
             "cost": "{U}{R}",
-            "rules_text": "Gain control of target artifact or creature with mana value [ 3 ] or less until end of turn. Untap that permanent. It gains haste until end of turn.\nIterate {2}{U}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
+            "rules_text": "Gain control of target artifact or creature with mana value [3] or less until end of turn. Untap that permanent. It gains haste until end of turn.\nIterate {2}{U}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4079,7 +4079,7 @@
             "number": 238,
             "color_identity": "UR",
             "cost": "{U}",
-            "rules_text": "Scry 1.\nDraw a card.",
+            "rules_text": "Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]\nDraw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4233,7 +4233,7 @@
             "number": 68,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When this enchantment enters, each opponent loses 2 life. You gain life equal to the life lost this way.\nWhenever you cast a multicolored spell, return this enchantment to its owner's hand.",
+            "rules_text": "When this enchantment enters, each opponent loses 2 life and discards a card. You gain life equal to the life lost this way.\nWhenever you cast a multicolored spell, return this enchantment to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4251,7 +4251,7 @@
             "number": 168,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]\nWhenever this creature deals combat damage to a player, you may draw a card. If you do, discard a card.",
+            "rules_text": "Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]\nWhenever this creature deals combat damage to a player, draw a card, then discard a card unless a card left your graveyard this turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -4388,7 +4388,7 @@
             "color_identity": "W",
             "cost": "{4}{W}",
             "rules_text": "[i]Oblation 3[/i] \u2014 When this creature enters, you may pay 3 life. If you do, return target creature card with mana value 3 or less from your graveyard to the battlefield.",
-            "flavor_text": "[i]Some corpses are too desiccated to welcome their old souls. In such cases, the Orzhov church is your best bet, so long as you have the gold to spare of course.[/i]",
+            "flavor_text": "[i]Some corpses are too desiccated to welcome their old souls. In such cases, the Orzhov church is your best bet, so long as you have the coins to spare of course.[/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
@@ -4459,15 +4459,15 @@
             "number": 81,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Deathtouch, lifelink\nWhenever you gain or lose life, choose one that hasn't been chosen this turn \u2014\n\u2022 Create a 1/1 white Soldier creature token.\n\u2022 Create a tapped Treasure token.\n\u2022 Scry 2.",
+            "rules_text": "Deathtouch, lifelink\nWhenever you gain or lose life during your turn, choose one that hasn't been chosen this turn \u2014\n\u2022 Create a 1/1 white Soldier creature token.\n\u2022 Create a tapped Treasure token.\n\u2022 Surveil 2.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "John Burns",
-            "notes": ""
+            "notes": "!token Soldier RNF; Treasure RNF"
         },
         {
             "card_name": "Third District Sharpshooter",
@@ -4549,7 +4549,7 @@
             "number": 141,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Enchant land you control\nWhen this aura enters, search your library for a basic or Gate land card, reveal it, put it into your hand then shuffle.\nEnchanted land has \u201c{T}: Add one mana of any color.\u201d",
+            "rules_text": "Enchant land you control\nWhen this Aura enters, search your library for a basic or Gate land card, reveal it, put it into your hand then shuffle.\nEnchanted land has \u201c{T}: Add one mana of any color.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4675,8 +4675,8 @@
             "number": 43,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Flying, vigilance\nWhenever one or more card leave your graveyard, scry 1.",
-            "flavor_text": "[i]Doomed to investigate its own disappearance the rest of eternity.[/i]",
+            "rules_text": "Flying, vigilance\nWhenever one or more cards leave your graveyard, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
+            "flavor_text": "[i]Doomed to investigate its own disappearance for all eternity.[/i]",
             "pt": "2/4",
             "special_text": "",
             "shape": "normal",
@@ -4719,7 +4719,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alonzo Emata",
-            "notes": ""
+            "notes": "!token"
         },
         {
             "card_name": "Rhino",
@@ -4737,7 +4737,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "willwarburton",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Wurm",
@@ -4755,7 +4755,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Athayar",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Durn'mir",
@@ -4773,7 +4773,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Chris-Owl",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Aspect of Uniformity",
@@ -4873,7 +4873,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "SteveSketches",
-            "notes": ""
+            "notes": "!token"
         },
         {
             "card_name": "Conclave Spirewatch",
@@ -4959,11 +4959,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Rick Hertel",
-            "notes": ""
+            "notes": "!token Soldier RNF<2>"
         },
         {
             "card_name": "Retriever of Secrets",
@@ -4973,7 +4973,7 @@
             "number": 200,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "When this creature enters and at the beginning of your upkeep, you may mill two cards.\nWhenever you exile one or more cards from your graveyard, you may pay {2}. If you do, put an instant, sorcery or creature card among those cards into your hand.",
+            "rules_text": "When this creature enters and at the beginning of your upkeep, surveil 1.\nWhenever one or more cards are put into exile from your library and/or your graveyard, you may pay {2}. If you do, put an instant, sorcery or creature card among those cards into your hand.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -5009,15 +5009,15 @@
             "number": 87,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "When this card leaves your graveyard, create a 2/2 black Zombie creature token.\nCover-up 3\u2014{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "When this card leaves your graveyard, create a 2/2 black Zombie creature token.\nCover-up 3\u2014{2}{B}{B} [i]({2}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "David Metzger",
-            "notes": "!tag Dimir"
+            "notes": "!tag Dimir;\n!token Zombie RNF"
         },
         {
             "card_name": "Galvanizing Call",
@@ -5049,11 +5049,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Othon Nikolaidis",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Saproling RNF"
         },
         {
             "card_name": "Memorable Feast",
@@ -5143,7 +5143,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Federico Arguissein",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Druid of the Votary",
@@ -5153,7 +5153,7 @@
             "number": 127,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Vigilance\nDuring your turn, you and token creatures you control have hexproof.\nCreatures you control with a +1/+1 counter on them have trample.",
+            "rules_text": "Vigilance\nDuring your turn, you and token creatures you control have hexproof.\nEach creature you control with a +1/+1 counter on it has trample.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -5171,7 +5171,7 @@
             "number": 129,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When this enchantment enters, search your library for a land card or a creature card with mana value 2 or less, then put it onto the battlefield tapped.\nWhenever you cast a multicolored spell, return this enchantment to its owner's hand.",
+            "rules_text": "When this enchantment enters, search your library for a land card or a creature card with mana value 2 or less, put it onto the battlefield tapped, then shuffle.\nWhenever you cast a multicolored spell, return this enchantment to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5225,15 +5225,15 @@
             "number": 216,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
-            "rules_text": "[i]Oblation 2[/i] \u2014 When this creature enters, you may pay 2 life. If you do, create two Treasure tokens.\n{1}, Sacrifice another creature or token: Draw a card.",
-            "flavor_text": "[i]\u201cWhat's the point of money if not to spend it at your every whim?\u201d[/i]",
+            "rules_text": "[i]Oblation 2[/i] \u2014 When this creature enters, you may pay 2 life. If you do, create two Treasure tokens.\nWhenever you sacrifice a permanent, surveil 1.\n{1}, Sacrifice another creature or token: Draw a card.",
+            "flavor_text": "[i]\u201cWhat's the point of having money if not to spend it at your every whim?\u201d[/i]",
             "pt": "3/5",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Enrique Mel\u00e9ndez Gal\u00e1n",
-            "notes": "!tag Orzhov"
+            "notes": "!tag Orzhov;\n!token Treasure RNF<2>"
         },
         {
             "card_name": "District Explorer",
@@ -5297,7 +5297,7 @@
             "number": 67,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\nEnchant a creature\nEnchanted creature gets -2/-2.\nWhen this card is put into your graveyard from anywhere, scry 1.",
+            "rules_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\nEnchant a creature\nEnchanted creature gets -2/-2.\nWhen this card is put into your graveyard from anywhere, surveil 1.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5319,11 +5319,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Wizard of the coast",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Saproling RNF"
         },
         {
             "card_name": "Selesnya Guildgate",
@@ -5351,15 +5351,15 @@
             "number": 5,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "When this enchantment enters, you gain 1 life.\nWhenever you gain life for the first time during each of your turns, choose one\u2014\n\u2022 Put a +1/+1 counters on target creature you control. It gains indestructible until end of turn.\n\u2022 Create a 1/1 white Bird creature token with flying.",
+            "rules_text": "When this enchantment enters, you gain 1 life.\nWhenever you gain life for the first time during each of your turns, choose one\u2014\n\u2022 Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn.\n\u2022 Create a 1/1 white Bird creature token with flying.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "",
             "artist": "Yurian",
-            "notes": ""
+            "notes": "!token Bird RNF"
         },
         {
             "card_name": "Gruul Guildgate",
@@ -5390,12 +5390,12 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Whenever Ayla or a creature you control enters, you may create a 1/1 green Saproling creature token. This ability triggers only once each turn.\n[+1]: Flourish 2.\n[-3]: Exile target artifact, creature or enchantment. Its owner gains life equal to that permanent's mana value.\n[-8]: You get an emblem with \u201cAt the beginning of each upkeep, create three 1/1 green Saproling creature tokens, then put a +1/+1 counter on each creature you control.\u201d",
-            "shape": "planeswalker",
+            "special_text": "Whenever Ayla or a creature you control enters, you may create a 1/1 green Saproling creature token. Do this only once each turn.\n[+1]: Flourish 2.\n[-3]: Exile target artifact, creature or enchantment. Its owner gains life equal to that permanent's mana value.\n[-8]: You get an emblem with \u201cAt the beginning of each upkeep, create two 1/1 green Saproling creature tokens, then put a +1/+1 counter on each creature you control.\u201d",
+            "shape": "token",
             "set": "RNF",
             "loyalty": "4",
             "artist": "Christophe Young",
-            "notes": "!tag Selesnya"
+            "notes": "!tag Selesnya;\n!token Saproling RNF"
         },
         {
             "card_name": "Gheshval, Night's Mantle",
@@ -5416,5 +5416,5 @@
             "notes": "!tag Dimir"
         }
     ],
-    "version": 22
+    "version": 23
 }
