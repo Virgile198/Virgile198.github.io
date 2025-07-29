@@ -444,7 +444,7 @@
 			"name": "Sowing Courier",
 			"rarity": "common",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "26",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/26_Sowing Courier.png"
@@ -483,8 +483,8 @@
 		{
 			"name": "Ceremony of Fury",
 			"rarity": "common",
-			"mana_cost": "{2}{R/G}",
-			"type": "Instant",
+			"mana_cost": "{1}{R/G}",
+			"type": "Sorcery",
 			"collector_number": "222",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/222_Ceremony of Fury.png"

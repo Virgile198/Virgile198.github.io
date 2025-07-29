@@ -1,4 +1,30 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+
+
+Pestilent Haze
+
+
+VERSION 25 CHANGELOG
+====================
+
+
+
+Sowing Courier
+type: Instant => Sorcery
+
+Cleanser of Debt
+
+Bloodletter's Bat
+
+Pestilent Haze
+
+Druid of the Votary
+pt: 2/3 => 2/4
+
+
+VERSION 24 CHANGELOG
 ====================
 
 

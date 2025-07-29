@@ -801,7 +801,7 @@
             "card_name": "Sowing Courier",
             "color": "W",
             "rarity": "common",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 26,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -2120,7 +2120,7 @@
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "First strike, lifelink\nAt the beginning of your end step, if you gained or lost life this turn, create a 1/1 black Bat creature token with flying.",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]\u201cPay you must.\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
             "shape": "normal",
@@ -3340,7 +3340,7 @@
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Flying\nLifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]",
-            "flavor_text": "[i][/i]",
+            "flavor_text": "[i]The wounded hear its screeching long before they see its wings erupting out of the smog.[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
@@ -5155,7 +5155,7 @@
             "cost": "{2}{G}",
             "rules_text": "Vigilance\nDuring your turn, you and token creatures you control have hexproof.\nEach creature you control with a +1/+1 counter on it has trample.",
             "flavor_text": "[i][/i]",
-            "pt": "2/3",
+            "pt": "2/4",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -5416,5 +5416,5 @@
             "notes": "!tag Dimir"
         }
     ],
-    "version": 24
+    "version": 26
 }
