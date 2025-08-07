@@ -103,7 +103,7 @@
             "number": 136,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Reach\n{2}{G}, {T}, Sacrifice a land or discard a land card: This creature deals damage equal to its power to target creature with flying.",
+            "rules_text": "Reach\nWhenever this creature blocks or becomes blocked by a creature with flying, it gets +1/+3 until end of turn.",
             "flavor_text": "[i]\u201cAin't no problem a well aimed rock can't fix.\u201d\n\u2014Bolrac-Clan saying[/i]",
             "pt": "5/3",
             "special_text": "",
@@ -5416,5 +5416,5 @@
             "notes": "!tag Izzet"
         }
     ],
-    "version": 27
+    "version": 28
 }
