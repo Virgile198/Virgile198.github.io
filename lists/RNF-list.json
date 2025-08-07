@@ -920,7 +920,7 @@
     },
     {
         "card_name": "Sootfurr Brute",
-        "number": 208,
+        "number": 209,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1034,7 +1034,7 @@
     },
     {
         "card_name": "Retriever of Secrets",
-        "number": 200,
+        "number": 201,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1046,7 +1046,7 @@
     },
     {
         "card_name": "Spore Waltz",
-        "number": 209,
+        "number": 210,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1214,7 +1214,7 @@
     },
     {
         "card_name": "Sleeper Spybug",
-        "number": 207,
+        "number": 208,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1256,7 +1256,7 @@
     },
     {
         "card_name": "Rootguard Loxodon",
-        "number": 202,
+        "number": 203,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1267,8 +1267,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Rix Navven, Overcharged Brute",
-        "number": 201,
+        "card_name": "Replicating Flare",
+        "number": 200,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1280,7 +1280,7 @@
     },
     {
         "card_name": "Shamanic Power",
-        "number": 205,
+        "number": 206,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1297,8 +1297,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Subjugating Bolt",
-        "number": 210,
+        "card_name": "Rix Navven, Overcharged Brute",
+        "number": 202,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1406,7 +1406,7 @@
     },
     {
         "card_name": "Selesnya Caretaker",
-        "number": 204,
+        "number": 205,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1424,7 +1424,7 @@
     },
     {
         "card_name": "Shambling Grotesquerie",
-        "number": 206,
+        "number": 207,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1448,7 +1448,7 @@
     },
     {
         "card_name": "Rumbling Drake",
-        "number": 203,
+        "number": 204,
         "shape": "normal",
         "set": "RNF"
     },

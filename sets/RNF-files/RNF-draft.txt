@@ -5,9 +5,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "208",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/208_Sootfurr Brute.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/209_Sootfurr Brute.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "205",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/205_Shamanic Power.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/206_Shamanic Power.png"
 			}
 		},
 		{
@@ -83,7 +83,7 @@
 		{
 			"name": "Fierce Maaka Kitten",
 			"rarity": "rare",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Creature — Beast",
 			"collector_number": "95",
 			"image_uris": {
@@ -211,16 +211,6 @@
 			}
 		},
 		{
-			"name": "Profitable Demise",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}",
-			"type": "Enchantment",
-			"collector_number": "77",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/77_Profitable Demise.png"
-			}
-		},
-		{
 			"name": "Teysa Karlov, Master of Deals",
 			"rarity": "mythic",
 			"mana_cost": "{W}{W}{B}{B}",
@@ -243,7 +233,7 @@
 		{
 			"name": "Assessor of Worth",
 			"rarity": "mythic",
-			"mana_cost": "{4}{W}{B}{B}",
+			"mana_cost": "{3}{W}{B}{B}",
 			"type": "Creature — Angel",
 			"collector_number": "149",
 			"image_uris": {
@@ -263,7 +253,7 @@
 		{
 			"name": "Vicious Blackmailer",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Human Citizen Rogue",
 			"collector_number": "86",
 			"image_uris": {
@@ -435,9 +425,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Elephant Cleric",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/204_Selesnya Caretaker.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/205_Selesnya Caretaker.png"
 			}
 		},
 		{
@@ -615,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "206",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/206_Shambling Grotesquerie.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/207_Shambling Grotesquerie.png"
 			}
 		},
 		{
@@ -993,7 +983,7 @@
 		{
 			"name": "Protector of the Meek",
 			"rarity": "common",
-			"mana_cost": "{3}{W}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Creature — Angel Warrior",
 			"collector_number": "21",
 			"image_uris": {
@@ -1135,9 +1125,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{R}",
 			"type": "Creature — Drake",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/203_Rumbling Drake.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/204_Rumbling Drake.png"
 			}
 		},
 		{
@@ -1164,7 +1154,7 @@
 			"name": "Thraka, Ire of the Wilds",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}{G}{G}",
-			"type": "Legendary Creature — Beast",
+			"type": "Legendary Creature — Beast God",
 			"collector_number": "212",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/212_Thraka, Ire of the Wilds.png"
@@ -1231,13 +1221,13 @@
 			}
 		},
 		{
-			"name": "Zombie",
+			"name": "Zombie Star;",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zombie",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/7_Zombie.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/7_Zombie Star;.png"
 			}
 		},
 		{
@@ -1583,7 +1573,7 @@
 		{
 			"name": "Rakasht, Spawn of Ulasht",
 			"rarity": "rare",
-			"mana_cost": "{X}{2}{R}{G}",
+			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Hellion",
 			"collector_number": "198",
 			"image_uris": {
@@ -1635,9 +1625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{W}{W}",
 			"type": "Instant",
-			"collector_number": "209",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/209_Spore Waltz.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/210_Spore Waltz.png"
 			}
 		},
 		{
@@ -1743,7 +1733,7 @@
 		{
 			"name": "Dispossession",
 			"rarity": "rare",
-			"mana_cost": "{W}{W}{B}{B}",
+			"mana_cost": "{1}{W}{W}{B}",
 			"type": "Sorcery",
 			"collector_number": "170",
 			"image_uris": {
@@ -2075,9 +2065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Elephant Warrior",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/202_Rootguard Loxodon.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/203_Rootguard Loxodon.png"
 			}
 		},
 		{
@@ -2163,7 +2153,7 @@
 		{
 			"name": "The Cozen",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{B}",
+			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Human Assassin",
 			"collector_number": "165",
 			"image_uris": {
@@ -2201,16 +2191,6 @@
 			}
 		},
 		{
-			"name": "Subjugating Bolt",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{R}",
-			"type": "Sorcery",
-			"collector_number": "210",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/210_Subjugating Bolt.png"
-			}
-		},
-		{
 			"name": "Innovation Guildmage",
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
@@ -2245,9 +2225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Ogre Wizard",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/201_Rix Navven, Overcharged Brute.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/202_Rix Navven, Overcharged Brute.png"
 			}
 		},
 		{
@@ -2345,9 +2325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Insect Horror",
-			"collector_number": "207",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/207_Sleeper Spybug.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/208_Sleeper Spybug.png"
 			}
 		},
 		{
@@ -2503,7 +2483,7 @@
 		{
 			"name": "Insatiable Moroii",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{B}",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Vampire",
 			"collector_number": "71",
 			"image_uris": {
@@ -2705,9 +2685,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Vampire Wizard",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/200_Retriever of Secrets.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/201_Retriever of Secrets.png"
 			}
 		},
 		{
@@ -2949,36 +2929,53 @@
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/183_Gheshval, Night's Mantle.png"
 			}
+		},
+		{
+			"name": "Profitable Demise",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/77_Profitable Demise.png"
+			}
+		},
+		{
+			"name": "Replicating Flare",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/200_Replicating Flare.png"
+			}
 		}
 	]
 
 [rare(1)]
-	3 Sootfurr Brute
+	5 Sootfurr Brute
 	5 Mizzium Canon
 	5 Bloodrust Assailant
 	5 Fierce Maaka Kitten
 	5 Blightblood Abomination
 	5 Mossback Pulverizer
 	5 Spectral Advisor
-	5 Profitable Demise
-	3 Teysa Karlov, Master of Deals
-	3 Assessor of Worth
+	5 Teysa Karlov, Master of Deals
+	5 Assessor of Worth
 	5 Priest of The Welcoming
 	5 Vicious Blackmailer
-	3 Ayla, Harmony's Embrace
 	5 Pruning
 	5 Flowerbed Envoy's Call
 	5 Precinct Archprotector
-	3 Worldring Uroboros
-	3 Branching Possibilities
-	3 Ral, Thundering Genius
-	3 Essencesnatch
+	5 Worldring Uroboros
+	5 Branching Possibilities
+	5 Ral, Thundering Genius
+	5 Essencesnatch
 	5 Overflowing Buffer
-	3 Gheshval, Night's Mantle
-	3 Cognition Theft
-	3 Bloodrenched Spoil
-	3 Deeproot Entity
-	3 Storm Eater
+	5 Cognition Theft
+	5 Bloodrenched Spoil
+	5 Deeproot Entity
+	5 Storm Eater
 	5 Transguild Square
 	5 Vault of the Paruns
 	5 Prismatic Custodian
@@ -2990,10 +2987,10 @@
 	5 Vital Reclamation
 	5 Fires of Reclamation
 	5 Mad Alchemist
-	3 Thraka, Ire of the Wilds
+	5 Thraka, Ire of the Wilds
 	5 Caller of the Wilds
 	5 Arrogant Hermit
-	3 Guardian of the Hour
+	5 Guardian of the Hour
 	5 Unearthed Mysteries
 	5 Lightning Catalyst
 	5 Maree, Nivix Grand Chamberlain
@@ -3019,10 +3016,10 @@
 	5 Milana, Orzhov High Prelate
 	5 Vitality
 	5 Fac Simile Project
-	3 Due of the Powerless
-	3 Mindflayer of the Dim
-	3 Hyper Space Time Bubble
-	3 Ashentrunk Icinerator
+	5 Due of the Powerless
+	5 Mindflayer of the Dim
+	5 Hyper Space Time Bubble
+	5 Ashentrunk Icinerator
 	5 Factory Sentinel
 	5 Heart of Cinders
 	5 Flourishing Phytohydra
@@ -3032,11 +3029,14 @@
 	5 Sixth District Marshal
 	5 Undercity Bloodthirster
 	5 Cloud Drinker
-	3 Aspect of Uniformity
+	5 Aspect of Uniformity
 	5 Blooming Sanctuary
 	5 Retriever of Secrets
 	5 Emmara, Ancestral Caregiver
 	5 Dew's Benediction
+	5 Ayla, Harmony's Embrace
+	5 Gheshval, Night's Mantle
+	5 Profitable Demise
 [uncommon(3)]
 	5 Shamanic Power
 	5 Augmented Monstrosity
@@ -3089,7 +3089,6 @@
 	5 The Cozen
 	5 Wave of Agitation
 	5 Cerebrospiker
-	5 Subjugating Bolt
 	5 Innovation Guildmage
 	5 Now
 	5 Polarity Switcher
@@ -3123,6 +3122,7 @@
 	5 Wasteful Inheritor
 	5 District Explorer
 	5 Ruins Scavenger
+	5 Replicating Flare
 [common(10)]
 	5 Burning-Tree Blackhorn
 	5 Wildheart Raiders
@@ -3152,6 +3152,9 @@
 	5 Bionic Strength
 	5 Fluctuating Reality
 	5 Shambling Grotesquerie
+	5 Orzhov Guildgate
+	5 Dimir Guildgate
+	5 Izzet Guildgate
 	5 Tin Street
 	5 Orzhov Insignia
 	5 Gruul Insignia
@@ -3220,9 +3223,5 @@
 	5 Guildpact's Blessing
 	5 Surgical Strike
 	5 Deep Wound
-[Commonland(1)]
-	5 Orzhov Guildgate
-	5 Dimir Guildgate
-	5 Izzet Guildgate
-	5 Gruul Guildgate
 	5 Selesnya Guildgate
+	5 Gruul Guildgate
