@@ -1,4 +1,208 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+Dutiful Archprotector added.
+Devoted Marshal added.
+Gate Penumbra added.
+Outraged Avenger added.
+
+Precinct Archprotector removed.
+Sixth District Marshal removed.
+Sewer Penumbra removed.
+Fifth District Avenger removed.
+
+Mountain Hurler
+rules_text: Reach
+Whenever this creature blocks or becomes blocked by a creature with flying, it gets +1/+3 until end of turn. => Reach
+Whenever this creature blocks or becomes blocked by a creature with flying, it gets +2/+2 until end of turn.
+pt: 5/3 => 4/4
+
+Gate Breaker
+cost: {3}{R}{R} => {4}{R}
+rules_text: Trample [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i] => Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+This creature has trample as long as you control a Gate. [i](This creature can deal excess combat damage to the player or planeswalker it's attacking.)[/i]
+
+Mossback Pulverizer
+
+Cruel Robber
+
+Euthanist Master
+
+Priest of The Welcoming
+pt: 4/6 => 4/7
+
+Orzhov Seizebeast
+
+Howling Gate
+
+Pontific Guard
+
+Profane Ceremony
+
+Flowerbed Envoy's Call
+
+Ledev Captain
+
+Pollen Storm
+
+Cognition Theft
+rules_text: Look at the top three cards of target player's library, then exile one them face-down. You may play that card without paying it mana cost for as long as it's exiled.
+Cover-up 5—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top five cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Look at the top three cards of target player's library, then exile one them face-down and put the rest into its owner's graveyard. You may play that card without paying it mana cost for as long as it remains exiled.
+Cover-up 5—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top five cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+
+Shambling Grotesquerie
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+When this card leaves your graveyard, target player mills four cards.
+Cover-up 2—{U}{B} [i]({U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Lifelink
+Cover-up 2—{U}{B} [i]({U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, target player mills four cards.
+
+Mind Hemorrhage
+
+Moss Elemental
+
+Frontline Cultivator
+
+Ninth District Benevolent
+rules_text: When this creature enters, you gain 2 life and scry 1. [i](Look at the top card of your library. You may put that card on the bottom of your library.)[/i] => When this creature enters, you gain 3 life, then, if you control two or more gates, scry 2.
+
+Walkers of the Dim
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Cover-up 2—{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Vigilance
+Cover-up 3—{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, tap up to one target creature.
+
+Catacombs Cleaner
+rules_text: Flash
+When this card leaves your graveyard, return up to one target creature to its owner's hand.
+Cover-up 2—{2}{U}{U} [i]({2}{U}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Flash
+Cover-up 2—{2}{U}{U} [i]({2}{U}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, return up to one target creature to its owner's hand.
+
+Falling Apart
+
+Illuminator Imp
+
+Guardian of the Hour
+
+Unearthed Mysteries
+rules_text: Return target creature card from a graveyard to the battlefield under your control with a finality counter on it.
+Cover-up 4—{2}{B} [i]({2}{B}, Exile this card from your graveyard: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Return target creature card from a graveyard to the battlefield under your control with a finality counter on it.
+Cover-up 3—{4}{B}{B}
+When you cover-up this card, return target creature card from your graveyard to the battlefield with a finality counter on it.
+
+Truesight Sphinx
+rules_text: Flying, vigilance
+When this creature enters, draw X cards, where X is the number of Gates you control. => Flying, vigilance
+When this creature enters, tap up to X target nonland permanent and put a stun counter on each of them, where X is the number of Gates you control.
+Whenever a Gate you control enters, untap target permanent you control.
+pt: 3/3 => 3/4
+
+Bushfire Shaman
+rules_text: Trample, haste
+Whenever this creature deals combat damage to a player, search your library for a basic land or Gate card, put it onto the battlefield tapped, then shuffle.
+{R}{G}, Sacrifice a land: You gain 2 life and draw a card. => Trample, haste
+Whenever this creature deals combat damage to a player, search your library for a basic or Gate land card, put it onto the battlefield tapped, then shuffle.
+{R}{G}, Sacrifice a land: You gain 2 life and draw a card.
+
+Mind Warp
+rules_text: Gain control of target creature an opponent controls. Untap it.
+Cover-up 6—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top six cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Gain control of target creature an opponent controls. Its owner mills cards equal to that creature mana value.
+Cover-up 6—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top six cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+
+Circu, Butcher of Memories
+cost: {1}{U}{B} => {2}{U}{B}
+rules_text: Whenever you cast a spell for the first time each turn, target player mills three cards. You may exile a nonland card from among the cards milled this way with a lobotomy counter on it.
+Your opponents can't cast spells with the same name as a card with a lobotomy counter on it.
+You may play cards with lobotomy counters on them from exile and mana of any type can be spent to cast them. If you do, exile it. => Whenever you cast a spell for the first time during each of your turns, target player mills three cards. You may exile a nonland card from among the cards milled this way with a lobotomy counter on it.
+Your opponents can't cast spells with the same name as a card with a lobotomy counter on it.
+You may play cards with lobotomy counters on them from exile and mana of any type can be spent to cast them.
+
+Wrath Guildmage
+rules_text: {1}{RG}, {T}, Sacrifice a land or discard a land card: Draw a card.
+{1}{RG}{RG}, {T}: Double the power of target attacking creature you control. => {2}{RG}, {T}: Target creature you control rages. Activate only as a sorcery. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+{2}{RG}{RG}, {T}: Double the power of target attacking creature you control.
+
+Burgeoning Troops
+rules_text: When this enchantment enters, create a 1/1 green Saproling creature token.
+Each creature you control with a +1/+1 counter on it has “{T}: Add one mana of any color.”
+{1}{G}{W}: Flourish 1. Activate only as a sorcery. [i](Put a +1/+1 counter on up to one creature you control. If you do, you gain 1 life.)[/i] => Whenever you attack, flourish 1. [i](Put a +1/+1 counter on up to one creature you control. If you do, you gain 1 life.)[/i]
+Each creature you control with a +1/+1 counter on it has “{T}: Add one mana of any color.”
+
+Harmony Guildmage
+rules_text: {2}{GW}, {T}: Put a +1/+1 counter on target creature you control.
+{3}{GW}{GW}, {T}: Create two 1/1 green Saproling creature tokens. => {2}{GW}, {T}: Flourish 1. Activate only as a sorcery. [i](Put a +1/+1 counter on up to one creature you control. If you do, you gain 1 life.)[/i]
+{3}{GW}{GW}, {T}: Create two 1/1 green Saproling creature tokens.
+
+Ironroot Bindings
+
+Pestilent Haze
+
+Tamed Hellkite
+rules_text: Flying
+When this creature enters, it deals X damage distributed between any number of targets, where X is the number of Gates you control. => Flying
+When this creature enters, it deals X damage distributed between any number of targets, where X is the number of Gates you control.
+Whenever a Gate you control enters, this creature deals 1 damage to target player.
+pt: 4/3 => 3/3
+
+Eidolon's Thirst
+
+Dimir Cutthroat
+rules_text: Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+Whenever this creature deals combat damage to a player, draw a card, then discard a card unless a card left your graveyard this turn. => Deathtouch
+Whenever this creature deals combat damage to a player, draw a card, then discard a card unless a card left your graveyard or was put into your graveyard this turn.
+
+Rabid Sewer Rat
+
+Third District Sharpshooter
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Reach
+When this creature enters, put a +1/+1 counter on target creature you control. It gains reach until end of turn. => You may cast this spell as though it has flash if you control two or more Gates.
+Reach
+When this creature enters, put a +1/+1 counter on target creature you control. It gains reach until your next turn.
+pt: 2/1 => 2/2
+
+Insatiable Moroii
+rules_text: Flying
+When this creature enters, each player loses X life, where X is the number of Gates you control. => Flying
+When this creature enters, each opponent loses 1 life for each Gate you control.
+Whenever a Gate you control enters, each player loses 1 life.
+pt: 5/4 => 4/4
+
+Oppress
+
+Seventh District Scoundrel
+rules_text: When this creature enters, draw a card, then discard a card. => When this creature enters, draw a card, then discard a card. You may draw a card instead if you control two or more Gates.
+
+Eidolon's Call
+
+Writhing Amalgamate
+rules_text: When this card leaves your graveyard, create a 2/2 black Zombie creature token.
+Cover-up 3—{2}{B}{B} [i]({2}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Cover-up 3—{2}{B}{B} [i]({2}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, create a 2/2 black Zombie creature token.
+
+Galvanizing Call
+
+Memorable Feast
+
+Guildpact's Blessing
+rules_text: Flash
+Enchant creature you control
+When this Aura enters, untapped enchanted creature.
+Enchanted creature gets +1/+2 and has hexproof from monocolored. => Flash
+Enchant creature you control
+When this Aura enters, untap enchanted creature.
+Enchanted creature gets +1/+2 and has hexproof from monocolored.
+
+Furious Pangoduan
+
+Ruins Scavenger
+
+Profitable Demise
+
+
+VERSION 28 CHANGELOG
 ====================
 
 
