@@ -2953,29 +2953,29 @@
 	]
 
 [rare(1)]
-	5 Sootfurr Brute
+	3 Sootfurr Brute
 	5 Mizzium Canon
 	5 Bloodrust Assailant
 	5 Fierce Maaka Kitten
 	5 Blightblood Abomination
 	5 Mossback Pulverizer
 	5 Spectral Advisor
-	5 Teysa Karlov, Master of Deals
-	5 Assessor of Worth
+	3 Teysa Karlov, Master of Deals
+	3 Assessor of Worth
 	5 Priest of The Welcoming
 	5 Vicious Blackmailer
 	5 Pruning
 	5 Flowerbed Envoy's Call
 	5 Dutiful Archprotector
-	5 Worldring Uroboros
-	5 Branching Possibilities
-	5 Ral, Thundering Genius
-	5 Essencesnatch
+	3 Worldring Uroboros
+	3 Branching Possibilities
+	3 Ral, Thundering Genius
+	3 Essencesnatch
 	5 Overflowing Buffer
-	5 Cognition Theft
-	5 Bloodrenched Spoil
-	5 Deeproot Entity
-	5 Storm Eater
+	3 Cognition Theft
+	3 Bloodrenched Spoil
+	3 Deeproot Entity
+	3 Storm Eater
 	5 Transguild Square
 	5 Vault of the Paruns
 	5 Prismatic Custodian
@@ -2987,10 +2987,10 @@
 	5 Vital Reclamation
 	5 Fires of Reclamation
 	5 Mad Alchemist
-	5 Thraka, Ire of the Wilds
+	3 Thraka, Ire of the Wilds
 	5 Caller of the Wilds
 	5 Arrogant Hermit
-	5 Guardian of the Hour
+	3 Guardian of the Hour
 	5 Unearthed Mysteries
 	5 Lightning Catalyst
 	5 Maree, Nivix Grand Chamberlain
@@ -3016,10 +3016,10 @@
 	5 Milana, Orzhov High Prelate
 	5 Vitality
 	5 Fac Simile Project
-	5 Due of the Powerless
-	5 Mindflayer of the Dim
-	5 Hyper Space Time Bubble
-	5 Ashentrunk Icinerator
+	3 Due of the Powerless
+	3 Mindflayer of the Dim
+	3 Hyper Space Time Bubble
+	3 Ashentrunk Icinerator
 	5 Factory Sentinel
 	5 Heart of Cinders
 	5 Flourishing Phytohydra
@@ -3029,13 +3029,13 @@
 	5 Devoted Marshal
 	5 Undercity Bloodthirster
 	5 Cloud Drinker
-	5 Aspect of Uniformity
+	3 Aspect of Uniformity
 	5 Blooming Sanctuary
 	5 Retriever of Secrets
 	5 Emmara, Ancestral Caregiver
 	5 Dew's Benediction
-	5 Ayla, Harmony's Embrace
-	5 Gheshval, Night's Mantle
+	3 Ayla, Harmony's Embrace
+	3 Gheshval, Night's Mantle
 	5 Profitable Demise
 [uncommon(3)]
 	5 Shamanic Power
@@ -3152,9 +3152,6 @@
 	5 Bionic Strength
 	5 Fluctuating Reality
 	5 Shambling Grotesquerie
-	5 Orzhov Guildgate
-	5 Dimir Guildgate
-	5 Izzet Guildgate
 	5 Tin Street
 	5 Orzhov Insignia
 	5 Gruul Insignia
@@ -3223,5 +3220,9 @@
 	5 Guildpact's Blessing
 	5 Surgical Strike
 	5 Deep Wound
+[Commonland(1)]
+	5 Orzhov Guildgate
+	5 Dimir Guildgate
+	5 Izzet Guildgate
 	5 Selesnya Guildgate
 	5 Gruul Guildgate
