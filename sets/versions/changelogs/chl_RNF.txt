@@ -1,4 +1,23 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+
+
+The Cozen
+rules_text: As long as you've lost life during your turn, this creature has first strike and deathtouch.
+Whenever you gain life, put a +1/+1 counter on this creature. => As long as you've lost life during your turn, this creature has first strike and deathtouch.
+Whenever you gain life, put a +1/+1 counter on this creature.
+When this creature dies, you gain life equal to its power.
+
+Druid of the Votary
+rules_text: During your turn, you and other creatures you control with a +1/+1 counter on them have hexproof.
+{3}{G}: Put a +1/+1 counter on target creature you control. => This creature enters with two +1/+1 counters on it.
+During your turn, you and other creatures you control with a +1/+1 counter on them have hexproof.
+{1}{G}: Move a +1/+1 counter from target creature onto another target creature with the same controller.
+pt: 2/3 => 0/1
+
+
+VERSION 30 CHANGELOG
 ====================
 
 
