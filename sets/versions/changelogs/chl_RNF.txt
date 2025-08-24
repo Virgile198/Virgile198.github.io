@@ -1,4 +1,17 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+
+
+Gruul Insignia
+rules_text: This artifact enters tapped.
+{T}: Add {R} or {G}.
+{1}{R}{G}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature you control, then draw a card if you control the creature with the greatest power. => This artifact enters tapped.
+{T}: Add {R} or {G}.
+{1}{R}{G}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature you control. Draw a card if you control a creature with the greatest power among creatures on the battlefield.
+
+
+VERSION 31 CHANGELOG
 ====================
 
 
