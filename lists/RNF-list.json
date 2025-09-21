@@ -7,7 +7,7 @@
     },
     {
         "card_name": "Essencesnatch",
-        "number": 39,
+        "number": 38,
         "shape": "normal",
         "set": "RNF"
     },
@@ -97,7 +97,7 @@
     },
     {
         "card_name": "Fac Simile Project",
-        "number": 40,
+        "number": 39,
         "shape": "normal",
         "set": "RNF"
     },
@@ -217,7 +217,7 @@
     },
     {
         "card_name": "Eidolon's Wisdom",
-        "number": 38,
+        "number": 37,
         "shape": "normal",
         "set": "RNF"
     },
@@ -247,7 +247,7 @@
     },
     {
         "card_name": "Flood of Memories",
-        "number": 41,
+        "number": 40,
         "shape": "normal",
         "set": "RNF"
     },
@@ -277,7 +277,7 @@
     },
     {
         "card_name": "Fragmentize",
-        "number": 44,
+        "number": 43,
         "shape": "normal",
         "set": "RNF"
     },
@@ -307,7 +307,7 @@
     },
     {
         "card_name": "Hidden Scrutiny",
-        "number": 45,
+        "number": 44,
         "shape": "normal",
         "set": "RNF"
     },
@@ -516,7 +516,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Deep Search",
+        "card_name": "Deep Sewage Lurker",
         "number": 35,
         "shape": "normal",
         "set": "RNF"
@@ -546,7 +546,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Deep Sewage Lurker",
+        "card_name": "Dissect Thoughts",
         "number": 36,
         "shape": "normal",
         "set": "RNF"
@@ -576,8 +576,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Dissect Thoughts",
-        "number": 37,
+        "card_name": "Fluctuating Reality",
+        "number": 41,
         "shape": "normal",
         "set": "RNF"
     },
@@ -606,7 +606,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Fluctuating Reality",
+        "card_name": "Forgotten Phantasm",
         "number": 42,
         "shape": "normal",
         "set": "RNF"
@@ -636,8 +636,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Forgotten Phantasm",
-        "number": 43,
+        "card_name": "Incapacitating Probing",
+        "number": 45,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1494,7 +1494,7 @@
     "a->colorless",
     {
         "card_name": "Door to Everywhere",
-        "number": 246,
+        "number": 247,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1511,8 +1511,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Guardians of the Guildpact",
-        "number": 248,
+        "card_name": "Custodian of the Guildpact",
+        "number": 245,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1542,13 +1542,13 @@
     },
     {
         "card_name": "Dimir Insignia",
-        "number": 245,
+        "number": 246,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Gruul Insignia",
-        "number": 247,
+        "number": 248,
         "shape": "normal",
         "set": "RNF"
     },
