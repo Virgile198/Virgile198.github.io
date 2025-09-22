@@ -1,4 +1,196 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+World-Tree Guardian added.
+
+Moss Elemental removed.
+
+Sootfurr Brute
+rules_text: You may cast this card from your graveyard as long as you've discarded a card this turn.
+{R}{G}, Discard this card: Up to one target creature you control gets +3/+3 until end of turn. Draw a card. => You may cast this card from your graveyard as long as you've discarded a card this turn.
+{1}{R}{G}, Discard this card: Up to one target creature you control gets +3/+3 until end of turn. Draw a card.
+
+Mountain Hurler
+
+Razortusk Piglet
+
+Rejuvenated Wood-Kin
+
+Mossback Pulverizer
+
+Treasured Pet
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+When this creature dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Lifelink
+When this creature dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Vulpus Honorguard
+
+Profane Ceremony
+rules_text: Choose one or both—
+• Exile up to two target cards from a single graveyard. You gain 1 life for each creature cards exiled this way.
+• Return up to two target creature cards from your graveyard to your hand. => Choose one or both —
+• Exile up to two target cards from a single graveyard. You gain 1 life for each creature cards exiled this way.
+• Return up to two target creature cards from your graveyard to your hand.
+
+Bolstering Spores
+rules_text: Choose one —
+• Put a +1/+1 counter on target creature you control. It deals damage equal to its power to target creature you don't control.
+• Creatures you control get +0/+3 and gain reach until end of turn. => Choose one —
+• Target creature you control deals damage equal to its power to target creature you don't control.
+• Creatures you control get +0/+3 and gain reach until end of turn.
+
+Protector of the Glade
+
+Ceremony of Fury
+
+Custodian of the Guildpact
+
+Vital Reclamation
+
+Protector of the Meek
+
+Fires of Reclamation
+
+Flood of Memories
+
+Slitz-Clan Opportunist
+
+Lightning Catalyst
+rules_text: Prowess
+Whenever this creature becomes the target of a spell with a single target, you may copy that spell. You may chose new targets for the copy. This ability triggers only once each turn.
+{2}{UR}, {T}: Change the target of target spell with a single target creature to this creature. => Prowess
+Whenever this creature becomes the target of a spell with a single target, you may copy that spell. You may choose new targets for the copy. This ability triggers only once each turn.
+{2}{UR}, {T}: Change the target of target spell with a single target creature to this creature.
+
+Blessing of Savagery
+rules_text: Put a +1/+1 counter on each creature you control. Untap them. After this main phase, there is an additional combat phase followed by an additional main phase. => Put a +1/+1 counter on each creature you control. They gain trample until end of turn. Untap them. After this main phase, there is an additional combat phase followed by an additional main phase.
+
+Essence Shift
+rules_text: Choose one or both—
+• Return target creature to its owner's hand.
+• Return target creature card from your graveyard to your hand. => Choose one or both —
+• Return target creature to its owner's hand.
+• Return target creature card from your graveyard to your hand.
+
+Vanish
+rules_text: Choose one—
+• Exile target artifact.
+• Exile target enchantment.
+• Exile target player's graveyard. => Choose one —
+• Exile target artifact.
+• Exile target enchantment.
+• Exile target player's graveyard.
+
+Boon of the Worldsoul
+
+Milana, Orzhov High Prelate
+rules_text: At the beginning of your end step, if you gained or lost 3 or more life this turn, you may return target creature or enchantment with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+{W}{B}, {T}, Sacrifice another nonland permanent you control: You gain life equal to that permanent mana value. => At the beginning of your end step, if you gained or lost 3 or more life this turn, you may return target creature or enchantment card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+{2}, {T}, Sacrifice another nonland permanent you control: You gain life equal to that permanent mana value.
+
+Wild Stomper
+
+Cultivated Strength
+rules_text: Create a 3/3 green Centaur token creature. If {W} was spent to cast this spell, you gain 3 life. => Create a 3/3 green Centaur token creature and scry 2. If {W} was spent to cast this spell, you gain 3 life.
+
+Fiery Form
+
+Ravage
+
+Ironroot Bindings
+rules_text: When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. Create a 1/1 green Saproling creature token. => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. Create a 1/1 green Saproling creature token and you gain 1 life.
+
+Poised to Strike
+
+Reconfigure
+rules_text: Chose one —
+• Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+• Destroy target artifact. => Choose one —
+• Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+• Destroy target artifact.
+
+Become Dust
+
+Priest of Purification
+
+Wave of Agitation
+
+Polarity Switcher
+rules_text: Ward {2}
+Whenever this creature enters or attacks, choose one—
+• Two target creatures exchange their power and toughness until of turn.
+• Switch target creature's power and toughness until end of turn. => Ward {2}
+Whenever this creature enters or attacks, choose one —
+• Two target creatures exchange their power and toughness until of turn.
+• Switch target creature's power and toughness until end of turn.
+
+Tamed Hellkite
+
+Violent Reshaping
+
+Zorin, Returned from the Dim
+rules_text: Whenever you exile one or more cards from a graveyard for the first time each turn, put a +1/+1 counter on target creature. It gains menace, hexproof and “This creature can't block.” until end of turn. => Whenever you exile one or more cards from a graveyard for the first time each turn, choose one —
+• Put a +1/+1 counter on up to one target creature. It gains menace until end of turn.
+• Tap up to one target creature and put a stun counter on it. It loses all abilities until end of turn.
+
+Rabid Sewer Rat
+
+Corrosive Bile Spitter
+
+Devoted Marshal
+rules_text: Deathtouch, lifelink
+Whenever you gain or lose life during your turn, choose one that hasn't been chosen this turn —
+• Create a 1/1 tapped white Soldier creature token.
+• Create a tapped Treasure token.
+• Surveil 2. => Deathtouch, lifelink
+Whenever you gain or lose life during your turn, choose one that hasn't been chosen this turn —
+• Create a tapped 1/1 white Soldier creature token.
+• Create a tapped Treasure token.
+• Surveil 2.
+
+Third District Sharpshooter
+
+Undercity Bloodthirster
+
+Shredding Barrage
+
+Dryads' Blessing
+
+Tend to the Gardens
+
+Insatiable Moroii
+rules_text: Flying
+When this creature enters, each opponent loses 1 life for each Gate you control.
+Whenever a Gate you control enters, each player loses 1 life. => Flying
+When this creature enters, each opponent loses 1 life for each Gate you control. You gain life equal to the life lost this way.
+Whenever a Gate you control enters, each player loses 1 life.
+
+Memorable Feast
+
+Outraged Avenger
+
+Wasteful Inheritor
+rules_text: [i]Oblation 2[/i] — When this creature enters, you may pay 2 life. If you do, create two Treasure tokens.
+Whenever you sacrifice a permanent, surveil 1.
+{1}, Sacrifice another creature or token: Draw a card. => [i]Oblation 2[/i] — When this creature enters, you may pay 2 life. If you do, create two Treasure tokens.
+{1}, Sacrifice another creature or token: Surveil 1, then draw a card.
+
+Emmara, Ancestral Caregiver
+rules_text: Whenever another creature you control enters, you gain 1 life.
+Whenever a nontoken creature you control dies, if it had one or more +1/+1 counters on it, create a 1/1 green Saproling creature token.
+{3}{G}{W}: Put a +1/+1 counter on each creature you control. => Whenever another creature or land you control enters, you gain 1 life.
+Whenever a nontoken creature you control dies, if it had one or more +1/+1 counters on it, create a 1/1 green Saproling creature token.
+{3}{G}{W}: Put a +1/+1 counter on each creature you control.
+
+Dew's Benediction
+rules_text: Whenever you gain life for the first time during each of your turns, choose one—
+• Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn.
+• Create a 1/1 white Bird creature token with flying. => Whenever you gain life for the first time during each of your turns, choose one —
+• Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn.
+• Create a 1/1 white Bird creature token with flying.
+
+
+VERSION 33 CHANGELOG
 ====================
 
 Custodian of the Guildpact added.
