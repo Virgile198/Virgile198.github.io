@@ -1,10 +1,15 @@
 ﻿{
+    "name": "Ravnica Fractured",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "png",
+    "draft_structure": "draft booster",
     "cards": [
         {
             "card_name": "Sootfurr Brute",
             "color": "RG",
             "rarity": "mythic",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 208,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
@@ -16,8 +21,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Nazgulith",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Mizzium Canon",
@@ -35,14 +39,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mingchen Shen",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Burning-Tree Blackhorn",
             "color": "RG",
             "rarity": "common",
-            "type": "Creature \u2013 Minotaur Berserker",
+            "type": "Creature \u2014 Minotaur Berserker",
             "number": 158,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
@@ -54,14 +57,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "AlexAlexandrov",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Wildheart Raiders",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Lizard Berserker",
+            "type": "Creature \u2014 Lizard Berserker",
             "number": 115,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -73,14 +75,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Chris Neff",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Inquisitive Minotaur",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Minotaur Wizard",
+            "type": "Creature \u2014 Minotaur Wizard",
             "number": 99,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -92,14 +93,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Stefan Kopinski",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Mountain Hurler",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Cyclops Warrior",
+            "type": "Creature \u2014 Cyclops Warrior",
             "number": 134,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -111,14 +111,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Stanislav Ilyashenko",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Shamanic Power",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 205,
             "color_identity": "RG",
             "cost": "{R}{G}",
@@ -130,14 +129,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "kolychka-k",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Bloodrust Assailant",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Lizard Berserker",
+            "type": "Creature \u2014 Lizard Berserker",
             "number": 90,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -149,14 +147,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "aaronflorento",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Fierce Maaka Kitten",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 95,
             "color_identity": "R",
             "cost": "{R}",
@@ -168,14 +165,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Madmax0o",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Gate Breaker",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Boar",
+            "type": "Creature \u2014 Boar",
             "number": 98,
             "color_identity": "R",
             "cost": "{4}{R}",
@@ -187,14 +183,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Augmented Monstrosity",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Minotaur Construct",
+            "type": "Artifact Creature \u2014 Minotaur Construct",
             "number": 89,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -206,14 +201,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rod Wong",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Blightblood Abomination",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Snake Mutant",
+            "type": "Creature \u2014 Snake Mutant",
             "number": 118,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -225,14 +219,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mikakoskart",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Razortusk Piglet",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Boar",
+            "type": "Creature \u2014 Boar",
             "number": 136,
             "color_identity": "G",
             "cost": "{G}",
@@ -244,14 +237,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Hamsterfly",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Rejuvenated Wood-Kin",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elemental Warrior",
+            "type": "Creature \u2014 Elemental Warrior",
             "number": 137,
             "color_identity": "G",
             "cost": "{G}",
@@ -263,14 +255,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Patmos",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Mossback Pulverizer",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Mole Fungus",
+            "type": "Creature \u2014 Mole Fungus",
             "number": 133,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -282,14 +273,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Aries13",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Charitable Thrull",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Thrull",
+            "type": "Creature \u2014 Thrull",
             "number": 1,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -301,14 +291,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andrew Mar",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Spectral Advisor",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Spirit Advisor",
+            "type": "Creature \u2014 Spirit Advisor",
             "number": 27,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -320,18 +309,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sanjay Charlton",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Clergy Enforcer",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rogue",
+            "type": "Creature \u2014 Human Rogue",
             "number": 63,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "[i][i]Oblation 2[/i][/i] \u2013 When this creature enters, you may pay 2 life. If you do, tap it and put a +1/+1 counter on it.",
+            "rules_text": "[i][i]Oblation 2[/i][/i] \u2014 When this creature enters, you may pay 2 life. If you do, tap it and put a +1/+1 counter on it.",
             "flavor_text": "[i]\u201cThe deal's simple: grab and give me what you owe us or the blade will take its payment.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -339,14 +327,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alessandro Musumeci",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Cruel Robber",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Assassin",
+            "type": "Creature \u2014 Human Assassin",
             "number": 65,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -358,18 +345,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Thomas Dumey",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Corpse Excavator",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Dog Zombie",
+            "type": "Creature \u2014 Dog Zombie",
             "number": 64,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Menace [i](This creature can't be blocked except by two or more creatures.)[/i]\n[i][i]Oblation 2[/i][/i] \u2013 When this creature enters, you may pay 2 life. If you do, mill three cards, then you may return a creature card from your graveyard to your hand. If you do, put a finality counter on this creature.",
+            "rules_text": "Menace [i](This creature can't be blocked except by two or more creatures.)[/i]\n[i][i]Oblation 2[/i][/i] \u2014 When this creature enters, you may pay 2 life. If you do, mill three cards, then you may return a creature card from your graveyard to your hand. If you do, put a finality counter on this creature.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -377,18 +363,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Darkcloud013",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Euthanist Master",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Assassin",
+            "type": "Creature \u2014 Human Assassin",
             "number": 70,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "[i]Oblation 4[/i] \u2013 When this creature enters, you may pay 4 life. If you do, destroy target creature or planeswalker an opponents controls.",
+            "rules_text": "[i]Oblation 4[/i] \u2014 When this creature enters, you may pay 4 life. If you do, destroy target creature or planeswalker an opponents controls.",
             "flavor_text": "[i]\u201cA golden edge is truly too good for these lowly debtors.\u201d[/i]",
             "pt": "4/2",
             "special_text": "",
@@ -396,14 +381,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Samuel Matthews",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Teysa Karlov, Master of Deals",
             "color": "WB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Advisor",
+            "type": "Legendary Creature \u2014 Human Advisor",
             "number": 210,
             "color_identity": "WB",
             "cost": "{W}{W}{B}{B}",
@@ -415,14 +399,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mike Pape",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Treasured Pet",
             "color": "WB",
             "rarity": "common",
-            "type": "Creature \u2013 Cat Spirit",
+            "type": "Creature \u2014 Cat Spirit",
             "number": 233,
             "color_identity": "WB",
             "cost": "{1}{WB}",
@@ -434,18 +417,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Loonaris",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Assessor of Worth",
             "color": "WB",
             "rarity": "mythic",
-            "type": "Creature \u2013 Angel",
+            "type": "Creature \u2014 Angel",
             "number": 149,
             "color_identity": "WB",
             "cost": "{3}{W}{B}{B}",
-            "rules_text": "Flying\nWard\u2013Pay 4 life.\n[i][i]Oblation 6[/i][/i] \u2013 When this creature enters, you may pay 6 life. If you do, destroy each other nonland permanent.",
+            "rules_text": "Flying\nWard\u2014Pay 4 life.\n[i][i]Oblation 6[/i][/i] \u2014 When this creature enters, you may pay 6 life. If you do, destroy each other nonland permanent.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -453,18 +435,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pat Gabrielli",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Priest of The Welcoming",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 20,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "[i][i]Oblation X[/i][/i] \u2013 When this creature enters, you may pay X life. If you do, return any number of target creature, enchantment and/or planeswalker cards with total mana value X or less from your graveyard to the battlefield with a finality counter on them.",
+            "rules_text": "[i][i]Oblation X[/i][/i] \u2014 When this creature enters, you may pay X life. If you do, return any number of target creature, enchantment and/or planeswalker cards with total mana value X or less from your graveyard to the battlefield with a finality counter on them.",
             "flavor_text": "[i][/i]",
             "pt": "4/7",
             "special_text": "",
@@ -472,14 +453,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Josep Perez",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Vicious Blackmailer",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Citizen Rogue",
+            "type": "Creature \u2014 Human Citizen Rogue",
             "number": 86,
             "color_identity": "B",
             "cost": "{1}{B}{B}",
@@ -491,18 +471,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Marta Nael",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Orzhov Seizebeast",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 17,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Vigilance\n[i][i]Oblation 5[/i][/i] \u2013 When this creature enters, you may pay 5 life. If you do, exile target artifact or enchantment.\nWhen this creature dies, you and target opponent each create a Treasure token.",
+            "rules_text": "Vigilance\n[i][i]Oblation 5[/i][/i] \u2014 When this creature enters, you may pay 5 life. If you do, exile target artifact or enchantment.\nWhen this creature dies, you and target opponent each create a Treasure token.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -510,14 +489,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Wayne Barlowe",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Vulpus Honorguard",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Fox",
+            "type": "Creature \u2014 Fox",
             "number": 143,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -529,14 +507,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Epicron Art",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Howling Gate",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Spirit Wall",
+            "type": "Creature \u2014 Spirit Wall",
             "number": 13,
             "color_identity": "W",
             "cost": "{W}",
@@ -548,18 +525,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "juhamattipulkkinen",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Knight of Denial",
             "color": "WB",
             "rarity": "common",
-            "type": "Creature \u2013 Giant Knight",
+            "type": "Creature \u2014 Giant Knight",
             "number": 188,
             "color_identity": "WB",
             "cost": "{4}{W}{B}",
-            "rules_text": "Vigilance\nWard\u2013Pay 4 life.\nThis creature can block an additional creature each combat.",
+            "rules_text": "Vigilance\nWard\u2014Pay 4 life.\nThis creature can block an additional creature each combat.",
             "flavor_text": "[i]\u201cPeace. Through. Subjugation.\u201d[/i]",
             "pt": "4/8",
             "special_text": "",
@@ -567,18 +543,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Inkyh",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Pontific Guard",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Spirit",
+            "type": "Creature \u2014 Spirit",
             "number": 19,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Flash\nFlying\n[i]Oblation 2[/i] \u2013 When this creature enters, you may pay 2 life. If you do, another target creature gains hexproof and indestructible until end of turn.",
+            "rules_text": "Flash\nFlying\n[i]Oblation 2[/i] \u2014 When this creature enters, you may pay 2 life. If you do, another target creature gains hexproof and indestructible until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -586,8 +561,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mahealani Rodrigues",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Profane Ceremony",
@@ -597,7 +571,7 @@
             "number": 78,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Choose one or both \u2013\n\u2022 Exile up to two target cards from a single graveyard. You gain 1 life for each creature cards exiled this way.\n\u2022 Return up to two target creature cards from your graveyard to your hand.",
+            "rules_text": "Choose one or both \u2014\n\u2022 Exile up to two target cards from a single graveyard. You gain 1 life for each creature cards exiled this way.\n\u2022 Return up to two target creature cards from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -605,8 +579,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Tim Keil",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Pruning",
@@ -624,8 +597,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Samuel Speziali",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Flowerbed Envoy's Call",
@@ -643,14 +615,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Elena Mar\u00eda Vacas",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Dutiful Archprotector",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Elephant Cleric",
+            "type": "Creature \u2014 Elephant Cleric",
             "number": 6,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -662,14 +633,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Cristopher Lozano",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Worldring Uroboros",
             "color": "WG",
             "rarity": "mythic",
-            "type": "Creature \u2013 Wurm",
+            "type": "Creature \u2014 Wurm",
             "number": 218,
             "color_identity": "WG",
             "cost": "{5}{G}{G}{G}{W}{W}",
@@ -681,8 +651,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pitta",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Bolstering Spores",
@@ -692,7 +661,7 @@
             "number": 119,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Choose one \u2013\n\u2022 Target creature you control deals damage equal to its power to target creature you don't control.\n\u2022 Creatures you control get +0/+3 and gain reach until end of turn.",
+            "rules_text": "Choose one \u2014\n\u2022 Target creature you control deals damage equal to its power to target creature you don't control.\n\u2022 Creatures you control get +0/+3 and gain reach until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -700,14 +669,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ThemeFinland",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ledev Captain",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Knight",
+            "type": "Creature \u2014 Elf Knight",
             "number": 15,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -719,8 +687,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "davehollandart",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Pollen Storm",
@@ -738,8 +705,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Randy Hullihen",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Coordinated Assault",
@@ -757,14 +723,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sonech",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Protector of the Glade",
             "color": "WG",
             "rarity": "common",
-            "type": "Creature \u2013 Dryad Warrior",
+            "type": "Creature \u2014 Dryad Warrior",
             "number": 231,
             "color_identity": "WG",
             "cost": "{1}{GW}",
@@ -776,14 +741,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "anotherwanderer",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Selesnya Caretaker",
             "color": "WG",
             "rarity": "common",
-            "type": "Creature \u2013 Elephant Cleric",
+            "type": "Creature \u2014 Elephant Cleric",
             "number": 204,
             "color_identity": "WG",
             "cost": "{G}{W}",
@@ -795,8 +759,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "andrey-modestov",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Sowing Courier",
@@ -814,8 +777,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sarahlovellart",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Branching Possibilities",
@@ -833,18 +795,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rashed AlAkroka",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Ral, Thundering Genius",
             "color": "UR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Wizard",
+            "type": "Legendary Creature \u2014 Human Wizard",
             "number": 198,
             "color_identity": "UR",
             "cost": "{U}{U}{R}{R}",
-            "rules_text": "At the beginning of your first main phase, choose one \u2013\n\u2022 When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. You may only cast one spell this turn.\n\u2022 Draw a card, then discard a card. Add {C}{U}{R}. This mana can't be spent to cast permanent spells.",
+            "rules_text": "At the beginning of your first main phase, choose one \u2014\n\u2022 When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. You may only cast one spell this turn.\n\u2022 Draw a card, then discard a card. Add {C}{U}{R}. This mana can't be spent to cast permanent spells.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -852,8 +813,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Riccardo La Barbera",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Essencesnatch",
@@ -863,7 +823,7 @@
             "number": 38,
             "color_identity": "U",
             "cost": "{U}{U}{U}",
-            "rules_text": "Counter target spell. Choose one \u2013\n\u2022 Create a 1/1 blue Faerie creature token with flying and prowess.\n\u2022 Put two +1/+1 counters on target creature you control.\n\u2022 Draw a card.",
+            "rules_text": "Counter target spell. Choose one \u2014\n\u2022 Create a 1/1 blue Faerie creature token with flying and prowess.\n\u2022 Put two +1/+1 counters on target creature you control.\n\u2022 Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -871,8 +831,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "karipaints",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ceremony of Fury",
@@ -890,8 +849,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Automatic Moon",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Overflowing Buffer",
@@ -909,8 +867,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sava Ivkov",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Thought Accelerator",
@@ -928,8 +885,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Oliver Wetter",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Blinding Flash",
@@ -947,8 +903,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "MTG-Deviants",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Voltaic Strike",
@@ -966,14 +921,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "nastasiaki",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Mass Scrambler",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 230,
             "color_identity": "UR",
             "cost": "{2}{UR}",
@@ -985,14 +939,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Ishton",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Flux Launcher Maniac",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2013 Goblin Wizard",
+            "type": "Creature \u2014 Goblin Wizard",
             "number": 181,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
@@ -1004,18 +957,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gianluca Capodiferro",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Ecstatic Fluxburster",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Weird",
+            "type": "Creature \u2014 Weird",
             "number": 173,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "Flying, haste\nAs you cast this spell, choose one \u2013\n\u2022 This creature enters with two +1/+1 counters on it. \n\u2022 Exile target instant or sorcery card from your graveyard. When this creature enters, it deals damage equal to that card's mana value to any target.",
+            "rules_text": "Flying, haste\nAs you cast this spell, choose one \u2014\n\u2022 This creature enters with two +1/+1 counters on it. \n\u2022 Exile target instant or sorcery card from your graveyard. When this creature enters, it deals damage equal to that card's mana value to any target.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -1023,8 +975,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "SeBeL",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Bionic Strength",
@@ -1042,8 +993,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mariusz Gandzel",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Fluctuating Reality",
@@ -1053,7 +1003,7 @@
             "number": 41,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Choose [one] \u2013\n\u2022 Return up to one target creature to its owner's hand.\n\u2022 Mill three cards. You may put a nonpermanent card from among the milled cards into your hand.\nIterate {2}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
+            "rules_text": "Choose [one] \u2014\n\u2022 Return up to one target creature to its owner's hand.\n\u2022 Mill three cards. You may put a nonpermanent card from among the milled cards into your hand.\nIterate {2}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1061,8 +1011,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Harshanand Singh",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Aether Condensator",
@@ -1080,8 +1029,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Paulo Niki",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Cognition Theft",
@@ -1091,7 +1039,7 @@
             "number": 162,
             "color_identity": "UB",
             "cost": "{2}{U}{U}{B}",
-            "rules_text": "Target opponent mills three cards. You may cast a spell milled this way without paying its mana cost.\nCover-up 5\u2013{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top five cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "Target opponent mills three cards. You may cast a spell milled this way without paying its mana cost.\nCover-up 5\u2014{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top five cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1099,8 +1047,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alberto Costa",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Bloodrenched Spoil",
@@ -1118,18 +1065,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "DireImpulse",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Shambling Grotesquerie",
             "color": "UB",
             "rarity": "common",
-            "type": "Creature \u2013 Horror",
+            "type": "Creature \u2014 Horror",
             "number": 206,
             "color_identity": "UB",
             "cost": "{U}{B}",
-            "rules_text": "Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\nCover-up 2\u2013{U}{B} [i]({U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]\nWhen you cover-up this card, target player mills three cards.",
+            "rules_text": "Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\nCover-up 2\u2014{U}{B} [i]({U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]\nWhen you cover-up this card, target player mills three cards.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1137,14 +1083,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Vaghauk",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Deeproot Entity",
             "color": "G",
             "rarity": "mythic",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 124,
             "color_identity": "G",
             "cost": "{2}{G}{G}{G}",
@@ -1156,18 +1101,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sandra Duchiewicz",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Storm Eater",
             "color": "R",
             "rarity": "mythic",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 111,
             "color_identity": "R",
             "cost": "{2}{R}{R}{R}",
-            "rules_text": "Flying\nWard\u2013Pay 3 life.\nWhenever you cast a spell, this creature deals X damage to any target, where X is the amount of mana spend to cast that spell.",
+            "rules_text": "Flying\nWard\u2014Pay 3 life.\nWhenever you cast a spell, this creature deals X damage to any target, where X is the amount of mana spend to cast that spell.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -1175,8 +1119,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Dragolisco",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Clawing Grasp",
@@ -1186,7 +1129,7 @@
             "number": 62,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Destroy target creature.\nCover-up 3\u2013Pay 3 life [i](Pay 3 life, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "Destroy target creature.\nCover-up 3\u2014Pay 3 life [i](Pay 3 life, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1194,8 +1137,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Keely Yanes",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Mind Hemorrhage",
@@ -1213,14 +1155,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "AshShadows69",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Plains_RNF",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Plains",
+            "type": "Basic Land \u2014 Plains",
             "number": 271,
             "color_identity": "W",
             "cost": "",
@@ -1232,14 +1173,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Lara Petkovic",
-            "notes": "!exportname Plains_RNF",
-            "image_type": "png"
+            "notes": "!exportname Plains_RNF"
         },
         {
             "card_name": "Island_RNF",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Island",
+            "type": "Basic Land \u2014 Island",
             "number": 272,
             "color_identity": "U",
             "cost": "",
@@ -1251,14 +1191,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mauger Baptiste",
-            "notes": "!exportname Island_RNF",
-            "image_type": "png"
+            "notes": "!exportname Island_RNF"
         },
         {
             "card_name": "Swamp_RNF",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Swamp",
+            "type": "Basic Land \u2014 Swamp",
             "number": 273,
             "color_identity": "B",
             "cost": "",
@@ -1270,14 +1209,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Maxime Desmettre",
-            "notes": "!exportname Swamp_RNF",
-            "image_type": "png"
+            "notes": "!exportname Swamp_RNF"
         },
         {
             "card_name": "Mountain_RNF",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Mountain",
+            "type": "Basic Land \u2014 Mountain",
             "number": 274,
             "color_identity": "R",
             "cost": "",
@@ -1289,14 +1227,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Vadim Koval",
-            "notes": "!exportname Mountain_RNF",
-            "image_type": "png"
+            "notes": "!exportname Mountain_RNF"
         },
         {
             "card_name": "Forest_RNF",
             "color": "",
             "rarity": "common",
-            "type": "Basic Land \u2013 Forest",
+            "type": "Basic Land \u2014 Forest",
             "number": 275,
             "color_identity": "G",
             "cost": "",
@@ -1308,14 +1245,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Miha Marusko",
-            "notes": "!exportname Forest_RNF",
-            "image_type": "png"
+            "notes": "!exportname Forest_RNF"
         },
         {
             "card_name": "Orzhov Guildgate",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2013 Gate",
+            "type": "Land \u2014 Gate",
             "number": 263,
             "color_identity": "WB",
             "cost": "",
@@ -1327,14 +1263,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Benjamin Roach",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Dimir Guildgate",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2013 Gate",
+            "type": "Land \u2014 Gate",
             "number": 259,
             "color_identity": "UB",
             "cost": "",
@@ -1346,14 +1281,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Khaian",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Izzet Guildgate",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2013 Gate",
+            "type": "Land \u2014 Gate",
             "number": 262,
             "color_identity": "UR",
             "cost": "",
@@ -1365,14 +1299,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Johnson Truong",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Tin Street",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2013 Gate",
+            "type": "Land \u2014 Gate",
             "number": 268,
             "color_identity": "C",
             "cost": "",
@@ -1384,8 +1317,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sam",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Transguild Square",
@@ -1403,8 +1335,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Thomas Ricci",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Orzhov Insignia",
@@ -1422,8 +1353,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Gruul Insignia",
@@ -1441,8 +1371,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Izzet Insignia",
@@ -1460,8 +1389,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Selesnya Insignia",
@@ -1479,8 +1407,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Dimir Insignia",
@@ -1498,14 +1425,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Custodian of the Guildpact",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 245,
             "color_identity": "WUBRG",
             "cost": "{3}",
@@ -1517,14 +1443,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Fad Liu",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Living Monument",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Golem",
+            "type": "Artifact Creature \u2014 Golem",
             "number": 251,
             "color_identity": "C",
             "cost": "{2}",
@@ -1536,14 +1461,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sweeper3D",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Shield of the Guildpact",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 256,
             "color_identity": "C",
             "cost": "{2}",
@@ -1555,8 +1479,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Crop Circle Base",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Heart of Communion",
@@ -1574,8 +1497,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "LadyPirotessa",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Vault of the Paruns",
@@ -1585,7 +1507,7 @@
             "number": 257,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "When this artifact enters and whenever you cast a multicolored spell, choose one \u2013\n\u2022 Create a 2/2 Citizen creature token that's all colors.\n\u2022 Draw a card.\n\u2022 You gain 3 life.",
+            "rules_text": "When this artifact enters and whenever you cast a multicolored spell, choose one \u2014\n\u2022 Create a 2/2 Citizen creature token that's all colors.\n\u2022 Draw a card.\n\u2022 You gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1593,14 +1515,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "KuteynikovRoman",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Oblivion Urn",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Treasure",
+            "type": "Artifact \u2014 Treasure",
             "number": 252,
             "color_identity": "C",
             "cost": "{1}",
@@ -1612,14 +1533,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "SERGEI SARICHEV",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Prismatic Custodian",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 254,
             "color_identity": "WUBRG",
             "cost": "{5}",
@@ -1631,14 +1551,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Strenerus",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Watery Grave",
             "color": "",
             "rarity": "rare",
-            "type": "Land \u2013 Island Swamp",
+            "type": "Land \u2014 Island Swamp",
             "number": 270,
             "color_identity": "UB",
             "cost": "",
@@ -1650,14 +1569,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Stomping Ground",
             "color": "",
             "rarity": "rare",
-            "type": "Land \u2013 Mountain Forest",
+            "type": "Land \u2014 Mountain Forest",
             "number": 266,
             "color_identity": "RG",
             "cost": "",
@@ -1669,14 +1587,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Temple Garden",
             "color": "",
             "rarity": "rare",
-            "type": "Land \u2013 Forest Plains",
+            "type": "Land \u2014 Forest Plains",
             "number": 267,
             "color_identity": "WG",
             "cost": "",
@@ -1688,14 +1605,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Godless Shrine",
             "color": "",
             "rarity": "rare",
-            "type": "Land \u2013 Plains Swamp",
+            "type": "Land \u2014 Plains Swamp",
             "number": 260,
             "color_identity": "WB",
             "cost": "",
@@ -1707,14 +1623,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Steam Vents",
             "color": "",
             "rarity": "rare",
-            "type": "Land \u2013 Island Mountain",
+            "type": "Land \u2014 Island Mountain",
             "number": 265,
             "color_identity": "UR",
             "cost": "",
@@ -1726,8 +1641,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jules Vos",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Hidden Scrutiny",
@@ -1745,8 +1659,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Grace Oldman",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Vital Reclamation",
@@ -1764,18 +1677,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Grafit Studio",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Backstreet Informant",
             "color": "UB",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rogue",
+            "type": "Creature \u2014 Human Rogue",
             "number": 220,
             "color_identity": "UB",
             "cost": "{2}{UB}",
-            "rules_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\nCover-up 2\u2013{2}{UB} [i]({2}{UB}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "Flash [i](You may cast this spell any time you could cast an instant.)[/i]\nCover-up 2\u2014{2}{UB} [i]({2}{UB}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1783,8 +1695,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Hyrum Baker",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Incapacitating Probing",
@@ -1794,7 +1705,7 @@
             "number": 45,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Target creature gets -2/-0 until end of turn. Surveil 2.\nCover-up 2\u2013{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "Target creature gets -2/-0 until end of turn. Surveil 2.\nCover-up 2\u2014{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1802,8 +1713,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Link Chiang",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Anguished Fall",
@@ -1821,14 +1731,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Korpus",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "World-Tree Guardian",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 145,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
@@ -1840,14 +1749,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "WandererLink",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Protector of the Meek",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Angel Warrior",
+            "type": "Creature \u2014 Angel Warrior",
             "number": 21,
             "color_identity": "W",
             "cost": "{4}{W}",
@@ -1859,14 +1767,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "JasonTN",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Deep Sewage Lurker",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Octopus",
+            "type": "Creature \u2014 Octopus",
             "number": 35,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
@@ -1878,14 +1785,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "PReilly",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Thrull Collectors",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Thrull",
+            "type": "Creature \u2014 Thrull",
             "number": 83,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1897,14 +1803,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Johaness Vess",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Frontline Cultivator",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 9,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -1916,14 +1821,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "artborne-wd",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Ninth District Benevolent",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 16,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1935,18 +1839,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ArtDeepMind",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Walkers of the Dim",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Zombie",
+            "type": "Creature \u2014 Zombie",
             "number": 58,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]\nCover-up 3\u2013{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]\nCover-up 3\u2014{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1954,8 +1857,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rotaken",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Lightningquake",
@@ -1973,8 +1875,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "A. Shipwright",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Fires of Reclamation",
@@ -1984,7 +1885,7 @@
             "number": 96,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "Choose one \u2013\n\u2022 This spell deals 3 damage to each creature and each planeswalker.\n\u2022 Create a 3/3 red Elemental creature token with haste.",
+            "rules_text": "Choose one \u2014\n\u2022 This spell deals 3 damage to each creature and each planeswalker.\n\u2022 Create a 3/3 red Elemental creature token with haste.",
             "flavor_text": "[i]\u201cReclaim your birth right!\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -1992,14 +1893,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "javi ure",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Conclave Sentinel",
             "color": "WG",
             "rarity": "common",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 164,
             "color_identity": "WG",
             "cost": "{4}{G}{W}",
@@ -2011,14 +1911,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "sifterone",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Brilliant Artist",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Fairie Wizard Bard",
+            "type": "Creature \u2014 Fairie Wizard Bard",
             "number": 32,
             "color_identity": "U",
             "cost": "{U}",
@@ -2030,8 +1929,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Adeerborn",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Flood of Memories",
@@ -2049,14 +1947,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jacqueline Pallett",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Duskmantle Agent",
             "color": "UB",
             "rarity": "common",
-            "type": "Creature \u2013 Fairie Assassin",
+            "type": "Creature \u2014 Fairie Assassin",
             "number": 172,
             "color_identity": "UB",
             "cost": "{4}{U}{B}",
@@ -2068,14 +1965,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Lucy Lisett",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Mad Alchemist",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Lizard Wizard",
+            "type": "Creature \u2014 Lizard Wizard",
             "number": 103,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2087,14 +1983,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Timi Honkanen",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Mounted Warbeast",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 106,
             "color_identity": "R",
             "cost": "{R}",
@@ -2106,14 +2001,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "sandara",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Rumbling Drake",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2013 Drake",
+            "type": "Creature \u2014 Drake",
             "number": 203,
             "color_identity": "UR",
             "cost": "{4}{U}{R}",
@@ -2125,18 +2019,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Haskiens",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Catacombs Cleaner",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Insect Horror",
+            "type": "Creature \u2014 Insect Horror",
             "number": 33,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flash\nCover-up 2\u2013{2}{U}{U} [i]({2}{U}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]\nWhen you cover-up this card, return up to one target creature to its owner's hand.",
+            "rules_text": "Flash\nCover-up 2\u2014{2}{U}{U} [i]({2}{U}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]\nWhen you cover-up this card, return up to one target creature to its owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -2144,14 +2037,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gladys Domalaon",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Winged Mare",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Pegasus",
+            "type": "Creature \u2014 Pegasus",
             "number": 29,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2163,14 +2055,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Stephanie Lawrence",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Thraka, Ire of the Wilds",
             "color": "RG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Beast God",
+            "type": "Legendary Creature \u2014 Beast God",
             "number": 211,
             "color_identity": "RG",
             "cost": "{2}{R}{R}{G}{G}",
@@ -2182,14 +2073,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Catharina Wendland",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Cleanser of Debt",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Vampire Knight",
+            "type": "Creature \u2014 Vampire Knight",
             "number": 2,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -2201,14 +2091,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "BASTIEN LECOUFFE DEHARME",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Saproling",
             "color": "G",
             "rarity": "common",
-            "type": "Token Creature \u2013 Saproling",
+            "type": "Token Creature \u2014 Saproling",
             "number": 11,
             "color_identity": "G",
             "cost": "",
@@ -2220,14 +2109,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "T. Alex Mills",
-            "notes": "!token",
-            "image_type": "png"
+            "notes": "!token"
         },
         {
             "card_name": "Spirit",
             "color": "WB",
             "rarity": "common",
-            "type": "Token Creature \u2013 Spirit",
+            "type": "Token Creature \u2014 Spirit",
             "number": 18,
             "color_identity": "WB",
             "cost": "",
@@ -2239,14 +2127,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "youxiandaxia",
-            "notes": "!tag Orzhov;\n!token",
-            "image_type": "png"
+            "notes": "!tag Orzhov;\n!token"
         },
         {
             "card_name": "Hellion",
             "color": "RG",
             "rarity": "common",
-            "type": "Token Creature \u2013 Hellion",
+            "type": "Token Creature \u2014 Hellion",
             "number": 17,
             "color_identity": "RG",
             "cost": "",
@@ -2258,14 +2145,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "chillier17",
-            "notes": "!tag Gruul;\n!token",
-            "image_type": "png"
+            "notes": "!tag Gruul;\n!token"
         },
         {
             "card_name": "Construct",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact Creature \u2013 Construct",
+            "type": "Token Artifact Creature \u2014 Construct",
             "number": 19,
             "color_identity": "C",
             "cost": "",
@@ -2277,14 +2163,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Aleksi Briclot",
-            "notes": "!token",
-            "image_type": "png"
+            "notes": "!token"
         },
         {
             "card_name": "Zombie",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2013 Zombie",
+            "type": "Token Creature \u2014 Zombie",
             "number": 6,
             "color_identity": "B",
             "cost": "",
@@ -2296,14 +2181,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Florian Herold",
-            "notes": "!token",
-            "image_type": "png"
+            "notes": "!token"
         },
         {
             "card_name": "Zombie Star;",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2013 Zombie",
+            "type": "Token Creature \u2014 Zombie",
             "number": 7,
             "color_identity": "B",
             "cost": "",
@@ -2315,14 +2199,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Neronapalm",
-            "notes": "!exportname Zombie Star;\n!token",
-            "image_type": "png"
+            "notes": "!exportname Zombie Star;\n!token"
         },
         {
             "card_name": "Citizen",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2013 Citizen",
+            "type": "Token Creature \u2014 Citizen",
             "number": 13,
             "color_identity": "WUBRG",
             "cost": "",
@@ -2334,14 +2217,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rene Gross",
-            "notes": "!token",
-            "image_type": "png"
+            "notes": "!token"
         },
         {
             "card_name": "Elemental",
             "color": "WG",
             "rarity": "common",
-            "type": "Token Creature \u2013 Elemental",
+            "type": "Token Creature \u2014 Elemental",
             "number": 15,
             "color_identity": "WG",
             "cost": "",
@@ -2353,14 +2235,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "KORHIPER",
-            "notes": "!tag Selesnya;\n!token",
-            "image_type": "png"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Bird",
             "color": "W",
             "rarity": "common",
-            "type": "Token Creature \u2013 Bird",
+            "type": "Token Creature \u2014 Bird",
             "number": 2,
             "color_identity": "W",
             "cost": "",
@@ -2372,8 +2253,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "AlaxendrA",
-            "notes": "!tag Selesnya;\n!token",
-            "image_type": "png"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Copy",
@@ -2391,14 +2271,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alex Rommel",
-            "notes": "!token",
-            "image_type": "png"
+            "notes": "!token"
         },
         {
             "card_name": "Elf Knight",
             "color": "WG",
             "rarity": "common",
-            "type": "Token Creature \u2013 Elf Knight",
+            "type": "Token Creature \u2014 Elf Knight",
             "number": 16,
             "color_identity": "WG",
             "cost": "",
@@ -2410,14 +2289,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "lzfrusnckop",
-            "notes": "!tag Selesnya;\n!token",
-            "image_type": "png"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Treasure",
             "color": "",
             "rarity": "common",
-            "type": "Token Artifact \u2013 Treasure",
+            "type": "Token Artifact \u2014 Treasure",
             "number": 20,
             "color_identity": "C",
             "cost": "",
@@ -2429,14 +2307,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "gugu-troll",
-            "notes": "!token",
-            "image_type": "png"
+            "notes": "!token"
         },
         {
             "card_name": "Elemental",
             "color": "R",
             "rarity": "common",
-            "type": "Token Creature \u2013 Elemental",
+            "type": "Token Creature \u2014 Elemental",
             "number": 8,
             "color_identity": "R",
             "cost": "",
@@ -2448,14 +2325,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ConceptartistJR",
-            "notes": "!tag Gruul;\n!token",
-            "image_type": "png"
+            "notes": "!tag Gruul;\n!token"
         },
         {
             "card_name": "Zhur-Taa Ember Shaman",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 116,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2467,8 +2343,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "BobKehl",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Falling Apart",
@@ -2478,7 +2353,7 @@
             "number": 8,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Choose one \u2013\n\u2022 Destroy target artifact or enchantment.\n\u2022 Destroy target tapped creature.",
+            "rules_text": "Choose one \u2014\n\u2022 Destroy target artifact or enchantment.\n\u2022 Destroy target tapped creature.",
             "flavor_text": "[i]\u201cRejoice, for your debt has been paid.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -2486,8 +2361,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "anthony chong jones",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Call of the Hunt",
@@ -2505,18 +2379,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Marcos Raya Delgado",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Deadly Familiar",
             "color": "WB",
             "rarity": "common",
-            "type": "Creature \u2013 Cat",
+            "type": "Creature \u2014 Cat",
             "number": 167,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
-            "rules_text": "Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]\n[i]Oblation 2[/i] \u2013 When this creature enters, you may pay 2 life. If you do, target creature you control gets +1/+0 and gains deathtouch and haste until end of turn.",
+            "rules_text": "Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]\n[i]Oblation 2[/i] \u2014 When this creature enters, you may pay 2 life. If you do, target creature you control gets +1/+0 and gains deathtouch and haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2524,8 +2397,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "DON",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Deafening Cacophony",
@@ -2543,8 +2415,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "myndsnare",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Mind Tap",
@@ -2562,14 +2433,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jehan Choo",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Izzet Apprentice",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Vedalken Wizard",
+            "type": "Creature \u2014 Vedalken Wizard",
             "number": 101,
             "color_identity": "UR",
             "cost": "{2}{R}",
@@ -2581,14 +2451,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pat Gabrielli",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Slitz-Clan Opportunist",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Lizard Rogue",
+            "type": "Creature \u2014 Lizard Rogue",
             "number": 139,
             "color_identity": "RG",
             "cost": "{3}{G}",
@@ -2600,14 +2469,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Ehkion",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Debtor Hunter",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Human Rogue",
+            "type": "Creature \u2014 Human Rogue",
             "number": 66,
             "color_identity": "WB",
             "cost": "{3}{B}",
@@ -2619,14 +2487,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Marius Boenisch",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Lightning Rider",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 189,
             "color_identity": "UR",
             "cost": "{4}{U}{R}",
@@ -2638,14 +2505,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gavin Manners",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Priest of the Old Ways",
             "color": "RG",
             "rarity": "common",
-            "type": "Creature \u2013 Ogre Druid",
+            "type": "Creature \u2014 Ogre Druid",
             "number": 196,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
@@ -2657,14 +2523,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Magebane Rawhide",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 104,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2676,14 +2541,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Edgar S\u00e1nchez Hidalgo",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Caller of the Wilds",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 121,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
@@ -2695,14 +2559,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andrew Sonea",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Illuminator Imp",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Imp",
+            "type": "Creature \u2014 Imp",
             "number": 72,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -2714,14 +2577,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Reboooot",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Arrogant Hermit",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 30,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2733,14 +2595,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Roman Groph",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Guardian of the Hour",
             "color": "W",
             "rarity": "mythic",
-            "type": "Creature \u2013 Angel Warrior",
+            "type": "Creature \u2014 Angel Warrior",
             "number": 11,
             "color_identity": "W",
             "cost": "{2}{W}{W}{W}",
@@ -2752,8 +2613,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "jthreat",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Unearthed Mysteries",
@@ -2763,7 +2623,7 @@
             "number": 85,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
-            "rules_text": "Return target creature card from a graveyard to the battlefield under your control.\nCover-up 3\u2013{1}{B}{B} [i]({1}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]\nWhen you cover-up this card, once this turn, you may cast a creature spell from your graveyard. It enters with a finality counter on it.",
+            "rules_text": "Return target creature card from a graveyard to the battlefield under your control.\nCover-up 3\u2014{1}{B}{B} [i]({1}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]\nWhen you cover-up this card, once this turn, you may cast a creature spell from your graveyard. It enters with a finality counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2771,14 +2631,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Donglu Yu",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Truesight Sphinx",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Sphinx",
+            "type": "Creature \u2014 Sphinx",
             "number": 57,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -2790,14 +2649,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mathias Kollros",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Lightning Catalyst",
             "color": "UR",
             "rarity": "rare",
-            "type": "Creature \u2013 Djinn",
+            "type": "Creature \u2014 Djinn",
             "number": 228,
             "color_identity": "UR",
             "cost": "{UR}{UR}",
@@ -2809,14 +2667,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Zerahoc",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Maree, Nivix Grand Chamberlain",
             "color": "UR",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Goblin Wizard",
+            "type": "Legendary Creature \u2014 Goblin Wizard",
             "number": 190,
             "color_identity": "UR",
             "cost": "{U}{R}",
@@ -2828,8 +2685,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "TheGentlemanCupcake",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Reload",
@@ -2857,8 +2713,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Factory Line",
@@ -2876,18 +2731,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "yoji grey",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Workshop Supervisor",
             "color": "UR",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Artificer Wizard",
+            "type": "Creature \u2014 Human Artificer Wizard",
             "number": 217,
             "color_identity": "UR",
             "cost": "{4}{U}{R}",
-            "rules_text": "Ward\u2013{2}, Pay 2 life.\nWhenever you cast an instant or sorcery spell, create X 1/1 colorless Construct artifact creature tokens, where X is the amount of mana spent to cast that spell. Creatures you control gain haste until end of turn. This ability triggers only once each turn.",
+            "rules_text": "Ward\u2014{2}, Pay 2 life.\nWhenever you cast an instant or sorcery spell, create X 1/1 colorless Construct artifact creature tokens, where X is the amount of mana spent to cast that spell. Creatures you control gain haste until end of turn. This ability triggers only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -2895,8 +2749,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Graey Erb",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Blessing of Savagery",
@@ -2914,14 +2767,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andrea Schepisi",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Bushfire Shaman",
             "color": "RG",
             "rarity": "rare",
-            "type": "Creature \u2013 Cyclops Shaman",
+            "type": "Creature \u2014 Cyclops Shaman",
             "number": 159,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
@@ -2933,14 +2785,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Valeriy Vegera",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Ghor-Clan Charger",
             "color": "RG",
             "rarity": "rare",
-            "type": "Creature \u2013 Centaur Warrior",
+            "type": "Creature \u2014 Centaur Warrior",
             "number": 225,
             "color_identity": "RG",
             "cost": "{3}{RG}{RG}",
@@ -2952,8 +2803,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "guillem h. pongiluppi",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Ram",
@@ -2981,18 +2831,17 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Rakasht, Spawn of Ulasht",
             "color": "RG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Hellion",
+            "type": "Legendary Creature \u2014 Hellion",
             "number": 197,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
-            "rules_text": "This creature enters with a number of +1/+1 counters on it equal to number of creature and/or land cards in all graveyards.\n{X}, Remove X +1/+1 counters from among creatures you control: Choose one\u2013\n\u2022 Create a X/X red and green Hellion creature token with haste. X can't be 0.\n\u2022 This creature deals X damage to any target. X can't be 0.",
+            "rules_text": "This creature enters with a number of +1/+1 counters on it equal to number of creature and/or land cards in all graveyards.\n{X}, Remove X +1/+1 counters from among creatures you control: Choose one\u2014\n\u2022 Create a X/X red and green Hellion creature token with haste. X can't be 0.\n\u2022 This creature deals X damage to any target. X can't be 0.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -3000,8 +2849,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Mind Warp",
@@ -3011,7 +2859,7 @@
             "number": 47,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
-            "rules_text": "Gain control of target creature an opponent controls. Its owner mills cards equal to that creature mana value.\nCover-up 6\u2013{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top six cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "Gain control of target creature an opponent controls. Its owner mills cards equal to that creature mana value.\nCover-up 6\u2014{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top six cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3019,8 +2867,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Lucas Melo",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Syphon Psyche",
@@ -3030,7 +2877,7 @@
             "number": 82,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile those cards.\nCover-up 2\u2013{2}{B} [i]({2}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile those cards.\nCover-up 2\u2014{2}{B} [i]({2}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3038,8 +2885,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Nick Acuna",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Essence Shift",
@@ -3049,7 +2895,7 @@
             "number": 176,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "Choose one or both \u2013\n\u2022 Return target creature to its owner's hand.\n\u2022 Return target creature card from your graveyard to your hand.",
+            "rules_text": "Choose one or both \u2014\n\u2022 Return target creature to its owner's hand.\n\u2022 Return target creature card from your graveyard to your hand.",
             "flavor_text": "[i]\u201cA nosy mage taken care of and a new minion ready to receive its orders.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -3057,14 +2903,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Choosen of the Worldsoul",
             "color": "WG",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Druid",
+            "type": "Creature \u2014 Human Druid",
             "number": 223,
             "color_identity": "WG",
             "cost": "{GW}{GW}",
@@ -3076,8 +2921,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Entei Ryu",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Spore Waltz",
@@ -3095,8 +2939,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Dominik Mayer",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Vanish",
@@ -3106,7 +2949,7 @@
             "number": 243,
             "color_identity": "WG",
             "cost": "{GW}{GW}",
-            "rules_text": "Choose one \u2013\n\u2022 Exile target artifact.\n\u2022 Exile target enchantment.\n\u2022 Exile target player's graveyard.",
+            "rules_text": "Choose one \u2014\n\u2022 Exile target artifact.\n\u2022 Exile target enchantment.\n\u2022 Exile target player's graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3124,14 +2967,13 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Circu, Butcher of Memories",
             "color": "UB",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Wizard",
+            "type": "Legendary Creature \u2014 Human Wizard",
             "number": 161,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
@@ -3143,8 +2985,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "tegehel",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Examination",
@@ -3172,8 +3013,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Incisive Reversal",
@@ -3183,7 +3023,7 @@
             "number": 187,
             "color_identity": "UB",
             "cost": "{U}{U}{B}",
-            "rules_text": "Counter target spell. Its controller loses 2 life.\nCover-up 3\u2013{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]\nWhen you cover-up this card, each opponent loses 2 life.",
+            "rules_text": "Counter target spell. Its controller loses 2 life.\nCover-up 3\u2014{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]\nWhen you cover-up this card, each opponent loses 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3191,14 +3031,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Artur M\u00f3sca",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Sewer Grafter",
             "color": "UB",
             "rarity": "rare",
-            "type": "Creature \u2013 Shapeshifter Horror",
+            "type": "Creature \u2014 Shapeshifter Horror",
             "number": 232,
             "color_identity": "UB",
             "cost": "{2}{UB}{UB}",
@@ -3210,14 +3049,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Aberiu",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Unending Nightmare",
             "color": "UB",
             "rarity": "rare",
-            "type": "Creature \u2013 Nightmare Horror",
+            "type": "Creature \u2014 Nightmare Horror",
             "number": 212,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
@@ -3229,8 +3067,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Boon of the Worldsoul",
@@ -3248,14 +3085,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "KrankArt",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Selesnya Sporewielder",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Soldier",
+            "type": "Creature \u2014 Human Soldier",
             "number": 24,
             "color_identity": "W",
             "cost": "{W}",
@@ -3267,18 +3103,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "John Bentley S. De Guzman",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Cemetery Guardian",
             "color": "WB",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Gargoyle",
+            "type": "Artifact Creature \u2014 Gargoyle",
             "number": 221,
             "color_identity": "WB",
             "cost": "{3}{WB}{WB}",
-            "rules_text": "Flying\n[i]Oblation 3[/i] \u2013 When this creature enters, you may pay 3 life. If you do, exile target player's graveyard. Create a 1/1 black and white Spirit creature token with flying for each creature card exiled this way.",
+            "rules_text": "Flying\n[i]Oblation 3[/i] \u2014 When this creature enters, you may pay 3 life. If you do, exile target player's graveyard. Create a 1/1 black and white Spirit creature token with flying for each creature card exiled this way.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3286,14 +3121,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Eryk Szczygie\u0142",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Cruel Advokist",
             "color": "WB",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Advisor",
+            "type": "Creature \u2014 Human Advisor",
             "number": 166,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
@@ -3305,8 +3139,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Federico Musetti",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Dispossession",
@@ -3324,14 +3157,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Erick Lucas",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Milana, Orzhov High Prelate",
             "color": "WB",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Cleric",
+            "type": "Legendary Creature \u2014 Human Cleric",
             "number": 191,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
@@ -3343,8 +3175,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "KinGinNatsuke",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Vitality",
@@ -3372,8 +3203,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Fragmentize",
@@ -3391,8 +3221,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Remi Roundtree",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Dissect Thoughts",
@@ -3410,8 +3239,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "wolchenka",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Subvert",
@@ -3421,7 +3249,7 @@
             "number": 54,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "Choose one \u2013\n\u2022 The owner of target nonland permanent puts it on their choice of the top or bottom of their library.\n\u2022 Counter target creature or planeswalker spell.\nIf you targeted a monocolored spell or permanent, surveil 2.",
+            "rules_text": "Choose one \u2014\n\u2022 The owner of target nonland permanent puts it on their choice of the top or bottom of their library.\n\u2022 Counter target creature or planeswalker spell.\nIf you targeted a monocolored spell or permanent, surveil 2.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3429,8 +3257,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Xebelion",
-            "notes": "!tag hate",
-            "image_type": "png"
+            "notes": "!tag hate"
         },
         {
             "card_name": "Fac Simile Project",
@@ -3448,14 +3275,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Wizard of the Coast",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Torpor",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 56,
             "color_identity": "U",
             "cost": "{U}",
@@ -3467,14 +3293,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "milan-bourgeon",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Bloodletter's Bat",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Bat",
+            "type": "Creature \u2014 Bat",
             "number": 60,
             "color_identity": "B",
             "cost": "{B}",
@@ -3486,14 +3311,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Michele Mantoani",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Wild Stomper",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 144,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -3505,8 +3329,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Max Duran",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Due of the Powerless",
@@ -3524,18 +3347,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Visual Arts Passage",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Mindflayer of the Dim",
             "color": "UB",
             "rarity": "mythic",
-            "type": "Creature \u2013 Leviathan Horror",
+            "type": "Creature \u2014 Leviathan Horror",
             "number": 192,
             "color_identity": "UB",
             "cost": "{7}{U}{B}",
-            "rules_text": "This spell can't be countered.\nWard\u2013Exile the top twenty cards of your library.\nWhen this creature enters and at the beginning of each upkeep, gain control of target permanent for as long as you control this creature.\nAt the beginning of each end step, each opponent loses 3 life for each permanent you control that they own.",
+            "rules_text": "This spell can't be countered.\nWard\u2014Exile the top twenty cards of your library.\nWhen this creature enters and at the beginning of each upkeep, gain control of target permanent for as long as you control this creature.\nAt the beginning of each end step, each opponent loses 3 life for each permanent you control that they own.",
             "flavor_text": "[i][/i]",
             "pt": "8/8",
             "special_text": "",
@@ -3543,8 +3365,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "M0AI",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Hyper Space Time Bubble",
@@ -3562,14 +3383,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Timi Honkanen",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Ashentrunk Icinerator",
             "color": "RG",
             "rarity": "mythic",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 147,
             "color_identity": "RG",
             "cost": "{X}{R}{G}{G}",
@@ -3581,14 +3401,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Fetsch",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Factory Sentinel",
             "color": "UR",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Drake Construct",
+            "type": "Artifact Creature \u2014 Drake Construct",
             "number": 178,
             "color_identity": "UR",
             "cost": "{U}{U}{R}{R}",
@@ -3600,18 +3419,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alaiaorax",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Heart of Cinders",
             "color": "RG",
             "rarity": "rare",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 185,
             "color_identity": "RG",
             "cost": "{R}{R}{G}{G}",
-            "rules_text": "Ward\u2013Pay X life, where X is the total number of creature and land cards in this creature's controller's graveyard.\nWhenever this creature enters or attacks, it rages, then you may return target land card from your graveyard to the battlefield tapped. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]",
+            "rules_text": "Ward\u2014Pay X life, where X is the total number of creature and land cards in this creature's controller's graveyard.\nWhenever this creature enters or attacks, it rages, then you may return target land card from your graveyard to the battlefield tapped. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3619,14 +3437,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gameco.com",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Flourishing Phytohydra",
             "color": "WG",
             "rarity": "rare",
-            "type": "Creature \u2013 Plant Hydra",
+            "type": "Creature \u2014 Plant Hydra",
             "number": 180,
             "color_identity": "WG",
             "cost": "{G}{G}{W}{W}",
@@ -3638,18 +3455,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "BlueSzpon",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Dimir Necrosage",
             "color": "UB",
             "rarity": "rare",
-            "type": "Creature \u2013 Skeleton Vampire Wizard",
+            "type": "Creature \u2014 Skeleton Vampire Wizard",
             "number": 169,
             "color_identity": "UB",
             "cost": "{U}{U}{B}{B}",
-            "rules_text": "Flying, hexproof\nEach nonland cards in your graveyard has \u201cCover-up 3\u2013{2}{UB}\u201d. [i]({2}{UB}, Exile a nonland card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "Flying, hexproof\nEach nonland cards in your graveyard has \u201cCover-up 3\u2014{2}{UB}\u201d. [i]({2}{UB}, Exile a nonland card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3657,18 +3473,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Vladimir Matyukhin",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Coldhearted Cardinal",
             "color": "WB",
             "rarity": "rare",
-            "type": "Creature \u2013 Vampire Assassin Cleric",
+            "type": "Creature \u2014 Vampire Assassin Cleric",
             "number": 163,
             "color_identity": "WB",
             "cost": "{W}{W}{B}{B}",
-            "rules_text": "Flying, double strike\n[i]Oblation 3[/i] \u2013 When this creature enters, you may pay 3 life. If you do, target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.",
+            "rules_text": "Flying, double strike\n[i]Oblation 3[/i] \u2014 When this creature enters, you may pay 3 life. If you do, target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.",
             "flavor_text": "[i][/i]",
             "pt": "2/5",
             "special_text": "",
@@ -3676,14 +3491,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "BASTIEN LECOUFFE DEHARME",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Bolrac-Clan City Breacher",
             "color": "RG",
             "rarity": "common",
-            "type": "Creature \u2013 Giant Warrior",
+            "type": "Creature \u2014 Giant Warrior",
             "number": 155,
             "color_identity": "RG",
             "cost": "{4}{R}{G}",
@@ -3695,8 +3509,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "VVnan",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Ledev Rescue",
@@ -3714,8 +3527,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Wandererlink",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Fiery Form",
@@ -3733,14 +3545,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Marie Moinard",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Gorz'Ghum, War Incense",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Ogre Shaman",
+            "type": "Legendary Creature \u2014 Ogre Shaman",
             "number": 183,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
@@ -3752,14 +3563,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Markus Neidel",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Gravel-Hide Channeler",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Goblin Shaman",
+            "type": "Creature \u2014 Goblin Shaman",
             "number": 184,
             "color_identity": "RG",
             "cost": "{R}{G}",
@@ -3771,14 +3581,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Brendan Lancaster",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Wrath Guildmage",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 234,
             "color_identity": "RG",
             "cost": "{RG}{RG}",
@@ -3790,8 +3599,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andrea Schepisi",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Ravage",
@@ -3801,7 +3609,7 @@
             "number": 107,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "This spell costs {1} less to cast for each monocolored permanent it targets.\nChoose one \u2013\n\u2022 This spell deals 6 damage to up to one target creature.\n\u2022 Up to three target creatures can't block this turn.",
+            "rules_text": "This spell costs {1} less to cast for each monocolored permanent it targets.\nChoose one \u2014\n\u2022 This spell deals 6 damage to up to one target creature.\n\u2022 Up to three target creatures can't block this turn.",
             "flavor_text": "[i]No mercy for those who would deny the Ten.[/i]",
             "pt": "",
             "special_text": "",
@@ -3809,14 +3617,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Hakob Minasian",
-            "notes": "!tag hate",
-            "image_type": "png"
+            "notes": "!tag hate"
         },
         {
             "card_name": "Static Elemental",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 53,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -3828,14 +3635,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Chalmer Relatorre",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Alcarus, Old Growth Protector",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Elf Archer",
+            "type": "Legendary Creature \u2014 Elf Archer",
             "number": 146,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
@@ -3847,8 +3653,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Connor Sheehan",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Burgeoning Troops",
@@ -3866,14 +3671,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jason Behnke",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Harmony Guildmage",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Druid",
+            "type": "Creature \u2014 Elf Druid",
             "number": 226,
             "color_identity": "WG",
             "cost": "{GW}{GW}",
@@ -3885,8 +3689,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Agerkvist",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Ironroot Bindings",
@@ -3904,8 +3707,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Berenica",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Poised to Strike",
@@ -3923,8 +3725,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Janos Brumar",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Rise",
@@ -3952,14 +3753,13 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Rootguard Loxodon",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elephant Warrior",
+            "type": "Creature \u2014 Elephant Warrior",
             "number": 202,
             "color_identity": "WG",
             "cost": "{2}{G}{W}",
@@ -3971,14 +3771,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "I am power",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Flaming Claws",
             "color": "R",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 97,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -3990,8 +3789,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Nino Is.",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Repurpose the Scraps",
@@ -4009,8 +3807,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "stonefang_inventors",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Reconfigure",
@@ -4020,7 +3817,7 @@
             "number": 108,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Choose one \u2013\n\u2022 Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\n\u2022 Destroy target artifact.",
+            "rules_text": "Choose one \u2014\n\u2022 Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\n\u2022 Destroy target artifact.",
             "flavor_text": "[i]\u201cBlue wire: suppress the golem's control module. Red Wire: make it go boom!\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -4028,14 +3825,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "VladVoronchiukov",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Pontif Pet",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Bat",
+            "type": "Creature \u2014 Bat",
             "number": 194,
             "color_identity": "WB",
             "cost": "{W}{B}",
@@ -4047,8 +3843,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Elli Eyng",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Become Dust",
@@ -4066,14 +3861,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alexis Caroff",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Devotion Guildmage",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 224,
             "color_identity": "WB",
             "cost": "{WB}{WB}",
@@ -4085,14 +3879,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jonathan Gee",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Priest of Purification",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 195,
             "color_identity": "WB",
             "cost": "{1}{W}{B}",
@@ -4104,8 +3897,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "stephanie chacon vega",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Skin",
@@ -4133,14 +3925,13 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "The Cozen",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Human Assassin",
+            "type": "Legendary Creature \u2014 Human Assassin",
             "number": 165,
             "color_identity": "WB",
             "cost": "{W}{B}",
@@ -4152,14 +3943,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Dariusz Kieliszek",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Ironclad Cyclops",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Cyclops Wizard",
+            "type": "Creature \u2014 Cyclops Wizard",
             "number": 100,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -4171,8 +3961,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "j_cfauvelle",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Wave of Agitation",
@@ -4190,8 +3979,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ALEKSI BRICLOT",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Cerebrospiker",
@@ -4209,14 +3997,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Astrov",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Innovation Guildmage",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 227,
             "color_identity": "UR",
             "cost": "{UR}{UR}",
@@ -4228,8 +4015,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Karen Papazian",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Now",
@@ -4257,18 +4043,17 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Polarity Switcher",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 49,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Ward {2}\nWhenever this creature enters or attacks, choose one \u2013\n\u2022 Two target creatures exchange their power and toughness until of turn.\n\u2022 Switch target creature's power and toughness until end of turn.",
+            "rules_text": "Ward {2}\nWhenever this creature enters or attacks, choose one \u2014\n\u2022 Two target creatures exchange their power and toughness until of turn.\n\u2022 Switch target creature's power and toughness until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4276,14 +4061,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Kevin McKenna",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Rix Navven, Overcharged Brute",
             "color": "UR",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Ogre Wizard",
+            "type": "Legendary Creature \u2014 Ogre Wizard",
             "number": 201,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
@@ -4295,8 +4079,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Anna Mihaela",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Pestilent Haze",
@@ -4314,8 +4097,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gebalt3DEE",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Scorching Thunder",
@@ -4333,8 +4115,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mike Zairos Pifano",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Eidolon's Fury",
@@ -4352,14 +4133,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Siddhant Singh",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Crazed Rioter",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Goblin Berserker",
+            "type": "Creature \u2014 Goblin Berserker",
             "number": 92,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -4371,14 +4151,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Wesley Gardner",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Tamed Hellkite",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Dragon",
+            "type": "Creature \u2014 Dragon",
             "number": 112,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
@@ -4390,8 +4169,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Tory Miles",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Eidolon's Thirst",
@@ -4409,14 +4187,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Niish",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dimir Cutthroat",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Spirit Rogue",
+            "type": "Creature \u2014 Spirit Rogue",
             "number": 168,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -4428,8 +4205,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Justice Wong",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Lost",
@@ -4457,14 +4233,13 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Sleeper Spybug",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Insect Horror",
+            "type": "Creature \u2014 Insect Horror",
             "number": 207,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -4476,8 +4251,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "DavesRightMind",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Violent Reshaping",
@@ -4495,18 +4269,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "hdslave",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Zorin, Returned from the Dim",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Legendary Creature \u2013 Nightmare Horror",
+            "type": "Legendary Creature \u2014 Nightmare Horror",
             "number": 219,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
-            "rules_text": "Whenever you exile one or more cards from a graveyard for the first time each turn, choose one \u2013\n\u2022 Put a +1/+1 counter on up to one target creature. It gains menace until end of turn.\n\u2022 Tap up to one target creature and put a stun counter on it. It loses all abilities until end of turn.",
+            "rules_text": "Whenever you exile one or more cards from a graveyard for the first time each turn, choose one \u2014\n\u2022 Put a +1/+1 counter on up to one target creature. It gains menace until end of turn.\n\u2022 Tap up to one target creature and put a stun counter on it. It loses all abilities until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -4514,14 +4287,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ChrisCold",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Rabid Sewer Rat",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Rat",
+            "type": "Creature \u2014 Rat",
             "number": 80,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -4533,18 +4305,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Julian Futanto",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Sharer of the Ichor",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 25,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "[i]Oblation 3[/i] \u2013 When this creature enters, you may pay 3 life. If you do, return target creature card with mana value 3 or less from your graveyard to the battlefield.",
+            "rules_text": "[i]Oblation 3[/i] \u2014 When this creature enters, you may pay 3 life. If you do, return target creature card with mana value 3 or less from your graveyard to the battlefield.",
             "flavor_text": "[i]Some corpses are too desiccated to welcome their old souls. In such cases, the Orzhov church is your best bet, so long as you have the coins to spare of course.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4552,14 +4323,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Nord Sol",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Escaped Prototype",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Goblin Construct",
+            "type": "Artifact Creature \u2014 Goblin Construct",
             "number": 94,
             "color_identity": "R",
             "cost": "{R}",
@@ -4571,14 +4341,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Sean Andrey Murray",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Corrosive Bile Spitter",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Insect",
+            "type": "Creature \u2014 Insect",
             "number": 123,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -4590,8 +4359,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Karol Bem",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Door to Everywhere",
@@ -4609,18 +4377,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "3mmI",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Devoted Marshal",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Knight",
+            "type": "Creature \u2014 Human Knight",
             "number": 68,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Deathtouch, lifelink\nWhenever you gain or lose life during your turn, choose one that hasn't been chosen this turn \u2013\n\u2022 Create a tapped 1/1 white Soldier creature token.\n\u2022 Create a tapped Treasure token.\n\u2022 Surveil 2.",
+            "rules_text": "Deathtouch, lifelink\nWhenever you gain or lose life during your turn, choose one that hasn't been chosen this turn \u2014\n\u2022 Create a tapped 1/1 white Soldier creature token.\n\u2022 Create a tapped Treasure token.\n\u2022 Surveil 2.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -4628,14 +4395,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "John Burns",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Third District Sharpshooter",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Scout",
+            "type": "Creature \u2014 Elf Scout",
             "number": 141,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -4647,14 +4413,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Firdaus Abu Bakar",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Undercity Bloodthirster",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Demon Vampire",
+            "type": "Creature \u2014 Demon Vampire",
             "number": 84,
             "color_identity": "B",
             "cost": "{13}{B}{B}",
@@ -4666,8 +4431,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Marcus Whinney",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Shredding Barrage",
@@ -4685,8 +4449,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Grinding Gear Games",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dryads' Blessing",
@@ -4696,7 +4459,7 @@
             "number": 127,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Choose one \u2013\n\u2022 Target creature you control fights target creature you don't control.\n\u2022 Prevent all damage that would be dealt this turn.",
+            "rules_text": "Choose one \u2014\n\u2022 Target creature you control fights target creature you don't control.\n\u2022 Prevent all damage that would be dealt this turn.",
             "flavor_text": "[i]Some dryads like to grant morsels of their powers to mortals they deem worthy on a whim. But no gift comes without a price.[/i]",
             "pt": "",
             "special_text": "",
@@ -4704,14 +4467,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Ryan Alexander Lee",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Tend to the Gardens",
             "color": "G",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 140,
             "color_identity": "G",
             "cost": "{G}",
@@ -4723,8 +4485,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Khiralas",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Blessing of Wrath",
@@ -4742,14 +4503,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Michele Esposito",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Enforcers of the Guildpact",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2013 Elf Warrior",
+            "type": "Creature \u2014 Elf Warrior",
             "number": 129,
             "color_identity": "G",
             "cost": "{4}{G}",
@@ -4761,14 +4521,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Bear Frymire",
-            "notes": "!tag hate",
-            "image_type": "png"
+            "notes": "!tag hate"
         },
         {
             "card_name": "Insatiable Moroii",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Vampire",
+            "type": "Creature \u2014 Vampire",
             "number": 73,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
@@ -4780,14 +4539,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Lorenzo Mastroianni",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Cloud Drinker",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Leviathan Jellyfish",
+            "type": "Creature \u2014 Leviathan Jellyfish",
             "number": 34,
             "color_identity": "U",
             "cost": "{4}{U}{U}",
@@ -4799,8 +4557,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Margot Zussy",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Eidolon's Wisdom",
@@ -4818,14 +4575,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Vassilios Bayiokos",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Secret Seeker",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Fairie",
+            "type": "Creature \u2014 Fairie",
             "number": 50,
             "color_identity": "U",
             "cost": "{U}",
@@ -4837,14 +4593,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andy Aslamov",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Forgotten Phantasm",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Spirit",
+            "type": "Creature \u2014 Spirit",
             "number": 42,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -4856,8 +4611,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Xistence Imaginations",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Oppress",
@@ -4875,14 +4629,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jakub Jagoda",
-            "notes": "!tag hate",
-            "image_type": "png"
+            "notes": "!tag hate"
         },
         {
             "card_name": "Soldier",
             "color": "W",
             "rarity": "common",
-            "type": "Token Creature \u2013 Soldier",
+            "type": "Token Creature \u2014 Soldier",
             "number": 3,
             "color_identity": "W",
             "cost": "",
@@ -4894,14 +4647,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alonzo Emata",
-            "notes": "!token",
-            "image_type": "png"
+            "notes": "!token"
         },
         {
             "card_name": "Rhino",
             "color": "G",
             "rarity": "common",
-            "type": "Token Creature \u2013 Rhino",
+            "type": "Token Creature \u2014 Rhino",
             "number": 10,
             "color_identity": "G",
             "cost": "",
@@ -4913,14 +4665,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "willwarburton",
-            "notes": "!tag Selesnya;\n!token",
-            "image_type": "png"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Wurm",
             "color": "G",
             "rarity": "common",
-            "type": "Token Creature \u2013 Wurm",
+            "type": "Token Creature \u2014 Wurm",
             "number": 12,
             "color_identity": "G",
             "cost": "",
@@ -4932,14 +4683,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Athayar",
-            "notes": "!tag Selesnya;\n!token",
-            "image_type": "png"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Durn'mir",
             "color": "WG",
             "rarity": "common",
-            "type": "Token Legendary Creature \u2013 Bird",
+            "type": "Token Legendary Creature \u2014 Bird",
             "number": 14,
             "color_identity": "WG",
             "cost": "",
@@ -4951,14 +4701,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Chris-Owl",
-            "notes": "!tag Selesnya;\n!token",
-            "image_type": "png"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Aspect of Uniformity",
             "color": "WG",
             "rarity": "mythic",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 148,
             "color_identity": "WG",
             "cost": "{3}{G}{W}{W}",
@@ -4970,8 +4719,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Brian Valeza",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Above",
@@ -4999,8 +4747,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Blooming Sanctuary",
@@ -5018,14 +4765,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Vengeful Return",
             "color": "WB",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 213,
             "color_identity": "WB",
             "cost": "{W}{B}",
@@ -5037,14 +4783,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Lucas Torquato",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Fairie",
             "color": "U",
             "rarity": "common",
-            "type": "Token Creature \u2013 Fairie",
+            "type": "Token Creature \u2014 Fairie",
             "number": 4,
             "color_identity": "U",
             "cost": "",
@@ -5056,14 +4801,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "SteveSketches",
-            "notes": "!token",
-            "image_type": "png"
+            "notes": "!token"
         },
         {
             "card_name": "Conclave Spirewatch",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2013 Human Archer",
+            "type": "Creature \u2014 Human Archer",
             "number": 3,
             "color_identity": "WG",
             "cost": "{W}",
@@ -5075,8 +4819,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Tyler Witteried",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Escalating Wrath",
@@ -5094,14 +4837,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Ismar Vyr\u00f8sk",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Spectral Rider",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Spectre",
+            "type": "Creature \u2014 Spectre",
             "number": 52,
             "color_identity": "UB",
             "cost": "{4}{U}",
@@ -5113,14 +4855,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Olga Kaplan",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Seventh District Scoundrel",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 51,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -5132,8 +4873,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "sam-yang",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Eidolon's Call",
@@ -5151,14 +4891,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Rick Hertel",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Retriever of Secrets",
             "color": "UB",
             "rarity": "rare",
-            "type": "Creature \u2013 Vampire Wizard",
+            "type": "Creature \u2014 Vampire Wizard",
             "number": 200,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -5170,14 +4909,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Ed Binkley",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Gate Penumbra",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Nightmare Horror",
+            "type": "Creature \u2014 Nightmare Horror",
             "number": 71,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -5189,18 +4927,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "DenisZhbankov",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Writhing Amalgamate",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Zombie",
+            "type": "Creature \u2014 Zombie",
             "number": 87,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Cover-up 3\u2013{2}{B}{B} [i]({2}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]\nWhen you cover-up this card, create a 2/2 black Zombie creature token.",
+            "rules_text": "Cover-up 3\u2014{2}{B}{B} [i]({2}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]\nWhen you cover-up this card, create a 2/2 black Zombie creature token.",
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
@@ -5208,8 +4945,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "David Metzger",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Galvanizing Call",
@@ -5227,14 +4963,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "JB Casacop",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Blessing of Vitu-Ghazi",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 154,
             "color_identity": "WG",
             "cost": "{G}{W}",
@@ -5246,8 +4981,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Othon Nikolaidis",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Memorable Feast",
@@ -5265,14 +4999,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Othon Nikolaidis",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Rousing Freemage",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 23,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
@@ -5284,14 +5017,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Adrien Gonzalez",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Guildpact's Blessing",
             "color": "W",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 12,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -5303,8 +5035,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Warmtail",
-            "notes": "!tag hate",
-            "image_type": "png"
+            "notes": "!tag hate"
         },
         {
             "card_name": "Surgical Strike",
@@ -5322,14 +5053,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andy Aslamov",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Centaur",
             "color": "G",
             "rarity": "common",
-            "type": "Token Creature \u2013 Centaur",
+            "type": "Token Creature \u2014 Centaur",
             "number": 9,
             "color_identity": "G",
             "cost": "",
@@ -5341,14 +5071,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Federico Arguissein",
-            "notes": "!tag Selesnya;\n!token",
-            "image_type": "png"
+            "notes": "!tag Selesnya;\n!token"
         },
         {
             "card_name": "Druid of the Votary",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Elf Druid",
+            "type": "Creature \u2014 Elf Druid",
             "number": 126,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -5360,8 +5089,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Zara Alfonso",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Eidolon's Vitality",
@@ -5379,14 +5107,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Kevin Zamir Goeke",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Outraged Avenger",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Lizard Warrior",
+            "type": "Creature \u2014 Lizard Warrior",
             "number": 135,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
@@ -5398,14 +5125,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Timi Honkanen",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Furious Pangoduan",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Beast",
+            "type": "Creature \u2014 Beast",
             "number": 131,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -5417,18 +5143,17 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Pencil Equipped",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Wasteful Inheritor",
             "color": "WB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Cleric",
+            "type": "Creature \u2014 Human Cleric",
             "number": 216,
             "color_identity": "WB",
             "cost": "{2}{W}{B}",
-            "rules_text": "[i]Oblation 2[/i] \u2013 When this creature enters, you may pay 2 life. If you do, create two Treasure tokens.\n{1}, Sacrifice another creature or token: Surveil 1, then draw a card.",
+            "rules_text": "[i]Oblation 2[/i] \u2014 When this creature enters, you may pay 2 life. If you do, create two Treasure tokens.\n{1}, Sacrifice another creature or token: Surveil 1, then draw a card.",
             "flavor_text": "[i]\u201cWhat's the point of having money if not to spend it at your every whim?\u201d[/i]",
             "pt": "3/5",
             "special_text": "",
@@ -5436,14 +5161,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Enrique Mel\u00e9ndez Gal\u00e1n",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "District Explorer",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Scout",
+            "type": "Creature \u2014 Human Scout",
             "number": 125,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -5455,14 +5179,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Andrey Vasilchenko",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ruins Scavenger",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Shapeshifter Rogue",
+            "type": "Creature \u2014 Shapeshifter Rogue",
             "number": 81,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -5474,14 +5197,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Oleksandr Kozachenko",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bat",
             "color": "B",
             "rarity": "common",
-            "type": "Token Creature \u2013 Bat",
+            "type": "Token Creature \u2014 Bat",
             "number": 5,
             "color_identity": "B",
             "cost": "",
@@ -5493,14 +5215,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Philippine VANHOUTTE",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Deep Wound",
             "color": "B",
             "rarity": "common",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 67,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -5512,14 +5233,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Gui Guimaraes",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Emmara, Ancestral Caregiver",
             "color": "WG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Elf Druid",
+            "type": "Legendary Creature \u2014 Elf Druid",
             "number": 174,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
@@ -5531,14 +5251,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Wizard of the coast",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Selesnya Guildgate",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2013 Gate",
+            "type": "Land \u2014 Gate",
             "number": 264,
             "color_identity": "WG",
             "cost": "",
@@ -5550,8 +5269,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Bibi95-3D",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Dew's Benediction",
@@ -5561,7 +5279,7 @@
             "number": 5,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Whenever you gain life for the first time during each of your turns, choose one \u2013\n\u2022 Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn.\n\u2022 Create a 1/1 white Bird creature token with flying.",
+            "rules_text": "Whenever you gain life for the first time during each of your turns, choose one \u2014\n\u2022 Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn.\n\u2022 Create a 1/1 white Bird creature token with flying.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5569,14 +5287,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Yurian",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Gruul Guildgate",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2013 Gate",
+            "type": "Land \u2014 Gate",
             "number": 261,
             "color_identity": "RG",
             "cost": "",
@@ -5588,14 +5305,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Richard Wright",
-            "notes": "!tag Gruul",
-            "image_type": "png"
+            "notes": "!tag Gruul"
         },
         {
             "card_name": "Ayla, Harmony's Embrace",
             "color": "WG",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Ayla",
+            "type": "Legendary Planeswalker \u2014 Ayla",
             "number": 150,
             "color_identity": "WG",
             "cost": "{G}{G}{W}{W}",
@@ -5607,14 +5323,13 @@
             "set": "RNF",
             "loyalty": "4",
             "artist": "Christophe Young",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         },
         {
             "card_name": "Gheshval, Night's Mantle",
             "color": "UB",
             "rarity": "mythic",
-            "type": "Legendary Planeswalker \u2013 Gheshval",
+            "type": "Legendary Planeswalker \u2014 Gheshval",
             "number": 182,
             "color_identity": "UB",
             "cost": "{U}{U}{B}{B}",
@@ -5626,8 +5341,7 @@
             "set": "RNF",
             "loyalty": "5",
             "artist": "Tomasz Ryger",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Profitable Demise",
@@ -5637,7 +5351,7 @@
             "number": 79,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "[i]Oblation 3[/i] \u2013 When this enchantment enters, you may pay 3 life. If you do, each opponent sacrifices a creature.\nWhenever you pay life and/or one or more creatures an opponent controls die, put that many blood counters on this enchantment.\n{1}{B}, Remove four blood counters from this enchantment: Draw a card.",
+            "rules_text": "[i]Oblation 3[/i] \u2014 When this enchantment enters, you may pay 3 life. If you do, each opponent sacrifices a creature.\nWhenever you pay life and/or one or more creatures an opponent controls die, put that many blood counters on this enchantment.\n{1}{B}, Remove four blood counters from this enchantment: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5645,8 +5359,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "India-Lee Crews",
-            "notes": "!tag Orzhov",
-            "image_type": "png"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "Replicating Flare",
@@ -5664,14 +5377,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Nuare Studio",
-            "notes": "!tag Izzet",
-            "image_type": "png"
+            "notes": "!tag Izzet"
         },
         {
             "card_name": "Manipulation Guildmage",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 229,
             "color_identity": "UB",
             "cost": "{UB}{UB}",
@@ -5683,14 +5395,13 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "lathander1987",
-            "notes": "!tag Dimir",
-            "image_type": "png"
+            "notes": "!tag Dimir"
         },
         {
             "card_name": "Vernadi Protector",
             "color": "WG",
             "rarity": "common",
-            "type": "Creature \u2013 Centaur Druid",
+            "type": "Creature \u2014 Centaur Druid",
             "number": 214,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
@@ -5702,8 +5413,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Wandererlink",
-            "notes": "!tag Selesnya",
-            "image_type": "png"
+            "notes": "!tag Selesnya"
         }
     ]
 }

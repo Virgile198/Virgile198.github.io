@@ -1,4 +1,107 @@
-﻿VERSION 34 CHANGELOG
+﻿VERSION 35 CHANGELOG
+====================
+
+Ledev Rescue added.
+Vernadi Protector added.
+
+Flowermane Healer removed.
+Cultivated Strength removed.
+
+Sootfurr Brute
+
+Shamanic Power
+
+Mossback Pulverizer
+
+Teysa Karlov, Master of Deals
+
+Treasured Pet
+
+Knight of Denial
+
+Flowerbed Envoy's Call
+
+Selesnya Caretaker
+
+Ral, Thundering Genius
+
+Mass Scrambler
+
+Flux Launcher Maniac
+
+Shambling Grotesquerie
+
+Deeproot Entity
+
+Rumbling Drake
+
+Thraka, Ire of the Wilds
+
+Lightning Rider
+
+Priest of the Old Ways
+
+Maree, Nivix Grand Chamberlain
+
+Rakasht, Spawn of Ulasht
+
+Spore Waltz
+
+Incisive Reversal
+
+Unending Nightmare
+
+Milana, Orzhov High Prelate
+
+Mindflayer of the Dim
+
+Hyper Space Time Bubble
+
+Heart of Cinders
+
+Dimir Necrosage
+rules_text: Flying, hexproof
+Each nonland cards in your graveyard has “Cover-up 3—{1}{U}{B}”. [i]({1}{U}{B}, Exile a nonland card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Flying, hexproof
+Each nonland cards in your graveyard has “Cover-up 3—{2}{UB}”. [i]({2}{UB}, Exile a nonland card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+
+Gorz'Ghum, War Incense
+
+Gravel-Hide Channeler
+
+Poised to Strike
+
+Rootguard Loxodon
+
+Pontif Pet
+
+Priest of Purification
+
+Rix Navven, Overcharged Brute
+
+Sleeper Spybug
+
+Dryads' Blessing
+
+Enforcers of the Guildpact
+
+Vengeful Return
+
+Retriever of Secrets
+
+Druid of the Votary
+
+Eidolon's Vitality
+
+Furious Pangoduan
+
+District Explorer
+
+Gheshval, Night's Mantle
+
+Replicating Flare
+
+
+VERSION 34 CHANGELOG
 ====================
 
 World-Tree Guardian added.

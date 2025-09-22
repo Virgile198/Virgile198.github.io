@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Deeproot Entity",
-        "number": 125,
+        "number": 124,
         "shape": "normal",
         "set": "RNF"
     },
@@ -115,7 +115,7 @@
     },
     {
         "card_name": "Flowerbed Envoy's Call",
-        "number": 131,
+        "number": 130,
         "shape": "normal",
         "set": "RNF"
     },
@@ -295,7 +295,7 @@
     },
     {
         "card_name": "District Explorer",
-        "number": 126,
+        "number": 125,
         "shape": "normal",
         "set": "RNF"
     },
@@ -325,7 +325,7 @@
     },
     {
         "card_name": "Druid of the Votary",
-        "number": 127,
+        "number": 126,
         "shape": "normal",
         "set": "RNF"
     },
@@ -355,7 +355,7 @@
     },
     {
         "card_name": "Eidolon's Vitality",
-        "number": 129,
+        "number": 128,
         "shape": "normal",
         "set": "RNF"
     },
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "Furious Pangoduan",
-        "number": 132,
+        "number": 131,
         "shape": "normal",
         "set": "RNF"
     },
@@ -534,8 +534,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Cultivated Strength",
-        "number": 124,
+        "card_name": "Dryads' Blessing",
+        "number": 127,
         "shape": "normal",
         "set": "RNF"
     },
@@ -564,8 +564,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Dryads' Blessing",
-        "number": 128,
+        "card_name": "Enforcers of the Guildpact",
+        "number": 129,
         "shape": "normal",
         "set": "RNF"
     },
@@ -594,8 +594,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Enforcers of the Guildpact",
-        "number": 130,
+        "card_name": "Ledev Rescue",
+        "number": 132,
         "shape": "normal",
         "set": "RNF"
     },
@@ -914,13 +914,13 @@
     },
     {
         "card_name": "Gheshval, Night's Mantle",
-        "number": 183,
+        "number": 182,
         "shape": "planeswalker",
         "set": "RNF"
     },
     {
         "card_name": "Sootfurr Brute",
-        "number": 209,
+        "number": 208,
         "shape": "normal",
         "set": "RNF"
     },
@@ -938,19 +938,19 @@
     },
     {
         "card_name": "Hyper Space Time Bubble",
-        "number": 187,
+        "number": 186,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Mindflayer of the Dim",
-        "number": 193,
+        "number": 192,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Thraka, Ire of the Wilds",
-        "number": 212,
+        "number": 211,
         "shape": "normal",
         "set": "RNF"
     },
@@ -962,13 +962,13 @@
     },
     {
         "card_name": "Teysa Karlov, Master of Deals",
-        "number": 211,
+        "number": 210,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Ral, Thundering Genius",
-        "number": 199,
+        "number": 198,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1034,19 +1034,19 @@
     },
     {
         "card_name": "Retriever of Secrets",
-        "number": 201,
+        "number": 200,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Heart of Cinders",
-        "number": 186,
+        "number": 185,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Spore Waltz",
-        "number": 210,
+        "number": 209,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1058,19 +1058,19 @@
     },
     {
         "card_name": "Maree, Nivix Grand Chamberlain",
-        "number": 191,
+        "number": 190,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Unending Nightmare",
-        "number": 213,
+        "number": 212,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Rakasht, Spawn of Ulasht",
-        "number": 198,
+        "number": 197,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1082,7 +1082,7 @@
     },
     {
         "card_name": "Milana, Orzhov High Prelate",
-        "number": 192,
+        "number": 191,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1184,7 +1184,7 @@
     },
     {
         "card_name": "Incisive Reversal",
-        "number": 188,
+        "number": 187,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1214,31 +1214,31 @@
     },
     {
         "card_name": "Sleeper Spybug",
-        "number": 208,
+        "number": 207,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Gorz'Ghum, War Incense",
-        "number": 184,
+        "number": 183,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Poised to Strike",
-        "number": 194,
+        "number": 193,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Pontif Pet",
-        "number": 195,
+        "number": 194,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Lightning Rider",
-        "number": 190,
+        "number": 189,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1250,25 +1250,25 @@
     },
     {
         "card_name": "Gravel-Hide Channeler",
-        "number": 185,
+        "number": 184,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Rootguard Loxodon",
-        "number": 203,
+        "number": 202,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Priest of Purification",
-        "number": 196,
+        "number": 195,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Replicating Flare",
-        "number": 200,
+        "number": 199,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1280,7 +1280,7 @@
     },
     {
         "card_name": "Shamanic Power",
-        "number": 206,
+        "number": 205,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1298,7 +1298,7 @@
     },
     {
         "card_name": "Rix Navven, Overcharged Brute",
-        "number": 202,
+        "number": 201,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1375,8 +1375,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Flowermane Healer",
-        "number": 181,
+        "card_name": "Selesnya Caretaker",
+        "number": 204,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1405,32 +1405,32 @@
         "set": "RNF"
     },
     {
-        "card_name": "Selesnya Caretaker",
-        "number": 205,
+        "card_name": "Vernadi Protector",
+        "number": 214,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Knight of Denial",
-        "number": 189,
+        "number": 188,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Flux Launcher Maniac",
-        "number": 182,
+        "number": 181,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Shambling Grotesquerie",
-        "number": 207,
+        "number": 206,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Priest of the Old Ways",
-        "number": 197,
+        "number": 196,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1442,13 +1442,13 @@
     },
     {
         "card_name": "Vengeful Return",
-        "number": 214,
+        "number": 213,
         "shape": "normal",
         "set": "RNF"
     },
     {
         "card_name": "Rumbling Drake",
-        "number": 204,
+        "number": 203,
         "shape": "normal",
         "set": "RNF"
     },
