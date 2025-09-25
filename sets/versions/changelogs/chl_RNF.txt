@@ -1,4 +1,61 @@
-﻿VERSION 36 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+
+
+Dimir Necrosage
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Flying, deathtouch, hexproof
+Whenever one or more cards leave a graveyard, each opponent loses 1 life. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Flying, deathtouch, hexproof
+Whenever one or more cards are put into exile from your graveyard, each opponent loses 1 life.
+
+
+VERSION 38 CHANGELOG
+====================
+
+
+
+Heart of Cinders
+pt: 5/5 => 4/4
+
+Flourishing Phytohydra
+rules_text: If damage would be dealt to this creature, put that many +1/+1 counters on it instead.
+Whenever this creature attacks, flourish X, where X is the number of +1/+1 counters on this creature. [i](Put a +1/+1 counter on each of up to X creatures you control. You gain 1 life for each of those creatures.)[/i] => If damage would be dealt to this creature, prevent that damage. When damage is prevented this way, put that many +1/+1 counters on this creature.
+Whenever this creature attacks, flourish X, where X is the number of +1/+1 counters on this creature. [i](Put a +1/+1 counter on each of up to X creatures you control. You gain 1 life for each of those creatures.)[/i]
+
+
+VERSION 37 CHANGELOG
+====================
+
+
+
+Factory Sentinel
+rules_text: Flying
+Whenever this creature deals combat damage to player, you may draw that many cards. If you do, discard that many cards.
+Whenever you discard one or more cards for the first time each turn, this creature deals X damage to up to one target creature or planeswalker, where X is the greatest mana value among cards you discarded. => Flying
+When this creature enters, draw two cards, then discard a card.
+Whenever this creature deals combat damage to a player, add that much mana in any combination of {U} and/or {R}. Until end of turn, you don't lose this mana as steps and phases end. This mana can't be spent to cast permanent spells.
+pt: 3/3 => 4/3
+
+Heart of Cinders
+rules_text: Ward—Pay X life, where X is the total number of creature and land cards in this creature's controller's graveyard.
+Whenever this creature enters or attacks, it rages, then you may return target land card from your graveyard to the battlefield tapped. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i] => Ward—Pay X life, where X is this creature's power.
+Whenever this creature enters or attacks, it rages, then you may return target land card from your graveyard to the battlefield tapped. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+pt: 4/4 => 5/5
+
+Dimir Necrosage
+rules_text: Flying, hexproof
+Each nonland cards in your graveyard has “Cover-up 3—{2}{UB}”. [i]({2}{UB}, Exile a nonland card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Flying, deathtouch, hexproof
+Whenever one or more cards leave a graveyard, each opponent loses 1 life.
+
+Ledev Rescue
+rules_text: Create a 3/3 green Centaur token creature and scry 2. If {W} was spent to cast this spell, you gain 3 life. => You may cast this spell as though it had flash if you pay {W} to cast it.
+Create a 3/3 green Centaur creature token and you gain 3 life.
+
+
+VERSION 36 CHANGELOG
 ====================
 
 
