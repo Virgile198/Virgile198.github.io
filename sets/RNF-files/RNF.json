@@ -1129,7 +1129,7 @@
             "number": 62,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Destroy target creature.\nCover-up 3\u2014Pay 3 life [i](Pay 3 life, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
+            "rules_text": "Destroy target creature.\nCover-up 3\u2014{B}, Pay 2 life [i]({B}, Pay 2 life, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5416,5 +5416,5 @@
             "notes": "!tag Selesnya"
         }
     ],
-    "version": 39
+    "version": 40
 }
