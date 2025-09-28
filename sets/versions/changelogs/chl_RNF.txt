@@ -1,4 +1,34 @@
-﻿VERSION 43 CHANGELOG
+﻿VERSION 44 CHANGELOG
+====================
+
+
+
+Orzhov Insignia
+rules_text: This artifact enters tapped.
+{T}: Add {W} or {B}.
+{W}{B}, {T}, Sacrifice this artifact: Exile up to two target cards from a single graveyard. You gain 1 life for each creature card exiled this way. => This artifact enters tapped.
+{T}: Add {W} or {B}.
+{W}{B}, {T}, Sacrifice this artifact: Exile up to two target cards from a single graveyard. You gain 2 life.
+
+Ninth District Benevolent
+rules_text: When this creature enters, you gain 3 life, then, if you control two or more gates, scry 2. => When this creature enters, you gain 3 life. Then if you control two or more Gates, scry 2.
+
+Rix Navven, Overcharged Brute
+rules_text: Ward {2}
+Whenever you cast an instant or sorcery spell, this creature gets +X/+X until end of turn, where X is the amount of mana spent to cast that spell. Do this only once each turn. => Ward {2}
+Whenever you cast an instant or sorcery spell, you may have this creature get +X/+X until end of turn, where X is the amount of mana spent to cast that spell. Do this only once each turn.
+
+Deep Wound
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Enchant a creature
+Enchanted creature gets -2/-2.
+When this card is put into your graveyard from anywhere, surveil 1. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Enchant creature
+Enchanted creature gets -2/-2.
+When this card is put into your graveyard from anywhere, surveil 1.
+
+
+VERSION 43 CHANGELOG
 ====================
 
 
