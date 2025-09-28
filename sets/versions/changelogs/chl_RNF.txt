@@ -1,4 +1,181 @@
-﻿VERSION 40 CHANGELOG
+﻿VERSION 43 CHANGELOG
+====================
+
+
+
+Hyper Space Time Bubble
+rules_text: Flip [[b]one[/b]] coin(s). For each flip you win, take an extra turn after this one. For each flip you lose, add {U}{U}{R}{R} and exile the top [two] cards of your library. Until end of your next turn, you may play those cards.
+Iterate {7}{U}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Flip [[b]one[/b]] coin(s). For each flip you win, take an extra turn after this one. For each flip you lose, add {U}{U}{R}{R} and exile the top [[b]two[/b]] cards of your library. Until end of your next turn, you may play those cards.
+Iterate {7}{U}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Replicating Flare
+rules_text: Create a token that's a copy of an artifact or creature with mana value [[b]3[/b]] or less. It gains haste until end of turn. Sacrifice it at the beginning of the next end step unless this spell was cast from your graveyard.
+Iterate {2}{U}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Create a token that's a copy of target artifact or creature with mana value [[b]3[/b]] or less. It gains haste until end of turn. Sacrifice it at the beginning of the next end step unless this spell was cast from your graveyard.
+Iterate {2}{U}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+
+VERSION 42 CHANGELOG
+====================
+
+
+
+Mizzium Canon
+rules_text: This spell can't be countered.
+This spell deals [5] damage to target creature or planeswalker you don't control. If that permanent would die this turn, exile it instead.
+Iterate {2}{R}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => This spell can't be countered.
+This spell deals [[b]5[/b]] damage to target creature or planeswalker you don't control. If that permanent would die this turn, exile it instead.
+Iterate {2}{R}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Overflowing Buffer
+rules_text: Return up to [three] target nonland permanents to their owner's hand. Then you may cast a spell with mana value X or less from your hand without paying its mana cost, where X is the greatest number of cards in any player's hand.
+Iterate {7}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Return up to [[b]three[/b]] target nonland permanents to their owner's hand. Then you may cast a spell with mana value X or less from your hand without paying its mana cost, where X is the greatest number of cards in any player's hand.
+Iterate {7}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Thought Accelerator
+rules_text: Draw [two] cards, then discard [one] card(s).
+Iterate {2}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Draw [[b]two[/b]] cards, then discard [[b]one[/b]] card(s).
+Iterate {2}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Blinding Flash
+rules_text: Tap up to one target creature and put [one] stun counter(s) on it.
+Draw a card.
+Iterate {3}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Tap up to one target creature and put [[b]one[/b]] stun counter(s) on it.
+Draw a card.
+Iterate {3}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Voltaic Strike
+rules_text: This spell deals [2] damage to any target.
+Iterate {5}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => This spell deals [[b]2[/b]] damage to any target.
+Iterate {5}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Bionic Strength
+rules_text: Put [one] +1/+1 counter(s) on target creature you control. It gains trample and “Whenever this creature deals combat damage to a player, draw [one] card(s)” until end of turn.
+Iterate {2}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Put [[b]one[/b]] +1/+1 counter(s) on target creature you control. It gains trample and “Whenever this creature deals combat damage to a player, draw [[b]one[/b]] card(s)” until end of turn.
+Iterate {2}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Fluctuating Reality
+rules_text: Choose [one] —
+• Return up to one target creature to its owner's hand.
+• Mill three cards. You may put a nonpermanent card from among the milled cards into your hand.
+Iterate {2}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Choose [[b]one[/b]] —
+• Return up to one target creature to its owner's hand.
+• Mill three cards. You may put a nonpermanent card from among the milled cards into your hand.
+Iterate {2}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Aether Condensator
+rules_text: Exile the top [one] card(s) of your library. You may play cards exiled this way this turn.
+Iterate {R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Exile the top [[b]one[/b]] card(s) of your library. You may play cards exiled this way this turn.
+Iterate {R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Factory Line
+rules_text: Create [X] 1/1 colorless Construct artifact creature tokens. They gain flying and haste until end of turn.
+Iterate {X}{U}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Create [[b]X[/b]] 1/1 colorless Construct artifact creature tokens. They gain flying and haste until end of turn.
+Iterate {X}{U}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Hyper Space Time Bubble
+rules_text: Flip [one] coin(s). For each flip you win, take an extra turn after this one. For each flip you lose, add {U}{U}{R}{R} and exile the top [two] cards of your library. Until end of your next turn, you may play those cards.
+Iterate {7}{U}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Flip [[b]one[/b]] coin(s). For each flip you win, take an extra turn after this one. For each flip you lose, add {U}{U}{R}{R} and exile the top [two] cards of your library. Until end of your next turn, you may play those cards.
+Iterate {7}{U}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Repurpose the Scraps
+rules_text: As an additional cost to cast this spell, discard [one] card(s).
+Draw [two] cards and create [one] Treasure token(s).
+Iterate {4}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => As an additional cost to cast this spell, discard [[b]one[/b]] card(s).
+Draw [[b]two[/b]] cards and create [[b]one[/b]] Treasure token(s).
+Iterate {4}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Cerebrospiker
+rules_text: This spell deals [2] damage to target opponent. Look at the top [two] cards of your library, then put a card from among them into your hand and the rest into your graveyard.
+Iterate {2}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => This spell deals [[b]2[/b]] damage to target opponent. Look at the top [[b]two[/b]] cards of your library, then put a card from among them into your hand and the rest into your graveyard.
+Iterate {2}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Replicating Flare
+rules_text: Create a token that's a copy of an artifact or creature with mana value [3] or less. It gains haste until end of turn. Sacrifice it at the beginning of the next end step unless this spell was cast from your graveyard.
+Iterate {2}{U}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Create a token that's a copy of an artifact or creature with mana value [[b]3[/b]] or less. It gains haste until end of turn. Sacrifice it at the beginning of the next end step unless this spell was cast from your graveyard.
+Iterate {2}{U}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+
+VERSION 41 CHANGELOG
+====================
+
+Blood-Drenched Spoil added.
+Chosen of the Worldsoul added.
+Disunite added.
+Facsimile Project added.
+
+Bloodrenched Spoil removed.
+Choosen of the Worldsoul removed.
+Fragmentize removed.
+Fac Simile Project removed.
+
+Euthanist Master
+rules_text: [i]Oblation 4[/i] — When this creature enters, you may pay 4 life. If you do, destroy target creature or planeswalker an opponents controls. => [i]Oblation 4[/i] — When this creature enters, you may pay 4 life. If you do, destroy target creature or planeswalker an opponent controls.
+
+Essencesnatch
+
+Overflowing Buffer
+rules_text: Return up to [three] targets nonland permanents to their owner's hand. Then you may cast a spell with mana value X or less from your hand without paying its mana cost, where X is the highest number of cards in any player's hand.
+Iterate {7}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Return up to [three] target nonland permanents to their owner's hand. Then you may cast a spell with mana value X or less from your hand without paying its mana cost, where X is the greatest number of cards in any player's hand.
+Iterate {7}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Ecstatic Fluxburster
+rules_text: Flying, haste
+As you cast this spell, choose one —
+• This creature enters with two +1/+1 counters on it. 
+• Exile target instant or sorcery card from your graveyard. When this creature enters, it deals damage equal to that card's mana value to any target. => Flying, haste
+As you cast this spell, choose one —
+• This creature enters with two +1/+1 counters on it. 
+• When this creature enters, you may exile an instant or sorcery card from your graveyard. If you do, it deals damage equal to that card's mana value to target creature or planeswalker.
+
+Fluctuating Reality
+
+Storm Eater
+rules_text: Flying
+Ward—Pay 3 life.
+Whenever you cast a spell, this creature deals X damage to any target, where X is the amount of mana spend to cast that spell. => Flying
+Ward—Pay 3 life.
+Whenever you cast a spell, this creature deals X damage to any target, where X is the amount of mana spent to cast that spell.
+
+Hidden Scrutiny
+rules_text: If an effect you control would make you look at the top cards of any player's library, you may look at that many cards plus one instead.
+Whenever one or more cards leave your graveyard, surveil 1. => If a spell or ability you control would make you look at the top cards of any player's library, look at that many cards plus one instead.
+Whenever one or more cards leave your graveyard, surveil 1.
+
+Flood of Memories
+rules_text: Target player shuffles their graveyard into their library. Target players mills that many cards. => Target player shuffles their graveyard into their library. Target player mills that many cards.
+
+Mad Alchemist
+rules_text: Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+{T}, Discard a card: Create X tapped Treasure tokens, then this creature deals twice X damage to you, where X is the mana value of the card discarded this way. => When this creature enters, discard a card, then draw a card.
+Whenever you cast an instant or sorcery spell or discard one or more cards, create a tapped Treasure token. This ability triggers only once each turn.
+pt: 0/3 => 2/1
+
+Caller of the Wilds
+rules_text: At the beginning of combat on your turn, target creature you control rages X times, where X is this creature's power. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i] => At the beginning of combat on your turn, another target creature you control rages X times, where X is this creature's power. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Truesight Sphinx
+rules_text: Flying, vigilance
+When this creature enters, tap up to X target nonland permanent and put a stun counter on each of them, where X is the number of Gates you control.
+Whenever a Gate you control enters, untap target permanent you control. => Flying, vigilance
+When this creature enters, tap up to X target nonland permanents and put a stun counter on each of them, where X is the number of Gates you control.
+Whenever a Gate you control enters, untap target permanent you control.
+
+Mind Warp
+rules_text: Gain control of target creature an opponent controls. Its owner mills cards equal to that creature mana value.
+Cover-up 6—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top six cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Gain control of target creature an opponent controls. That creature's owner mills cards equal to its mana value.
+Cover-up 6—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top six cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+
+Dissect Thoughts
+rules_text: Counter target spell, unless its controller pays {1} for each card in your graveyard. If they do, draw a card. => Counter target spell unless its controller pays {1} for each card in your graveyard. If they do, draw a card.
+
+Bloodletter's Bat
+
+Eidolon's Wisdom
+
+Forgotten Phantasm
+
+
+VERSION 40 CHANGELOG
 ====================
 
 

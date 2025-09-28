@@ -7,13 +7,13 @@
     },
     {
         "card_name": "Essencesnatch",
-        "number": 38,
+        "number": 39,
         "shape": "normal",
         "set": "RNF"
     },
     {
-        "card_name": "Bloodrenched Spoil",
-        "number": 61,
+        "card_name": "Blood-Drenched Spoil",
+        "number": 60,
         "shape": "normal",
         "set": "RNF"
     },
@@ -96,8 +96,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Fac Simile Project",
-        "number": 39,
+        "card_name": "Facsimile Project",
+        "number": 40,
         "shape": "normal",
         "set": "RNF"
     },
@@ -216,7 +216,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Eidolon's Wisdom",
+        "card_name": "Disunite",
         "number": 37,
         "shape": "normal",
         "set": "RNF"
@@ -246,8 +246,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Flood of Memories",
-        "number": 40,
+        "card_name": "Eidolon's Wisdom",
+        "number": 38,
         "shape": "normal",
         "set": "RNF"
     },
@@ -276,8 +276,8 @@
         "set": "RNF"
     },
     {
-        "card_name": "Fragmentize",
-        "number": 43,
+        "card_name": "Flood of Memories",
+        "number": 41,
         "shape": "normal",
         "set": "RNF"
     },
@@ -493,7 +493,7 @@
     },
     {
         "card_name": "Bloodletter's Bat",
-        "number": 60,
+        "number": 61,
         "shape": "normal",
         "set": "RNF"
     },
@@ -577,7 +577,7 @@
     },
     {
         "card_name": "Fluctuating Reality",
-        "number": 41,
+        "number": 42,
         "shape": "normal",
         "set": "RNF"
     },
@@ -607,7 +607,7 @@
     },
     {
         "card_name": "Forgotten Phantasm",
-        "number": 42,
+        "number": 43,
         "shape": "normal",
         "set": "RNF"
     },
@@ -1075,7 +1075,7 @@
         "set": "RNF"
     },
     {
-        "card_name": "Choosen of the Worldsoul",
+        "card_name": "Chosen of the Worldsoul",
         "number": 223,
         "shape": "normal",
         "set": "RNF"
