@@ -1851,13 +1851,13 @@
 			}
 		},
 		{
-			"name": "Ashentrunk Icinerator",
+			"name": "Ashentrunk Incinerator",
 			"rarity": "mythic",
 			"mana_cost": "{X}{R}{G}{G}",
 			"type": "Creature — Elemental",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/147_Ashentrunk Icinerator.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/147_Ashentrunk Incinerator.png"
 			}
 		},
 		{
@@ -3019,7 +3019,7 @@
 	3 Due of the Powerless
 	3 Mindflayer of the Dim
 	3 Hyper Space Time Bubble
-	3 Ashentrunk Icinerator
+	3 Ashentrunk Incinerator
 	5 Factory Sentinel
 	5 Heart of Cinders
 	5 Flourishing Phytohydra

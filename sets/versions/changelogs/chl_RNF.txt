@@ -1,4 +1,101 @@
-﻿VERSION 44 CHANGELOG
+﻿VERSION 45 CHANGELOG
+====================
+
+Ashentrunk Incinerator added.
+
+Ashentrunk Icinerator removed.
+
+Orzhov Seizebeast
+rules_text: Vigilance
+[i][i]Oblation 5[/i][/i] — When this creature enters, you may pay 5 life. If you do, exile target artifact or enchantment.
+When this creature dies, you and target opponent each create a Treasure token. => Vigilance
+[i][i]Oblation 4[/i][/i] — When this creature enters, you may pay 4 life. If you do, destroy target artifact or enchantment.
+When this creature dies, you and target opponent each create a Treasure token.
+
+Cognition Theft
+rules_text: Target opponent mills three cards. You may cast a spell milled this way without paying its mana cost.
+Cover-up 5—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top five cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Target player mills three cards. You choose a nonland card from that player's graveyard. Cast that spell without paying its mana cost.
+Cover-up 5—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top five cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+
+Shambling Grotesquerie
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+Cover-up 2—{U}{B} [i]({U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, target player mills three cards. => Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+Cover-up 2—{U}{U}{B} [i]({U}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, target player mills three cards.
+
+Clawing Grasp
+rules_text: Destroy target creature.
+Cover-up 3—{B}, Pay 2 life [i]({B}, Pay 2 life, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Destroy target creature.
+Cover-up 3—{B}, Pay 3 life [i]({B}, Pay 3 life, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+
+Izzet Insignia
+rules_text: This artifact enters tapped.
+{T}: Add {U} or {R}.
+{3}{U}{R}, {T}, Sacrifice this artifact: Draw three cards, then discard two cards. => This artifact enters tapped.
+{T}: Add {U} or {R}.
+{2}{U}{R}, {T}, Sacrifice this artifact: Draw three cards, then discard two cards.
+
+Walkers of the Dim
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Cover-up 3—{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Cover-up 2—{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+
+Unearthed Mysteries
+rules_text: Return target creature card from a graveyard to the battlefield under your control.
+Cover-up 3—{1}{B}{B} [i]({1}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, once this turn, you may cast a creature spell from your graveyard. It enters with a finality counter on it. => Return target creature card from your graveyard to the battlefield under your control.
+Cover-up 3—{1}{B}{B} [i]({1}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, once this turn, you may cast a creature spell from your graveyard.
+
+Blessing of Savagery
+rules_text: Put a +1/+1 counter on each creature you control. They gain trample until end of turn. Untap them. After this main phase, there is an additional combat phase followed by an additional main phase. => Put a +1/+1 counter on each creature you control. If it's your main phase, there is an additional combat phase after this phase followed by an additional main phase. When you next attack this turn, untap each creature you control.
+
+Incisive Reversal
+rules_text: Counter target spell. Its controller loses 2 life.
+Cover-up 3—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, each opponent loses 2 life. => Counter target spell. Its controller loses 2 life.
+Cover-up 3—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+
+Coldhearted Cardinal
+rules_text: Flying, double strike
+[i]Oblation 3[/i] — When this creature enters, you may pay 3 life. If you do, target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles. => Flying, double strike
+[i]Oblation 4[/i] — When this creature enters, you may pay 4 life. If you do, target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.
+
+Wrath Guildmage
+rules_text: {2}{RG}, {T}: Target creature you control rages. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+{2}{R}{G}: Double the power and toughness of target attacking creature until end of turn. => {2}{RG}, {T}: Target creature you control rages. Activate only as a sorcery. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+{2}{R}{G}: Double the power and toughness of target attacking creature you control until end of turn.
+
+Harmony Guildmage
+rules_text: {2}{GW}, {T}: Create a 1/1 green Saproling creature token.
+{3}{G}{W}: Flourish 2. Activate only as a sorcery. [i](Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)[/i] => {1}{GW}, {T}: Create a 1/1 green Saproling creature token.
+{3}{G}{W}: Flourish 2. Activate only as a sorcery. [i](Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)[/i]
+
+Ironroot Bindings
+rules_text: When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. Create a 1/1 green Saproling creature token and you gain 1 life. => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. Create a 1/1 green Saproling creature token.
+
+Rise
+rules_text: Create two 1/1 Saproling creature tokens. => Create two 1/1 green Saproling creature tokens.
+
+Violent Reshaping
+
+Writhing Amalgamate
+rules_text: Cover-up 3—{2}{B}{B} [i]({2}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, create a 2/2 black Zombie creature token. => Cover-up 2—{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, create a 2/2 black Zombie creature token.
+
+Gheshval, Night's Mantle
+special_text: Whenever you put one or more cards into your graveyard from your library, you may put one of them into your hand.
+[+1]: Each player mills three cards.
+[-2]: Return target nonland permanent to its owner's hand, then that player discards a card.
+[-8]: Exile each graveyard. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled. => Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand.
+[+1]: Each player mills three cards.
+[-3]: Return target nonland permanent to its owner's hand, then each opponent discards a card.
+[-8]: Exile each graveyard. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled.
+
+
+VERSION 44 CHANGELOG
 ====================
 
 
