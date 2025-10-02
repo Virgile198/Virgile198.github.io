@@ -1,4 +1,356 @@
-﻿VERSION 45 CHANGELOG
+﻿VERSION 46 CHANGELOG
+====================
+
+Mizzium Cannon added.
+Alm Giver added.
+Leaf Storm added.
+Shady Courier added.
+Zorin, Hiding in Plain Sight added.
+Chains of Torment added.
+
+Mizzium Canon removed.
+Charitable Thrull removed.
+Pollen Storm removed.
+Walkers of the Dim removed.
+Pontif Pet removed.
+Zorin, Returned from the Dim removed.
+
+Sootfurr Brute
+
+Burning-Tree Blackhorn
+
+Mountain Hurler
+rules_text: Reach
+Whenever this creature blocks or becomes blocked by a creature with flying, it gets +2/+2 until end of turn. => Reach
+Whenever this creature blocks or becomes blocked by a creature with flying, it gets +3/+0 until end of turn.
+
+Shamanic Power
+
+Bloodrust Assailant
+rules_text: Double strike
+Your opponents can't gain life.
+Whenever an opponent loses life, this creature rages. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i] => Double strike
+Whenever an opponent loses life, this creature rages. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Spectral Advisor
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+Whenever you gain or lose life for the first time during each of your turns, you may pay {2}. If you do, draw a card. => Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+Whenever you gain or lose life during your turn, you may pay {2}. If you do, draw a card. Do this only once each turn.
+
+Euthanist Master
+
+Teysa Karlov, Master of Deals
+cost: {W}{W}{B}{B} => {W}{WB}{WB}{B}
+rules_text: The first spell your opponents cast each turn costs an additional 2 life to cast.
+At the beginning of each end step, create a 1/1 white and black Spirit creature token with flying and a Treasure token if a player paid life that turn. => Lifelink
+The first spell your opponents cast each turn costs an additional 2 life to cast.
+At the beginning of each end step, create a 1/1 white and black Spirit creature token with flying and a Treasure token if a player paid life that turn.
+
+Treasured Pet
+
+Assessor of Worth
+cost: {3}{W}{B}{B} => {3}{W}{WB}{B}
+rules_text: Flying
+Ward—Pay 4 life.
+[i][i]Oblation 6[/i][/i] — When this creature enters, you may pay 6 life. If you do, destroy each other nonland permanent. => Flying
+Ward—Pay 4 life.
+[i][i]Oblation 6[/i][/i] — When this creature enters, if it was cast, you may pay 6 life. If you do, destroy each other nonland permanent.
+
+Vicious Blackmailer
+rules_text: Flash
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead that player skips that draw and you draw a card unless they pay 2 life. If they do, you gain 2 life. => Flash
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead that player skips that draw and you draw a card unless they pay 2 life. If they pay life this way, you gain 2 life.
+
+Orzhov Seizebeast
+
+Knight of Denial
+rules_text: Vigilance
+Ward—Pay 4 life.
+This creature can block an additional creature each combat. => Vigilance
+Ward—Pay 4 life.
+When this creature enters, each opponent loses 2 life and you gain 2 life.
+pt: 4/8 => 6/6
+
+Dutiful Archprotector
+
+Worldring Uroboros
+cost: {5}{G}{G}{G}{W}{W} => {5}{G}{G}{GW}{W}{W}
+
+Ledev Captain
+
+Protector of the Glade
+
+Selesnya Caretaker
+
+Branching Possibilities
+
+Ral, Thundering Genius
+cost: {U}{U}{R}{R} => {U}{UR}{UR}{R}
+
+Ceremony of Fury
+
+Overflowing Buffer
+
+Thought Accelerator
+
+Mass Scrambler
+
+Flux Launcher Maniac
+
+Ecstatic Fluxburster
+
+Bionic Strength
+
+Cognition Theft
+cost: {2}{U}{U}{B} => {2}{U}{UB}{B}
+
+Blood-Drenched Spoil
+
+Shambling Grotesquerie
+rules_text: Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]
+Cover-up 2—{U}{U}{B} [i]({U}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, target player mills three cards. => Lifelink
+Cover-up 2—{U}{U}{B} [i]({U}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you activate this card's cover-up ability, target player mills three cards.
+
+Deeproot Entity
+rules_text: Trample, ward {2}
+If a triggered ability of another creature or land you control triggers, it triggers an additional time.
+If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead. => This spell can't be countered.
+Trample, ward {2}
+Creature spells and abilities you control can't be countered.
+If a triggered ability of another creature or land you control triggers, it triggers an additional time.
+
+Backstreet Informant
+
+Deep Sewage Lurker
+rules_text: When this creature enters, tap up to one target creature an opponent controls, then that creature's controller mills four cards. That creature doesn't untap for as long as you control this creature. => When this creature enters, tap up to one target creature an opponent controls and put a stun counter on it, then that creature's controller mills four cards.
+
+Ninth District Benevolent
+
+Fires of Reclamation
+
+Conclave Sentinel
+
+Duskmantle Agent
+
+Rumbling Drake
+
+Catacombs Cleaner
+rules_text: Flash
+Cover-up 2—{2}{U}{U} [i]({2}{U}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, return up to one target creature to its owner's hand. => Flash
+Cover-up 2—{2}{U}{U} [i]({2}{U}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you activate this card's cover-up ability, return up to one target creature to its owner's hand.
+
+Thraka, Ire of the Wilds
+cost: {2}{R}{R}{G}{G} => {2}{R}{RG}{RG}{G}
+
+Hellion
+
+Elemental
+
+Treasure
+
+Deadly Familiar
+
+Lightning Rider
+
+Priest of the Old Ways
+
+Unearthed Mysteries
+rules_text: Return target creature card from your graveyard to the battlefield under your control.
+Cover-up 3—{1}{B}{B} [i]({1}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, once this turn, you may cast a creature spell from your graveyard. => Return target creature card from your graveyard to the battlefield under your control.
+Cover-up 3—{1}{B}{B} [i]({1}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you activate this card's cover-up ability, once this turn, you may cast a creature spell from your graveyard.
+
+Truesight Sphinx
+rules_text: Flying, vigilance
+When this creature enters, tap up to X target nonland permanents and put a stun counter on each of them, where X is the number of Gates you control.
+Whenever a Gate you control enters, untap target permanent you control. => Flying
+When this creature enters, tap or untap up to X target creatures, where X is the number of Gates you control.
+Whenever a Gate you control enters, tap or untap target creature.
+pt: 3/4 => 3/3
+
+Lightning Catalyst
+
+Maree, Nivix Grand Chamberlain
+
+Factory Line
+
+Workshop Supervisor
+
+Blessing of Savagery
+
+Bushfire Shaman
+
+Ghor-Clan Charger
+
+Ram
+
+Rakasht, Spawn of Ulasht
+
+Essence Shift
+
+Chosen of the Worldsoul
+
+Spore Waltz
+
+Circu, Butcher of Memories
+
+Incisive Reversal
+
+Sewer Grafter
+
+Unending Nightmare
+
+Cemetery Guardian
+
+Cruel Advokist
+
+Dispossession
+
+Milana, Orzhov High Prelate
+
+Vitality
+
+Subvert
+
+Torpor
+
+Due of the Powerless
+
+Mindflayer of the Dim
+
+Hyper Space Time Bubble
+cost: {2}{U}{R}{R} => {2}{U}{UR}{R}
+
+Ashentrunk Incinerator
+cost: {X}{R}{G}{G} => {X}{R}{RG}{G}
+
+Factory Sentinel
+
+Heart of Cinders
+
+Flourishing Phytohydra
+
+Dimir Necrosage
+
+Coldhearted Cardinal
+
+Bolrac-Clan City Breacher
+
+Fiery Form
+
+Gorz'Ghum, War Incense
+
+Gravel-Hide Channeler
+
+Static Elemental
+
+Burgeoning Troops
+
+Harmony Guildmage
+
+Poised to Strike
+
+Rootguard Loxodon
+
+Become Dust
+
+Devotion Guildmage
+
+Priest of Purification
+
+The Cozen
+
+Cerebrospiker
+
+Innovation Guildmage
+
+Rix Navven, Overcharged Brute
+
+Scorching Thunder
+cost: {X}{1}{R} => {X}{R}
+rules_text: Players can't gain life this turn. Damage can't be prevented this turn. This spell deals X damage to any target.
+This spell costs {1} less to cast for each creature you control with power 4 or greater. => Players can't gain life this turn. Damage can't be prevented this turn. This spell deals X damage to target creature or planeswalker.
+Excess damage is dealt to that permanent's controller instead.
+
+Crazed Rioter
+
+Tamed Hellkite
+
+Dimir Cutthroat
+
+Sleeper Spybug
+
+Violent Reshaping
+
+Oppress
+
+Wurm
+
+Aspect of Uniformity
+cost: {3}{G}{W}{W} => {3}{G}{GW}{W}
+
+Above
+
+Vengeful Return
+
+Escalating Wrath
+
+Spectral Rider
+
+Retriever of Secrets
+
+Writhing Amalgamate
+rules_text: Cover-up 2—{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you cover-up this card, create a 2/2 black Zombie creature token. => Cover-up 2—{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When When you activate this card's cover-up ability, create a 2/2 black Zombie creature token.
+
+Blessing of Vitu-Ghazi
+
+Wasteful Inheritor
+
+Emmara, Ancestral Caregiver
+
+Dew's Benediction
+rules_text: Whenever you gain life for the first time during each of your turns, choose one —
+• Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn.
+• Create a 1/1 white Bird creature token with flying. => Whenever you gain life during your turn, choose one. This ability triggers only once each turn.
+• Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn.
+• Create a 1/1 white Bird creature token with flying.
+
+Ayla, Harmony's Embrace
+cost: {G}{G}{W}{W} => {G}{GW}{GW}{W}
+special_text: Whenever Ayla or a creature you control enters, you may create a 1/1 green Saproling creature token. Do this only once each turn.
+[+1]: Flourish 2.
+[-3]: Exile target artifact, creature or enchantment. Its owner gains life equal to that permanent's mana value.
+[-8]: You get an emblem with “At the beginning of each upkeep, create two 1/1 green Saproling creature tokens, then put a +1/+1 counter on each creature you control.” => Creatures you control enter with an additional +1/+1 counter on them.
+[+1]: Create a 1/1 green Saproling creature token.
+[-3]: Exile target artifact, creature or enchantment.
+[-8]: You get an emblem with “At the beginning of each upkeep, create two 1/1 green Saproling creature tokens, then put a +1/+1 counter on each creature you control.”
+
+Gheshval, Night's Mantle
+cost: {U}{U}{B}{B} => {U}{UB}{UB}{B}
+special_text: Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand.
+[+1]: Each player mills three cards.
+[-3]: Return target nonland permanent to its owner's hand, then each opponent discards a card.
+[-8]: Exile each graveyard. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled. => Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand. Do this only once each turn.
+[+1]: Each player mills three cards.
+[-3]: Return target nonland permanent to its owner's hand, then each opponent discards a card.
+[-8]: Exile each graveyard. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled.
+loyalty: 5 => 4
+
+Replicating Flare
+
+Manipulation Guildmage
+
+Vernadi Protector
+
+
+VERSION 45 CHANGELOG
 ====================
 
 Ashentrunk Incinerator added.
