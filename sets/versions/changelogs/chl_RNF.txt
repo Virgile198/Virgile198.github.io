@@ -1,4 +1,390 @@
-﻿VERSION 46 CHANGELOG
+﻿VERSION 47 CHANGELOG
+====================
+
+Alms Giver added.
+
+Alm Giver removed.
+
+Sootfurr Brute
+
+Burning-Tree Blackhorn
+
+Shamanic Power
+
+Mossback Pulverizer
+rules_text: Trample
+Whenever this creature deals combat damage to a player, create that many 1/1 green Saproling creature tokens. => Trample
+Whenever this creature attacks, create 1/1 green Saproling creature token that's tapped and attacking.
+{2}, Sacrifice another creature: Put a +1/+1 counter on this creature.
+pt: 4/3 => 3/3
+
+Teysa Karlov, Master of Deals
+
+Treasured Pet
+
+Assessor of Worth
+rules_text: Flying
+Ward—Pay 4 life.
+[i][i]Oblation 6[/i][/i] — When this creature enters, if it was cast, you may pay 6 life. If you do, destroy each other nonland permanent. => Flying
+Ward—Pay 4 life.
+[i][i]Oblation 6[/i][/i] — When this creature enters, if it was cast, you may pay 6 life. If you do, destroy each other creature.
+
+Vicious Blackmailer
+rules_text: Flash
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead that player skips that draw and you draw a card unless they pay 2 life. If they pay life this way, you gain 2 life. => Flash
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead you draw a card unless they pay 2 life. If they do, you gain 2 life.
+
+Knight of Denial
+
+Worldring Uroboros
+cost: {5}{G}{G}{GW}{W}{W} => {5}{G}{G}{G}{W}{W}
+rules_text: This spell costs {1} less to cast for each counters among creatures you control.
+Flying, trample
+Whenever this creature enters or attacks, create a 5/5 green Wurm creature token with trample.
+Whenever this card is put into a graveyard from anywhere, its owner shuffles it into their library. => This spell costs {1} less to cast for each counters among creatures you control.
+Flying, trample
+Whenever this creature enters or attacks, create a 5/5 green Wurm creature token with trample.
+If this card would be put into a graveyard from anywhere, reveal it and shuffle it into its owner's library instead.
+
+Protector of the Glade
+
+Selesnya Caretaker
+
+Branching Possibilities
+
+Ral, Thundering Genius
+
+Ceremony of Fury
+
+Mass Scrambler
+
+Flux Launcher Maniac
+
+Ecstatic Fluxburster
+
+Bionic Strength
+
+Cognition Theft
+rules_text: Target player mills three cards. You choose a nonland card from that player's graveyard. Cast that spell without paying its mana cost.
+Cover-up 5—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top five cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Target player mills three cards. You may play a land card and/or cast a nonland card milled this way without paying its mana cost.
+Cover Up 3—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+
+Shambling Grotesquerie
+rules_text: Lifelink
+Cover-up 2—{U}{U}{B} [i]({U}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you activate this card's cover-up ability, target player mills three cards. => Lifelink
+Cover Up 2—{1}{U}{U}{B} [i]({1}{U}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+When you cover up this card, target player mills three cards.
+
+Deeproot Entity
+rules_text: This spell can't be countered.
+Trample, ward {2}
+Creature spells and abilities you control can't be countered.
+If a triggered ability of another creature or land you control triggers, it triggers an additional time. => This spell can't be countered.
+Creature spells and abilities you control can't be countered.
+If a triggered ability of another creature or land you control triggers, it triggers an additional time.
+pt: 5/5 => 7/7
+
+Clawing Grasp
+rules_text: Destroy target creature.
+Cover-up 3—{B}, Pay 3 life [i]({B}, Pay 3 life, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Destroy target creature.
+Cover Up 2—{1}{B}, Pay 3 life [i]({1}{B}, Pay 3 life, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+
+Mind Hemorrhage
+cost: {2}{B}{B} => {1}{B}
+rules_text: When this enchantment enters, each opponent discards a card and mills two cards.
+Whenever one or more cards are put into a graveyard and/or exile from an opponent's hand and/or library, that player loses that much life. => When this enchantment enters, each opponent discards a card.
+If a player would mill one or more cards, they mill that many cards plus one instead.
+{6}{B}{B}, Sacrifice this enchantment: Each opponent loses life equal to half the number of cards in their graveyard, rounded down.
+
+Oblivion Urn
+cost: {1} => {2}
+rules_text: {T}: Target player exiles a card from their graveyard.
+{T}, Sacrifice this artifact: Add one mana of any color. Add two mana in any combination of colors if two or more cards were exiled with this artifact. => {T}: Target player exiles a card from their graveyard.
+{T}, Sacrifice this artifact: Add one mana of any color. Add two mana in any combination of colors instead if two or more cards were exiled with this artifact.
+
+Backstreet Informant
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Cover-up 2—{2}{UB} [i]({2}{UB}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Cover Up 2—{2}{UB}{UB} [i]({2}{UB}{UB}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+
+Incapacitating Probing
+rules_text: Target creature gets -2/-0 until end of turn. Surveil 2.
+Cover-up 2—{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Target creature gets -2/-0 until end of turn. Surveil 2.
+Cover Up 2—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+
+Shady Courier
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Cover-up 2—{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Cover Up 2—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+
+Conclave Sentinel
+
+Duskmantle Agent
+
+Mounted Warbeast
+rules_text: First strike, haste
+{R}, Sacrifice this creature: Target creature you control rages. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i] => First strike, haste
+{R}, Sacrifice this creature: Target creature you control rages. Activate only as a sorcery. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Rumbling Drake
+
+Catacombs Cleaner
+rules_text: Flash
+Cover-up 2—{2}{U}{U} [i]({2}{U}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you activate this card's cover-up ability, return up to one target creature to its owner's hand. => Flash
+Cover Up 2—3UU [i](3UU , Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+When you cover up this card, return up to one target creature to its owner's hand.
+
+Thraka, Ire of the Wilds
+
+Saproling
+
+Zombie
+
+Zombie Star;
+
+Citizen
+
+Elemental
+
+Deadly Familiar
+
+Deafening Cacophony
+rules_text: This spell deals 3 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead. If {B} was spent to cast this spell, you gain life equal to the damage dealt this way. => This spell deals 3 damage to target attacking or blocking creature. If {B} was spent to cast this spell, you gain 3 life.
+
+Lightning Rider
+
+Priest of the Old Ways
+
+Unearthed Mysteries
+rules_text: Return target creature card from your graveyard to the battlefield under your control.
+Cover-up 3—{1}{B}{B} [i]({1}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When you activate this card's cover-up ability, once this turn, you may cast a creature spell from your graveyard. => Return target creature card from a graveyard to the battlefield under your control with a finality counter on it.
+Cover Up 4—{4}{B} [i]({4}{B}, Exile this card from your graveyard: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+
+Lightning Catalyst
+type: Creature — Djinn => Creature — Elemental
+rules_text: Prowess
+Whenever this creature becomes the target of a spell with a single target, you may copy that spell. You may choose new targets for the copy. This ability triggers only once each turn.
+{2}{UR}, {T}: Change the target of target spell with a single target creature to this creature. => Prowess
+Whenever you cast an instant or sorcery spell that targets only this creature, you may copy that spell. You may chose a new target for the copy. Do this only once each turn.
+{2}{UR}: Change the target of target spell with a single target creature to this creature.
+
+Maree, Nivix Grand Chamberlain
+
+Factory Line
+
+Workshop Supervisor
+
+Blessing of Savagery
+
+Bushfire Shaman
+pt: 5/5 => 5/4
+
+Ghor-Clan Charger
+
+Rakasht, Spawn of Ulasht
+rules_text: This creature enters with a number of +1/+1 counters on it equal to number of creature and/or land cards in all graveyards.
+{X}, Remove X +1/+1 counters from among creatures you control: Choose one—
+• Create a X/X red and green Hellion creature token with haste. X can't be 0.
+• This creature deals X damage to any target. X can't be 0. => This creature enters with a number of +1/+1 counters on it equal to number of creature and/or land cards in all graveyards.
+{X}, Remove X +1/+1 counters from among creatures you control: Choose one. Activate only once each turn.
+• Create a X/X red and green Hellion creature token with haste. X can't be 0.
+• This creature deals X damage to any target. X can't be 0.
+
+Mind Warp
+rules_text: Gain control of target creature an opponent controls. That creature's owner mills cards equal to its mana value.
+Cover-up 6—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top six cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Gain control of target creature an opponent controls. That creature's owner mills cards equal to its mana value.
+Cover Up 5—{4}{U}{U} [i]({4}{U}{U}, Exile this card from your graveyard: Look at the top five cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+
+Syphon Psyche
+rules_text: Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile those cards.
+Cover-up 2—{2}{B} [i]({2}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile those cards.
+Cover Up 2—{3}{B} [i]({3}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+
+Essence Shift
+
+Chosen of the Worldsoul
+rules_text: Whenever another creature you control enters, put a +1/+1 counter on target creature you control.
+When this creature dies, create X 1/1 green Saproling creature tokens, where X is its power. => Whenever another creature you control enters, put a +1/+1 counter on that creature if its power is less than this creature's power. Otherwise, put a +1/+1 counter on this creature.
+pt: 1/1 => 2/2
+
+Spore Waltz
+
+Circu, Butcher of Memories
+rules_text: Whenever you cast a spell for the first time during each of your turns, target player mills three cards. You may exile a nonland card from among the cards milled this way with a lobotomy counter on it.
+Your opponents can't cast spells with the same name as a card with a lobotomy counter on it.
+You may play cards with lobotomy counters on them from exile and mana of any type can be spent to cast them. => Whenever you cast a spell during your turn, target player mills three cards. You may exile a nonland card from among the cards milled this way with a lobotomy counter on it. This ability triggers only once each turn.
+Your opponents can't cast spells with the same name as a card with a lobotomy counter on it.
+You may play cards with lobotomy counters on them from exile and mana of any type can be spent to cast them.
+
+Incisive Reversal
+rules_text: Counter target spell. Its controller loses 2 life.
+Cover-up 3—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i] => Counter target spell. Its controller loses 2 life.
+Cover Up 3—{2}{U}{B} [i]({2}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+
+Sewer Grafter
+
+Unending Nightmare
+
+Cemetery Guardian
+
+Cruel Advokist
+
+Dispossession
+
+Milana, Orzhov High Prelate
+
+Mindflayer of the Dim
+rules_text: This spell can't be countered.
+Ward—Exile the top twenty cards of your library.
+When this creature enters and at the beginning of each upkeep, gain control of target permanent for as long as you control this creature.
+At the beginning of each end step, each opponent loses 3 life for each permanent you control that they own. => This spell can't be countered.
+Ward—Mill twenty cards.
+When this creature enters, and at the beginning of your upkeep, gain control of target nonland permanent for as long as you control this creature.
+If this card would be put into a graveyard from anywhere, reveal it and shuffle it into its owner's library instead.
+
+Hyper Space Time Bubble
+
+Ashentrunk Incinerator
+
+Factory Sentinel
+
+Heart of Cinders
+
+Flourishing Phytohydra
+
+Dimir Necrosage
+
+Coldhearted Cardinal
+
+Bolrac-Clan City Breacher
+
+Fiery Form
+
+Gorz'Ghum, War Incense
+
+Gravel-Hide Channeler
+
+Alcarus, Old Growth Protector
+rules_text: First strike, reach
+When this creature enters, create Durn'mir, a legendary 2/3 green and white Bird creature token with flying and trample.
+Each creature you control with a +1/+1 counter on it has vigilance. => First strike, reach
+When this creature enters, create Durn'mir, a legendary 2/3 white Bird creature token with flying.
+Each creature you control with a +1/+1 counter on it has trample.
+
+Burgeoning Troops
+rules_text: When this enchantment enters, draw a card and flourish 3. [i](Put a +1/+1 counter on each of up to three creatures you control. You gain 1 life for each of those creatures.)[/i]
+Each creature you control with a +1/+1 counter on it has vigilance and “{T}: Add one mana of any color.” => When this enchantment enters, draw a card and flourish 2. [i](Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)[/i]
+Each creature you control with a +1/+1 counter on it has vigilance and “{T}: Add one mana of any color.”
+
+Harmony Guildmage
+
+Poised to Strike
+
+Rootguard Loxodon
+
+Become Dust
+rules_text: As an additional cost to cast this spell, pay 3 life or discard a card.
+Destroy target artifact, creature, enchantment or planeswalker. => As an additional cost to cast this spell, pay 3 life or discard a card.
+Destroy target creature, enchantment or planeswalker.
+
+Devotion Guildmage
+
+Priest of Purification
+
+The Cozen
+
+Cerebrospiker
+
+Innovation Guildmage
+
+Rix Navven, Overcharged Brute
+
+Dimir Cutthroat
+
+Sleeper Spybug
+rules_text: This creature enters under the control of an opponent of your choice.
+At the beginning of your upkeep, exile the top two cards of your library.
+When this creature dies, reveal your hand and each opponent draws a card.
+{3}: Its controller sacrifices this creature. Any player may activate this ability. => This creature enters under the control of an opponent of your choice.
+At the beginning of your upkeep, exile the top two cards of your library
+When this creature dies, reveal your hand and each opponent draws a card.
+{3}: Its controller sacrifices this creature. Any player may activate this ability.
+
+Violent Reshaping
+
+Zorin, Hiding in Plain Sight
+
+Soldier
+
+Rhino
+
+Wurm
+
+Durn'mir
+rules_text: Flying, trample => Flying
+
+Aspect of Uniformity
+
+Vengeful Return
+
+Fairie
+
+Escalating Wrath
+
+Retriever of Secrets
+
+Writhing Amalgamate
+rules_text: Cover-up 2—{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard.)[/i]
+When When you activate this card's cover-up ability, create a 2/2 black Zombie creature token. => Cover Up 2—{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+When you cover up this card, create a 2/2 black Zombie creature token.
+
+Blessing of Vitu-Ghazi
+
+Centaur
+
+Wasteful Inheritor
+
+Bat
+
+Emmara, Ancestral Caregiver
+
+Ayla, Harmony's Embrace
+cost: {G}{GW}{GW}{W} => {G}{G}{W}{W}
+special_text: Creatures you control enter with an additional +1/+1 counter on them.
+[+1]: Create a 1/1 green Saproling creature token.
+[-3]: Exile target artifact, creature or enchantment.
+[-8]: You get an emblem with “At the beginning of each upkeep, create two 1/1 green Saproling creature tokens, then put a +1/+1 counter on each creature you control.” => Whenever you attack, flourish 2. [i](Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)[/i]
+[+1]: Create a 1/1 green Saproling creature token.
+[-3]: Exile target artifact, creature or enchantment you don't control. Its controller gains life equal to its mana value.
+[-8]: You get an emblem with “At the beginning of each upkeep, create two 1/1 green Saproling creature tokens, then put a +1/+1 counter on each creature you control.”
+
+Gheshval, Night's Mantle
+cost: {U}{UB}{UB}{B} => {U}{U}{B}{B}
+
+Profitable Demise
+cost: {2}{B} => {1}{B}
+
+Replicating Flare
+
+Manipulation Guildmage
+
+Vernadi Protector
+
+Chains of Torment
+cost: {1}{W}{B} => {2}{W}{B}
+
+Due of the Powerless
+cost: {1}{W}{B} => {W}{B}
+rules_text: Whenever an artifact or creature an opponent controls enters, tap it unless its controller pays 1 life. When they do, you gain 1 life.
+Whenever one or more creatures attack you or a permanent you control, their controller loses 1 life for each of those creatures. You gain life equal to the life lost this way. => Artifacts, creatures and nonbasic land your opponents control enter tapped.
+Spells your opponents cast during your turn cost an additional 2 life to cast.
+Whenever an opponent loses life, you gain 1 life.
+
+
+VERSION 46 CHANGELOG
 ====================
 
 Mizzium Cannon added.
