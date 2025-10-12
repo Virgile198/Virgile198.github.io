@@ -1771,7 +1771,7 @@
     },
     {
         "card_name": "Citizen",
-        "number": 14,
+        "number": 13,
         "shape": "token",
         "set": "RNF"
     },
@@ -1794,68 +1794,68 @@
         "set": "RNF"
     },
     {
-        "card_name": "Durn'mir",
+        "card_name": "Soldier",
         "number": 3,
         "shape": "token",
         "set": "RNF"
     },
     {
-        "card_name": "Soldier",
+        "card_name": "Fairie",
         "number": 4,
         "shape": "token",
         "set": "RNF"
     },
     {
-        "card_name": "Fairie",
+        "card_name": "Bat",
         "number": 5,
         "shape": "token",
         "set": "RNF"
     },
     {
-        "card_name": "Bat",
+        "card_name": "Zombie",
         "number": 6,
         "shape": "token",
         "set": "RNF"
     },
     {
-        "card_name": "Zombie",
+        "card_name": "Zombie Star;",
         "number": 7,
         "shape": "token",
         "set": "RNF"
     },
     {
-        "card_name": "Zombie Star;",
+        "card_name": "Elemental",
         "number": 8,
         "shape": "token",
         "set": "RNF"
     },
     {
-        "card_name": "Elemental",
+        "card_name": "Centaur",
         "number": 9,
         "shape": "token",
         "set": "RNF"
     },
     {
-        "card_name": "Centaur",
+        "card_name": "Rhino",
         "number": 10,
         "shape": "token",
         "set": "RNF"
     },
     {
-        "card_name": "Rhino",
+        "card_name": "Saproling",
         "number": 11,
         "shape": "token",
         "set": "RNF"
     },
     {
-        "card_name": "Saproling",
+        "card_name": "Wurm",
         "number": 12,
         "shape": "token",
         "set": "RNF"
     },
     {
-        "card_name": "Wurm",
-        "number": 13,
+        "card_name": "Durn'mir",
+        "number": 14,
         "shape": "token",
         "set": "RNF"
     },

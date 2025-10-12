@@ -1,4 +1,129 @@
-﻿VERSION 47 CHANGELOG
+﻿VERSION 48 CHANGELOG
+====================
+
+
+
+Bloodrust Assailant
+rules_text: Double strike
+Whenever an opponent loses life, this creature rages. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i] => Double strike
+Whenever a creature you control deals combat damage to a player or an opponent pays life, this creature rages. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Cognition Theft
+rules_text: Target player mills three cards. You may play a land card and/or cast a nonland card milled this way without paying its mana cost.
+Cover Up 3—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i] => Target player mills three cards. You may play a land card and/or cast a nonland card milled this way without paying its mana cost.
+Cover Up 3—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Shambling Grotesquerie
+rules_text: Lifelink
+Cover Up 2—{1}{U}{U}{B} [i]({1}{U}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+When you cover up this card, target player mills three cards. => Lifelink
+Cover Up 2—{1}{U}{U}{B} [i]({1}{U}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, target player mills three cards.
+
+Clawing Grasp
+rules_text: Destroy target creature.
+Cover Up 2—{1}{B}, Pay 3 life [i]({1}{B}, Pay 3 life, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i] => Destroy target creature.
+Cover Up 2—{1}{B}, Pay 3 life [i]({1}{B}, Pay 3 life, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Backstreet Informant
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Cover Up 2—{2}{UB}{UB} [i]({2}{UB}{UB}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Cover Up 2—{2}{UB}{UB} [i]({2}{UB}{UB}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Incapacitating Probing
+rules_text: Target creature gets -2/-0 until end of turn. Surveil 2.
+Cover Up 2—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i] => Target creature gets -2/-0 until end of turn. Surveil 2.
+Cover Up 2—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Shady Courier
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Cover Up 2—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i] => Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Cover Up 2—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Catacombs Cleaner
+rules_text: Flash
+Cover Up 2—3UU [i](3UU , Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+When you cover up this card, return up to one target creature to its owner's hand. => Flash
+Cover Up 2—{3}{U}{U} [i]({3}{U}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, return up to one target creature to its owner's hand.
+
+Saproling
+
+Zombie
+
+Zombie Star;
+
+Citizen
+
+Elemental
+
+Priest of the Old Ways
+rules_text: When this creature enters, target creature you control rages twice. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+{T}, Remove X +1/+1 counters from a creature you control: Add X mana in any combination of colors. => When this creature enters, target creature you control rages twice. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Unearthed Mysteries
+rules_text: Return target creature card from a graveyard to the battlefield under your control with a finality counter on it.
+Cover Up 4—{4}{B} [i]({4}{B}, Exile this card from your graveyard: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i] => Return target creature card from a graveyard to the battlefield under your control with a finality counter on it.
+Cover Up 4—{4}{B} [i]({4}{B}, Exile this card from your graveyard: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Mind Warp
+rules_text: Gain control of target creature an opponent controls. That creature's owner mills cards equal to its mana value.
+Cover Up 5—{4}{U}{U} [i]({4}{U}{U}, Exile this card from your graveyard: Look at the top five cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i] => Gain control of target creature an opponent controls. That creature's owner mills cards equal to its mana value.
+Cover Up 5—{4}{U}{U} [i]({4}{U}{U}, Exile this card from your graveyard: Look at the top five cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Syphon Psyche
+rules_text: Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile those cards.
+Cover Up 2—{3}{B} [i]({3}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i] => Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile those cards.
+Cover Up 2—{3}{B} [i]({3}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Incisive Reversal
+rules_text: Counter target spell. Its controller loses 2 life.
+Cover Up 3—{2}{U}{B} [i]({2}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i] => Counter target spell. Its controller loses 2 life.
+Cover Up 3—{2}{U}{B} [i]({2}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Mindflayer of the Dim
+rules_text: This spell can't be countered.
+Ward—Mill twenty cards.
+When this creature enters, and at the beginning of your upkeep, gain control of target nonland permanent for as long as you control this creature.
+If this card would be put into a graveyard from anywhere, reveal it and shuffle it into its owner's library instead. => This spell can't be countered.
+Ward—Mill twenty cards.
+When this creature enters, and at the beginning of your upkeep, gain control of target permanent for as long as you control this creature.
+If this card would be put into a graveyard from anywhere, reveal it and shuffle it into its owner's library instead.
+
+Alcarus, Old Growth Protector
+rules_text: First strike, reach
+When this creature enters, create Durn'mir, a legendary 2/3 white Bird creature token with flying.
+Each creature you control with a +1/+1 counter on it has trample. => First strike, reach
+When this creature enters, create Durn'mir, a legendary 2/3 green and white Bird creature token with flying.
+Each creature you control with a +1/+1 counter on it has trample.
+
+Burgeoning Troops
+cost: {G}{W} => {1}{G}{W}
+rules_text: When this enchantment enters, draw a card and flourish 2. [i](Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)[/i]
+Each creature you control with a +1/+1 counter on it has vigilance and “{T}: Add one mana of any color.” => When this enchantment enters, flourish 3. [i](Put a +1/+1 counter on each of up to three creatures you control. You gain 1 life for each of those creatures.)[/i]
+Each creature you control with a +1/+1 counter on it has vigilance and “{T}: Add one mana of any color.”
+
+Soldier
+
+Rhino
+
+Wurm
+
+Durn'mir
+
+Fairie
+
+Writhing Amalgamate
+rules_text: Cover Up 2—{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover-up only as a sorcery.)[/i]
+When you cover up this card, create a 2/2 black Zombie creature token. => Cover Up 2—{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, create a 2/2 black Zombie creature token.
+
+Centaur
+
+Bat
+
+
+VERSION 47 CHANGELOG
 ====================
 
 Alms Giver added.
