@@ -1,4 +1,21 @@
-﻿VERSION 49 CHANGELOG
+﻿VERSION 50 CHANGELOG
+====================
+
+
+
+Necrotic Haze
+
+Sleeper Spybug
+rules_text: This creature enters under the control of an opponent of your choice.
+At the beginning of your upkeep, exile the top two cards of your library
+When this creature dies, reveal your hand and each opponent draws a card.
+{3}: Its controller sacrifices this creature. Any player may activate this ability. => This creature enters under the control of an opponent of your choice.
+At the beginning of your upkeep, exile the top two cards of your library
+When this creature dies, reveal your hand. Each opponent draws a card.
+{3}: This creature's controller sacrifices it. Any player may activate this ability.
+
+
+VERSION 49 CHANGELOG
 ====================
 
 Orzhov Exorcist added.
