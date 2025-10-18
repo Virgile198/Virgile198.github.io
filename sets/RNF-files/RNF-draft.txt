@@ -5,9 +5,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/202_Sootfurr Brute.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/203_Sootfurr Brute.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "199",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/199_Shamanic Power.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/200_Shamanic Power.png"
 			}
 		},
 		{
@@ -213,11 +213,11 @@
 		{
 			"name": "Teysa Karlov, Master of Deals",
 			"rarity": "mythic",
-			"mana_cost": "{W}{W/B}{W/B}{B}",
+			"mana_cost": "{2}{W}{B}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "231",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/231_Teysa Karlov, Master of Deals.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/205_Teysa Karlov, Master of Deals.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W/B}{B}",
 			"type": "Creature — Angel",
-			"collector_number": "214",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/214_Assessor of Worth.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/217_Assessor of Worth.png"
 			}
 		},
 		{
@@ -261,13 +261,13 @@
 			}
 		},
 		{
-			"name": "Orzhov Seizebeast",
+			"name": "Orzhov Exorcist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Beast",
+			"type": "Creature — Human Cleric",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/18_Orzhov Seizebeast.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/18_Orzhov Exorcist.png"
 			}
 		},
 		{
@@ -355,9 +355,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{G}{G}{G}{W}{W}",
 			"type": "Creature — Wurm",
-			"collector_number": "210",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/210_Worldring Uroboros.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/213_Worldring Uroboros.png"
 			}
 		},
 		{
@@ -405,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
 			"type": "Creature — Dryad Warrior",
-			"collector_number": "228",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/228_Protector of the Glade.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/231_Protector of the Glade.png"
 			}
 		},
 		{
@@ -415,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Elephant Cleric",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/198_Selesnya Caretaker.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/199_Selesnya Caretaker.png"
 			}
 		},
 		{
@@ -443,11 +443,11 @@
 		{
 			"name": "Ral, Thundering Genius",
 			"rarity": "mythic",
-			"mana_cost": "{U}{U/R}{U/R}{R}",
+			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "229",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/229_Ral, Thundering Genius.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/193_Ral, Thundering Genius.png"
 			}
 		},
 		{
@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Sorcery",
-			"collector_number": "217",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/217_Ceremony of Fury.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/220_Ceremony of Fury.png"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/R}",
 			"type": "Creature — Elemental",
-			"collector_number": "227",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/227_Mass Scrambler.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/230_Mass Scrambler.png"
 			}
 		},
 		{
@@ -575,9 +575,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U/B}{B}",
 			"type": "Sorcery",
-			"collector_number": "219",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/219_Cognition Theft.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/222_Cognition Theft.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/200_Shambling Grotesquerie.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/201_Shambling Grotesquerie.png"
 			}
 		},
 		{
@@ -935,9 +935,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "215",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/215_Backstreet Informant.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/218_Backstreet Informant.png"
 			}
 		},
 		{
@@ -1115,9 +1115,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}{R}",
 			"type": "Creature — Drake",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/197_Rumbling Drake.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/198_Rumbling Drake.png"
 			}
 		},
 		{
@@ -1143,11 +1143,11 @@
 		{
 			"name": "Thraka, Ire of the Wilds",
 			"rarity": "mythic",
-			"mana_cost": "{2}{R}{R/G}{R/G}{G}",
+			"mana_cost": "{4}{R}{G}",
 			"type": "Legendary Creature — Beast God",
-			"collector_number": "232",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/232_Thraka, Ire of the Wilds.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/206_Thraka, Ire of the Wilds.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Saproling",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/12_Saproling.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/11_Saproling.png"
 			}
 		},
 		{
@@ -1205,9 +1205,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zombie",
-			"collector_number": "7",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/7_Zombie.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/6_Zombie.png"
 			}
 		},
 		{
@@ -1215,9 +1215,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zombie",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/8_Zombie Star;.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/7_Zombie Star;.png"
 			}
 		},
 		{
@@ -1225,9 +1225,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Citizen",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/14_Citizen.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/13_Citizen.png"
 			}
 		},
 		{
@@ -1285,9 +1285,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/9_Elemental.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/8_Elemental.png"
 			}
 		},
 		{
@@ -1475,9 +1475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U/R}{U/R}",
 			"type": "Creature — Elemental",
-			"collector_number": "225",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/225_Lightning Catalyst.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/228_Lightning Catalyst.png"
 			}
 		},
 		{
@@ -1515,9 +1515,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{R}",
 			"type": "Creature — Human Artificer Wizard",
-			"collector_number": "209",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/209_Workshop Supervisor.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/212_Workshop Supervisor.png"
 			}
 		},
 		{
@@ -1545,9 +1545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R/G}{R/G}",
 			"type": "Creature — Centaur Warrior",
-			"collector_number": "221",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/221_Ghor-Clan Charger.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/224_Ghor-Clan Charger.png"
 			}
 		},
 		{
@@ -1605,9 +1605,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G/W}{G/W}",
 			"type": "Creature — Human Druid",
-			"collector_number": "218",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/218_Chosen of the Worldsoul.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/221_Chosen of the Worldsoul.png"
 			}
 		},
 		{
@@ -1615,9 +1615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{W}{W}",
 			"type": "Instant",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/203_Spore Waltz.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/204_Spore Waltz.png"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U/B}{U/B}",
 			"type": "Creature — Shapeshifter Horror",
-			"collector_number": "230",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/230_Sewer Grafter.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/232_Sewer Grafter.png"
 			}
 		},
 		{
@@ -1675,9 +1675,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Nightmare Horror",
-			"collector_number": "204",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/204_Unending Nightmare.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/207_Unending Nightmare.png"
 			}
 		},
 		{
@@ -1705,9 +1705,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W/B}{W/B}",
 			"type": "Artifact Creature — Gargoyle",
-			"collector_number": "216",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/216_Cemetery Guardian.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/219_Cemetery Guardian.png"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U/R}{R}",
 			"type": "Sorcery",
-			"collector_number": "223",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/223_Hyper Space Time Bubble.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/226_Hyper Space Time Bubble.png"
 			}
 		},
 		{
@@ -1845,9 +1845,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{R}{R/G}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "212",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/212_Ashentrunk Incinerator.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/215_Ashentrunk Incinerator.png"
 			}
 		},
 		{
@@ -1983,7 +1983,7 @@
 		{
 			"name": "Burgeoning Troops",
 			"rarity": "uncommon",
-			"mana_cost": "{G}{W}",
+			"mana_cost": "{1}{G}{W}",
 			"type": "Enchantment",
 			"collector_number": "154",
 			"image_uris": {
@@ -1995,9 +1995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G/W}{G/W}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "222",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/222_Harmony Guildmage.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/225_Harmony Guildmage.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Elephant Warrior",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/196_Rootguard Loxodon.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/197_Rootguard Loxodon.png"
 			}
 		},
 		{
@@ -2085,9 +2085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W/B}{W/B}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "220",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/220_Devotion Guildmage.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/223_Devotion Guildmage.png"
 			}
 		},
 		{
@@ -2155,9 +2155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "224",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/224_Innovation Guildmage.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/227_Innovation Guildmage.png"
 			}
 		},
 		{
@@ -2185,19 +2185,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Ogre Wizard",
-			"collector_number": "195",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/195_Rix Navven, Overcharged Brute.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/196_Rix Navven, Overcharged Brute.png"
 			}
 		},
 		{
-			"name": "Pestilent Haze",
+			"name": "Necrotic Haze",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/77_Pestilent Haze.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/76_Necrotic Haze.png"
 			}
 		},
 		{
@@ -2275,9 +2275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Insect Horror",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/201_Sleeper Spybug.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/202_Sleeper Spybug.png"
 			}
 		},
 		{
@@ -2285,9 +2285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Instant",
-			"collector_number": "207",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/207_Violent Reshaping.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/210_Violent Reshaping.png"
 			}
 		},
 		{
@@ -2295,9 +2295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Assassin",
-			"collector_number": "211",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/211_Zorin, Hiding in Plain Sight.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/214_Zorin, Hiding in Plain Sight.png"
 			}
 		},
 		{
@@ -2391,16 +2391,6 @@
 			}
 		},
 		{
-			"name": "Dryads' Blessing",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Instant",
-			"collector_number": "127",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/127_Dryads' Blessing.png"
-			}
-		},
-		{
 			"name": "Tend to the Gardens",
 			"rarity": "common",
 			"mana_cost": "{G}",
@@ -2485,9 +2475,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "76",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/76_Oppress.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/77_Oppress.png"
 			}
 		},
 		{
@@ -2495,9 +2485,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/4_Soldier.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/3_Soldier.png"
 			}
 		},
 		{
@@ -2505,9 +2495,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Rhino",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/11_Rhino.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/10_Rhino.png"
 			}
 		},
 		{
@@ -2515,9 +2505,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wurm",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/13_Wurm.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/12_Wurm.png"
 			}
 		},
 		{
@@ -2525,9 +2515,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Bird",
-			"collector_number": "3",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/3_Durn'mir.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/14_Durn'mir.png"
 			}
 		},
 		{
@@ -2535,9 +2525,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G/W}{W}",
 			"type": "Creature — Elemental",
-			"collector_number": "213",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/213_Aspect of Uniformity.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/216_Aspect of Uniformity.png"
 			}
 		},
 		{
@@ -2565,9 +2555,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "205",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/205_Vengeful Return.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/208_Vengeful Return.png"
 			}
 		},
 		{
@@ -2575,9 +2565,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Fairie",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/5_Fairie.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/4_Fairie.png"
 			}
 		},
 		{
@@ -2635,9 +2625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Vampire Wizard",
-			"collector_number": "194",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/194_Retriever of Secrets.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/195_Retriever of Secrets.png"
 			}
 		},
 		{
@@ -2725,9 +2715,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Centaur",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/10_Centaur.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/9_Centaur.png"
 			}
 		},
 		{
@@ -2775,9 +2765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "208",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/208_Wasteful Inheritor.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/211_Wasteful Inheritor.png"
 			}
 		},
 		{
@@ -2805,9 +2795,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bat",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/6_Bat.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/5_Bat.png"
 			}
 		},
 		{
@@ -2863,7 +2853,7 @@
 		{
 			"name": "Ayla, Harmony's Embrace",
 			"rarity": "mythic",
-			"mana_cost": "{G}{G}{W}{W}",
+			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Planeswalker — Ayla",
 			"collector_number": "147",
 			"image_uris": {
@@ -2873,7 +2863,7 @@
 		{
 			"name": "Gheshval, Night's Mantle",
 			"rarity": "mythic",
-			"mana_cost": "{U}{U}{B}{B}",
+			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Planeswalker — Gheshval",
 			"collector_number": "179",
 			"image_uris": {
@@ -2883,7 +2873,7 @@
 		{
 			"name": "Profitable Demise",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
 			"collector_number": "79",
 			"image_uris": {
@@ -2895,9 +2885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Sorcery",
-			"collector_number": "193",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/193_Replicating Flare.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/194_Replicating Flare.png"
 			}
 		},
 		{
@@ -2905,9 +2895,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/B}{U/B}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "226",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/226_Manipulation Guildmage.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/229_Manipulation Guildmage.png"
 			}
 		},
 		{
@@ -2915,9 +2905,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Centaur Druid",
-			"collector_number": "206",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/206_Vernadi Protector.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/209_Vernadi Protector.png"
 			}
 		},
 		{
@@ -2949,33 +2939,43 @@
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/168_Due of the Powerless.png"
 			}
+		},
+		{
+			"name": "Dryads' Blessing",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/127_Dryads' Blessing.png"
+			}
 		}
 	]
 
 [rare(1)]
-	3 Sootfurr Brute
+	5 Sootfurr Brute
 	5 Mizzium Cannon
 	5 Bloodrust Assailant
 	5 Fierce Maaka Kitten
 	5 Blightblood Abomination
 	5 Mossback Pulverizer
 	5 Spectral Advisor
-	3 Teysa Karlov, Master of Deals
-	3 Assessor of Worth
+	5 Teysa Karlov, Master of Deals
+	5 Assessor of Worth
 	5 Priest of The Welcoming
 	5 Vicious Blackmailer
 	5 Pruning
 	5 Flowerbed Envoy's Call
 	5 Dutiful Archprotector
-	3 Worldring Uroboros
-	3 Branching Possibilities
-	3 Ral, Thundering Genius
-	3 Essencesnatch
+	5 Worldring Uroboros
+	5 Branching Possibilities
+	5 Ral, Thundering Genius
+	5 Essencesnatch
 	5 Overflowing Buffer
-	3 Cognition Theft
-	3 Blood-Drenched Spoil
-	3 Deeproot Entity
-	3 Storm Eater
+	5 Cognition Theft
+	5 Blood-Drenched Spoil
+	5 Deeproot Entity
+	5 Storm Eater
 	5 Transguild Square
 	5 Vault of the Paruns
 	5 Prismatic Custodian
@@ -2987,10 +2987,10 @@
 	5 Vital Reclamation
 	5 Fires of Reclamation
 	5 Mad Alchemist
-	3 Thraka, Ire of the Wilds
+	5 Thraka, Ire of the Wilds
 	5 Caller of the Wilds
 	5 Arrogant Hermit
-	3 Guardian of the Hour
+	5 Guardian of the Hour
 	5 Unearthed Mysteries
 	5 Lightning Catalyst
 	5 Maree, Nivix Grand Chamberlain
@@ -3016,9 +3016,9 @@
 	5 Milana, Orzhov High Prelate
 	5 Vitality
 	5 Facsimile Project
-	3 Mindflayer of the Dim
-	3 Hyper Space Time Bubble
-	3 Ashentrunk Incinerator
+	5 Mindflayer of the Dim
+	5 Hyper Space Time Bubble
+	5 Ashentrunk Incinerator
 	5 Factory Sentinel
 	5 Heart of Cinders
 	5 Flourishing Phytohydra
@@ -3028,22 +3028,22 @@
 	5 Devoted Marshal
 	5 Undercity Bloodthirster
 	5 Cloud Drinker
-	3 Aspect of Uniformity
+	5 Aspect of Uniformity
 	5 Blooming Sanctuary
 	5 Retriever of Secrets
 	5 Emmara, Ancestral Caregiver
 	5 Dew's Benediction
-	3 Ayla, Harmony's Embrace
-	3 Gheshval, Night's Mantle
+	5 Ayla, Harmony's Embrace
+	5 Gheshval, Night's Mantle
 	5 Profitable Demise
-	3 Due of the Powerless
+	5 Due of the Powerless
 [uncommon(3)]
 	5 Shamanic Power
 	5 Augmented Monstrosity
 	5 Rejuvenated Wood-Kin
 	5 Alms Giver
 	5 Euthanist Master
-	5 Orzhov Seizebeast
+	5 Orzhov Exorcist
 	5 Bolstering Spores
 	5 Leaf Storm
 	5 Coordinated Assault
@@ -3092,7 +3092,7 @@
 	5 Now
 	5 Polarity Switcher
 	5 Rix Navven, Overcharged Brute
-	5 Pestilent Haze
+	5 Necrotic Haze
 	5 Scorching Thunder
 	5 Eidolon's Fury
 	5 Crazed Rioter
@@ -3151,6 +3151,9 @@
 	5 Bionic Strength
 	5 Fluctuating Reality
 	5 Shambling Grotesquerie
+	5 Orzhov Guildgate
+	5 Dimir Guildgate
+	5 Izzet Guildgate
 	5 Tin Street
 	5 Orzhov Insignia
 	5 Gruul Insignia
@@ -3202,7 +3205,6 @@
 	5 Corrosive Bile Spitter
 	5 Third District Sharpshooter
 	5 Shredding Barrage
-	5 Dryads' Blessing
 	5 Tend to the Gardens
 	5 Blessing of Wrath
 	5 Enforcers of the Guildpact
@@ -3218,11 +3220,8 @@
 	5 Guildpact's Blessing
 	5 Surgical Strike
 	5 Deep Wound
-	5 Vernadi Protector
-	5 Ledev Rescue
-[Commonland(1)]
-	5 Orzhov Guildgate
-	5 Dimir Guildgate
-	5 Izzet Guildgate
 	5 Selesnya Guildgate
 	5 Gruul Guildgate
+	5 Vernadi Protector
+	5 Ledev Rescue
+	5 Dryads' Blessing

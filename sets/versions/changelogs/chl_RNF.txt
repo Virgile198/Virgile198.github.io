@@ -1,4 +1,284 @@
-﻿VERSION 48 CHANGELOG
+﻿VERSION 49 CHANGELOG
+====================
+
+Orzhov Exorcist added.
+Necrotic Haze added.
+
+Orzhov Seizebeast removed.
+Pestilent Haze removed.
+
+Sootfurr Brute
+
+Mizzium Cannon
+rules_text: This spell can't be countered.
+This spell deals [[b]5[/b]] damage to target creature or planeswalker you don't control. If that permanent would die this turn, exile it instead.
+Iterate {2}{R}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => This spell can't be countered.
+This spell deals [[b]5[/b]] damage to target creature or planeswalker you don't control. If that permanent would die this turn, exile it instead.
+Iterate {4}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Shamanic Power
+
+Blightblood Abomination
+
+Spectral Advisor
+
+Teysa Karlov, Master of Deals
+cost: {W}{WB}{WB}{B} => {2}{W}{B}
+rules_text: Lifelink
+The first spell your opponents cast each turn costs an additional 2 life to cast.
+At the beginning of each end step, create a 1/1 white and black Spirit creature token with flying and a Treasure token if a player paid life that turn. => Deathtouch
+The first spell your opponents cast each turn costs an additional 2 life to cast.
+At the beginning of each end step, create a 1/1 white and black Spirit creature token with flying and a Treasure token if a player paid life that turn.
+
+Assessor of Worth
+rules_text: Flying
+Ward—Pay 4 life.
+[i][i]Oblation 6[/i][/i] — When this creature enters, if it was cast, you may pay 6 life. If you do, destroy each other creature. => Flying, lifelink
+Ward—Pay 4 life.
+[i][i]Oblation 6[/i][/i] — When this creature enters, if it was cast, you may pay 6 life. If you do, destroy each other creature.
+
+Vicious Blackmailer
+
+Dutiful Archprotector
+
+Worldring Uroboros
+
+Protector of the Glade
+rules_text: This creature can't attack or block alone unless you control a creature with a +1/+1 counter on it. => Defender
+As long as you control a creature with a +1/+1 counter on it, this creature can attack as though it didn't have defender.
+
+Selesnya Caretaker
+
+Ral, Thundering Genius
+cost: {U}{UR}{UR}{R} => {2}{U}{R}
+pt: 3/3 => 2/3
+
+Ceremony of Fury
+
+Overflowing Buffer
+rules_text: Return up to [[b]three[/b]] target nonland permanents to their owner's hand. Then you may cast a spell with mana value X or less from your hand without paying its mana cost, where X is the greatest number of cards in any player's hand.
+Iterate {7}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Return up to [[b]three[/b]] target nonland permanents to their owner's hand. Then you may cast a spell with mana value X or less from your hand without paying its mana cost, where X is the greatest number of cards in any player's hand.
+Iterate {8}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Thought Accelerator
+rules_text: Draw [[b]two[/b]] cards, then discard [[b]one[/b]] card(s).
+Iterate {2}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Draw [[b]two[/b]] cards, then discard [[b]one[/b]] card(s).
+Iterate {4}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Mass Scrambler
+
+Fluctuating Reality
+rules_text: Choose [[b]one[/b]] —
+• Return up to one target creature to its owner's hand.
+• Mill three cards. You may put a nonpermanent card from among the milled cards into your hand.
+Iterate {2}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Choose [[b]one[/b]] —
+• Return up to one target creature to its owner's hand.
+• Mill three cards. You may put a nonpermanent card from among the milled cards into your hand.
+Iterate {3}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Aether Condensator
+rules_text: Exile the top [[b]one[/b]] card(s) of your library. You may play cards exiled this way this turn.
+Iterate {R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Exile the top [[b]one[/b]] card(s) of your library. You may play cards exiled this way this turn.
+Iterate {1}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Cognition Theft
+rules_text: Target player mills three cards. You may play a land card and/or cast a nonland card milled this way without paying its mana cost.
+Cover Up 3—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Target player mills three cards. You may play a land card and/or cast a nonland card milled this way without paying its mana cost.
+Cover up 3—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Shambling Grotesquerie
+rules_text: Lifelink
+Cover Up 2—{1}{U}{U}{B} [i]({1}{U}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, target player mills three cards. => Lifelink
+Cover up 2—{1}{U}{U}{B} [i]({1}{U}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, target player mills three cards.
+
+Clawing Grasp
+rules_text: Destroy target creature.
+Cover Up 2—{1}{B}, Pay 3 life [i]({1}{B}, Pay 3 life, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Destroy target creature.
+Cover up 2—{2}{B}{B}, Pay 3 life [i]({2}{B}{B}, Pay 3 life, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Heart of Communion
+rules_text: {T}: Add one mana of any color. If that mana is spent to cast a multicolored creature, it enters with an additional +1/+1 counter on it.
+{10}, {T}, Sacrifice this artifact: You draw three cards. This ability costs {1} less to activate for each color among creatures you control. => {T}: Add one mana of any color. If that mana is spent to cast a multicolored creature, it enters with an additional +1/+1 counter on it.
+{W}{U}{B}{R}{G}, {T}, Sacrifice this artifact: You draw three cards.
+
+Vital Reclamation
+
+Backstreet Informant
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Cover Up 2—{2}{UB}{UB} [i]({2}{UB}{UB}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Cover up 2—{2}{UB}{UB} [i]({2}{UB}{UB}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Incapacitating Probing
+rules_text: Target creature gets -2/-0 until end of turn. Surveil 2.
+Cover Up 2—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Target creature gets -2/-0 until end of turn. Surveil 2.
+Cover up 2—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Frontline Cultivator
+
+Shady Courier
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Cover Up 2—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Cover up 2—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Fires of Reclamation
+
+Mad Alchemist
+
+Rumbling Drake
+
+Catacombs Cleaner
+rules_text: Flash
+Cover Up 2—{3}{U}{U} [i]({3}{U}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, return up to one target creature to its owner's hand. => Flash
+Cover up 2—{3}{U}{U} [i]({3}{U}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, return up to one target creature to its owner's hand.
+
+Thraka, Ire of the Wilds
+cost: {2}{R}{RG}{RG}{G} => {4}{R}{G}
+
+Bird
+
+Slitz-Clan Opportunist
+
+Arrogant Hermit
+
+Unearthed Mysteries
+rules_text: Return target creature card from a graveyard to the battlefield under your control with a finality counter on it.
+Cover Up 4—{4}{B} [i]({4}{B}, Exile this card from your graveyard: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Return target creature card from a graveyard to the battlefield under your control with a finality counter on it.
+Cover up 3—{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Lightning Catalyst
+
+Workshop Supervisor
+
+Ghor-Clan Charger
+
+Mind Warp
+rules_text: Gain control of target creature an opponent controls. That creature's owner mills cards equal to its mana value.
+Cover Up 5—{4}{U}{U} [i]({4}{U}{U}, Exile this card from your graveyard: Look at the top five cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Gain control of target creature an opponent controls. That creature's owner mills cards equal to its mana value.
+Cover up 4—{4}{U}{U} [i]({4}{U}{U}, Exile this card from your graveyard: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Syphon Psyche
+rules_text: Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile those cards.
+Cover Up 2—{3}{B} [i]({3}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile those cards.
+Cover up 2—{3}{B} [i]({3}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Chosen of the Worldsoul
+
+Spore Waltz
+
+Vanish
+
+Circu, Butcher of Memories
+rules_text: Whenever you cast a spell during your turn, target player mills three cards. You may exile a nonland card from among the cards milled this way with a lobotomy counter on it. This ability triggers only once each turn.
+Your opponents can't cast spells with the same name as a card with a lobotomy counter on it.
+You may play cards with lobotomy counters on them from exile and mana of any type can be spent to cast them. => Whenever you cast a spell, target player mills three cards. You may exile a nonland card from among the cards milled this way with a lobotomy counter on it. This ability triggers only once each turn.
+Your opponents can't cast spells with the same name as a card with a lobotomy counter on it.
+You may play cards with lobotomy counters on them from exile and mana of any type can be spent to cast them.
+
+Incisive Reversal
+rules_text: Counter target spell. Its controller loses 2 life.
+Cover Up 3—{2}{U}{B} [i]({2}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Counter target spell. Its controller loses 2 life.
+Cover up 3—{2}{U}{B} [i]({2}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Sewer Grafter
+
+Unending Nightmare
+
+Cemetery Guardian
+
+Bloodletter's Bat
+
+Hyper Space Time Bubble
+
+Ashentrunk Incinerator
+
+Harmony Guildmage
+
+Rootguard Loxodon
+
+Devotion Guildmage
+
+Wave of Agitation
+
+Cerebrospiker
+rules_text: This spell deals [[b]2[/b]] damage to target opponent. Look at the top [[b]two[/b]] cards of your library, then put a card from among them into your hand and the rest into your graveyard.
+Iterate {2}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => This spell deals [[b]2[/b]] damage to target opponent. Look at the top [[b]two[/b]] cards of your library, then put a card from among them into your hand and the rest into your graveyard.
+Iterate {4}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Innovation Guildmage
+
+Rix Navven, Overcharged Brute
+
+Scorching Thunder
+
+Crazed Rioter
+
+Sleeper Spybug
+
+Violent Reshaping
+
+Zorin, Hiding in Plain Sight
+
+Devoted Marshal
+
+Blessing of Wrath
+
+Cloud Drinker
+
+Oppress
+
+Aspect of Uniformity
+
+Vengeful Return
+
+Retriever of Secrets
+
+Writhing Amalgamate
+rules_text: Cover Up 2—{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, create a 2/2 black Zombie creature token. => Cover up 2—{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, create a 2/2 black Zombie creature token.
+
+Wasteful Inheritor
+
+Ayla, Harmony's Embrace
+cost: {G}{G}{W}{W} => {2}{G}{W}
+
+Gheshval, Night's Mantle
+cost: {U}{U}{B}{B} => {2}{U}{B}
+special_text: Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand. Do this only once each turn.
+[+1]: Each player mills three cards.
+[-3]: Return target nonland permanent to its owner's hand, then each opponent discards a card.
+[-8]: Exile each graveyard. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled. => Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand. Do this only once each turn.
+[+1]: Each player mills three cards.
+[-3]: Return target nonland permanent to its owner's hand, then that players discards a card.
+[-8]: Exile each graveyard. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled.
+
+Profitable Demise
+cost: {1}{B} => {2}{B}
+
+Replicating Flare
+rules_text: Create a token that's a copy of target artifact or creature with mana value [[b]3[/b]] or less. It gains haste until end of turn. Sacrifice it at the beginning of the next end step unless this spell was cast from your graveyard.
+Iterate {2}{U}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Create a token that's a copy of target artifact or creature with mana value [[b]3[/b]] or less. It gains haste until end of turn. Sacrifice it at the beginning of the next end step unless this spell was cast from your graveyard.
+Iterate {4}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Manipulation Guildmage
+
+Vernadi Protector
+
+Due of the Powerless
+rules_text: Artifacts, creatures and nonbasic land your opponents control enter tapped.
+Spells your opponents cast during your turn cost an additional 2 life to cast.
+Whenever an opponent loses life, you gain 1 life. => Artifacts, creatures and nonbasic land your opponents control enter tapped.
+Spells your opponents cast during your turn cost an additional 2 life to cast.
+Whenever an opponents loses life, you gain 1 life.
+
+Dryads' Blessing
+
+
+VERSION 48 CHANGELOG
 ====================
 
 
