@@ -1,4 +1,394 @@
-﻿VERSION 50 CHANGELOG
+﻿VERSION 52 CHANGELOG
+====================
+
+
+
+Saproling
+
+Zombie
+
+Zombie Star;
+
+Citizen
+
+Elemental
+
+Alcarus, Old Growth Protector
+rules_text: First strike, reach
+When this creature enters, create Durn'mir, a legendary 2/3 white Bird creature token with flying.
+Each creature you control with a +1/+1 counter on it has trample. => First strike, reach
+When this creature enters, create Durn'mir, a legendary 2/3 green and white Bird creature token with flying.
+Each creature you control with a +1/+1 counter on it has trample.
+
+Soldier
+
+Rhino
+
+Wurm
+
+Durn'mir
+
+Fairie
+
+Centaur
+
+Bat
+
+
+VERSION 51 CHANGELOG
+====================
+
+Defile added.
+
+Become Dust removed.
+
+Sootfurr Brute
+
+Shamanic Power
+
+Bloodrust Assailant
+rules_text: Double strike
+Whenever a creature you control deals combat damage to a player or an opponent pays life, this creature rages. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i] => Double strike
+Whenever a creature you control deals combat damage to a player, this creature rages. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Clergy Enforcer
+rules_text: [i][i]Oblation 2[/i][/i] — When this creature enters, you may pay 2 life. If you do, tap it and put a +1/+1 counter on it. => [i][i]Oblation 2[/i][/i] — When this creature enters, you may pay 2 life. When you do, tap it and put a +1/+1 counter on it.
+
+Corpse Excavator
+rules_text: Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i][i]Oblation 2[/i][/i] — When this creature enters, you may pay 2 life. If you do, mill three cards, then you may return a creature card from your graveyard to your hand. If you do, put a finality counter on this creature. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i][i]Oblation 2[/i][/i] — When this creature enters, you may pay 2 life. When you do, mill three cards, then you may return a creature card from your graveyard to your hand. If you do, put a finality counter on this creature.
+
+Euthanist Master
+rules_text: [i]Oblation 4[/i] — When this creature enters, you may pay 4 life. If you do, destroy target creature or planeswalker an opponent controls. => [i]Oblation 4[/i] — When this creature enters, you may pay 4 life. When you do, destroy target creature or planeswalker an opponent controls.
+
+Teysa Karlov, Master of Deals
+
+Treasured Pet
+
+Assessor of Worth
+rules_text: Flying, lifelink
+Ward—Pay 4 life.
+[i][i]Oblation 6[/i][/i] — When this creature enters, if it was cast, you may pay 6 life. If you do, destroy each other creature. => Flying, lifelink
+Ward—Pay 4 life.
+[i][i]Oblation 6[/i][/i] — When this creature enters, if it was cast, you may pay 6 life. When you do, destroy each other creature.
+
+Priest of The Welcoming
+rules_text: [i][i]Oblation X[/i][/i] — When this creature enters, you may pay X life. If you do, return any number of target creature, enchantment and/or planeswalker cards with total mana value X or less from your graveyard to the battlefield with a finality counter on them. => [i][i]Oblation X[/i][/i] — When this creature enters, you may pay X life. When you do, return any number of target creature, enchantment and/or planeswalker cards with total mana value X or less from your graveyard to the battlefield with a finality counter on them.
+
+Orzhov Exorcist
+rules_text: Vigilance
+[i][i]Oblation 4[/i][/i] — When this creature enters, you may pay 4 life. If you do, exile target artifact or enchantment.
+When this creature dies, you and target opponent each create a Treasure token. => Vigilance
+[i][i]Oblation 4[/i][/i] — When this creature enters, you may pay 4 life. When you do, exile target artifact or enchantment.
+When this creature dies, you and target opponent each create a Treasure token.
+
+Knight of Denial
+
+Pontific Guard
+rules_text: Flash
+Flying
+[i]Oblation 2[/i] — When this creature enters, you may pay 2 life. If you do, another target creature gains hexproof and indestructible until end of turn. => Flash
+Flying
+[i]Oblation 2[/i] — When this creature enters, you may pay 2 life. When you do, another target creature gains hexproof and indestructible until end of turn.
+
+Worldring Uroboros
+cost: {5}{G}{G}{G}{W}{W} => {5}{G}{G}{GW}{W}{W}
+
+Protector of the Glade
+
+Selesnya Caretaker
+
+Ral, Thundering Genius
+
+Ceremony of Fury
+cost: {1}{RG} => {2}{RG}
+
+Mass Scrambler
+
+Flux Launcher Maniac
+
+Ecstatic Fluxburster
+
+Cognition Theft
+cost: {2}{U}{UB}{B} => {3}{U}{B}
+
+Shambling Grotesquerie
+
+Deeproot Entity
+rules_text: This spell can't be countered.
+Creature spells and abilities you control can't be countered.
+If a triggered ability of another creature or land you control triggers, it triggers an additional time. => Ward {2}
+This spell can't be countered.
+Creature spells and abilities of creatures you control can't be countered.
+If a triggered ability of another creature or land you control triggers, it triggers an additional time.
+pt: 7/7 => 6/6
+
+Transguild Square
+rules_text: When this land enters, scry X, where X is the number of different colors of mana Gates you control could produce.
+{T}: Add {C}.
+{T}: Add one mana of any type that a Gate you control could produce. => When this land enters, scry X, where X is the number of Gates with different names you control plus 1.
+{T}: Add {C}.
+{T}: Add one mana of any type that a Gate you control could produce.
+
+Vault of the Paruns
+rules_text: When this artifact enters and whenever you cast a multicolored spell, choose one —
+• Create a 2/2 Citizen creature token that's all colors.
+• Draw a card.
+• You gain 3 life. => When this artifact enters and whenever you cast a multicolored spell, choose one that hasn't been chosen this turn —
+• Create a 2/2 Citizen creature token that's all colors.
+• Draw a card.
+• You gain 3 life.
+
+Backstreet Informant
+
+Protector of the Meek
+
+Conclave Sentinel
+
+Duskmantle Agent
+
+Rumbling Drake
+
+Thraka, Ire of the Wilds
+rules_text: This spell can't be countered.
+Trample, ward {4}
+Whenever this creature attacks, each creature you control rages X times, where X is the total number of creature and land cards in your graveyard. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i] => This spell can't be countered.
+Trample, ward {4}
+Whenever this creature attacks, put X +1/+1 counters on each creature you control, where X is the total number of creature and land cards in your graveyard.
+
+Saproling
+
+Zombie
+
+Zombie Star;
+
+Citizen
+
+Elemental
+
+Deadly Familiar
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+[i]Oblation 2[/i] — When this creature enters, you may pay 2 life. If you do, target creature you control gets +1/+0 and gains deathtouch and haste until end of turn. => Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+[i]Oblation 2[/i] — When this creature enters, you may pay 2 life. When you do, target creature you control gets +1/+0 and gains deathtouch and haste until end of turn.
+
+Lightning Rider
+
+Priest of the Old Ways
+rules_text: When this creature enters, target creature you control rages twice. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i] => When this creature enters, target creature you control rages. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+pt: 2/1 => 3/2
+
+Lightning Catalyst
+
+Maree, Nivix Grand Chamberlain
+
+Reload
+
+Factory Line
+
+Workshop Supervisor
+
+Bushfire Shaman
+rules_text: When this creature enters, destroy up to one target land. If a land you controlled was destroyed this way, search your library for up to two land cards, put them onto the battlefield tapped, then shuffle. Otherwise, you and its controller may search your libraries for a basic land card, put it onto the battlefield tapped, then shuffle. => When this creature enters, destroy up to one target land. If a land was destroyed this way, search your library for a basic land card, put it onto the battlefield tapped, then shuffle. That land's controller does the same.
+
+Ghor-Clan Charger
+
+Rakasht, Spawn of Ulasht
+
+Essence Shift
+
+Chosen of the Worldsoul
+
+Spore Waltz
+
+Circu, Butcher of Memories
+rules_text: Whenever you cast a spell, target player mills three cards. You may exile a nonland card from among the cards milled this way with a lobotomy counter on it. This ability triggers only once each turn.
+Your opponents can't cast spells with the same name as a card with a lobotomy counter on it.
+You may play cards with lobotomy counters on them from exile and mana of any type can be spent to cast them. => Whenever you cast a spell from your hand, target player mills three cards. You may exile a nonland card from among the cards milled this way with a lobotomy counter on it. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell. This ability triggers only once each turn.
+Your opponents can't cast spells with the same name as a card with a lobotomy counter on it.
+
+Incisive Reversal
+
+Sewer Grafter
+
+Unending Nightmare
+
+Cemetery Guardian
+rules_text: Flying
+[i]Oblation 3[/i] — When this creature enters, you may pay 3 life. If you do, exile target player's graveyard. Create a 1/1 black and white Spirit creature token with flying for each creature card exiled this way. => Flying
+[i]Oblation 3[/i] — When this creature enters, you may pay 3 life. When you do, exile target player's graveyard. Create a 1/1 black and white Spirit creature token with flying for each creature card exiled this way.
+
+Cruel Advokist
+
+Dispossession
+
+Milana, Orzhov High Prelate
+rules_text: At the beginning of your end step, if you gained or lost 3 or more life this turn, you may return target creature or enchantment card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it.
+{2}, {T}, Sacrifice another nonland permanent you control: You gain life equal to that permanent mana value. => At the beginning of your end step, if you gained or lost life this turn, return up to one target artifact, creature or enchantment if it has mana value X or less from your graveyard to the battlefield with a finality counter on it, where X is the amount of life you gained or lost this turn, whichever is greater.
+{T}, Sacrifice another nontoken nonland permanent you control: You gain life equal to that permanent mana value.
+pt: 2/4 => 2/3
+
+Subvert
+rules_text: Choose one —
+• The owner of target nonland permanent puts it on their choice of the top or bottom of their library.
+• Counter target creature or planeswalker spell.
+If you targeted a monocolored spell or permanent, surveil 2. => This spell costs {2} less to cast if it targets a monocolored spell or permanent.
+Choose one —
+• The owner of target nonland permanent puts it on their choice of the top or bottom of their library.
+• Counter target creature or planeswalker spell.
+
+Wild Stomper
+
+Hyper Space Time Bubble
+
+Factory Sentinel
+
+Heart of Cinders
+
+Flourishing Phytohydra
+
+Dimir Necrosage
+
+Coldhearted Cardinal
+rules_text: Flying, double strike
+[i]Oblation 4[/i] — When this creature enters, you may pay 4 life. If you do, target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles. => Flying, double strike
+[i]Oblation 4[/i] — When this creature enters, you may pay 4 life. When you do, target opponent reveals their hand. You choose a nonland card from that player's graveyard or hand. Search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.
+
+Fiery Form
+
+Gorz'Ghum, War Incense
+rules_text: If an effect causes you to discard one or more cards, you may exile them instead. Until end of turn, you may play those cards.
+Whenever you put one or more counters on a creature you control, it gets +1/+1 until end of turn. => Whenever you discard one or more cards, you may discard them into exile instead. Until end of turn, you may play those cards from exile.
+Whenever you put one or more +1/+1 counters on a creature you control, it gets +1/+1 until end of turn.
+
+Gravel-Hide Channeler
+
+Wrath Guildmage
+rules_text: {2}{RG}, {T}: Target creature you control rages. Activate only as a sorcery. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+{2}{R}{G}: Double the power and toughness of target attacking creature you control until end of turn. => {RG}, {T}: The next spell you cast this turn can't be countered.
+{2}{R}{G}: Double the power and toughness of target attacking creature you control until end of turn.
+
+Alcarus, Old Growth Protector
+rules_text: First strike, reach
+When this creature enters, create Durn'mir, a legendary 2/3 green and white Bird creature token with flying.
+Each creature you control with a +1/+1 counter on it has trample. => First strike, reach
+When this creature enters, create Durn'mir, a legendary 2/3 white Bird creature token with flying.
+Each creature you control with a +1/+1 counter on it has trample.
+
+Harmony Guildmage
+
+Poised to Strike
+
+Rootguard Loxodon
+
+Devotion Guildmage
+
+Priest of Purification
+
+The Cozen
+
+Innovation Guildmage
+
+Now
+rules_text: Surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Draw a card. => Draw a card.
+
+Rix Navven, Overcharged Brute
+
+Dimir Cutthroat
+
+Sleeper Spybug
+
+Violent Reshaping
+cost: {1}{U}{B} => {U}{B}
+rules_text: Target creature gets -8/-4 until end of turn. Target player mills three cards. => Up to one target creature gets -8/-4 until end of turn. Up to one target player mills three cards.
+
+Sharer of the Ichor
+rules_text: [i]Oblation 3[/i] — When this creature enters, you may pay 3 life. If you do, return target creature card with mana value 3 or less from your graveyard to the battlefield. => [i]Oblation 3[/i] — When this creature enters, you may pay 3 life. When you do, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+
+Door to Everywhere
+cost: {3} => {4}
+rules_text: When this artifact enters, search your library for a basic land card or a Gate card, put it onto the battlefield, then shuffle.
+Lands you control enter untapped.
+{5}, {T}: Target creature can't be blocked until end of turn. This ability costs {1} less to activate for each Gate you control. => When this artifact enters, search your library for a basic land or a Gate card, put it onto the battlefield, then shuffle.
+Gates you control enter untapped.
+{4}, {T}: Target creature can't be blocked until end of turn. This ability costs {1} less to activate for each Gate you control.
+
+Soldier
+
+Rhino
+
+Wurm
+
+Durn'mir
+
+Aspect of Uniformity
+cost: {3}{G}{GW}{W} => {4}{G}{W}
+
+Vengeful Return
+rules_text: Flash
+Enchant creature you control
+Enchanted creature gets +2/+0 and has lifelink.
+When enchanted creature dies, return it to the battlefield tapped under its owner's control. Each opponent loses 2 life. => Flash
+Enchant creature you control
+Enchanted creature gets +2/+0.
+When enchanted creature dies, return it to the battlefield tapped under its owner's control. Each opponent loses 2 life and you gain 2 life.
+
+Fairie
+
+Escalating Wrath
+
+Retriever of Secrets
+
+Centaur
+
+Druid of the Votary
+rules_text: This creature enters with two +1/+1 counters on it.
+During your turn, you and other creatures you control with a +1/+1 counter on them have hexproof.
+{1}{G}: Move a +1/+1 counter from target creature onto another target creature with the same controller. => This creature enters with two +1/+1 counters on it.
+During your turn, you and other creatures you control with a +1/+1 counter on them have hexproof.
+{1}{G}: Move a +1/+1 counter from target creature you control onto another target creature you control.
+
+Wasteful Inheritor
+rules_text: [i]Oblation 2[/i] — When this creature enters, you may pay 2 life. If you do, create two Treasure tokens.
+{1}, Sacrifice another creature or token: Surveil 1, then draw a card. => [i]Oblation 2[/i] — When this creature enters, you may pay 2 life. When you do, create two Treasure tokens.
+{1}, Sacrifice another creature or token: Surveil 1, then draw a card.
+
+Bat
+
+Emmara, Ancestral Caregiver
+
+Ayla, Harmony's Embrace
+
+Gheshval, Night's Mantle
+
+Profitable Demise
+rules_text: [i]Oblation 3[/i] — When this enchantment enters, you may pay 3 life. If you do, each opponent sacrifices a creature.
+Whenever you pay life and/or one or more creatures an opponent controls die, put that many blood counters on this enchantment.
+{1}{B}, Remove four blood counters from this enchantment: Draw a card. => [i]Oblation 3[/i] — When this enchantment enters, you may pay 3 life. When you do, each opponent sacrifices a creature.
+Whenever you pay life and/or one or more creatures an opponent controls die, put that many blood counters on this enchantment.
+{1}{B}, Remove four blood counters from this enchantment: Draw a card.
+
+Replicating Flare
+
+Manipulation Guildmage
+
+Vernadi Protector
+
+Due of the Powerless
+
+Mindflayer of the Dim
+cost: {7}{U}{B} => {5}{U}{UB}{B}
+rules_text: This spell can't be countered.
+Ward—Mill twenty cards.
+When this creature enters, and at the beginning of your upkeep, gain control of target permanent for as long as you control this creature.
+If this card would be put into a graveyard from anywhere, reveal it and shuffle it into its owner's library instead. => When this creature enters, choose one —
+• Gain control of target permanent. It gains hexproof and “At the beginning of your end step, this permanent's owner loses 1 life.”
+• Target player reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it. Cast a copy of it without paying its mana cost.
+pt: 8/8 => 7/7
+
+
+VERSION 50 CHANGELOG
 ====================
 
 
