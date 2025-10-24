@@ -427,7 +427,7 @@
             "number": 216,
             "color_identity": "WB",
             "cost": "{3}{W}{WB}{B}",
-            "rules_text": "Flying, lifelink\nWard\u2014Pay 4 life.\n[i][i]Oblation 6[/i][/i] \u2014 When this creature enters, if it was cast, you may pay 6 life. When you do, destroy each other creature.",
+            "rules_text": "Flying, lifelink\nWard\u2014Pay 4 life.\n[i][i]Oblation 6[/i][/i] \u2014 When this creature enters, you may pay 6 life. When you do, destroy each other creature.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",

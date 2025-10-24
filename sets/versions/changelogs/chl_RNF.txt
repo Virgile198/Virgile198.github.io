@@ -1,4 +1,17 @@
-﻿VERSION 52 CHANGELOG
+﻿VERSION 53 CHANGELOG
+====================
+
+
+
+Assessor of Worth
+rules_text: Flying, lifelink
+Ward—Pay 4 life.
+[i][i]Oblation 6[/i][/i] — When this creature enters, if it was cast, you may pay 6 life. When you do, destroy each other creature. => Flying, lifelink
+Ward—Pay 4 life.
+[i][i]Oblation 6[/i][/i] — When this creature enters, you may pay 6 life. When you do, destroy each other creature.
+
+
+VERSION 52 CHANGELOG
 ====================
 
 
