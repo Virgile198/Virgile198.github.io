@@ -1,4 +1,35 @@
-﻿VERSION 53 CHANGELOG
+﻿VERSION 54 CHANGELOG
+====================
+
+
+
+Ral, Thundering Genius
+rules_text: At the beginning of your first main phase, choose one —
+• When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. You may only cast one spell this turn.
+• Draw a card, then discard a card. Add {C}{U}{R}. This mana can't be spent to cast permanent spells. => At the beginning of your first main phase, choose one —
+• When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. You may only cast one spell this turn.
+• Draw a card, then discard a card. Add {U}{R}. This mana can't be spent to cast permanent spells.
+
+Thraka, Ire of the Wilds
+rules_text: This spell can't be countered.
+Trample, ward {4}
+Whenever this creature attacks, put X +1/+1 counters on each creature you control, where X is the total number of creature and land cards in your graveyard. => This spell can't be countered.
+Trample, ward {3}
+Whenever this creature attacks, put X +1/+1 counters on each creature you control, where X is the total number of creature and land cards in your graveyard.
+
+Lightning Rider
+type: Artifact Creature — Construct => Creature — Human Wizard
+rules_text: This spell costs {1} less to cast for each mana you spent to cast instant or sorcery spells this turn.
+Flying, haste => This spell costs {1} less to cast for each mana you spent to cast instant or sorcery spells this turn.
+Flying, haste
+When this creature enters, it deals 2 damage to any target.
+pt: 5/4 => 4/4
+
+Factory Sentinel
+pt: 4/3 => 4/4
+
+
+VERSION 53 CHANGELOG
 ====================
 
 
