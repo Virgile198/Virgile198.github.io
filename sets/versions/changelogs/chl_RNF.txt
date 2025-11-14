@@ -1,4 +1,64 @@
-﻿VERSION 54 CHANGELOG
+﻿VERSION 55 CHANGELOG
+====================
+
+
+
+Mizzium Cannon
+rules_text: This spell can't be countered.
+This spell deals [[b]5[/b]] damage to target creature or planeswalker you don't control. If that permanent would die this turn, exile it instead.
+Iterate {4}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => This spell can't be countered.
+This spell deals [[b]5[/b]] damage to target creature or planeswalker. If that permanent would die this turn, exile it instead.
+Iterate {4}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Cruel Robber
+
+Worldring Uroboros
+cost: {5}{G}{G}{GW}{W}{W} => {5}{G}{GW}{GW}{GW}{W}
+
+Thought Accelerator
+rules_text: Draw [[b]two[/b]] cards, then discard [[b]one[/b]] card(s).
+Iterate {4}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Draw [[b]two[/b]] cards, then discard [[b]one[/b]] card(s).
+Iterate {4}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Aether Condensator
+rules_text: Exile the top [[b]one[/b]] card(s) of your library. You may play cards exiled this way this turn.
+Iterate {1}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Exile the top [[b]one[/b]] card(s) of your library. You may play cards exiled this way this turn.
+Iterate {R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Prismatic Custodian
+
+Spirit
+
+Citizen
+
+Elemental
+
+Elf Knight
+
+Cemetery Guardian
+pt: 3/3 => 4/4
+
+Repurpose the Scraps
+rules_text: As an additional cost to cast this spell, discard [[b]one[/b]] card(s).
+Draw [[b]two[/b]] cards and create [[b]one[/b]] Treasure token(s).
+Iterate {4}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => As an additional cost to cast this spell, discard [[b]one[/b]] card(s).
+Draw [[b]two[/b]] cards and create [[b]one[/b]] Treasure token(s).
+Iterate {6}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Wurm
+
+Seventh District Scoundrel
+rules_text: When this creature enters, draw a card, then discard a card. You may draw a card instead if you control two or more Gates. => When this creature enters, if you control two or more Gates, draw two cards, then discard two cards. Otherwise, draw a card, then discard a card instead.
+
+Due of the Powerless
+rules_text: Artifacts, creatures and nonbasic land your opponents control enter tapped.
+Spells your opponents cast during your turn cost an additional 2 life to cast.
+Whenever an opponents loses life, you gain 1 life. => Artifacts, creatures and nonbasic land your opponents control enter tapped.
+Spells your opponents cast during your turn cost an additional 2 life to cast.
+Whenever an opponents loses life, you gain 1 life. [i](Damage causes loss of life.)[/i]
+
+
+VERSION 54 CHANGELOG
 ====================
 
 

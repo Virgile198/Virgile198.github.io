@@ -31,7 +31,7 @@
             "number": 105,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "This spell can't be countered.\nThis spell deals [[b]5[/b]] damage to target creature or planeswalker you don't control. If that permanent would die this turn, exile it instead.\nIterate {4}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
+            "rules_text": "This spell can't be countered.\nThis spell deals [[b]5[/b]] damage to target creature or planeswalker. If that permanent would die this turn, exile it instead.\nIterate {4}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -344,7 +344,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "Thomas Dumey",
+            "artist": "Meteorskies",
             "notes": ""
         },
         {
@@ -642,7 +642,7 @@
             "type": "Creature \u2014 Wurm",
             "number": 233,
             "color_identity": "WG",
-            "cost": "{5}{G}{G}{GW}{W}{W}",
+            "cost": "{5}{G}{GW}{GW}{GW}{W}",
             "rules_text": "This spell costs {1} less to cast for each counters among creatures you control.\nFlying, trample\nWhenever this creature enters or attacks, create a 5/5 green Wurm creature token with trample.\nIf this card would be put into a graveyard from anywhere, reveal it and shuffle it into its owner's library instead.",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
@@ -877,7 +877,7 @@
             "number": 56,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Draw [[b]two[/b]] cards, then discard [[b]one[/b]] card(s).\nIterate {4}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
+            "rules_text": "Draw [[b]two[/b]] cards, then discard [[b]one[/b]] card(s).\nIterate {4}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1021,7 +1021,7 @@
             "number": 88,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Exile the top [[b]one[/b]] card(s) of your library. You may play cards exiled this way this turn.\nIterate {1}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
+            "rules_text": "Exile the top [[b]one[/b]] card(s) of your library. You may play cards exiled this way this turn.\nIterate {R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1550,7 +1550,7 @@
             "shape": "normal",
             "set": "RNF",
             "loyalty": "",
-            "artist": "Strenerus",
+            "artist": "Moritz Lacusteanu",
             "notes": ""
         },
         {
@@ -2126,7 +2126,7 @@
             "shape": "token",
             "set": "RNF",
             "loyalty": "",
-            "artist": "youxiandaxia",
+            "artist": "Josh Hass",
             "notes": "!tag Orzhov;\n!token"
         },
         {
@@ -2216,7 +2216,7 @@
             "shape": "token",
             "set": "RNF",
             "loyalty": "",
-            "artist": "Rene Gross",
+            "artist": "Winona Nelson",
             "notes": "!token"
         },
         {
@@ -2234,7 +2234,7 @@
             "shape": "token",
             "set": "RNF",
             "loyalty": "",
-            "artist": "Sam Kanios",
+            "artist": "Mark Winters",
             "notes": "!tag Selesnya;\n!token"
         },
         {
@@ -2288,7 +2288,7 @@
             "shape": "token",
             "set": "RNF",
             "loyalty": "",
-            "artist": "lzfrusnckop",
+            "artist": "Tomasz Jedruszek",
             "notes": "!tag Selesnya;\n!token"
         },
         {
@@ -3115,7 +3115,7 @@
             "cost": "{3}{WB}{WB}",
             "rules_text": "Flying\n[i]Oblation 3[/i] \u2014 When this creature enters, you may pay 3 life. When you do, exile target player's graveyard. Create a 1/1 black and white Spirit creature token with flying for each creature card exiled this way.",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "4/4",
             "special_text": "",
             "shape": "normal",
             "set": "RNF",
@@ -3745,7 +3745,7 @@
             "number": 109,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "As an additional cost to cast this spell, discard [[b]one[/b]] card(s).\nDraw [[b]two[/b]] cards and create [[b]one[/b]] Treasure token(s).\nIterate {4}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
+            "rules_text": "As an additional cost to cast this spell, discard [[b]one[/b]] card(s).\nDraw [[b]two[/b]] cards and create [[b]one[/b]] Treasure token(s).\nIterate {6}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4592,7 +4592,7 @@
             "shape": "token",
             "set": "RNF",
             "loyalty": "",
-            "artist": "BEN-BEN-BEN",
+            "artist": "Anthony Palumbo",
             "notes": "!tag Selesnya;\n!token"
         },
         {
@@ -4775,7 +4775,7 @@
             "number": 51,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "When this creature enters, draw a card, then discard a card. You may draw a card instead if you control two or more Gates.",
+            "rules_text": "When this creature enters, if you control two or more Gates, draw two cards, then discard two cards. Otherwise, draw a card, then discard a card instead.",
             "flavor_text": "[i]\u201cAnother wonderful day robbing an Orzhov church!\u201d[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -5369,7 +5369,7 @@
             "number": 170,
             "color_identity": "WB",
             "cost": "{W}{B}",
-            "rules_text": "Artifacts, creatures and nonbasic land your opponents control enter tapped.\nSpells your opponents cast during your turn cost an additional 2 life to cast.\nWhenever an opponents loses life, you gain 1 life.",
+            "rules_text": "Artifacts, creatures and nonbasic land your opponents control enter tapped.\nSpells your opponents cast during your turn cost an additional 2 life to cast.\nWhenever an opponents loses life, you gain 1 life. [i](Damage causes loss of life.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5416,5 +5416,5 @@
             "notes": "!tag Dimir"
         }
     ],
-    "version": 54
+    "version": 55
 }
