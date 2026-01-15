@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "RAW",
+            "set_name": "",
+            "formats": ""
+        },
+        {
             "set_code": "RNF",
             "set_name": "Ravnica Fractured",
             "formats": ""
