@@ -889,439 +889,10 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Escaped Hellsteed",
         "number": 161,
         "shape": "normal",
         "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Lavinia the Just",
-        "number": 182,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Judith, the Bloody Deluge",
-        "number": 179,
-        "shape": "planeswalker",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Arbiter of Law",
-        "number": 216,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Rakdos Ragefest",
-        "number": 232,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Azorius Purifier",
-        "number": 148,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "The Curtain Falls",
-        "number": 155,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Durand, High Justicar",
-        "number": 159,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Gleeful Skinner",
-        "number": 170,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Futur Seer",
-        "number": 169,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Juri, Charismatic Performer",
-        "number": 180,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Incarcerate",
-        "number": 175,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Rix Maadi Abomination",
-        "number": 201,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Arrester Captain",
-        "number": 217,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Mindflare",
-        "number": 228,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Pursuit",
-        "number": 241,
-        "shape": "fuse split",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Unleash",
-        "number": 244,
-        "shape": "fuse split",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Binding Decree",
-        "number": 149,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Coerced Participation",
-        "number": 152,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Decipher the Chronology",
-        "number": 156,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Critics Hunter",
-        "number": 153,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Inquisitive Guardmage",
-        "number": 176,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Devastation in the Streets",
-        "number": 157,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Octave, Deputy of Discipline",
-        "number": 188,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Fired-Up Jester",
-        "number": 164,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Seal of Censure",
-        "number": 204,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Xaren, Rakdos Uncager",
-        "number": 214,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Order Guildmage",
-        "number": 231,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Chaos Guildmage",
-        "number": 218,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Denied",
-        "number": 238,
-        "shape": "fuse split",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Ball",
-        "number": 236,
-        "shape": "fuse split",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Peruse the Law",
-        "number": 191,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Havoc Bringer",
-        "number": 173,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Safeguard",
-        "number": 202,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Macabre Spectacle",
-        "number": 184,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Sphinx Lawbinder",
-        "number": 208,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Ring Fire Maniac",
-        "number": 200,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Magistrate's Pet",
-        "number": 227,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Splatterhouse Ravager",
-        "number": 233,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Erstwhile Awakener",
@@ -1342,10 +913,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Lavinia the Just",
+        "number": 182,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Judith, the Bloody Deluge",
+        "number": 179,
+        "shape": "planeswalker",
+        "set": "RAW"
     },
     {
         "card_name": "Zafen, Scheming Awakener",
@@ -1366,10 +943,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Arbiter of Law",
+        "number": 216,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Rakdos Ragefest",
+        "number": 232,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Voracious Deathstinger",
@@ -1390,10 +973,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Azorius Purifier",
+        "number": 148,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "The Curtain Falls",
+        "number": 155,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Amalgamate",
@@ -1414,10 +1003,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Durand, High Justicar",
+        "number": 159,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Gleeful Skinner",
+        "number": 170,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Festering Mass",
@@ -1438,10 +1033,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Futur Seer",
+        "number": 169,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Juri, Charismatic Performer",
+        "number": 180,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Lamiel, Deathsprout Cultivator",
@@ -1462,10 +1063,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Incarcerate",
+        "number": 175,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Rix Maadi Abomination",
+        "number": 201,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Putrefied Tutor",
@@ -1486,10 +1093,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Arrester Captain",
+        "number": 217,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Mindflare",
+        "number": 228,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Corpse-Pit Goliath",
@@ -1510,10 +1123,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Pursuit",
+        "number": 241,
+        "shape": "fuse split",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Unleash",
+        "number": 244,
+        "shape": "fuse split",
+        "set": "RAW"
     },
     {
         "card_name": "Remains",
@@ -1534,10 +1153,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Binding Decree",
+        "number": 149,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Coerced Participation",
+        "number": 152,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Fester",
@@ -1558,10 +1183,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Decipher the Chronology",
+        "number": 156,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Critics Hunter",
+        "number": 153,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Forsaken Loxodon",
@@ -1582,10 +1213,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Inquisitive Guardmage",
+        "number": 176,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Devastation in the Streets",
+        "number": 157,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Fungus Nursery",
@@ -1606,10 +1243,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Octave, Deputy of Discipline",
+        "number": 188,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Fired-Up Jester",
+        "number": 164,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Gutbloom Host",
@@ -1630,10 +1273,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Seal of Censure",
+        "number": 204,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Xaren, Rakdos Uncager",
+        "number": 214,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Lothran, Insatiable Troll",
@@ -1654,10 +1303,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Order Guildmage",
+        "number": 231,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Chaos Guildmage",
+        "number": 218,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Decay Guildmage",
@@ -1678,10 +1333,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Denied",
+        "number": 238,
+        "shape": "fuse split",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Ball",
+        "number": 236,
+        "shape": "fuse split",
+        "set": "RAW"
     },
     {
         "card_name": "Bitter",
@@ -1702,10 +1363,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Peruse the Law",
+        "number": 191,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Havoc Bringer",
+        "number": 173,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Inspect the Remains",
@@ -1726,10 +1393,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Safeguard",
+        "number": 202,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Macabre Spectacle",
+        "number": 184,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Mangled Rootgiant",
@@ -1750,10 +1423,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Sphinx Lawbinder",
+        "number": 208,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Ring Fire Maniac",
+        "number": 200,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Surging Horror",
@@ -1774,10 +1453,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Magistrate's Pet",
+        "number": 227,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Splatterhouse Ravager",
+        "number": 233,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Ochran Stalker",
@@ -1916,61 +1601,10 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
-    },
-    {
         "card_name": "Blood Crypt",
         "number": 260,
         "shape": "normal",
         "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Azorius Guildgate",
-        "number": 259,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Rakdos Guildgate",
-        "number": 267,
-        "shape": "normal",
-        "set": "RAW"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "Overgrown Tomb",
@@ -1991,10 +1625,16 @@
         "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Azorius Guildgate",
+        "number": 259,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
-        "card_name": "e"
+        "card_name": "Rakdos Guildgate",
+        "number": 267,
+        "shape": "normal",
+        "set": "RAW"
     },
     {
         "card_name": "Golgari Guildgate",
