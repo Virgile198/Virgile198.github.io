@@ -913,7 +913,7 @@
             "number": 30,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Vigilance\nWhen this creature enters, scry 1.\n{T}: Add {C}{U}. Spend this mana only to cast an instant spell or activate an ability of a creature source.",
+            "rules_text": "Vigilance\nWhen this creature enters, scry 2.\n{T}: Add {U}. Spend this mana only to cast an instant or sorcery spell or activate an ability of a creature source you control.",
             "flavor_text": "[i][/i]",
             "pt": "1/4",
             "special_text": "",

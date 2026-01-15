@@ -1,4 +1,17 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+
+
+Absorbed Attendant
+rules_text: Vigilance
+When this creature enters, scry 1.
+{T}: Add {C}{U}. Spend this mana only to cast an instant spell or activate an ability of a creature source. => Vigilance
+When this creature enters, scry 2.
+{T}: Add {U}. Spend this mana only to cast an instant or sorcery spell or activate an ability of a creature source you control.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 
