@@ -1,4 +1,105 @@
-﻿VERSION 55 CHANGELOG
+﻿VERSION 56 CHANGELOG
+====================
+
+
+
+Mossback Pulverizer
+rules_text: Trample
+Whenever this creature attacks, create 1/1 green Saproling creature token that's tapped and attacking.
+{2}, Sacrifice another creature: Put a +1/+1 counter on this creature. => Trample
+Whenever this creature attacks, create 1/1 green Saproling creature token that's tapped and attacking.
+{2}, Sacrifice a Saproling: Put a +1/+1 counter on this creature.
+
+Flowerbed Envoy's Call
+
+Blood-Drenched Spoil
+
+Transguild Square
+rules_text: When this land enters, scry X, where X is the number of Gates with different names you control plus 1.
+{T}: Add {C}.
+{T}: Add one mana of any type that a Gate you control could produce. => When this land enters, scry X, where X is the number of different colors of mana Gates you control could produce.
+{T}: Add {C}.
+{T}: Add one mana of any type that a Gate you control could produce.
+
+Custodian of the Guildpact
+rules_text: This creature is all colors.
+When this artifact enters, scry 2.
+{1}: Add one mana of any color. Activate only once each turn. => This artifact is all colors.
+When this artifact enters, scry 2.
+{1}: Add one mana of any color. Activate only once each turn.
+
+Blessing of Savagery
+rules_text: Put a +1/+1 counter on each creature you control. If it's your main phase, there is an additional combat phase after this phase followed by an additional main phase. When you next attack this turn, untap each creature you control. => Put a +1/+1 counter on each creature you control. Untap them. There is an additional combat phase after this phase followed by an additional main phase.
+
+Ram
+cost: {RG} => {RG}{RG}
+rules_text: Target creature you control fights another target creature. => Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.
+
+Examination
+
+Static Elemental
+rules_text: Defender [i](This creature can't attack.)[/i]
+Whenever you cast an instant or sorcery spell, this creature gains vigilance and can attack as though it didn't have defender until end of turn. => Defender [i](This creature can't attack.)[/i]
+As long as you've cast an instant or sorcery spell this turn, this creature can attack as though it didn't have defender.
+
+Zorin, Hiding in Plain Sight
+rules_text: Whenever you exile one or more cards from a graveyard, choose one. This ability triggers only once each turn.
+• Put a +1/+1 counter on this creature. Until end of turn, it cannot be blocked.
+• Up to one target creature you don't control gets -2/-1 and loses all abilities until end of turn. => Whenever you exile one or more cards from a graveyard, choose one. This ability triggers only once each turn.
+• Put a +1/+1 counter on this creature. It can't be blocked until end of turn.
+• Up to one target creature you don't control gets -2/-1 and loses all abilities until end of turn.
+
+Door to Everywhere
+cost: {4} => {3}
+rules_text: When this artifact enters, search your library for a basic land or a Gate card, put it onto the battlefield, then shuffle.
+Gates you control enter untapped.
+{4}, {T}: Target creature can't be blocked until end of turn. This ability costs {1} less to activate for each Gate you control. => When this artifact enters, search your library for a basic land or a Gate card, put it onto the battlefield, then shuffle.
+{5}, {T}: Target creature can't be blocked until end of turn. This ability costs {1} less to activate for each Gate you control.
+
+Rhino
+
+Aspect of Uniformity
+rules_text: You may have creatures you control enter as a copy of this creature.
+As long as you control six or more creatures named Aspect of Uniformity, creatures you control get +6/+6 and have double strike, vigilance, lifelink, trample, hexproof and indestructible. => You may have creatures you control enter as a copy of this creature.
+As long as you control six or more creatures names Aspect of Uniformity, creatures you control get +6/+6 and have double strike, vigilance, lifelink, trample, hexproof and indestructible.
+pt: 6/6 => 8/8
+
+Vengeful Return
+rules_text: Flash
+Enchant creature you control
+Enchanted creature gets +2/+0.
+When enchanted creature dies, return it to the battlefield tapped under its owner's control. Each opponent loses 2 life and you gain 2 life. => Flash
+Enchant creature you control
+Enchanted creature gets +2/+0.
+When enchanted creature dies, return it to the battlefield tapped under its owner's control with a +1/+1 counter on it. Each opponent loses 2 life and you gain 2 life.
+
+Writhing Amalgamate
+
+Blessing of Vitu-Ghazi
+rules_text: Enchant creature you control
+When this enchantment enters, create a 1/1 green Saproling creature token.
+Enchanted creature gets +1/+1 for each creature you control or each counter among creature you control, whichever is greater. => Enchant creature you control
+When this enchantment enters, create a 1/1 green Saproling creature token.
+Enchanted creature gets +1/+1 for each creature you control or each counter among creatures you control, whichever is greater.
+
+Memorable Feast
+rules_text: As an additional cost to cast this spell, sacrifice a creature or token.
+Draw two cards and you gain 2 life. => As an additional cost to cast this spell, sacrifice a creature or token.
+Draw two cards and you gain 3 life.
+
+Rousing Freemage
+
+Profitable Demise
+
+Due of the Powerless
+rules_text: Artifacts, creatures and nonbasic land your opponents control enter tapped.
+Spells your opponents cast during your turn cost an additional 2 life to cast.
+Whenever an opponents loses life, you gain 1 life. [i](Damage causes loss of life.)[/i] => Artifacts, creatures and nonbasic lands your opponents control enter tapped.
+Spells your opponents cast during your turn cost an additional 2 life to cast.
+Whenever an opponent loses life, you gain 1 life. [i](Damage causes loss of life.)[/i]
+
+
+VERSION 55 CHANGELOG
 ====================
 
 
