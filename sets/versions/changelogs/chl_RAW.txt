@@ -1,4 +1,20 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Diana, Passer of Judgment
+pt: 1/4 => 1/6
+
+Octave, Deputy of Discipline
+rules_text: Flying, ward {1}
+Whenever you cast a noncreature spell from your hand, create a 1/1 white and blue Bird creature token with flying.
+Whenever you cast a noncreature spell from exile, create a 4/4 white and blue Sphinx creature token with flying and vigilance. => Flying
+Whenever you cast a noncreature spell from your hand, create a 1/1 white and blue Bird creature token with flying.
+Whenever you cast a noncreature spell from exile, create a 4/4 white and blue Sphinx creature token with flying and vigilance.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 
