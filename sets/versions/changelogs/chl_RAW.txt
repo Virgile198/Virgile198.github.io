@@ -1,4 +1,38 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Furious Upheaval
+rules_text: Choose one or both —
+• Destroy target artifact.
+• Destroy target creature with defender.
+• Create two 1/1 white Human creature tokens. => Choose two —
+• Destroy up to one target artifact.
+• Destroy up to one target creature with defender.
+• Create two 1/1 white Human creature tokens.
+
+Krenko's Ransack
+cost: {3}{R} => {2}{R}{R}
+rules_text: Choose one —
+• Create three 1/1 red Goblin creature tokens.
+• Discard your hand. You draw three cards. => Choose one —
+• Destroy target land.
+• Create three 1/1 red Goblin creature tokens.
+• Discard a card, then draw two cards and create a Treasure token.
+
+Juri, Charismatic Performer
+rules_text: At the beginning of your end step, you may sacrifice a nonland permanent. When you do, choose one —
+• You draw a card, create a Treasure token and lose 2 life.
+• Put two +1/+1 counters on Juri and you gain 2 life. => At the beginning of your end step, you may sacrifice a creature. When you do, choose one —
+• Draw a card and create a Treasure token. You gain 1 life.
+• Put two +1/+1 counters on Juri. You gain 1 life.
+
+Devastation in the Streets
+type: Sorcery => Instant
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

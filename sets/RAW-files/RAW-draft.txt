@@ -1113,7 +1113,7 @@
 		{
 			"name": "Krenko's Ransack",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "104",
 			"image_uris": {
@@ -1734,7 +1734,7 @@
 			"name": "Devastation in the Streets",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "157",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/157_Devastation in the Streets.png"
