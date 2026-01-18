@@ -1733,8 +1733,8 @@
 		{
 			"name": "Devastation in the Streets",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Instant",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
 			"collector_number": "157",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/157_Devastation in the Streets.png"

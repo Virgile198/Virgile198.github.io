@@ -1,4 +1,57 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Reprocess Essence
+rules_text: Counter target creature or planeswalker spell. Put two +1/+1 counters on up to one target creature you control. Untap it. => Counter target creature or planeswalker spell. Put two +1/+1 counters on up to one target creature you control.
+
+Undercity Cleaner
+rules_text: When this creature enters, you may sacrifice another creature or token. If you do, put a +1/+1 counter on it and draw a card. => When this creature enters, you may sacrifice another creature or token. If you do, put a +1/+1 counter on this creature and draw a card.
+
+Daughter of Stone Death
+rules_text: When this creature enters, other creature gets -2/-2 until end of turn.
+{1}{B}, Discard this card: Target creature gets -2/-2 until end of turn.
+Swarm {3}{B} [i]({3}{B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i] => When this creature enters, other creatures get -2/-2 until end of turn.
+{1}{B}, Discard this card: Target creature gets -2/-2 until end of turn.
+Swarm {3}{B} [i]({3}{B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i]
+
+Mangled Rootgiant
+rules_text: Reach, trample
+When this creature enters, mill four cards and you gain 4 life. => Reach, trample
+When this creature enters, you gain 3 life and surveil 3.
+
+Sunhome Defender
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Vigilance, reach [i](Attacking doesn't cause this creature to tap. This creature can block creatures with flying.)[/i] => Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+
+Devastation in the Streets
+type: Instant => Sorcery
+cost: {2}{B}{R} => {1}{B}{R}
+rules_text: Chose one —
+• Destroy target artifact.
+• Destroy target creature.
+• Destroy target planeswalker.
+• Destroy target land. => Chose one —
+• Destroy target artifact.
+• Destroy target creature.
+• Destroy target planeswalker.
+
+Crypsis Clade Agent
+pt: 2/2 => 2/1
+
+Ravnican Omnicompass
+rules_text: This artifact is all colors.
+Gates you control enter untapped.
+If you control two or more Gates with different names, creatures you control get +1/+1 and have vigilance.
+If you control five or more Gates with different names, creatures you control get +3/+3 and have trample. => This artifact is all colors.
+Gates you control enter untapped.
+If you control two or more Gates with different names, creatures you control get +1/+1 and have vigilance.
+If you control five or more Gates with different names, creatures you control get +4/+4 and have trample.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
