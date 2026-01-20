@@ -1,4 +1,33 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Lavinia, the Just added.
+Zafen, Scheming Necromancer added.
+Lothran, the Glouton added.
+
+Lavinia the Just removed.
+Zafen, Scheming Awakener removed.
+Lothran, Insatiable Troll removed.
+
+Aethermage's Contempt
+rules_text: Choose one —
+• The owner of target nonland permanent puts it on top of their library or on the bottom.
+• Return up to three target attacking creatures to their owner's hand. => Choose one —
+• The owner of target nonland permanent puts it on top of their library or on the bottom.
+• Return up to two target attacking creatures to their owner's hand.
+
+Circle Headliner
+pt: 3/1 => 2/1
+
+Rakdos Excrutiator
+rules_text: This spell can't be countered.
+Ward—Pay 2 life.
+Damaged can't be prevented and players can't gain life. => Your opponents can't gain life.
+Damage can't be prevented.
+Spells and abilities you control that target one or more creatures you don't control and/or one or more of your opponent can't be countered.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

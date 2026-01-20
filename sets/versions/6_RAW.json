@@ -967,7 +967,7 @@
             "number": 31,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Choose one \u2014\n\u2022 The owner of target nonland permanent puts it on top of their library or on the bottom.\n\u2022 Return up to three target attacking creatures to their owner's hand.",
+            "rules_text": "Choose one \u2014\n\u2022 The owner of target nonland permanent puts it on top of their library or on the bottom.\n\u2022 Return up to two target attacking creatures to their owner's hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1635,7 +1635,7 @@
             "cost": "{1}{R}",
             "rules_text": "[i]Performance[/i] \u2014 Whenever this creature attacks, you may put a +1/+1 counter on it and exile the top card of your library. You may play that card until the end of your next turn. If you do, sacrifice it at the beginning of the next end step.\nWhen this creature dies, create a Treasure token.",
             "flavor_text": "[i][/i]",
-            "pt": "3/1",
+            "pt": "2/1",
             "special_text": "",
             "shape": "normal",
             "set": "RAW",
@@ -1867,7 +1867,7 @@
             "number": 106,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "This spell can't be countered.\nWard\u2014Pay 2 life.\nDamaged can't be prevented and players can't gain life.",
+            "rules_text": "Your opponents can't gain life.\nDamage can't be prevented.\nSpells and abilities you control that target one or more creatures you don't control and/or one or more of your opponent can't be countered.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3030,7 +3030,7 @@
             "notes": "!tag Boros"
         },
         {
-            "card_name": "Lavinia the Just",
+            "card_name": "Lavinia, the Just",
             "color": "WU",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Human Soldier",
@@ -4748,7 +4748,7 @@
             "notes": "!tag Golgari"
         },
         {
-            "card_name": "Zafen, Scheming Awakener",
+            "card_name": "Zafen, Scheming Necromancer",
             "color": "BG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2014 Human Shaman",
@@ -4802,7 +4802,7 @@
             "notes": "!tag Golgari"
         },
         {
-            "card_name": "Lothran, Insatiable Troll",
+            "card_name": "Lothran, the Glouton",
             "color": "BG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Zombie Troll",

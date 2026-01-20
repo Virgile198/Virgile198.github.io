@@ -1681,13 +1681,13 @@
 			}
 		},
 		{
-			"name": "Lavinia the Just",
+			"name": "Lavinia, the Just",
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/182_Lavinia the Just.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/182_Lavinia, the Just.png"
 			}
 		},
 		{
@@ -2591,13 +2591,13 @@
 			}
 		},
 		{
-			"name": "Zafen, Scheming Awakener",
+			"name": "Zafen, Scheming Necromancer",
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/215_Zafen, Scheming Awakener.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/215_Zafen, Scheming Necromancer.png"
 			}
 		},
 		{
@@ -2621,13 +2621,13 @@
 			}
 		},
 		{
-			"name": "Lothran, Insatiable Troll",
+			"name": "Lothran, the Glouton",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Zombie Troll",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/183_Lothran, Insatiable Troll.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/183_Lothran, the Glouton.png"
 			}
 		},
 		{
@@ -2991,7 +2991,7 @@
 	5 Tajic, Boros Examplar
 	5 On Wings of Fury
 	5 Radiant Champion
-	5 Lavinia the Just
+	5 Lavinia, the Just
 	5 Arbiter of Law
 	5 Judgment of Balance
 	5 Juri, Charismatic Performer
@@ -3028,7 +3028,7 @@
 	5 Plaza's Omenpath
 	5 Sacred Foundry
 	5 Erstwhile Awakener
-	5 Zafen, Scheming Awakener
+	5 Zafen, Scheming Necromancer
 	5 Voracious Deathstinger
 	5 Corpse-Pit Goliath
 	5 Festering Mass
@@ -3120,7 +3120,7 @@
 	5 Ageless Scholar
 	5 Gatekeeper Golem
 	5 Decrepit Gargoyle
-	5 Lothran, Insatiable Troll
+	5 Lothran, the Glouton
 	5 Denied
 	5 Coerced Participation
 [common(10)]
