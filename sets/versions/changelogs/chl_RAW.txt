@@ -1,4 +1,101 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Eidolon's Vision
+rules_text: Draw three cards, then put a card from your hand on the top of your library in any order.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand. => Draw four cards, then put two cards from your hand on the top of your library in any order.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand.
+
+Jubilent Sewer Cook
+rules_text: When this creature enters, mill two cards and you gain 2 life.
+Swarm {3}{B} [i]({3}{B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i] => When this creature enters, mill two cards and you gain 2 life.
+Swarm {3}{B} [i]({3}{B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i]
+
+Swarm Broodmother
+rules_text: Flying
+Swarm {5}{B} [i]({5}{B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i] => Flying
+Swarm {5}{B} [i]({5}{B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i]
+
+Daughter of Stone Death
+rules_text: When this creature enters, other creatures get -2/-2 until end of turn.
+{1}{B}, Discard this card: Target creature gets -2/-2 until end of turn.
+Swarm {3}{B} [i]({3}{B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i] => When this creature enters, other creatures get -2/-2 until end of turn.
+{1}{B}, Discard this card: Target creature gets -2/-2 until end of turn.
+Swarm {4}{B} [i]({4}{B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i]
+
+Swarm Evangel
+rules_text: Deathtouch, lifelink
+Swarm {B} [i]({B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i] => Deathtouch, lifelink
+Swarm {B} [i]({B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i]
+
+Eidolon's Impetus
+
+Gate Bulwark
+type: Creature — Elf Warrior => Creature — Giant Warrior
+pt: 5/8 => 7/6
+
+Undercity Ravager
+rules_text: Reach
+When this creature enters, you gain 4 life.
+Swarm {7}{G} [i]({7}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i] => Reach
+When this creature enters, you gain 4 life.
+Swarm {7}{G} [i]({7}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i]
+
+Woodwraith Behemoth
+cost: {2}{G}{G} => {3}{G}{G}
+rules_text: This creature's power and toughness are each equal to the number of lands you control.
+Swarm {5}{G}{G} [i]({5}{G}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i] => This creature's power and toughness are each equal to the total number of lands you control and lands cards in your graveyard.
+Swarm {6}{G}{G} [i]({6}{G}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i]
+
+Deathbloom Mandrake
+rules_text: Reach
+Whenever another creature you control dies or one or more cards leave your graveyard, put a +1/+1 counter on this creature.
+Swarm {3}{G} [i]({3}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i] => Reach
+Whenever another creature you control dies or one or more cards leave your graveyard, put a +1/+1 counter on this creature.
+Swarm {4}{G} [i]({4}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i]
+
+Eidolon's Genesis
+
+Surging Horror
+rules_text: Haste
+This creature can't be blocked by more than one creature.
+Swarm {2}{B}{G} [i]({2}{B}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i] => Haste
+This creature can't be blocked by more than one creature.
+Swarm {2}{B}{G} [i]({2}{B}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i]
+
+Forsaken Loxodon
+rules_text: Trample
+This creature's power is equal to the number of creature cards in your graveyard or the number of creatures you control, whichever is greater.
+Swarm {4}{B}{G} [i]({4}{B}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i] => Trample
+This creature's power is equal to the number of creature cards in your graveyard or the number of creatures you control, whichever is greater.
+Swarm {3}{B}{G} [i]({3}{B}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i]
+pt: */4 => */3
+
+Voracious Deathstinger
+rules_text: Trample, indestructible
+Whenever this creature attacks or blocks, each player sacrifices a creature. You gain life equal to the total toughness of creatures sacrificed this way.
+Swarm {8}{B}{G} [i]({8}{B}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i] => Trample, indestructible
+Whenever this creature attacks or blocks, each player sacrifices a creature. You gain life equal to the total toughness of creatures sacrificed this way.
+Swarm {10}{B}{G} [i]({10}{B}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i]
+
+Festering Mass
+rules_text: Deathtouch
+Each creature card in your graveyard has swarm. The swarm cost is equal to its mana cost. [i](Exile a creature card from your graveyard and pay its mana cost: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i]
+{BG}{BG}, Sacrifice another creature: Put a +1/+1 counter on each creature you control. => Deathtouch
+Each creature card in your graveyard has swarm. The swarm cost is equal to its mana cost. [i](Exile a creature card from your graveyard and pay its mana cost: Create a number of 1/1 black and green Insect creature tokens equal to that creature's toughness. Swarm only as a sorcery.)[/i]
+{BG}{BG}, Sacrifice another creature: Put a +1/+1 counter on each creature you control.
+pt: 3/5 => 3/4
+
+Infested Maneater
+rules_text: Reach
+Swarm {5}{G} [i]({5}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature toughness. Swarm only as a sorcery.)[/i] => Reach
+Swarm {3}{G} [i]({3}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i]
+pt: 3/3 => 3/2
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Lavinia, the Just added.

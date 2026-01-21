@@ -1194,7 +1194,7 @@
 			"name": "Gate Bulwark",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Elf Warrior",
+			"type": "Creature — Giant Warrior",
 			"collector_number": "126",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/126_Gate Bulwark.png"
@@ -1293,7 +1293,7 @@
 		{
 			"name": "Woodwraith Behemoth",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Elemental Horror",
 			"collector_number": "145",
 			"image_uris": {
