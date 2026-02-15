@@ -1,4 +1,33 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Daughter of Stone Death
+cost: {4}{B} => {3}{B}{B}
+
+Deceitful Guide
+cost: {3}{B}{B} => {4}{B}
+
+Undercity Ravager
+rules_text: Reach
+When this creature enters, you gain 4 life.
+Swarm 3—{4}{G} [i]({4}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => Reach
+When this creature enters, you gain 4 life.
+Swarm 3—{3}{G}{G} [i]({3}{G}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+
+Woodwraith Behemoth
+rules_text: Creature tokens you control and creatures you control with a +1/+1 counter on them have “{T}: Add one mana of any color”.
+Whenever you tap a creature for mana, add one mana of any color.
+Swarm 3—{4}{G} [i]({4}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => Creature tokens you control and creatures you control with a +1/+1 counter on them have “{T}: Add one mana of any color”.
+Whenever you tap a creature for mana, add one mana of any color.
+Swarm 3—{3}{G}{G} [i]({3}{G}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+
+Macabre Spectacle
+rules_text: This spell deals 5 damage to target creature or planeswalker. If a permanent you control dealt damage this way would die this turn, draw two cards and create a Treasure token. => This spell deals 4 damage to target creature or planeswalker. Excess damage is dealt to that permanent's controller instead. You gain life equal to the excess damage dealt this way.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Experiment Twenty-Six added.

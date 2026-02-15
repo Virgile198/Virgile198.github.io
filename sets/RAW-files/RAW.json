@@ -1128,7 +1128,7 @@
             "type": "Creature \u2014 Gorgon Assassin",
             "number": 62,
             "color_identity": "B",
-            "cost": "{4}{B}",
+            "cost": "{3}{B}{B}",
             "rules_text": "When this creature enters, other creatures get -2/-2 until end of turn.\n{1}{B}, Discard this card: Target creature gets -2/-2 until end of turn.\nSwarm 2\u2014{2}{B} [i]({2}{B}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/3",
@@ -1200,7 +1200,7 @@
             "type": "Creature \u2014 Gorgon Assassin",
             "number": 65,
             "color_identity": "B",
-            "cost": "{3}{B}{B}",
+            "cost": "{4}{B}",
             "rules_text": "When this creature enters, sacrifice any number of creatures you control. For each creature sacrificed this way, choose one \u2014\n\u2022 Target player discards a card.\n\u2022 Target player draws a card and lose 1 life.\n\u2022 Target creature gets -2/-2 until end of turn.",
             "flavor_text": "[i]\u201cMy collection grows evermore.\u201d[/i]",
             "pt": "4/3",
@@ -1921,7 +1921,7 @@
             "number": 143,
             "color_identity": "G",
             "cost": "{5}{G}",
-            "rules_text": "Reach\nWhen this creature enters, you gain 4 life.\nSwarm 3\u2014{4}{G} [i]({4}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]",
+            "rules_text": "Reach\nWhen this creature enters, you gain 4 life.\nSwarm 3\u2014{3}{G}{G} [i]({3}{G}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "7/5",
             "special_text": "",
@@ -2083,7 +2083,7 @@
             "number": 145,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
-            "rules_text": "Creature tokens you control and creatures you control with a +1/+1 counter on them have \u201c{T}: Add one mana of any color\u201d.\nWhenever you tap a creature for mana, add one mana of any color.\nSwarm 3\u2014{4}{G} [i]({4}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]",
+            "rules_text": "Creature tokens you control and creatures you control with a +1/+1 counter on them have \u201c{T}: Add one mana of any color\u201d.\nWhenever you tap a creature for mana, add one mana of any color.\nSwarm 3\u2014{3}{G}{G} [i]({3}{G}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -2371,7 +2371,7 @@
             "number": 184,
             "color_identity": "BR",
             "cost": "{1}{B}{R}",
-            "rules_text": "This spell deals 5 damage to target creature or planeswalker. If a permanent you control dealt damage this way would die this turn, draw two cards and create a Treasure token.",
+            "rules_text": "This spell deals 4 damage to target creature or planeswalker. Excess damage is dealt to that permanent's controller instead. You gain life equal to the excess damage dealt this way.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5416,5 +5416,5 @@
             "notes": "!tag Azorius"
         }
     ],
-    "version": 8
+    "version": 9
 }
