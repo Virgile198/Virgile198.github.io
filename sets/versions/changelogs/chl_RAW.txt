@@ -1,4 +1,700 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Experiment Twenty-Six added.
+Time Typhoon added.
+Stage Cleaner added.
+Cytoplasm Carrier added.
+Smog Predator added.
+Redo added.
+Rotten Banquet added.
+Feral Experiment added.
+
+Experiment Ten removed.
+Time Manipulation removed.
+Rakdos Pit Fighter removed.
+Rot Garden removed.
+Rugged Cutthroat removed.
+Undergrowth's Blessing removed.
+Infested removed.
+Corrosive Experiment removed.
+
+Boros Standard Bearer
+rules_text: During your turn, this creature has first strike.
+When this creature enters, scry 2. => Vigilance
+During your turn, this creature has first strike.
+When this creature dies, create a 1/1 red and white Soldier creature token.
+pt: 1/2 => 1/1
+
+Firemane Protector
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Flying, vigilance
+When this creature enters, you gain 3 life. => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+Flying
+When this creature enters, you gain 3 life.
+
+Gate Physician
+pt: 2/4 => 3/3
+
+Guildpact Faithful
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Prevent all damage from monocolored sources that would be dealt to this creature. => Hexproof from monocolored [i](This creature can't be the target of monocolored spells or abilities your opponents control.)[/i]
+pt: 4/4 => 5/4
+
+Shield of Compassion
+rules_text: Flash
+Enchant creature
+When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. 
+Enchanted creature gets +0/+3. => Flash
+Enchant creature
+When this Aura enters, enchanted creature gains hexproof and indestructible until end of turn. 
+Enchanted creature gets +0/+3 and can block an additional creature.
+
+Press the Advantage
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Creatures you control get +2/+1 until end of turn. => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+Creatures you control get +2/+1 until end of turn.
+
+Aurelia's Judgment
+cost: {8}{W}{W}{W} => {7}{W}{W}
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+If five or more creatures attacked this turn, creatures you control gain indestructible until end of turn.
+Destroy all creatures. => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+If five or more creatures attacked this turn, creatures you control gain indestructible until end of turn.
+Destroy all creatures.
+
+Outmatch
+rules_text: Choose one —
+• Destroy target tapped creature.
+• Put a +1/+1 counter on each of up to two creatures you control. They gain vigilance until end of turn. => Choose one —
+• Destroy target tapped creature.
+• Put a +1/+1 counter on each of up to two target creatures you control. They gain vigilance until end of turn.
+
+Express Mandate
+rules_text: Flash
+Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. => Flash
+Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+
+Benthic Protector
+rules_text: Implant {1}{U} [i]({1}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. Cast this card on a later turn.)[/i]
+During your turn, this creature has hexproof. => Implant {1}{U} [i]({1}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+During your turn, this creature has hexproof.
+
+Raskal Parfumist
+rules_text: Flash
+Flying
+Whenever you cast an instant or sorcery spell, any number of target players each mill a card. => Flash
+Flying
+Whenever you activate an ability that's not a mana ability, target player mills two cards. This ability triggers only once each turn.
+
+Fin Clade Guardian
+rules_text: Implant {2}{U} [i]({2}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. Cast this card on a later turn.)[/i]
+Flying, vigilance => Implant {2}{U} [i]({2}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Flying, vigilance
+
+Spliced Guardian
+rules_text: When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+{3}{G}: Put a +1/+1 counter on this creature. => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+{2}{G}, Remove a +1/+1 counter from a creature you control: Draw a card.
+
+Void Wave
+rules_text: Chose one —
+• Return target creature to its owners hand.
+• Draw two cards, then discard a card. => This spell costs {2} less to cast if it targets an attacking creature.
+Return target creature to its owner's hand. Scry 2.
+
+Fluxfeather Eagle
+rules_text: Flash
+Flying
+Whenever you cast a noncreature spell or activate an ability from your hand, you may pay {2}{U}. If you do, create a token that's a copy of this creature. => Flash
+Flying
+Whenever you activate an ability that's not a mana ability, you may pay {2}{U}. When you do, create a token that's a copy of this creature.
+
+Elusive Biomage
+rules_text: Implant {1}{U} [i]({1}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. Cast this card on a later turn.)[/i]
+This creature can't be blocked. => Implant {2}{U} [i]({2}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+This creature can't be blocked.
+
+Absorbed Attendant
+rules_text: Vigilance
+When this creature enters, scry 2.
+{T}: Add {U}. Spend this mana only to cast an instant or sorcery spell or activate an ability of a creature source you control. => When this creature enters, scry 2.
+{T}: Add {U}. Spend this mana only to cast a spell from exile.
+{T}: Add {C}{U}. Spend this mana only to activate an ability.
+pt: 1/4 => 1/5
+
+Lawmage Familliar
+type: Creature => Creature — Bird
+rules_text: Flying
+{U}, Sacrifice this creature: Counter target noncreature spell or ability unless its controller pays {2}. => Flash
+Flying
+{U}, Sacrifice this creature: Counter target noncreature spell or ability unless its controller pays {2}.
+
+Eidolon's Vision
+rules_text: Draw four cards, then put two cards from your hand on the top of your library in any order.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand. => Draw two cards.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand.
+
+Carnarium Acrobat
+rules_text: Deathtouch
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and draw a card and lose 1 life. If you do, sacrifice it at the beginning of the next end step. => Deathtouch
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it, draw a card and lose 1 life. If you do, sacrifice it at the beginning of the next end step.
+pt: 2/2 => 3/1
+
+Jubilent Sewer Cook
+rules_text: When this creature enters, mill two cards and you gain 2 life.
+Swarm {3}{B} [i]({3}{B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i] => When this creature enters, mill two cards and you gain 2 life.
+Swarm 1—{B} [i]({B}, Exile this card from your graveyard: Create a 1/1 black and green Insect creature token. Swarm only as a sorcery.)[/i]
+
+Swarm Broodmother
+rules_text: Flying
+Swarm {5}{B} [i]({5}{B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i] => Flying
+Swarm 3—{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+pt: 3/3 => 3/4
+
+Undercity Cleaner
+rules_text: When this creature enters, you may sacrifice another creature or token. If you do, put a +1/+1 counter on this creature and draw a card. => When this creature enters, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature and draw a card.
+
+Reap
+type: Sorcery => Instant
+
+The Show Never Ends
+rules_text: Return up to two target creature cards from your graveyard to your hand. Your opponents lose 1 life for each creature card returned this way that was put into your graveyard this turn. => Choose one —
+• Search your library for up to two creature cards with total mana value six or less, put them into your graveyard, then shuffle.
+• Return up to two target creature cards from your graveyard to your hand.
+
+Skull Clamper Parasite
+
+Daughter of Stone Death
+rules_text: When this creature enters, other creatures get -2/-2 until end of turn.
+{1}{B}, Discard this card: Target creature gets -2/-2 until end of turn.
+Swarm {4}{B} [i]({4}{B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i] => When this creature enters, other creatures get -2/-2 until end of turn.
+{1}{B}, Discard this card: Target creature gets -2/-2 until end of turn.
+Swarm 2—{2}{B} [i]({2}{B}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+
+Swarm Evangel
+rules_text: Deathtouch, lifelink
+Swarm {B} [i]({B}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i] => Deathtouch, lifelink
+Swarm 1—{B} [i]({B}, Exile this card from your graveyard: Create a 1/1 black and green Insect creature token. Swarm only as a sorcery.)[/i]
+
+Deceitful Guide
+type: Creature — Gorgon Rogue => Creature — Gorgon Assassin
+cost: {4}{B} => {3}{B}{B}
+rules_text: Menace
+When this creature enters, target opponent reveals their hand and you choose a nonland card from it. Exile that card and all cards that shares a name with it in that player's graveyard. You gain 1 life for each card exiled this way. => When this creature enters, sacrifice any number of creatures you control. For each creature sacrificed this way, choose one —
+• Target player discards a card.
+• Target player draws a card and lose 1 life.
+• Target creature gets -2/-2 until end of turn.
+pt: 5/4 => 4/3
+
+Vengeful Hands
+cost: {3}{B} => {2}{B}{B}
+rules_text: This spell costs {1} less to cast for each creature that died this turn.
+Exile target creature. => This spell costs {1} less to cast for each creature that died this turn.
+Exile target creature or planeswalker.
+
+Deadly Spore Storm
+type: Sorcery => Instant
+rules_text: Choose one —
+• Target creature gets -5/-5 until end of turn.
+• Each creature gets -1/-1 until end of turn. You gain 1 life for each creature you controlled that died this way. => Choose one —
+• Target creature gets -4/-4 until end of turn.
+• Each creature gets -1/-1 until end of turn.
+
+Boros Phalanx
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+When this creature enters, it deals 2 damage to target opponent or planeswalker. => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+When this creature enters, it deals 3 damage to target opponent or planeswalker.
+
+Just Strike
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Target creature gets +3/+0 and gains first strike until end of turn. => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+Target creature gets +3/+0 and gains first strike until end of turn.
+
+Subjugate
+rules_text: Enchant creature
+When this Aura enters, target creature and target monocolored creature can't block this turn.
+Enchanted creature gets +1/+1 and has haste. => Enchant creature
+When this Aura enters, target creature and up to one target monocolored creature can't block this turn.
+Enchanted creature gets +1/+1 and has haste.
+
+Furious Upheaval
+rules_text: Choose two —
+• Destroy up to one target artifact.
+• Destroy up to one target creature with defender.
+• Create two 1/1 white Human creature tokens. => Choose up to two —
+• Destroy target artifact.
+• Destroy target creature with defender.
+• Create two 1/1 white Human creature tokens.
+
+Firstblade Lieutenant
+rules_text: Attacking creatures you control get +1/+0.
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token gains haste until end of turn and attacks this combat if able. => First strike
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token gains haste until end of turn and attacks this combat if able.
+{2}{R}: Creatures you control get +1/+0 until end of turn.
+
+Flame-kin Commander
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+When this creature enters or dies, it deals X damage divided as you chose among any number of targets, where X is the number of creatures you control or the highest power among creatures you control, whichever is greater. => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+When this creature enters or dies, it deals X damage divided as you chose among any number of targets, where X is the number of creatures you control or the highest power among creatures you control, whichever is greater.
+
+Rakdos Excrutiator
+rules_text: Your opponents can't gain life.
+Damage can't be prevented.
+Spells and abilities you control that target one or more creatures you don't control and/or one or more of your opponent can't be countered. => Your opponents can't gain life.
+Damage can't be prevented.
+Spells and abilities you control that target one or more permanents you don't control and/or one or more of your opponent can't be countered.
+
+Shackled Blooddrake
+rules_text: Flying
+[i]Performance[/i] — Whenever this creature attacks, you may put two +1/+1 counters on it and have it gain menace. If you do, sacrifice it at the beginning of the next end step. => Menace
+[i]Performance[/i] — Whenever this creature attacks, you may put two +1/+1 counters on it and have it gain flying. If you do, sacrifice it at the beginning of the next end step.
+
+Welcoming Ringleader
+rules_text: When this creature enters or dies, create a 1/1 red Devil creature token with “when this creature dies, it deals 1 damage to any target”.
+Whenever this creature attacks, another target creature you control gets +1/+0 until end of turn. => When this creature enters or dies, create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target”.
+Whenever this creature attacks, target creature you control gets +1/+0 until end of turn.
+
+Fiery Comeuppance
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+This spells deals 4 damage to target creature or planeswalker.
+If a permanent dealt damage by this spell would die this turn, exile it instead. => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+This spells deals 4 damage to target creature or planeswalker.
+If a permanent dealt damage by this spell would die this turn, exile it instead.
+
+Uncontained Hulk
+rules_text: When this creature enters, put a +1/+1 counter on target creature you control.
+Whenever this creature dies, put its counters on up to one target creature you control. => When this creature enters, put a +1/+1 counter on target creature you control and you gain 1 life.
+Whenever this creature dies, put its counters on up to one target creature you control.
+
+Golgari Rotseer
+
+Hound Krasis
+rules_text: Implant {1}{G} [i]({1}{G}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. Cast this card on a later turn.)[/i]
+Vigilance, haste => Implant {1}{G} [i]({1}{G}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Vigilance, haste
+
+Anglershark Krasis
+rules_text: Implant {2}{G} [i]({2}{G}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. Cast this card on a later turn.)[/i]
+Trample => Implant {2}{G} [i]({2}{G}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Trample
+
+Breeding Plant Supervisor
+rules_text: Whenever you activate an ability from a creature source you control, draw a card. This ability triggers only once each turn.
+{7}{G}: Create a 0/0 green Ooze creature token. It enters with two +1/+1 counters on it => Whenever you activate an ability that's not a mana ability, you may pay {1}{G}. If you do, draw a card. Do this only once each turn.
+{5}{G}: Create a 0/0 green Ooze creature token. It enters with two +1/+1 counters on it
+
+Underdeep Kraul
+
+Gate Bulwark
+pt: 7/6 => 6/5
+
+Undercity Ravager
+rules_text: Reach
+When this creature enters, you gain 4 life.
+Swarm {7}{G} [i]({7}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i] => Reach
+When this creature enters, you gain 4 life.
+Swarm 3—{4}{G} [i]({4}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+pt: 7/4 => 7/5
+
+Ochran's Solution
+cost: {1}{G} => {2}{G}
+rules_text: Target creature you control gets +X/+0 until end if turn, where X is the number of other creatures you control. It deals damage equal to its power to target creature or planeswalker you don't control. => This spell costs {1} less to cast for each creature you control that's a token and/or has a +1/+1 counter on it.
+Target creature you control deals damage equal to its power to target creature or planeswalker you don't control.
+
+Return to the Cycle
+cost: {1}{G} => {2}{G}
+rules_text: This spell costs {1} less to cast if it targets a monocolored permanent or card.
+Exile target artifact, enchantment, or card from a graveyard. If you exiled a card from a graveyard this way, draw a card. => This spell costs {2} less to cast if it targets a monocolored permanent or card.
+Choose one —
+• Exile target artifact or enchantment.
+• Exile up to one target card from a graveyard. Draw a card.
+• Put up to one target card in exile into its owner's graveyard. Draw a card.
+
+Swarm's Voracity
+
+Rotquake
+
+Perfected Rebirth
+cost: {1}{G} => {3}{G}
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Search your library and/or graveyard for a creature card with a different name and mana value X or less, where X is 1 plus the sacrificed creature's mana value. Put that card onto the battlefield, then shuffle if you searched your library this way. => As an additional cost to cast this spell, sacrifice any number of creatures.
+Search your library and/or graveyard for a creature card with mana value X or less, where X is 1 plus total power of creatures sacrificed this way. Put that card onto the battlefield, then shuffle if you searched your library this way.
+
+Woodwraith Behemoth
+rules_text: This creature's power and toughness are each equal to the total number of lands you control and lands cards in your graveyard.
+Swarm {6}{G}{G} [i]({6}{G}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i] => Creature tokens you control and creatures you control with a +1/+1 counter on them have “{T}: Add one mana of any color”.
+Whenever you tap a creature for mana, add one mana of any color.
+Swarm 3—{4}{G} [i]({4}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+pt: */* => 5/5
+
+Deathbloom Mandrake
+rules_text: Reach
+Whenever another creature you control dies or one or more cards leave your graveyard, put a +1/+1 counter on this creature.
+Swarm {4}{G} [i]({4}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i] => Reach
+Whenever another creature you control dies or one or more cards leave your graveyard, put a +1/+1 counter on this creature.
+Swarm 2—{2}{G} [i]({2}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+
+Ochran Stalker
+cost: {2}{BG} => {1}{BG}
+rules_text: When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i] => Deathtouch [i](Any amount of damage this deals to a creature is enough to destroy it.)[/i]
+When this creature enters, surveil 1.
+pt: 2/3 => 2/1
+
+Ooze Hydra
+type: Sorcery — Ooze Hydra Snake Mutant => Creature — Ooze Hydra Snake Mutant
+rules_text: This creature enters X +1/+1 counters on it.
+Implant {X}{G}{G} [i]({X}{G}{G}, Exile this card from your hand during your turn: Put X +1/+1 counter on target creature. It gains the following abilities until end of turn. Cast this card on a later turn.)[/i]
+Whenever this creature deals combat damage to an opponent, put a +1/+1 counter on target creature, then double the number of +1/+1 counters on each creature you control. => This creature enters X +1/+1 counters on it.
+Implant {X}{G}{G} [i]({X}{G}{G}, Exile this card from your hand during your turn: Put X +1/+1 counter on target creature. It gains the following abilities until end of turn. Cast this card on a later turn.)[/i]
+Whenever this creature deals combat damage to an opponent, put a +1/+1 counter on target creature you control, then double the number of +1/+1 counters on each creature you control.
+
+Eidolon's Genesis
+rules_text: When this enchantment enters, search your library basic land card or Gate card, put that card onto the battlefield, then shuffle. It becomes a 3/3 Elemental creature with vigilance and hexproof. It's still a land.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand. => When this enchantment enters, draw a card and you gain 3 life. You may play an additional land this turn.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand.
+
+Surging Horror
+rules_text: Haste
+This creature can't be blocked by more than one creature.
+Swarm {2}{B}{G} [i]({2}{B}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i] => Haste
+This creature can't be blocked by more than one creature.
+Swarm 2—{1}{B}{G} [i]({1}{B}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+
+Gyre Clade Guardian
+rules_text: Implant {1}{GU}{GU} [i]({1}{GU}{GU}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. Cast this card on a later turn.)[/i]
+Whenever this creature deals combat damage to a player, draw a card. => Implant {1}{GU}{GU} [i]({1}{GU}{GU}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Whenever this creature deals combat damage to a player, draw a card.
+
+Scaly Hummerbrood
+rules_text: Implant {1}{G}{U} [i]({1}{G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. Cast this card on a later turn.)[/i]
+Flying, trample => Implant {1}{G}{U} [i]({1}{G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Flying, trample
+
+Sunhome Defender
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Vigilance [i](Attacking doesn't cause this creature to tap.)[/i] => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+
+Skyrender Knight
+rules_text: Flying
+Whenever this creature or another creature you control enters, this creature deals 1 damage to target opponent.
+Attacking tokens you control have flying. => Flying
+Whenever another creature you control enters, this creature deals 1 damage to target opponent.
+Attacking tokens you control have flying.
+
+Flaming Fist
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+This spell deals 3 damage to any target and you gain 3 life. => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+This spell deals 3 damage to any target and you gain 3 life.
+
+Magistrate's Pet
+rules_text: Flying, vigilance
+Whenever a player casts a spell from anywhere other than their hand or activates an ability from anywhere other than the battlefield, scry 1. => Flying, vigilance
+Whenever you cast a spell from exile or activate an ability that's not a mana ability, scry 1. This ability triggers only once each turn.
+Preamble {1}{WU}{WU} [i]({1}{WU}{WU}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+Judith, the Bloody Deluge
+special_text: Whenever a player sacrifices a permanent, target opponent loses 1 life and you gain 1 life.
+[+2]: You may sacrifice a creature or discard a card. If you do, draw a card.
+[-1]: Create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to anything.”
+[-8]: Return all creature cards from each graveyard to the battlefield under your control. They gain haste until end of turn. Sacrifice them at the beginning of the next end step. => Whenever a player sacrifices a permanent, target opponent loses 1 life and you gain 1 life.
+[+2]: You may sacrifice a creature or discard a card. If you do, draw a card.
+[-1]: Create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target.”
+[-8]: Return all creature cards from each graveyard to the battlefield under your control. They gain haste until end of turn. Sacrifice them at the beginning of the next end step.
+
+Vannifar, Voice of the Combine
+special_text: Whenever one or more creatures you control with a counter on them deal combat damage to a player, draw a card.
+[+1]: Untap target permanent you control. If it's a creature, put a +1/1 counter on it.
+[-3]: Create a token that's a copy of target creature you control. It enters with a +1/+1 counter on it.
+[-9]: You get an emblem with “At the beginning of your end step, create an 0/0 green Ooze creature token. Put X +1/+1 counters on it, where X is the number of lands you control.” => Whenever one or more creatures you control with a +1/+1 counter on them deal combat damage to a player, draw a card.
+[+1]: Untap target permanent you control. If it's a creature, put a +1/1 counter on it.
+[-3]: Create a token that's a copy of target creature you control. It enters with a +1/+1 counter on it.
+[-8]: You get an emblem with “At the beginning of your end step, create an 0/0 green Ooze creature token. Put X +1/+1 counters on it, where X is the number of lands you control.”
+
+Replicating Abomination
+rules_text: Implant {2}{G}{U} [i]({2}{G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. Cast this card on a later turn.)[/i]
+Trample
+Whenever this creature deals combat damage to a player, create a token that's a copy of target nonlegendary permanent you control. => Implant {2}{G}{U} [i]({2}{G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Trample
+Whenever this creature deals combat damage to a player, create a token that's a copy of target nonlegendary permanent you control.
+
+On Wings of Fury
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Create X 4/4 white Angel creature tokens with flying and vigilance. Creatures you control gain haste until end of turn. => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+Create X 4/4 white Angel creature tokens with flying and vigilance. Creatures you control gain haste until end of turn.
+
+Radiant Champion
+rules_text: Menace
+Prevent all damage that would be dealt to attacking creatures you control.
+Whenever this creature attacks, each attacking creature you control gets +1/+0 for each other attacking creature you control until end of turn. => Menace
+Prevent all damage that would be dealt to other attacking creatures you control.
+Whenever this creature attacks, each attacking creature you control gets +1/+0 for each other attacking creature you control until end of turn.
+
+Devastation in the Streets
+cost: {1}{B}{R} => {2}{B}{R}
+
+Metamorphosed Adapter
+rules_text: Whenever you activate an ability from a creature source you control, if it's not a mana ability, you may copy it. If you do, you may choose new targets for the copy. Do this only once each turn.
+If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on it instead. => Whenever you activate an ability that's not a mana ability, you may copy it. If you do, you may choose new targets for the copy. Do this only once each turn.
+If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on it instead.
+
+Force Shaping
+rules_text: Choose one —
+• Counter target activated or triggered ability.
+• Copy target triggered or activated ability from a creature source. You may chose new targets for the copy. => Choose one —
+• Counter target activated or triggered ability.
+• Copy target triggered or activated ability. You may chose new targets for the copy.
+
+Skybreaker Biotitan
+rules_text: Implant {3}{G}{U} [i]({3}{G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. Cast this card on a later turn.)[/i]
+Flying, trample
+Whenever this creature deals combat damage to a player, you may cast a spell from your hand with mana value less than or equal to the damage dealt this way without paying its mana cost. => Implant {3}{G}{U} [i]({3}{G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Flying, trample
+Whenever this creature deals combat damage to a player, you may cast a spell from your hand with mana value less than or equal to the damage dealt this way without paying its mana cost.
+
+Psycogenetic Tap
+rules_text: Look at the top five cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order. You may play an additional land this turn. => Look at the top four cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order. You may play an additional land this turn.
+
+Transform
+
+Ordruun Marshall
+rules_text: Whenever this creature attacks or blocks, the next spell you cast this turn without muster has muster. [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i] => Whenever this creature attacks or blocks, the next spell you cast this turn without muster has muster. [i](That spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+pt: 4/3 => 4/4
+
+Diana, Passer of Judgment
+pt: 1/6 => 1/5
+
+Forsaken Loxodon
+rules_text: Trample
+This creature's power is equal to the number of creature cards in your graveyard or the number of creatures you control, whichever is greater.
+Swarm {3}{B}{G} [i]({3}{B}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i] => Trample
+This creature's power is equal to the number of creatures you control, or the number of creature cards in your graveyard if it is greater than the number of creatures you control.
+Swarm 3—{3}{B}{G} [i]({3}{B}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+pt: */3 => */4
+
+Praj, Momir Vig's Legacy
+rules_text: Activated abilities of creatures and creature cards you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Spells you cast from exile cost {1} less to cast. => Activated abilities of creatures and cards you control cost {1} less to activate. This effect can't reduce the mana in that cost to less than one mana.
+Spells you cast from exile cost {1} less to cast.
+
+Transfigure
+rules_text: The owner of target permanent shuffles it into their library, then that player reveals cards from the top of their library until they reveal a card that shares a card type with the shuffled card. That player may play it or cast it without paying its mana cost. If they don't, they put it into their hand. Then that player puts the rest on the bottom of their library in any order. => The owner of target permanent shuffles it into their library, then reveals cards from the top of their library until they reveal a card that shares a card type with the card shuffled this way. They put that card onto the battlefield and the rest on the bottom of their library in any order.
+
+Ooze Bioprocessor
+rules_text: Implant {G}{U} [i]({G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. Cast this card on a later turn.)[/i]
+{T}: Add {G}{U}. Spend this mana only to activate abilities of creatures and creature cards.
+{1}, {T}: Add X mana in any combination of colors, where X is this creature's power. => Implant {G}{U} [i]({G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+{T}: Add {G}{U}. Spend this mana only to activate abilities from other sources.
+{1}, {T}: Add X mana in any combination of colors, where X is this creature's power.
+pt: 1/2 => 2/2
+
+Live
+
+Boros Rallier
+rules_text: Flash
+Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+When this creature enters, creatures you control get +1/+1 and gain trample until end of turn. => Flash
+Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+When this creature enters, creatures you control get +1/+1 and gain trample until end of turn.
+pt: 2/2 => 3/2
+
+Mileva of the Tenth
+rules_text: First strike
+During your turn, other creature tokens you control have vigilance, haste and indestructible. => First strike, haste
+Players can't cast spell without muster or activate abilities during combat.
+pt: 3/3 => 3/2
+
+Voracious Deathstinger
+rules_text: Trample, indestructible
+Whenever this creature attacks or blocks, each player sacrifices a creature. You gain life equal to the total toughness of creatures sacrificed this way.
+Swarm {10}{B}{G} [i]({10}{B}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i] => Trample, indestructible
+Whenever this creature attacks or blocks, each player sacrifices a creature. You gain life equal to the total toughness of creatures sacrificed this way.
+Swarm 6—{6}{B}{G} [i]({6}{B}{G}, Exile this card from your graveyard: Create six 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+
+Corpse-Pit Goliath
+rules_text: Whenever this creature enters, surveil 3.
+Whenever one or more cards leave your graveyard, create a 1/1 black and green Insect creature token
+{BG}, Sacrifice a creature: Put a +1/+1 counter on this creature. => When this creature enters, surveil 3.
+Whenever a nontoken creature you control dies, if it had a +1/+1 counter on it, create a 1/1 black and green Insect creature token. Otherwise, you gain 1 life.
+{BG}, Sacrifice a creature: Put a +1/+1 counter on target creature you control.
+
+Festering Mass
+rules_text: Deathtouch
+Each creature card in your graveyard has swarm. The swarm cost is equal to its mana cost. [i](Exile a creature card from your graveyard and pay its mana cost: Create a number of 1/1 black and green Insect creature tokens equal to that creature's toughness. Swarm only as a sorcery.)[/i]
+{BG}{BG}, Sacrifice another creature: Put a +1/+1 counter on each creature you control. => Deathtouch
+Each creature card in your graveyard has “Swarm 2—{1}{BG}{BG}.” [i](Exile a creature card in your graveyard and pay {1}{BG}{BG}: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+{2}, Sacrifice another creature: Put a +1/+1 counter on each creature you control.
+pt: 3/4 => 3/5
+
+Infested Maneater
+rules_text: Reach
+Swarm {3}{G} [i]({3}{G}, Exile this card from your graveyard: Create a number of 1/1 black and green Insect creature tokens equal to this creature's toughness. Swarm only as a sorcery.)[/i] => Deathtouch, reach
+Swarm 2—{3}{G} [i]({3}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+pt: 3/2 => 2/3
+
+Accelerated Growth
+type: Instant => Sorcery
+
+Lamiel, Deathsprout Cultivator
+rules_text: Lands you control have hexproof, and “{T}: Mill a card.”
+Whenever one or more cards leave your graveyard, create a 0/1 green Plant creature token.
+{B}{G}, Sacrifice a creature: Draw a card. => Lands you control have “{T}: Surveil 1.”
+Whenever one or more cards leave your graveyard, create a 0/1 green Plant creature token.
+{B}{G}, Sacrifice a creature: Draw a card. You gain 1 life.
+
+Hull Clade Guardian
+
+Cull
+type: Instant => Sorcery
+cost: {1}{B} => {B}
+
+Azorius Lawbringer
+cost: {3}{W}{W} => {4}{W}{W}
+rules_text: Flash
+Flying, vigilance
+Your opponents may only attack or block with one creature during each combat. => Flying, vigilance
+Other creatures you control get +1/+0.
+Creatures you don't control get -1/-0.
+Preamble {5}{W}{W} [i]({5}{W}{W}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+pt: 4/4 => 4/5
+
+Azorius Lawmage
+rules_text: {1}{U}, {T}: Tap or untap another target artifact or creature. => When this creature enters, scry 2.
+Preamble {1}{W} [i]({1}{W}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+In Formation!
+rules_text: Permanents you control gain hexproof and indestructible until end of turn. Untap each creature you control.
+Foresight 3 [i](Then you may exile this card with three time counters on it. Whenever you attack or at the beginning of your upkeep, remove a time counter. When the last is removed, you may cast a copy of it.)[/i] => Permanents you control gain hexproof and indestructible until end of turn. Untap each creature you control.
+
+Preemptive Measures
+rules_text: Target creature you control gets +2/+2 until end of turn.
+Foresight 3 [i](Then you may exile this card with three time counters on it. Whenever you attack or at the beginning of your upkeep, remove a time counter. When the last is removed, you may cast a copy of it.)[/i] => Target creature you control gets +2/+2 until end of turn. If you cast a spell from exile this turn, it also gains flying and lifelink until end of turn.
+
+Proscribe
+rules_text: Choose one —
+• Exile target artifact or enchantment.
+• Exile up to three target cards from a single graveyard. You gain 3 life.
+Foresight 4 [i](Then you may exile this card with four time counters on it. Whenever you attack or at the beginning of your upkeep, remove a time counter. When the last is removed, you may cast a copy of it.)[/i] => Choose one —
+• Exile target artifact or enchantment.
+• Exile target player's graveyard.
+
+Ready the Arresters
+type: Instant => Sorcery
+rules_text: Create two 1/1 blue and white Soldier creature tokens. Gain 2 life.
+Foresight 4 [i](Then you may exile this card with four time counters on it. Whenever you attack or at the beginning of your upkeep, remove a time counter. When the last is removed, you may cast a copy of it.)[/i] => Create two 1/1 blue and white Soldier creature tokens. Then if this spells was cast from exile, you gain 1 life for each creature you control.
+Preamble {4}{W} [i]({4}{W}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+Sova Keymaster
+type: Creature — Human Soldier Mage => Creature — Human Soldier Wizard
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+When this creature enters, tap or untap up to one target creature. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+{1}{U}, {T}: Tap or untap another target artifact or creature.
+
+Zealous Arrester
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+This creature gets +1/+0 as long as a player has cast a spell or activated a non-mana ability during combat. => Whenever this creature attacks, another target creature you control gets +1/+0 until end of turn. Untap it.
+Preamble {2}{W} [i]({2}{W}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+Apprehend the Guilty
+type: Instant => Sorcery
+cost: {3}{U} => {2}{U}
+rules_text: Tap up to two target creatures and put a stun counter on each of them.
+Foresight 4 [i](Then you may exile this card with four time counters on it. Whenever you attack or at the beginning of your upkeep, remove a time counter. When the last is removed, you may cast a copy of it.)[/i] => Tap up to two target creatures. Put a stun counter on each of them.
+Preamble {3}{U} [i]({3}{U}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+Detain Wisdom
+rules_text: Each player mill three cards. You may put a card you milled this way into your hand. Then if {W} was spent to cast this spell, exile each opponent's graveyard. => Each player mills three cards. You may put a card you milled this way into your hand. Then if {W} was spent to cast this spell, exile each opponent's graveyard.
+
+Enfeebling Shackles
+rules_text: Each creature you don't control gets -2/-0 until end of turn.
+Foresight 3 [i](Then you may exile this card with three time counters on it. Whenever you attack or at the beginning of your upkeep, remove a time counter. When the last is removed, you may cast a copy of it.)[/i] => Creatures your opponents control get -2/-0 until end of turn. Then tap each of those creatures with power 1 or less.
+Preamble {2}{U} [i]({2}{U}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+Inquire
+cost: {1}{U} => {U}
+rules_text: Scry 1. Draw a card.
+Foresight 3 [i](Then you may exile this card with three time counters on it. Whenever you attack or at the beginning of your upkeep, remove a time counter. When the last is removed, you may cast a copy of it.)[/i] => Draw a card.
+Preamble {1}{U} [i]({1}{U}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+Jelenn Grand Elocutor
+pt: 1/4 => 2/4
+
+Precognition Serum
+type: Instant => Sorcery
+cost: {5}{U}{U} => {4}{U}{U}
+rules_text: Take an extra turn after this one. Until the end of that turn, your opponents reveal their hand.
+Foresight 6 [i](Then you may exile this card with six time counters on it. Whenever you attack or at the beginning of your upkeep, remove a time counter. When the last is removed, you may cast a copy of it.)[/i] => Take an extra turn after this one. During that turn, if this spell was cast from exile, your opponents reveal their hand.
+Preamble {6}{U}{U} [i]({6}{U}{U}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+Pursuit
+
+Durand, High Justicar
+rules_text: At the beginning of your first upkeep each turn, you get an additional upkeep step after this step.
+At the beginning of your first beginning of combat step each turn, you get an additional beginning of combat step after this step. => Whenever you cast a spell for exile, if mana was spent to cast it, choose one that hasn't been chosen this turn —
+• Put a +1/+1 counter on each creature you control.
+• Create two 1/1 white and blue Soldier creature tokens.
+
+Futur Seer
+rules_text: The first instant spell you cast each turn has foresight X, where X is its mana value. [i](You may exile that card after it resolves with X time counters on it. Whenever you attack or at the beginning of your upkeep, remove a time counter. When the last is removed, you may cast a copy of it.)[/i]
+Whenever you cast a noncreature spell, create a 1/1 white an blue Soldier creature token. => Whenever you cast a spell, you gain 1 life. If that spell was cast from exile, you gain 2 life instead.
+{T}, Reveal a nonland card from your hand: The revealed card gains preamble until end of turn. The preamble cost is equal to {2} plus its mana cost.
+
+Incarcerate
+rules_text: Enchant a creature you don't control.
+You control enchanted creature.
+Enchanted creature has defender, hexproof and indestructible.
+At the beginning of your upkeep, enchanted creature's owner may pay {X}, where X is 2 plus its mana value. If they do, sacrifice this Aura. => Enchant a creature you don't control.
+You control enchanted creature.
+Enchanted creature has defender, hexproof and indestructible.
+At the beginning of your upkeep, enchanted creature's owner may pay {X}, where X is 2 plus that creature's mana value. If they do, sacrifice this Aura.
+
+Inquisitive Guardmage
+rules_text: Flying, lifelink
+When this creature enters, look at the top three cards of your library. You may reveal a noncreature card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => Flying, lifelink
+When this creature enters, draw a card, then put a card from your hand on the top or bottom of your library.
+Preamble {2}{W}{U} [i]({2}{W}{U}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+Judgment of Balance
+type: Instant => Sorcery
+rules_text: This spell can't be countered.
+Each player gains 7 life, draws cards until they have seven cards in hand and creates seven treasure tokens. End the turn.
+Foresight 4 [i](Then you may exile this card with four time counters on it. Whenever you attack or at the beginning of your upkeep, remove a time counter. When the last is removed, you may cast a copy of it.)[/i] => Each player shuffles all nonland permanents they own, their graveyard and hand into their library, then draws cards until they have seven cards in hand and gains 7 life. Then if this spell was cast from exile, create seven Treasure tokens.
+Preamble {6}{W}{U} [i]({6}{W}{U}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+Lavinia, the Just
+rules_text: Whenever an opponent casts a spell from anywhere other than their hand or activates an ability of a card that isn't on the battlefield, counter that spell or ability unless its controller pays {2}.
+Whenever you cast a spell from anywhere other than your hand, you may pay {2}. If you do, copy that spell. You may chose new targets for the copy. => Whenever an opponent casts a spell from anywhere other than their hand or activates an ability of a card that isn't on the battlefield, counter that spell or ability unless its controller pays {2}.
+Whenever you cast a spell from exile or activate an ability from hand, you may pay {2}. If you do, copy that spell or ability. You may chose new targets for the copy.
+
+Octave, Deputy of Discipline
+rules_text: Flying
+Whenever you cast a noncreature spell from your hand, create a 1/1 white and blue Bird creature token with flying.
+Whenever you cast a noncreature spell from exile, create a 4/4 white and blue Sphinx creature token with flying and vigilance. => Flying
+Whenever you cast a spell, create a 1/1 white and blue Bird creature token with flying. If that spell was cast from exile, create a 4/4 white and blue Sphinx creature token with flying and vigilance. This ability triggers only once each turn.
+
+Peruse the Law
+type: Instant => Sorcery
+cost: {1}{W}{U} => {W}{U}
+rules_text: Choose one —
+• Draw a card. You gain 3 life.
+• Return target nonland permanent to its owner's hand.
+Foresight 4 [i](Then you may exile this card with four time counters on it. Whenever you attack or at the beginning of your upkeep, remove a time counter. When the last is removed, you may cast a copy of it.)[/i] => Choose one —
+• Draw a card. You gain 3 life.
+• Return target nonland permanent to its owner's hand.
+Preamble {1}{W}{U} [i]({1}{W}{U}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+Seal of Censure
+rules_text: Each creature target player controls lose all abilities until end of turn. Draw a card.
+Foresight 4 [i](Then you may exile this card with four time counters on it. Whenever you attack or at the beginning of your upkeep, remove a time counter. When the last is removed, you may cast a copy of it.)[/i] => Each creature you don't control loses all their abilities until end of turn. Draw a card.
+If this spell was cast from exile, until end of turn, creatures with no abilities you don't control can't attack or block.
+Preamble {2}{W}{U} [i]({2}{W}{U}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
