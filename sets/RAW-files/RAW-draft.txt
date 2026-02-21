@@ -11,26 +11,6 @@
 			}
 		},
 		{
-			"name": "Azorius Lawmage",
-			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/4_Azorius Lawmage.png"
-			}
-		},
-		{
-			"name": "Sova Keymaster",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Soldier Mage",
-			"collector_number": "26",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/26_Sova Keymaster.png"
-			}
-		},
-		{
 			"name": "Fierce Griffin",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
@@ -111,26 +91,6 @@
 			}
 		},
 		{
-			"name": "Ready the Arresters",
-			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Instant",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/22_Ready the Arresters.png"
-			}
-		},
-		{
-			"name": "Preemptive Measures",
-			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Instant",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/18_Preemptive Measures.png"
-			}
-		},
-		{
 			"name": "Press the Advantage",
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
@@ -148,16 +108,6 @@
 			"collector_number": "23",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/23_Righteous Uprising.png"
-			}
-		},
-		{
-			"name": "In Formation!",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}",
-			"type": "Instant",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/14_In Formation!.png"
 			}
 		},
 		{
@@ -181,19 +131,9 @@
 			}
 		},
 		{
-			"name": "Azorius Lawbringer",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Angel Warrior",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/3_Azorius Lawbringer.png"
-			}
-		},
-		{
 			"name": "Aurelia's Judgment",
 			"rarity": "rare",
-			"mana_cost": "{8}{W}{W}{W}",
+			"mana_cost": "{6}{W}{W}",
 			"type": "Instant",
 			"collector_number": "2",
 			"image_uris": {
@@ -208,16 +148,6 @@
 			"collector_number": "15",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/15_Loyal Warhound.png"
-			}
-		},
-		{
-			"name": "Zealous Arrester",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Soldier",
-			"collector_number": "29",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/29_Zealous Arrester.png"
 			}
 		},
 		{
@@ -258,16 +188,6 @@
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/17_Outmatch.png"
-			}
-		},
-		{
-			"name": "Proscribe",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Instant",
-			"collector_number": "20",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/20_Proscribe.png"
 			}
 		},
 		{
@@ -401,36 +321,6 @@
 			}
 		},
 		{
-			"name": "Detain Wisdom",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Sorcery",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/37_Detain Wisdom.png"
-			}
-		},
-		{
-			"name": "Apprehend the Guilty",
-			"rarity": "common",
-			"mana_cost": "{3}{U}",
-			"type": "Instant",
-			"collector_number": "32",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/32_Apprehend the Guilty.png"
-			}
-		},
-		{
-			"name": "Inquire",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "46",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/46_Inquire.png"
-			}
-		},
-		{
 			"name": "Fluxfeather Eagle",
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}{U}",
@@ -441,43 +331,23 @@
 			}
 		},
 		{
-			"name": "Precognition Serum",
-			"rarity": "rare",
-			"mana_cost": "{5}{U}{U}",
-			"type": "Instant",
-			"collector_number": "50",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/50_Precognition Serum.png"
-			}
-		},
-		{
-			"name": "Experiment Ten",
+			"name": "Experiment Twenty-Six",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Ooze Shapeshifter",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/42_Experiment Ten.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/42_Experiment Twenty-Six.png"
 			}
 		},
 		{
-			"name": "Time Manipulation",
+			"name": "Time Typhoon",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/56_Time Manipulation.png"
-			}
-		},
-		{
-			"name": "Jelenn Grand Elocutor",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Advisor",
-			"collector_number": "47",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/47_Jelenn Grand Elocutor.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/56_Time Typhoon.png"
 			}
 		},
 		{
@@ -514,7 +384,7 @@
 			"name": "Lawmage Familliar",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature",
+			"type": "Creature — Bird",
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/48_Lawmage Familliar.png"
@@ -561,16 +431,6 @@
 			}
 		},
 		{
-			"name": "Enfeebling Shackles",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "40",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/40_Enfeebling Shackles.png"
-			}
-		},
-		{
 			"name": "Eidolon's Vision",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
@@ -611,13 +471,13 @@
 			}
 		},
 		{
-			"name": "Rakdos Pit Fighter",
+			"name": "Stage Cleaner",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Assassin",
-			"collector_number": "76",
+			"type": "Creature — Imp",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/76_Rakdos Pit Fighter.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/82_Stage Cleaner.png"
 			}
 		},
 		{
@@ -674,10 +534,10 @@
 			"name": "Reap",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
-			"collector_number": "77",
+			"type": "Instant",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/77_Reap.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/76_Reap.png"
 			}
 		},
 		{
@@ -695,19 +555,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "81",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/81_The Show Never Ends.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/79_The Show Never Ends.png"
 			}
 		},
 		{
-			"name": "Rot Garden",
+			"name": "Cytoplasm Carrier",
 			"rarity": "common",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "139",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/139_Rot Garden.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/121_Cytoplasm Carrier.png"
 			}
 		},
 		{
@@ -735,9 +595,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Insect",
-			"collector_number": "82",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/82_Skull Clamper Parasite.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/80_Skull Clamper Parasite.png"
 			}
 		},
 		{
@@ -763,7 +623,7 @@
 		{
 			"name": "Daughter of Stone Death",
 			"rarity": "rare",
-			"mana_cost": "{4}{B}",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Gorgon Assassin",
 			"collector_number": "62",
 			"image_uris": {
@@ -801,29 +661,29 @@
 			}
 		},
 		{
-			"name": "Rugged Cutthroat",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Creature — Human Assassin",
-			"collector_number": "79",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/79_Rugged Cutthroat.png"
-			}
-		},
-		{
 			"name": "Deceitful Guide",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Gorgon Rogue",
+			"type": "Creature — Gorgon Assassin",
 			"collector_number": "65",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/65_Deceitful Guide.png"
 			}
 		},
 		{
+			"name": "Smog Predator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Elemental",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/81_Smog Predator.png"
+			}
+		},
+		{
 			"name": "Vengeful Hands",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
 			"collector_number": "87",
 			"image_uris": {
@@ -834,7 +694,7 @@
 			"name": "Deadly Spore Storm",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "63",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/63_Deadly Spore Storm.png"
@@ -1045,9 +905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Drake",
-			"collector_number": "80",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/80_Shackled Blooddrake.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/78_Shackled Blooddrake.png"
 			}
 		},
 		{
@@ -1135,9 +995,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Ooze",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/141_Uncontained Hulk.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/142_Uncontained Hulk.png"
 			}
 		},
 		{
@@ -1145,9 +1005,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Zombie",
-			"collector_number": "127",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/127_Golgari Rotseer.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/128_Golgari Rotseer.png"
 			}
 		},
 		{
@@ -1155,9 +1015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Insect Lizard Dog Mutant",
-			"collector_number": "128",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/128_Hound Krasis.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/129_Hound Krasis.png"
 			}
 		},
 		{
@@ -1185,9 +1045,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Insect Warrior",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/143_Underdeep Kraul.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/144_Underdeep Kraul.png"
 			}
 		},
 		{
@@ -1195,9 +1055,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Giant Warrior",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/126_Gate Bulwark.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/127_Gate Bulwark.png"
 			}
 		},
 		{
@@ -1205,15 +1065,15 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/142_Undercity Ravager.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/143_Undercity Ravager.png"
 			}
 		},
 		{
 			"name": "Ochran's Solution",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Instant",
 			"collector_number": "133",
 			"image_uris": {
@@ -1223,11 +1083,11 @@
 		{
 			"name": "Return to the Cycle",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "138",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/138_Return to the Cycle.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/139_Return to the Cycle.png"
 			}
 		},
 		{
@@ -1235,19 +1095,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "140",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/140_Swarm's Voracity.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/141_Swarm's Voracity.png"
 			}
 		},
 		{
-			"name": "Undergrowth's Blessing",
+			"name": "Redo",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "144",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/144_Undergrowth's Blessing.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/138_Redo.png"
 			}
 		},
 		{
@@ -1255,9 +1115,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/78_Rotquake.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/77_Rotquake.png"
 			}
 		},
 		{
@@ -1273,7 +1133,7 @@
 		{
 			"name": "Perfected Rebirth",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
 			"collector_number": "135",
 			"image_uris": {
@@ -1301,13 +1161,13 @@
 			}
 		},
 		{
-			"name": "Infested",
+			"name": "Rotten Banquet",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "130",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/130_Infested.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/140_Rotten Banquet.png"
 			}
 		},
 		{
@@ -1323,7 +1183,7 @@
 		{
 			"name": "Ochran Stalker",
 			"rarity": "common",
-			"mana_cost": "{2}{B/G}",
+			"mana_cost": "{1}{B/G}",
 			"type": "Creature — Gorgon Assassin",
 			"collector_number": "229",
 			"image_uris": {
@@ -1331,13 +1191,13 @@
 			}
 		},
 		{
-			"name": "Corrosive Experiment",
+			"name": "Feral Experiment",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Ooze",
-			"collector_number": "121",
+			"type": "Creature — Merfolk Octopus Mutant",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/121_Corrosive Experiment.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/126_Feral Experiment.png"
 			}
 		},
 		{
@@ -1374,7 +1234,7 @@
 			"name": "Ooze Hydra",
 			"rarity": "rare",
 			"mana_cost": "{X}{G}",
-			"type": "Sorcery — Ooze Hydra Snake Mutant",
+			"type": "Creature — Ooze Hydra Snake Mutant",
 			"collector_number": "134",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/134_Ooze Hydra.png"
@@ -1561,36 +1421,6 @@
 			}
 		},
 		{
-			"name": "Sphinx Lawbinder",
-			"rarity": "common",
-			"mana_cost": "{4}{W}{U}",
-			"type": "Creature — Sphinx",
-			"collector_number": "208",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/208_Sphinx Lawbinder.png"
-			}
-		},
-		{
-			"name": "Peruse the Law",
-			"rarity": "common",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Instant",
-			"collector_number": "191",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/191_Peruse the Law.png"
-			}
-		},
-		{
-			"name": "Binding Decree",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Enchantment",
-			"collector_number": "149",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/149_Binding Decree.png"
-			}
-		},
-		{
 			"name": "Rakdos Ragefest",
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B/R}{R}",
@@ -1681,36 +1511,6 @@
 			}
 		},
 		{
-			"name": "Lavinia, the Just",
-			"rarity": "mythic",
-			"mana_cost": "{W}{U}",
-			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "182",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/182_Lavinia, the Just.png"
-			}
-		},
-		{
-			"name": "Arbiter of Law",
-			"rarity": "mythic",
-			"mana_cost": "{4}{W}{W/U}{U}",
-			"type": "Creature — Angel Advisor",
-			"collector_number": "216",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/216_Arbiter of Law.png"
-			}
-		},
-		{
-			"name": "Judgment of Balance",
-			"rarity": "mythic",
-			"mana_cost": "{5}{W}{U}",
-			"type": "Instant",
-			"collector_number": "178",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/178_Judgment of Balance.png"
-			}
-		},
-		{
 			"name": "Juri, Charismatic Performer",
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
@@ -1733,7 +1533,7 @@
 		{
 			"name": "Devastation in the Streets",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{R}",
+			"mana_cost": "{2}{B}{R}",
 			"type": "Sorcery",
 			"collector_number": "157",
 			"image_uris": {
@@ -1891,36 +1691,6 @@
 			}
 		},
 		{
-			"name": "Octave, Deputy of Discipline",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{W}{U}",
-			"type": "Legendary Creature — Sphinx",
-			"collector_number": "188",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/188_Octave, Deputy of Discipline.png"
-			}
-		},
-		{
-			"name": "Futur Seer",
-			"rarity": "rare",
-			"mana_cost": "{W}{W}{U}{U}",
-			"type": "Creature — Vedalken Wizard",
-			"collector_number": "169",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/169_Futur Seer.png"
-			}
-		},
-		{
-			"name": "Incarcerate",
-			"rarity": "rare",
-			"mana_cost": "{W}{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "175",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/175_Incarcerate.png"
-			}
-		},
-		{
 			"name": "Arrester Captain",
 			"rarity": "rare",
 			"mana_cost": "{1}{W/U}{W/U}",
@@ -1928,26 +1698,6 @@
 			"collector_number": "217",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/217_Arrester Captain.png"
-			}
-		},
-		{
-			"name": "Azorius Purifier",
-			"rarity": "rare",
-			"mana_cost": "{W}{U}",
-			"type": "Creature — Human Cleric",
-			"collector_number": "148",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/148_Azorius Purifier.png"
-			}
-		},
-		{
-			"name": "Pursuit",
-			"rarity": "rare",
-			"mana_cost": "{1}{W/U}{W/U}",
-			"type": "Instant",
-			"collector_number": "241",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/241_Pursuit.png"
 			}
 		},
 		{
@@ -2218,66 +1968,6 @@
 			"collector_number": "224",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/224_Flame-kin Summoner.png"
-			}
-		},
-		{
-			"name": "Seal of Censure",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{U}",
-			"type": "Instant",
-			"collector_number": "204",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/204_Seal of Censure.png"
-			}
-		},
-		{
-			"name": "Safeguard",
-			"rarity": "common",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Instant",
-			"collector_number": "202",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/202_Safeguard.png"
-			}
-		},
-		{
-			"name": "Inquisitive Guardmage",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Spirit Soldier",
-			"collector_number": "176",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/176_Inquisitive Guardmage.png"
-			}
-		},
-		{
-			"name": "Decipher the Chronology",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Sorcery",
-			"collector_number": "156",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/156_Decipher the Chronology.png"
-			}
-		},
-		{
-			"name": "Durand, High Justicar",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "159",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/159_Durand, High Justicar.png"
-			}
-		},
-		{
-			"name": "Order Guildmage",
-			"rarity": "uncommon",
-			"mana_cost": "{W/U}{W/U}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "231",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/231_Order Guildmage.png"
 			}
 		},
 		{
@@ -2694,7 +2384,7 @@
 			"name": "Accelerated Growth",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "117",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/117_Accelerated Growth.png"
@@ -2718,16 +2408,6 @@
 			"collector_number": "147",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/147_Amalgamate.png"
-			}
-		},
-		{
-			"name": "Denied",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Instant",
-			"collector_number": "238",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/238_Denied.png"
 			}
 		},
 		{
@@ -2885,16 +2565,16 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Crab Warrior Mutant",
-			"collector_number": "129",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/129_Hull Clade Guardian.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/130_Hull Clade Guardian.png"
 			}
 		},
 		{
 			"name": "Cull",
 			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Instant",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
 			"collector_number": "61",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/61_Cull.png"
@@ -2949,51 +2629,364 @@
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/2_Human.png"
 			}
+		},
+		{
+			"name": "Azorius Lawbringer",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/3_Azorius Lawbringer.png"
+			}
+		},
+		{
+			"name": "Azorius Lawmage",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/4_Azorius Lawmage.png"
+			}
+		},
+		{
+			"name": "In Formation!",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/14_In Formation!.png"
+			}
+		},
+		{
+			"name": "Preemptive Measures",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/18_Preemptive Measures.png"
+			}
+		},
+		{
+			"name": "Proscribe",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/20_Proscribe.png"
+			}
+		},
+		{
+			"name": "Ready the Arresters",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/22_Ready the Arresters.png"
+			}
+		},
+		{
+			"name": "Sova Keymaster",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier Wizard",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/26_Sova Keymaster.png"
+			}
+		},
+		{
+			"name": "Zealous Arrester",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/29_Zealous Arrester.png"
+			}
+		},
+		{
+			"name": "Apprehend the Guilty",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/32_Apprehend the Guilty.png"
+			}
+		},
+		{
+			"name": "Detain Wisdom",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/37_Detain Wisdom.png"
+			}
+		},
+		{
+			"name": "Enfeebling Shackles",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/40_Enfeebling Shackles.png"
+			}
+		},
+		{
+			"name": "Inquire",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/46_Inquire.png"
+			}
+		},
+		{
+			"name": "Jelenn Grand Elocutor",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Advisor",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/47_Jelenn Grand Elocutor.png"
+			}
+		},
+		{
+			"name": "Precognition Serum",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/50_Precognition Serum.png"
+			}
+		},
+		{
+			"name": "Denied",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/238_Denied.png"
+			}
+		},
+		{
+			"name": "Order Guildmage",
+			"rarity": "uncommon",
+			"mana_cost": "{W/U}{W/U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/231_Order Guildmage.png"
+			}
+		},
+		{
+			"name": "Pursuit",
+			"rarity": "rare",
+			"mana_cost": "{1}{W/U}{W/U}",
+			"type": "Instant",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/241_Pursuit.png"
+			}
+		},
+		{
+			"name": "Arbiter of Law",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W/U}{U}",
+			"type": "Creature — Angel Advisor",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/216_Arbiter of Law.png"
+			}
+		},
+		{
+			"name": "Azorius Purifier",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/148_Azorius Purifier.png"
+			}
+		},
+		{
+			"name": "Binding Decree",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/149_Binding Decree.png"
+			}
+		},
+		{
+			"name": "Decipher the Chronology",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/156_Decipher the Chronology.png"
+			}
+		},
+		{
+			"name": "Durand, High Justicar",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/159_Durand, High Justicar.png"
+			}
+		},
+		{
+			"name": "Futur Seer",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{U}{U}",
+			"type": "Creature — Vedalken Wizard",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/169_Futur Seer.png"
+			}
+		},
+		{
+			"name": "Incarcerate",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/175_Incarcerate.png"
+			}
+		},
+		{
+			"name": "Inquisitive Guardmage",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Spirit Soldier",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/176_Inquisitive Guardmage.png"
+			}
+		},
+		{
+			"name": "Judgment of Balance",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/178_Judgment of Balance.png"
+			}
+		},
+		{
+			"name": "Lavinia, the Just",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/182_Lavinia, the Just.png"
+			}
+		},
+		{
+			"name": "Octave, Deputy of Discipline",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Sphinx",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/188_Octave, Deputy of Discipline.png"
+			}
+		},
+		{
+			"name": "Peruse the Law",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/191_Peruse the Law.png"
+			}
+		},
+		{
+			"name": "Safeguard",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/202_Safeguard.png"
+			}
+		},
+		{
+			"name": "Seal of Censure",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/204_Seal of Censure.png"
+			}
+		},
+		{
+			"name": "Sphinx Lawbinder",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Sphinx",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/208_Sphinx Lawbinder.png"
+			}
 		}
 	]
 
 [rare(1)]
-	3 Righteous Uprising
-	5 In Formation!
+	5 Righteous Uprising
 	5 Wall of Fury
 	5 Sanctum of Protection
-	5 Azorius Lawbringer
 	5 Aurelia's Judgment
-	3 Fluxfeather Eagle
-	5 Precognition Serum
-	5 Experiment Ten
-	5 Time Manipulation
-	5 Jelenn Grand Elocutor
+	5 Fluxfeather Eagle
+	5 Experiment Twenty-Six
+	5 Time Typhoon
 	5 Synapse Linker
-	3 Deathgorger
+	5 Deathgorger
 	5 Demon Progeny
 	5 Skull Clamper Parasite
 	5 Gorespawn Demon
 	5 Gruesome Spectacle
 	5 Daughter of Stone Death
-	3 Ceaseless Anger
+	5 Ceaseless Anger
 	5 Captivating Equilibrist
 	5 Firstblade Lieutenant
 	5 Flame-kin Commander
 	5 Rakdos Excrutiator
 	5 Mourning Legionnaire
-	3 Aspect of Rebirth
+	5 Aspect of Rebirth
 	5 Perfected Rebirth
 	5 Insatiable Troll
 	5 Woodwraith Behemoth
 	5 Ooze Hydra
-	3 Rakdos Ragefest
-	3 Escaped Hellsteed
-	3 Judith, the Bloody Deluge
-	3 Vannifar, Voice of the Combine
-	3 Replicating Abomination
-	3 Containment Breach
-	3 Tajic, Boros Examplar
-	3 On Wings of Fury
-	3 Radiant Champion
-	3 Lavinia, the Just
-	3 Arbiter of Law
-	3 Judgment of Balance
+	5 Rakdos Ragefest
+	5 Escaped Hellsteed
+	5 Judith, the Bloody Deluge
+	5 Vannifar, Voice of the Combine
+	5 Replicating Abomination
+	5 Containment Breach
+	5 Tajic, Boros Examplar
+	5 On Wings of Fury
+	5 Radiant Champion
 	5 Juri, Charismatic Performer
 	5 Rix Maadi Abomination
 	5 Mindflare
@@ -3009,15 +3002,10 @@
 	5 Ordruun Marshall
 	5 Incandescent Blessing
 	5 Volley
-	5 Futur Seer
-	5 Incarcerate
 	5 Arrester Captain
-	5 Azorius Purifier
-	5 Pursuit
 	5 The Curtain Falls
 	5 Transfigure
 	5 Mileva of the Tenth
-	5 Durand, High Justicar
 	5 Opal Medallion
 	5 Ancient Monoliths
 	5 Ravnican Omnicompass
@@ -3027,9 +3015,9 @@
 	5 Overgrown Tomb
 	5 Plaza's Omenpath
 	5 Sacred Foundry
-	3 Erstwhile Awakener
-	3 Zafen, Scheming Necromancer
-	3 Voracious Deathstinger
+	5 Erstwhile Awakener
+	5 Zafen, Scheming Necromancer
+	5 Voracious Deathstinger
 	5 Corpse-Pit Goliath
 	5 Festering Mass
 	5 Putrefied Tutor
@@ -3037,14 +3025,24 @@
 	5 Lamiel, Deathsprout Cultivator
 	5 Amalgamate
 	5 Hull Clade Guardian
+	5 Azorius Lawbringer
+	5 In Formation!
+	5 Jelenn Grand Elocutor
+	5 Precognition Serum
+	5 Pursuit
+	5 Arbiter of Law
+	5 Azorius Purifier
+	5 Durand, High Justicar
+	5 Futur Seer
+	5 Incarcerate
+	5 Judgment of Balance
+	5 Lavinia, the Just
 [uncommon(3)]
 	5 Loyal Warhound
-	5 Zealous Arrester
 	5 Valiant District Protector
 	5 Bounty Claimer
 	5 Featherscale Drake
 	5 Outmatch
-	5 Proscribe
 	5 Eidolon's Flight
 	5 Express Mandate
 	5 Elusive Biomage
@@ -3054,14 +3052,13 @@
 	5 Aethermage's Contempt
 	5 Untwine
 	5 Reconsider
-	5 Enfeebling Shackles
 	5 Eidolon's Vision
 	5 Eaten From Within
 	5 Swarm Evangel
 	5 Fired-Up Jester
 	5 Corpse Jeweler
-	5 Rugged Cutthroat
 	5 Deceitful Guide
+	5 Smog Predator
 	5 Vengeful Hands
 	5 Deadly Spore Storm
 	5 Eidolon's Infestation
@@ -3075,7 +3072,7 @@
 	5 Eidolon's Impetus
 	5 Hound Krasis
 	5 Breeding Plant Supervisor
-	5 Infested
+	5 Rotten Banquet
 	5 Deathbloom Mandrake
 	5 Ravenous Sewerscraper
 	5 Dauntless Protector
@@ -3083,11 +3080,9 @@
 	5 Recovering Wilds
 	5 Eidolon's Genesis
 	5 Skyrender Knight
-	5 Binding Decree
 	5 Devastation in the Streets
 	5 Psycogenetic Tap
 	5 Diana, Passer of Judgment
-	5 Octave, Deputy of Discipline
 	5 Fester
 	5 Forsaken Loxodon
 	5 Gutbloom Host
@@ -3111,22 +3106,25 @@
 	5 Righteous Smite
 	5 War Guildmage
 	5 Loud
-	5 Seal of Censure
-	5 Inquisitive Guardmage
-	5 Decipher the Chronology
-	5 Order Guildmage
 	5 Gateless Amulet
 	5 Embersoul Edge
 	5 Ageless Scholar
 	5 Gatekeeper Golem
 	5 Decrepit Gargoyle
 	5 Lothran, the Glouton
-	5 Denied
 	5 Coerced Participation
+	5 Proscribe
+	5 Zealous Arrester
+	5 Enfeebling Shackles
+	5 Denied
+	5 Order Guildmage
+	5 Binding Decree
+	5 Decipher the Chronology
+	5 Inquisitive Guardmage
+	5 Octave, Deputy of Discipline
+	5 Seal of Censure
 [common(10)]
 	5 Boros Standard Bearer
-	5 Azorius Lawmage
-	5 Sova Keymaster
 	5 Fierce Griffin
 	5 Protect the Precinct
 	5 Firemane Protector
@@ -3135,8 +3133,6 @@
 	5 Guildpact Faithful
 	5 Shield of Compassion
 	5 Angelic Rebuke
-	5 Ready the Arresters
-	5 Preemptive Measures
 	5 Press the Advantage
 	5 Benthic Protector
 	5 Enlighted Freemage
@@ -3149,13 +3145,10 @@
 	5 Reprocess Essence
 	5 Cleanse
 	5 Void Wave
-	5 Detain Wisdom
-	5 Apprehend the Guilty
-	5 Inquire
 	5 Fungal Pest
 	5 Carnarium Acrobat
 	5 Jubilent Sewer Cook
-	5 Rakdos Pit Fighter
+	5 Stage Cleaner
 	5 First District Paragon
 	5 Swarm Broodmother
 	5 Undercity Cleaner
@@ -3163,7 +3156,7 @@
 	5 Reap
 	5 Jagged Edges
 	5 The Show Never Ends
-	5 Rot Garden
+	5 Cytoplasm Carrier
 	5 Incite Delirium
 	5 Boros Phalanx
 	5 Sting Elemental
@@ -3187,10 +3180,10 @@
 	5 Ochran's Solution
 	5 Return to the Cycle
 	5 Swarm's Voracity
-	5 Undergrowth's Blessing
+	5 Redo
 	5 Rotquake
 	5 Ochran Stalker
-	5 Corrosive Experiment
+	5 Feral Experiment
 	5 Surging Horror
 	5 Inspect the Remains
 	5 Mangled Rootgiant
@@ -3206,23 +3199,29 @@
 	5 Flaming Fist
 	5 Firemane Executioner
 	5 Magistrate's Pet
-	5 Sphinx Lawbinder
-	5 Peruse the Law
 	5 Flame-kin Summoner
-	5 Safeguard
 	5 Azorius Insignia
 	5 Boros Insignia
 	5 Simic Insignia
 	5 Rakdos Insignia
 	5 Golgari Insignia
+	5 Azorius Guildgate
+	5 Boros Guildgate
 	5 Undercity Entrance
+	5 Golgari Guildgate
+	5 Rakdos Guildgate
+	5 Simic Guildgate
 	5 Rakdos Trailblazer
 	5 Infested Maneater
 	5 Accelerated Growth
 	5 Cull
-[commonland(1)]
-	5 Azorius Guildgate
-	5 Boros Guildgate
-	5 Golgari Guildgate
-	5 Rakdos Guildgate
-	5 Simic Guildgate
+	5 Azorius Lawmage
+	5 Preemptive Measures
+	5 Ready the Arresters
+	5 Sova Keymaster
+	5 Apprehend the Guilty
+	5 Detain Wisdom
+	5 Inquire
+	5 Peruse the Law
+	5 Safeguard
+	5 Sphinx Lawbinder
