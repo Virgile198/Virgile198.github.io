@@ -1,4 +1,199 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Boros Standard Bearer
+rules_text: Vigilance
+During your turn, this creature has first strike.
+When this creature dies, create a 1/1 red and white Soldier creature token. => During your turn, this creature has first strike.
+When this creature dies, create a 1/1 red and white Soldier creature token.
+
+Firemane Protector
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+Flying
+When this creature enters, you gain 3 life. => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+Flying, vigilance
+When this creature enters, you gain 3 life.
+
+Sanctum of Protection
+rules_text: Permanents can't be sacrificed. => Players can't sacrifice nonland permanents to cast spells or activate abilities.
+Spells and abilities your opponents control can't cause you to sacrifice permanents.
+
+Aurelia's Judgment
+cost: {7}{W}{W} => {6}{W}{W}
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+If five or more creatures attacked this turn, creatures you control gain indestructible until end of turn.
+Destroy all creatures. => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+Destroy all creatures. You gain 1 life for each creature you controlled that was destroyed this way.
+
+Loyal Warhound
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+{1}, Sacrifice this creature: Another target creature or planeswalker you control gains indestructible until end of turn. => {1}, Sacrifice this creature: Another target creature or planeswalker you control gains hexproof and indestructible until end of turn.
+pt: 1/2 => 2/1
+
+Valiant District Protector
+rules_text: Flying, double strike, vigilance => Flying, vigilance
+Whenever this creature attacks, target creature you control with power less than or equal to this creature's power gains double strike until end of turn.
+
+Featherscale Drake
+rules_text: Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+When this creature enters, tap each creature you don't control. => Flash
+Flying
+When this creature enters, tap all creatures you don't control and untap all creatures you control.
+pt: 5/3 => 4/3
+
+Enlighted Freemage
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i] => Whenever you cast a spell from exile, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+
+Void Wave
+rules_text: This spell costs {2} less to cast if it targets an attacking creature.
+Return target creature to its owner's hand. Scry 2. => This spell costs {2} less to cast if you cast a spell from exile this turn.
+Return target nonland permanent to its owner's hand. Scry 2.
+
+Experiment Twenty-Six
+rules_text: Implant {2}{U} [i]({2}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Whenever this creature enters or deals combat damage to a player, you may put a +1/+1 counter on it and have it become a copy of another target creature, except it isn't legendary and has this ability. => Implant {2}{U} [i]({2}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Whenever this creature enters or deals combat damage to a player, you may put a +1/+1 counter on it and have it become a copy of target creature, except it isn't legendary and has this ability.
+
+Reconsider
+rules_text: Surveil 3, then draw two cards. [i](To surveil 3, look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Surveil 2, then draw two cards. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Eidolon's Vision
+rules_text: Draw two cards.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand. => When this enchantment enters, target player shuffles up to three target cards from their graveyard into their library. Scry 2, then draw a card.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand.
+
+The Show Never Ends
+rules_text: Choose one —
+• Search your library for up to two creature cards with total mana value six or less, put them into your graveyard, then shuffle.
+• Return up to two target creature cards from your graveyard to your hand. => Choose one —
+• Create two 1/1 red Devil creature tokens with “When this creature dies, it deals 1 damage to any target.”
+• Return up to two target creature cards from your graveyard to your hand.
+
+Eidolon's Infestation
+rules_text: When this enchantment enters, mill four cards. Create a 1/1 black and green Insect creature token for each permanent card milled this way.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand. => When this enchantment enters, mill three cards. Create a 1/1 black and green Insect creature token for each permanent card milled this way.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand.
+
+Sting Elemental
+rules_text: Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+When this creature dies, it deals 1 damage to any target. => Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+When this creature dies, it deals 1 damage to any target. If a player is dealt damage this way, scry 1.
+
+Wheel of Agony
+rules_text: As an additional cost to cast this spell, you may sacrifice a creature.
+This spell deals 2 damage to any target. If a creature was sacrificed, it deals 3 damage to any target instead. => As an additional cost to cast this spell, you may sacrifice a creature.
+This spell deals 2 damage to any target. If a creature was sacrificed, it deals 3 damage to any target instead and you scry 1.
+
+Just Strike
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+Target creature gets +3/+0 and gains first strike until end of turn. => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+Target creature gets +2/+0 and gains first strike until end of turn.
+
+Firstblade Lieutenant
+rules_text: First strike
+At the beginning of combat on your turn, create a 1/1 red Goblin creature token. That token gains haste until end of turn and attacks this combat if able.
+{2}{R}: Creatures you control get +1/+0 until end of turn. => During your turn, this creature has first strike.
+Whenever this creature attacks, create a 1/1 red Goblin creature token that's tapped and attacking.
+Whenever this creature or another creature you control dies, exile the top card of your library. Until your next end step, you may play this card. This ability triggers only once each turn.
+pt: 2/2 => 3/2
+
+Mourning Legionnaire
+rules_text: Whenever this creature or another creature you control dies, put a +1/+1 counter on target creature you control. If this is the second time this ability has resolved this turn, draw a card.
+{W}, Sacrifice this creature: Return target creature card with a different name and mana value 3 or less from your graveyard to the battlefield. Activate only as a sorcery. => Whenever this creature or another creature you control dies, put a +1/+1 counter on target creature you control. If this is the second time this ability has resolved this turn, draw a card.
+Sacrifice this creature: Return target creature card with a different name and mana value 3 or less from your graveyard to the battlefield. Activate only as a sorcery.
+
+Uncontained Hulk
+rules_text: When this creature enters, put a +1/+1 counter on target creature you control and you gain 1 life.
+Whenever this creature dies, put its counters on up to one target creature you control. => When this creature enters, put a +1/+1 counter on target creature you control.
+Whenever this creature dies, put its counters on up to one target creature you control.
+
+Insatiable Troll
+rules_text: Trample
+{T}, Sacrifice another creature: This creature fights target creature you don't control.
+Sacrifice three creatures: Return this creature card from your graveyard to the battlefield tapped. Activate only as a sorcery. => Trample
+When this creature enters, it fights up to one target creature you don't control.
+Sacrifice three creatures: Return this creature card from your graveyard to the battlefield tapped. Activate only as a sorcery.
+pt: 6/6 => 5/5
+
+Recovering Wilds
+rules_text: Search your library for up to two basic land cards and/or Gate cards, reveal those cards, put one into your hand and the other into your graveyard, then shuffle.
+{2}{G}, Exile this card from your graveyard: Return up to two target land cards from your graveyard to your hand. => Search your library for up to two basic land cards and/or Gate cards, reveal those cards, put one into your hand and the other into your graveyard, then shuffle.
+{1}{G}, Exile this card from your graveyard: Return up to two target land cards from your graveyard to your hand.
+
+Eidolon's Genesis
+rules_text: When this enchantment enters, draw a card and you gain 3 life. You may play an additional land this turn.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand. => When this enchantment enters, draw a card and you gain 3 life. You may play an additional land land this turn.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand.
+
+Magistrate's Pet
+rules_text: Flying, vigilance
+Whenever you cast a spell from exile or activate an ability that's not a mana ability, scry 1. This ability triggers only once each turn.
+Preamble {1}{WU}{WU} [i]({1}{WU}{WU}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i] => Flying, vigilance
+Whenever you cast a spell from exile or activate an ability that's not a mana ability, scry 1.
+Preamble {1}{WU}{WU} [i]({1}{WU}{WU}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+Gulistan, Master Biomancer
+rules_text: Ward {2}
+{X}{G}{G}{U}, {T}: Choose up to one other target creature you control. Create a token that's a copy of it, except it isn't legendary, is a Frog Lizard creature and has base power and toughness 0/0. It enters with X +1/+1 counters on it. => {X}{G}{G}{U}, {T}: Choose up to one other target creature you control. Create a token that's a copy of it, except it isn't legendary, is a Frog Lizard creature and has base power and toughness 0/0. It enters with X +1/+1 counters on it.
+pt: 3/4 => 3/5
+
+Arrester Captain
+rules_text: Prowess
+Whenever this creature deals combat damage to a player, that player reveals their hand. Choose a nonland card name.
+Your opponents can't cast spells or activate abilities of cards or permanents with the last chosen name. => Whenever this creature deals combat damage to a player, that player reveals their hand. Choose a nonland card name.
+Your opponents can't cast spells or activate abilities of cards or permanents with the last chosen name.
+
+Fungus Nursery
+rules_text: At the beginning of your upkeep, surveil 1.
+Whenever one or more cards leave your graveyard, draw a card and you gain 1 life. This ability triggers only once each turn. => At the beginning of your upkeep, surveil 1.
+Whenever you sacrifice a creature or one or more cards leave your graveyard, draw a card and you gain 1 life. This ability triggers only once each turn.
+
+Wojek Recruitee
+rules_text: At the beginning of combat on your turn, target creature you control gets +1/+0 and gains menace until end of turn. => When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card.
+At the beginning of combat on your turn, target creature you control gets +1/+0 and gains menace until end of turn.
+
+Mileva of the Tenth
+rules_text: First strike, haste
+Players can't cast spell without muster or activate abilities during combat. => Vigilance, haste
+During combat, players can't cast spell without muster or activate abilities.
+pt: 3/2 => 3/3
+
+Corpse-Pit Goliath
+rules_text: When this creature enters, surveil 3.
+Whenever a nontoken creature you control dies, if it had a +1/+1 counter on it, create a 1/1 black and green Insect creature token. Otherwise, you gain 1 life.
+{BG}, Sacrifice a creature: Put a +1/+1 counter on target creature you control. => Trample
+Whenever this creature or another nontoken creature you control dies, create a 1/1 black and green Insect creature tokens for each +1/+1 counters on it.
+{BG}, Sacrifice a creature: Put two +1/+1 counters on target creature you control.
+
+Lamiel, Deathsprout Cultivator
+rules_text: Lands you control have “{T}: Surveil 1.”
+Whenever one or more cards leave your graveyard, create a 0/1 green Plant creature token.
+{B}{G}, Sacrifice a creature: Draw a card. You gain 1 life. => Lands you control have “{T}: Surveil 1.”
+Whenever another nontoken creature you control dies or one or more cards leave your graveyard, create a 0/1 green Plant creature token.
+{B}{G}, Sacrifice a creature: Draw a card. You gain 1 life.
+
+Preemptive Measures
+rules_text: Target creature you control gets +2/+2 until end of turn. If you cast a spell from exile this turn, it also gains flying and lifelink until end of turn. => Target creature you control gets +2/+2 until end of turn. If you cast a spell from exile this turn, it also gains first strike and lifelink until end of turn.
+
+Proscribe
+rules_text: Choose one —
+• Exile target artifact or enchantment.
+• Exile target player's graveyard. => Choose one —
+• Exile target artifact.
+• Exile target enchantment.
+• Exile target player's graveyard.
+
+Sova Keymaster
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+{1}{U}, {T}: Tap or untap another target artifact or creature. => Whenever you cast a spell from exile, target creature you control gains of vigilance until end of turn.
+{1}{U}, {T}: Tap or untap another target artifact or creature.
+pt: 2/1 => 2/2
+
+
+VERSION 9 CHANGELOG
 ====================
 
 
