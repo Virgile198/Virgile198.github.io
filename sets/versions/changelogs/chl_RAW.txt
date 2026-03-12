@@ -1,4 +1,31 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+
+Breeding Plant Supervisor
+rules_text: Whenever you activate an ability that's not a mana ability, put a +1/+1 counter on target creature you control. This ability triggers only once each turn.
+{4}{G}: Create a 0/0 green Ooze creature token. Put two a +1/+1 counter on it. => Whenever you activate an ability that's not a mana ability, you may pay {G}. When you do, put a +1/+1 counter on target creature you control.
+{4}{G}: Create a 0/0 green Ooze creature token. Put two a +1/+1 counter on it.
+
+Radiant Champion
+rules_text: Menace, indestructible
+Whenever this creature deals combat damage to a player for the first time each turn, untap all attacking creatures. After this combat phase, there is an additional combat phase. => This spell can't be countered.
+Menace, indestructible
+This creature attacks each combat if able.
+Whenever this creature deals combat damage to a player for the first time each turn, untap all creatures you control. After this combat phase, there is an additional combat phase.
+pt: 3/1 => 2/1
+
+Lothran, the Glouton
+rules_text: Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+Whenever Lothran attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on Lothran and it gains indestructible until end of turn. => Menace
+Whenever Lothran attacks, you may sacrifice another creature. If you do, put a +1/+1 counter on Lothran and he gains indestructible until end of turn.
+
+Lavinia, the Just
+rules_text: Whenever a player casts a spell from anywhere other than their hand or activate an ability from anywhere other than the battlefield, draw a card, you may pay {2}. When you do, copy that spell or ability. You may chose new targets for the copy. => Whenever a player casts a spell from anywhere other than their hand or activate an ability from anywhere other than the battlefield, you may pay {2}. When you do, copy that spell or ability. You may chose new targets for the copy.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Brightsteel Interceptor added.

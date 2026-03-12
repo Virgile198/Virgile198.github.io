@@ -1,4 +1,23 @@
-﻿VERSION 57 CHANGELOG
+﻿VERSION 58 CHANGELOG
+====================
+
+
+
+Wrath Guildmage
+rules_text: {RG}, {T}: The next spell you cast this turn can't be countered.
+{2}{R}{G}: Double the power and toughness of target attacking creature you control until end of turn. => {RG}, {T}: The next spell you cast this turn can't be countered.
+{2}{R}{G}: Double the power and toughness of another target attacking creature you control until end of turn.
+
+Devotion Guildmage
+rules_text: {1}{WB}, {T}: Exile target card from a graveyard. If you exiled a creature card this way, create a 1/1 white and black Spirit creature token with flying.
+{3}{W}{B}: This creature deals 2 damage to target opponent or planeswalker. You gain 2 life. => {WB}, {T}: Exile up to one target card from a graveyard. If you exiled a creature card this way, you gain 1 life.
+{3}{W}{B}: This creature deals 2 damage to target opponent or planeswalker. You gain 2 life.
+
+Eidolon's Wisdom
+cost: {2}{U} => {1}{U}
+
+
+VERSION 57 CHANGELOG
 ====================
 
 No changes.
