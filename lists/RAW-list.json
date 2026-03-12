@@ -91,7 +91,7 @@
     },
     {
         "card_name": "In Formation!",
-        "number": 14,
+        "number": 13,
         "shape": "normal",
         "set": "RAW"
     },
@@ -301,7 +301,7 @@
     },
     {
         "card_name": "Loyal Warhound",
-        "number": 15,
+        "number": 14,
         "shape": "normal",
         "set": "RAW"
     },
@@ -540,7 +540,7 @@
         "set": "RAW"
     },
     {
-        "card_name": "Fierce Griffin",
+        "card_name": "Firemane Protector",
         "number": 10,
         "shape": "normal",
         "set": "RAW"
@@ -570,7 +570,7 @@
         "set": "RAW"
     },
     {
-        "card_name": "Firemane Protector",
+        "card_name": "Gate Physician",
         "number": 11,
         "shape": "normal",
         "set": "RAW"
@@ -600,7 +600,7 @@
         "set": "RAW"
     },
     {
-        "card_name": "Gate Physician",
+        "card_name": "Guildpact Faithful",
         "number": 12,
         "shape": "normal",
         "set": "RAW"
@@ -630,8 +630,8 @@
         "set": "RAW"
     },
     {
-        "card_name": "Guildpact Faithful",
-        "number": 13,
+        "card_name": "Magistrate's Pet",
+        "number": 15,
         "shape": "normal",
         "set": "RAW"
     },
@@ -968,7 +968,7 @@
     },
     {
         "card_name": "Containment Breach",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "RAW"
     },
@@ -1003,8 +1003,8 @@
         "set": "RAW"
     },
     {
-        "card_name": "Durand, High Justicar",
-        "number": 159,
+        "card_name": "Binding Decree",
+        "number": 149,
         "shape": "normal",
         "set": "RAW"
     },
@@ -1033,8 +1033,8 @@
         "set": "RAW"
     },
     {
-        "card_name": "Futur Seer",
-        "number": 169,
+        "card_name": "Durand, High Justicar",
+        "number": 159,
         "shape": "normal",
         "set": "RAW"
     },
@@ -1063,8 +1063,8 @@
         "set": "RAW"
     },
     {
-        "card_name": "Incarcerate",
-        "number": 175,
+        "card_name": "Futur Seer",
+        "number": 169,
         "shape": "normal",
         "set": "RAW"
     },
@@ -1106,19 +1106,19 @@
     },
     {
         "card_name": "Corpse-Pit Goliath",
-        "number": 220,
+        "number": 221,
         "shape": "normal",
         "set": "RAW"
     },
     {
         "card_name": "Firemane's Flamberge",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "RAW"
     },
     {
         "card_name": "Force Shaping",
-        "number": 225,
+        "number": 226,
         "shape": "normal",
         "set": "RAW"
     },
@@ -1153,8 +1153,8 @@
         "set": "RAW"
     },
     {
-        "card_name": "Binding Decree",
-        "number": 149,
+        "card_name": "Decipher the Chronology",
+        "number": 156,
         "shape": "normal",
         "set": "RAW"
     },
@@ -1183,8 +1183,8 @@
         "set": "RAW"
     },
     {
-        "card_name": "Decipher the Chronology",
-        "number": 156,
+        "card_name": "Incarcerate",
+        "number": 175,
         "shape": "normal",
         "set": "RAW"
     },
@@ -1310,13 +1310,13 @@
     },
     {
         "card_name": "Chaos Guildmage",
-        "number": 218,
+        "number": 219,
         "shape": "normal",
         "set": "RAW"
     },
     {
         "card_name": "Decay Guildmage",
-        "number": 221,
+        "number": 222,
         "shape": "normal",
         "set": "RAW"
     },
@@ -1328,7 +1328,7 @@
     },
     {
         "card_name": "Evolution Guildmage",
-        "number": 222,
+        "number": 223,
         "shape": "normal",
         "set": "RAW"
     },
@@ -1381,7 +1381,7 @@
         "set": "RAW"
     },
     {
-        "card_name": "Firemane Executioner",
+        "card_name": "Firefist's Indignation",
         "number": 165,
         "shape": "normal",
         "set": "RAW"
@@ -1411,7 +1411,7 @@
         "set": "RAW"
     },
     {
-        "card_name": "Flaming Fist",
+        "card_name": "Firemane Executioner",
         "number": 166,
         "shape": "normal",
         "set": "RAW"
@@ -1453,8 +1453,8 @@
         "set": "RAW"
     },
     {
-        "card_name": "Magistrate's Pet",
-        "number": 227,
+        "card_name": "Brightsteel Interceptor",
+        "number": 218,
         "shape": "normal",
         "set": "RAW"
     },
@@ -1472,13 +1472,13 @@
     },
     {
         "card_name": "Flame-kin Summoner",
-        "number": 224,
+        "number": 225,
         "shape": "normal",
         "set": "RAW"
     },
     {
         "card_name": "Gyre Clade Guardian",
-        "number": 226,
+        "number": 227,
         "shape": "normal",
         "set": "RAW"
     },
@@ -1756,7 +1756,7 @@
     },
     {
         "card_name": "Treasure",
-        "number": 20,
+        "number": 21,
         "shape": "token",
         "set": "RAW"
     },
@@ -1833,25 +1833,25 @@
         "set": "RAW"
     },
     {
-        "card_name": "Elemental",
+        "card_name": "Drake",
         "number": 14,
         "shape": "token",
         "set": "RAW"
     },
     {
-        "card_name": "Elemental Dog",
+        "card_name": "Elemental",
         "number": 15,
         "shape": "token",
         "set": "RAW"
     },
     {
-        "card_name": "Insect",
+        "card_name": "Elemental Dog",
         "number": 16,
         "shape": "token",
         "set": "RAW"
     },
     {
-        "card_name": "Soldier",
+        "card_name": "Insect",
         "number": 17,
         "shape": "token",
         "set": "RAW"
@@ -1863,10 +1863,28 @@
         "set": "RAW"
     },
     {
-        "card_name": "Sphinx",
+        "card_name": "Soldier",
         "number": 19,
         "shape": "token",
         "set": "RAW"
+    },
+    {
+        "card_name": "Sphinx",
+        "number": 20,
+        "shape": "token",
+        "set": "RAW"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
