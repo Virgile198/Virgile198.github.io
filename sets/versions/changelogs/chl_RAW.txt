@@ -1,4 +1,15 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+
+Breeding Plant Supervisor
+rules_text: Whenever you activate an ability that's not a mana ability, you may pay {G}. When you do, put a +1/+1 counter on target creature you control.
+{4}{G}: Create a 0/0 green Ooze creature token. Put two a +1/+1 counter on it. => Whenever you activate an ability that's not a mana ability, you may pay {G}. When you do, put a +1/+1 counter on target creature you control.
+{3}{G}: Create a 0/0 green Ooze creature token. Put a +1/+1 counter on it.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 

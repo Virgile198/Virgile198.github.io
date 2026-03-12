@@ -1867,7 +1867,7 @@
             "number": 120,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Whenever you activate an ability that's not a mana ability, you may pay {G}. When you do, put a +1/+1 counter on target creature you control.\n{4}{G}: Create a 0/0 green Ooze creature token. Put two a +1/+1 counter on it.",
+            "rules_text": "Whenever you activate an ability that's not a mana ability, you may pay {G}. When you do, put a +1/+1 counter on target creature you control.\n{3}{G}: Create a 0/0 green Ooze creature token. Put a +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -5434,5 +5434,5 @@
             "notes": "!Simic;\n!token"
         }
     ],
-    "version": 12
+    "version": 13
 }
