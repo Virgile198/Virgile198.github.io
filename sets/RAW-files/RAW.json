@@ -5189,7 +5189,7 @@
             "number": 149,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
-            "rules_text": "Creatures can't attack you or permanents you control unless their controller pays {2} for each creature they control that's attacking you.\nNonland abilities your opponents activate cost an additional {2} to activate.",
+            "rules_text": "Creatures can't attack you or permanents you control unless their controller pays {2} for each creature they control that's attacking you.\nActivated abilities of nonland permanents and cards your opponents activate cost an additional {2} to activate.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5434,5 +5434,5 @@
             "notes": "!Simic;\n!token"
         }
     ],
-    "version": 13
+    "version": 14
 }

@@ -1,4 +1,15 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+
+Binding Decree
+rules_text: Creatures can't attack you or permanents you control unless their controller pays {2} for each creature they control that's attacking you.
+Nonland abilities your opponents activate cost an additional {2} to activate. => Creatures can't attack you or permanents you control unless their controller pays {2} for each creature they control that's attacking you.
+Activated abilities of nonland permanents and cards your opponents activate cost an additional {2} to activate.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 
