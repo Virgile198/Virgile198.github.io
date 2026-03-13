@@ -67,7 +67,7 @@
             "number": 10,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
-            "rules_text": "Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]\nFlying\nWhen this creature enters, you gain 3 life.",
+            "rules_text": "Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]\nFlying, vigilance\nWhen this creature enters, you gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2551,7 +2551,7 @@
             "number": 15,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Flying, vigilance\nWhen this creature enters, you gain 2 life.\nPreamble {2}{W} [i]({2}{W}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]",
+            "rules_text": "Flying, vigilance\nWhen this creature enters, scry 1.\nPreamble {2}{W} [i]({2}{W}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -4845,7 +4845,7 @@
             "number": 4,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Whenever this creature enters or you cast a spell from exile, scry 1.",
+            "rules_text": "Whenever this creature enters or you cast a spell from exile, scry 1 and you gain 1 life.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -5434,5 +5434,5 @@
             "notes": "!Simic;\n!token"
         }
     ],
-    "version": 15
+    "version": 16
 }

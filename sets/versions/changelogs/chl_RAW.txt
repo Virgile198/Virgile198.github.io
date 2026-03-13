@@ -1,4 +1,27 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+
+
+Firemane Protector
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+Flying
+When this creature enters, you gain 3 life. => Muster [i](This spell costs {1} less to cast for each creature that was declared as an attacker this turn.)[/i]
+Flying, vigilance
+When this creature enters, you gain 3 life.
+
+Magistrate's Pet
+rules_text: Flying, vigilance
+When this creature enters, you gain 2 life.
+Preamble {2}{W} [i]({2}{W}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i] => Flying, vigilance
+When this creature enters, scry 1.
+Preamble {2}{W} [i]({2}{W}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+Azorius Lawmage
+rules_text: Whenever this creature enters or you cast a spell from exile, scry 1. => Whenever this creature enters or you cast a spell from exile, scry 1 and you gain 1 life.
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Psychogenetic Tap added.
