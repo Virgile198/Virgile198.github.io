@@ -1611,13 +1611,13 @@
 			}
 		},
 		{
-			"name": "Psycogenetic Tap",
+			"name": "Psychogenetic Tap",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Sorcery",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/194_Psycogenetic Tap.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/194_Psychogenetic Tap.png"
 			}
 		},
 		{
@@ -3091,7 +3091,7 @@
 	5 Eidolon's Genesis
 	5 Skyrender Knight
 	5 Devastation in the Streets
-	5 Psycogenetic Tap
+	5 Psychogenetic Tap
 	5 Diana, Passer of Judgment
 	5 Fester
 	5 Forsaken Loxodon

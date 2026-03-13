@@ -1,4 +1,38 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Psychogenetic Tap added.
+
+Psycogenetic Tap removed.
+
+Collateral
+rules_text: Choose one —
+• This spells deals 1 damage to each opponent and each creature they control.
+• This spells deals 3 damage to target creature. => Choose one —
+• This spell deals 1 damage to each opponent and each creature they control.
+• This spell deals 3 damage to target creature.
+
+Return to the Cycle
+rules_text: This spells costs {1} less yo cast for each monocolored permanent and/or cards it targets.
+Choose one or more —
+• Destroy target artifact or enchantment.
+• Put up to one target face-up exiled card you don't own into its owner's graveyard. Draw a card. => This spell costs {1} less yo cast for each monocolored permanent and/or cards it targets.
+Choose one or more —
+• Destroy target artifact or enchantment.
+• Put up to one target face-up exiled card you don't own into its owner's graveyard. Draw a card.
+
+Mileva of the Tenth
+rules_text: Vigilance, haste
+Prevent all damage that would be dealt to other attacking creatures you control. => Vigilance, haste
+Whenever Mileva attacks or blocks, prevent all damage that would be dealt to other creatures you control until end of combat.
+
+Ready the Arresters
+rules_text: Create two 1/1 blue and white Soldier creature tokens. Then if this spells was cast from exile, you gain 1 life for each creature you control.
+Preamble {3}{W} [i]({3}{W}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i] => Create two 1/1 blue and white Soldier creature tokens. Then if this spell was cast from exile, you gain 1 life for each creature you control.
+Preamble {3}{W} [i]({3}{W}, Exile this card from your hand: Cast a copy of this spell without paying its mana cost. Cast this from exile on a later turn. Preamble only as a sorcery.)[/i]
+
+
+VERSION 14 CHANGELOG
 ====================
 
 
