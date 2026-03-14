@@ -1,4 +1,33 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+
+Breeding Plant Supervisor
+rules_text: Whenever you activate an ability that's not a mana ability, you may pay {G}. When you do, put a +1/+1 counter on target creature you control.
+{3}{G}: Create a 0/0 green Ooze creature token. Put a +1/+1 counter on it. => Whenever you activate an ability that's not a mana ability, you may pay {1}{G}. When you do, put a +1/+1 counter on target creature you control.
+{3}{G}: Create a 0/0 green Ooze creature token. Put a +1/+1 counter on it.
+
+Woodwraith Behemoth
+rules_text: Whenever a creature you control dies, create a tapped token that's a copy of it, except it's a land with “{T}: Add one mana of any color.” This ability triggers only once each turn.
+Swarm 3—{3}{G}{G} [i]({3}{G}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => Whenever a creature you control dies, create a tapped token that's a copy of it, except it's a land with “{T}: Add one mana of any color.” Do this only once each turn.
+Swarm 3—{3}{G}{G} [i]({3}{G}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+
+Gulistan, Master Biomancer
+rules_text: {X}{G}{G}{U}, {T}: Choose up to one other target creature you control. Create a token that's a copy of it, except it isn't legendary, is a Frog Lizard creature and has base power and toughness 0/0. It enters with X +1/+1 counters on it. => {X}{G}{G}{U}, {T}: Choose up to one other target creature you control. Create a token that's a copy of it, except it isn't legendary, is a Frog Lizard creature and has base power and toughness 0/0. Put X +1/+1 counters on it.
+
+Decay Guildmage
+rules_text: {BG}, {T}: Mill two cards. You gain 1 life for each permanent card milled this way.
+{4}{B}{G}: Put a +1/+1 counter on each other creature you control. They gain menace until end of turn. => {BG}, {T}: Mill two cards. You gain 1 life for each permanent card milled this way.
+{3}{B}{G}: Put a +1/+1 counter on each other creature you control. They gain menace until end of turn. Activate only as a sorcery.
+
+Evolution Guildmage
+rules_text: {1}{GU}, {T}: Target creature has base power and toughness 3/3 until end of turn.
+{2}{G}{U}: Copy target creature spell, activated ability, or triggered ability. You may choose new targets for the copy. [i](A copy of a creature spell becomes a token.)[/i] => {GU}, {T}: Untap another target permanent.
+{2}{G}{U}: Copy target creature spell, activated ability, or triggered ability. You may choose new targets for the copy. [i](A copy of a creature spell becomes a token.)[/i]
+
+
+VERSION 16 CHANGELOG
 ====================
 
 
