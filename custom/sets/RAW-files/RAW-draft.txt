@@ -3205,12 +3205,7 @@
 	5 Simic Insignia
 	5 Rakdos Insignia
 	5 Golgari Insignia
-	5 Azorius Guildgate
-	5 Boros Guildgate
 	5 Undercity Entrance
-	5 Golgari Guildgate
-	5 Rakdos Guildgate
-	5 Simic Guildgate
 	5 Rakdos Trailblazer
 	5 Infested Maneater
 	5 Accelerated Growth
@@ -3225,3 +3220,9 @@
 	5 Peruse the Law
 	5 Safeguard
 	5 Sphinx Lawbinder
+[commonland(1)]
+	5 Azorius Guildgate
+	5 Boros Guildgate
+	5 Golgari Guildgate
+	5 Rakdos Guildgate
+	5 Simic Guildgate
