@@ -406,7 +406,7 @@ During your turn, this creature has hexproof.</text>
 		<card>
 			<name>Enlighted Freemage</name>
 			<text>Whenever you cast a spell from exile, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/41_Enlighted Freemage.png" num="41">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/40_Enlighted Freemage.png" num="40">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -443,7 +443,7 @@ Whenever you activate an ability that&apos;s not a mana ability, target player m
 			<name>Fin Clade Guardian</name>
 			<text>Implant {2}{U} ({2}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)
 Flying, vigilance</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/43_Fin Clade Guardian.png" num="43">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/42_Fin Clade Guardian.png" num="42">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -461,7 +461,7 @@ Flying, vigilance</text>
 			<name>Gate Infiltrator</name>
 			<text>Whenever this creature deals damage to a player, draw a card, then discard a card.
 This creature can&apos;t be blocked as long as you control a Gate.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/45_Gate Infiltrator.png" num="45">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/44_Gate Infiltrator.png" num="44">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -497,7 +497,7 @@ This creature can&apos;t be blocked as long as you control a Gate.</text>
 			<name>Lyev Skywatch</name>
 			<text>Flying
 When this creature enters, return up to one other target nonland permanent to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/49_Lyev Skywatch.png" num="49">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/48_Lyev Skywatch.png" num="48">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -545,9 +545,9 @@ Enchanted creature gets -5/-0 and loses all abilities.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Cleanse</name>
+			<name>Oust</name>
 			<text>Counter target spell unless its controller pays {2}. If that spell is monocolored, counter it unless its controller pays {3} instead.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/35_Cleanse.png" num="35">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/49_Oust.png" num="49">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -582,7 +582,7 @@ Return target creature to its owner&apos;s hand. Scry 1.</text>
 			<text>Flash
 Flying
 Whenever you activate an ability that&apos;s not a mana ability, you may pay {2}{U}. When you do, create a token that&apos;s a copy of this creature.</text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/44_Fluxfeather Eagle.png" num="44">RAW</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/43_Fluxfeather Eagle.png" num="43">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -600,7 +600,7 @@ Whenever you activate an ability that&apos;s not a mana ability, you may pay {2}
 			<name>Experiment Twenty-Six</name>
 			<text>Implant {2}{U} ({2}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)
 Whenever this creature enters or deals combat damage to a player, you may have it become a copy of target creature, except it isn&apos;t legendary and has this ability. When you do, put a +1/+1 counter on it.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/42_Experiment Twenty-Six.png" num="42">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/41_Experiment Twenty-Six.png" num="41">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -651,7 +651,7 @@ Whenever this creature enters or deals combat damage to a player, you may have i
 			<name>Elusive Biomage</name>
 			<text>Implant {2}{U} ({2}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)
 This creature can&apos;t be blocked.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/39_Elusive Biomage.png" num="39">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/38_Elusive Biomage.png" num="38">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -689,7 +689,7 @@ This creature can&apos;t be blocked.</text>
 			<text>Flash
 Flying
 {U}, Sacrifice this creature: Counter target noncreature spell or ability unless its controller pays {2}.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/48_Lawmage Familliar.png" num="48">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/47_Lawmage Familliar.png" num="47">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -707,7 +707,7 @@ Flying
 			<name>Cocky Fluxmage</name>
 			<text>Flying
 At the beginning of combat on your turn, up to one target creature you control loses all its abilities and becomes a blue Bird creature with base power and toughness X/X and flying until end of turn, where X is the number of Gates you control.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/36_Cocky Fluxmage.png" num="36">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/35_Cocky Fluxmage.png" num="35">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -776,7 +776,7 @@ Counter target spell, activated ability, or triggered ability unless its control
 			<name>Eidolon&apos;s Vision</name>
 			<text>Draw four cards, then put two cards from your hand on the top or bottom of your library in any order.
 Whenever you cast a multicolored spell, return this enchantment to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/38_Eidolon&apos;s Vision.png" num="38">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/37_Eidolon&apos;s Vision.png" num="37">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3451,7 +3451,7 @@ Whenever Mileva attacks or blocks, prevent all damage that would be dealt to oth
 				<cmc>3</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
-				<pt>2/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4843,7 +4843,7 @@ Preamble {3}{U} ({3}{U}, Exile this card from your hand: Cast a copy of it witho
 		<card>
 			<name>Detain Wisdom</name>
 			<text>Each player mills three cards. You may put a card you milled this way into your hand. Then if {W} was spent to cast this spell, exile each opponent&apos;s graveyard.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/37_Detain Wisdom.png" num="37">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/36_Detain Wisdom.png" num="36">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4860,7 +4860,7 @@ Preamble {3}{U} ({3}{U}, Exile this card from your hand: Cast a copy of it witho
 			<name>Enfeebling Shackles</name>
 			<text>Creatures your opponents control get -2/-0 until end of turn. Then if this spell was cast from exile, tap each of those creature with power 1 or less.
 Preamble {3}{U} ({3}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/40_Enfeebling Shackles.png" num="40">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/39_Enfeebling Shackles.png" num="39">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4877,7 +4877,7 @@ Preamble {3}{U} ({3}{U}, Exile this card from your hand: Cast a copy of it witho
 			<name>Inquire</name>
 			<text>Draw a card.
 Preamble {1}{U} ({1}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/46_Inquire.png" num="46">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/45_Inquire.png" num="45">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4894,7 +4894,7 @@ Preamble {1}{U} ({1}{U}, Exile this card from your hand: Cast a copy of it witho
 			<name>Jelenn Grand Elocutor</name>
 			<text>Spells you cast from exile cost {2} less to cast.
 Whenever you cast a spell from anywhere other than your hand, draw a card. This ability triggers only once each turn.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/47_Jelenn Grand Elocutor.png" num="47">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/46_Jelenn Grand Elocutor.png" num="46">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

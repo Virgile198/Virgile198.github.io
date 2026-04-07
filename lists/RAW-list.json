@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Fluxfeather Eagle",
-        "number": 44,
+        "number": 43,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Experiment Twenty-Six",
-        "number": 42,
+        "number": 41,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -89,7 +89,7 @@
     },
     {
         "card_name": "Jelenn Grand Elocutor",
-        "number": 47,
+        "number": 46,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -329,7 +329,7 @@
     },
     {
         "card_name": "Cocky Fluxmage",
-        "number": 36,
+        "number": 35,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -369,7 +369,7 @@
     },
     {
         "card_name": "Eidolon's Vision",
-        "number": 38,
+        "number": 37,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "Elusive Biomage",
-        "number": 39,
+        "number": 38,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -449,7 +449,7 @@
     },
     {
         "card_name": "Enfeebling Shackles",
-        "number": 40,
+        "number": 39,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -489,7 +489,7 @@
     },
     {
         "card_name": "Lawmage Familliar",
-        "number": 48,
+        "number": 47,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -728,8 +728,8 @@
         "position": ""
     },
     {
-        "card_name": "Cleanse",
-        "number": 35,
+        "card_name": "Detain Wisdom",
+        "number": 36,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -768,8 +768,8 @@
         "position": ""
     },
     {
-        "card_name": "Detain Wisdom",
-        "number": 37,
+        "card_name": "Enlighted Freemage",
+        "number": 40,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -808,8 +808,8 @@
         "position": ""
     },
     {
-        "card_name": "Enlighted Freemage",
-        "number": 41,
+        "card_name": "Fin Clade Guardian",
+        "number": 42,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -848,8 +848,8 @@
         "position": ""
     },
     {
-        "card_name": "Fin Clade Guardian",
-        "number": 43,
+        "card_name": "Gate Infiltrator",
+        "number": 44,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -888,7 +888,7 @@
         "position": ""
     },
     {
-        "card_name": "Gate Infiltrator",
+        "card_name": "Inquire",
         "number": 45,
         "shape": "normal",
         "set": "RAW",
@@ -928,8 +928,8 @@
         "position": ""
     },
     {
-        "card_name": "Inquire",
-        "number": 46,
+        "card_name": "Lyev Skywatch",
+        "number": 48,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -968,7 +968,7 @@
         "position": ""
     },
     {
-        "card_name": "Lyev Skywatch",
+        "card_name": "Oust",
         "number": 49,
         "shape": "normal",
         "set": "RAW",

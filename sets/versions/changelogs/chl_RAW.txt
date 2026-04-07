@@ -1,4 +1,24 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Oust added.
+
+Cleanse removed.
+
+Vannifar, Voice of the Combine
+special_text: Whenever you cast a spell or activate an ability that targets a creature you control, draw a card. This ability triggers only once each turn.
+[+1]: Untap target permanent you control. If it's a creature, put a +1/+1 counter on it.
+[-3]: Create two 2/2 green and blue Drake creature tokens with flying.
+[-7]: You get an emblem with “At the beginning of each upkeep, create two tokens that are copies of target permanent.” => Whenever you cast a spell or activate an ability that targets a creature you control, draw a card. This ability triggers only once each turn.
+[+1]: Untap target permanent you control. If it's a creature, put a +1/+1 counter on it.
+[-3]: Create two 2/2 green and blue Drake creature tokens with flying.
+[-8]: You get an emblem with “At the beginning of each upkeep, create three tokens that are copies of target permanent.”
+
+Mileva of the Tenth
+pt: 2/2 => 3/3
+
+
+VERSION 24 CHANGELOG
 ====================
 
 
