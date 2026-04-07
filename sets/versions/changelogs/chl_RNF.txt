@@ -1,4 +1,76 @@
-﻿VERSION 59 CHANGELOG
+﻿VERSION 60 CHANGELOG
+====================
+
+
+
+Mossback Pulverizer
+
+Teysa Karlov, Master of Deals
+
+Orzhov Exorcist
+
+Flowerbed Envoy's Call
+
+Worldring Ouroboros
+
+Ledev Captain
+
+Sowing Courier
+
+Essencesnatch
+
+Tin Street
+
+Selesnya Insignia
+
+Vault of the Paruns
+
+Fires of Reclamation
+
+Mad Alchemist
+
+Cleanser of Debt
+
+Factory Line
+
+Workshop Supervisor
+
+Rakasht, Spawn of Ulasht
+
+Spore Waltz
+
+Cemetery Guardian
+
+Vitality
+
+Alcarus, Old Growth Protector
+
+Harmony Guildmage
+
+Ironroot Bindings
+
+Rise
+
+Repurpose the Scraps
+
+Devoted Marshal
+
+Eidolon's Call
+
+Writhing Amalgamate
+
+Blessing of Vitu-Ghazi
+
+Emmara, Ancestral Caregiver
+
+Dew's Benediction
+
+Ayla, Harmony's Embrace
+
+Ledev Rescue
+
+
+VERSION 59 CHANGELOG
 ====================
 
 Worldring Ouroboros added.

@@ -1,4 +1,102 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+Boros Standard Bearer
+
+Eidolon's Flight
+
+Jubilent Sewer Cook
+
+Swarm Broodmother
+
+The Show Never Ends
+
+Demon Progeny
+
+Daughter of Stone Death
+
+Swarm Evangel
+
+Corpse Jeweler
+
+Eidolon's Infestation
+
+Circle Headliner
+
+Backstage Preparations
+
+Ceaseless Anger
+
+Firstblade Lieutenant
+
+Welcoming Ringleader
+
+Goldscale Whelp
+
+Krenko's Ransack
+
+Eidolon's Impetus
+
+Undercity Ravager
+
+Woodwraith Behemoth
+
+Rotten Banquet
+
+Deathbloom Mandrake
+
+Ochran Stalker
+
+Surging Horror
+
+Vannifar, Voice of the Combine
+
+Tajic, Boros Examplar
+
+On Wings of Fury
+
+Juri, Charismatic Performer
+
+Unleash
+
+Ordruun Marshal
+
+Fungus Nursery
+
+Xaren, Rakdos Uncager
+
+Spark Legion
+
+War Guildmage
+
+Flame-kin Summoner
+
+Boros Insignia
+
+Zafen, Scheming Necromancer
+
+Voracious Deathstinger
+
+Corpse-Pit Goliath
+
+Festering Mass
+
+Remains
+
+Infested Maneater
+
+Lamiel, Deathsprout Cultivator
+
+Ready the Arresters
+
+Pursuit
+
+Octave, Deputy of Discipline
+
+
+VERSION 18 CHANGELOG
 ====================
 
 Enraged Hellhound added.

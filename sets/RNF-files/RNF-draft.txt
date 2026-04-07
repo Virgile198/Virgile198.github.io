@@ -147,7 +147,7 @@
 			"type": "Creature — Mole Fungus",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/133t_Mossback Pulverizer.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/133_Mossback Pulverizer.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/206t_Teysa Karlov, Master of Deals.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/206_Teysa Karlov, Master of Deals.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/18t_Orzhov Exorcist.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/18_Orzhov Exorcist.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Sorcery",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/130t_Flowerbed Envoy's Call.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/130_Flowerbed Envoy's Call.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/233t_Worldring Ouroboros.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/233_Worldring Ouroboros.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Creature — Elf Knight",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/16t_Ledev Captain.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/16_Ledev Captain.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Sorcery",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/26t_Sowing Courier.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/26_Sowing Courier.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Instant",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/39t_Essencesnatch.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/39_Essencesnatch.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Land — Gate",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/268t_Tin Street.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/268_Tin Street.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Artifact",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/255t_Selesnya Insignia.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/255_Selesnya Insignia.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Artifact",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/257t_Vault of the Paruns.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/257_Vault of the Paruns.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Sorcery",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/96t_Fires of Reclamation.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/96_Fires of Reclamation.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Creature — Lizard Wizard",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/103t_Mad Alchemist.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/103_Mad Alchemist.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Creature — Vampire Knight",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/2t_Cleanser of Debt.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/2_Cleanser of Debt.png"
 			}
 		},
 		{
@@ -1497,7 +1497,7 @@
 			"type": "Sorcery",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/176t_Factory Line.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/176_Factory Line.png"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Creature — Human Artificer Wizard",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/213t_Workshop Supervisor.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/213_Workshop Supervisor.png"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"type": "Legendary Creature — Hellion",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/193t_Rakasht, Spawn of Ulasht.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/193_Rakasht, Spawn of Ulasht.png"
 			}
 		},
 		{
@@ -1607,7 +1607,7 @@
 			"type": "Instant",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/205t_Spore Waltz.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/205_Spore Waltz.png"
 			}
 		},
 		{
@@ -1697,7 +1697,7 @@
 			"type": "Artifact Creature — Gargoyle",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/218t_Cemetery Guardian.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/218_Cemetery Guardian.png"
 			}
 		},
 		{
@@ -1737,7 +1737,7 @@
 			"type": "Instant",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/244t_Vitality.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/244_Vitality.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Legendary Creature — Elf Archer",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/146t_Alcarus, Old Growth Protector.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/146_Alcarus, Old Growth Protector.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Creature — Elf Druid",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/223t_Harmony Guildmage.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/223_Harmony Guildmage.png"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Enchantment",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/14t_Ironroot Bindings.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/14_Ironroot Bindings.png"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Sorcery",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/241t_Rise.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/241_Rise.png"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Instant",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/109t_Repurpose the Scraps.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/109_Repurpose the Scraps.png"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/68t_Devoted Marshal.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/68_Devoted Marshal.png"
 			}
 		},
 		{
@@ -2597,7 +2597,7 @@
 			"type": "Enchantment",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/7t_Eidolon's Call.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/7_Eidolon's Call.png"
 			}
 		},
 		{
@@ -2627,7 +2627,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/87t_Writhing Amalgamate.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/87_Writhing Amalgamate.png"
 			}
 		},
 		{
@@ -2647,7 +2647,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/151t_Blessing of Vitu-Ghazi.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/151_Blessing of Vitu-Ghazi.png"
 			}
 		},
 		{
@@ -2797,7 +2797,7 @@
 			"type": "Legendary Creature — Elf Druid",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/173t_Emmara, Ancestral Caregiver.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/173_Emmara, Ancestral Caregiver.png"
 			}
 		},
 		{
@@ -2817,7 +2817,7 @@
 			"type": "Enchantment",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/5t_Dew's Benediction.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/5_Dew's Benediction.png"
 			}
 		},
 		{
@@ -2837,7 +2837,7 @@
 			"type": "Legendary Planeswalker — Ayla",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/148t_Ayla, Harmony's Embrace.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/148_Ayla, Harmony's Embrace.png"
 			}
 		},
 		{
@@ -2897,7 +2897,7 @@
 			"type": "Sorcery",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/132t_Ledev Rescue.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/132_Ledev Rescue.png"
 			}
 		},
 		{
@@ -2948,20 +2948,26 @@
 	5 Bloodrust Assailant
 	5 Fierce Maaka Kitten
 	5 Blightblood Abomination
+	5 Mossback Pulverizer
 	5 Spectral Advisor
+	5 Teysa Karlov, Master of Deals
 	5 Assessor of Worth
 	5 Priest of The Welcoming
 	5 Vicious Blackmailer
 	5 Pruning
+	5 Flowerbed Envoy's Call
 	5 Dutiful Archprotector
+	5 Worldring Ouroboros
 	5 Branching Possibilities
 	5 Ral, Thundering Genius
+	5 Essencesnatch
 	5 Overflowing Buffer
 	5 Cognition Theft
 	5 Blood-Drenched Spoil
 	5 Deeproot Entity
 	5 Storm Eater
 	5 Transguild Square
+	5 Vault of the Paruns
 	5 Prismatic Custodian
 	5 Watery Grave
 	5 Stomping Ground
@@ -2969,6 +2975,8 @@
 	5 Godless Shrine
 	5 Steam Vents
 	5 Vital Reclamation
+	5 Fires of Reclamation
+	5 Mad Alchemist
 	5 Thraka, Ire of the Wilds
 	5 Caller of the Wilds
 	5 Arrogant Hermit
@@ -2977,20 +2985,26 @@
 	5 Lightning Catalyst
 	5 Maree, Nivix Grand Chamberlain
 	5 Reload
+	5 Factory Line
+	5 Workshop Supervisor
 	5 Blessing of Savagery
 	5 Bushfire Shaman
 	5 Ghor-Clan Charger
 	5 Ram
+	5 Rakasht, Spawn of Ulasht
 	5 Mind Warp
 	5 Chosen of the Worldsoul
+	5 Spore Waltz
 	5 Vanish
 	5 Circu, Butcher of Memories
 	5 Examination
 	5 Sewer Grafter
 	5 Unending Nightmare
+	5 Cemetery Guardian
 	5 Cruel Advokist
 	5 Dispossession
 	5 Milana, Orzhov High Prelate
+	5 Vitality
 	5 Facsimile Project
 	5 Hyper Space Time Bubble
 	5 Ashentrunk Incinerator
@@ -3000,11 +3014,15 @@
 	5 Dimir Necrosage
 	5 Coldhearted Cardinal
 	5 Door to Everywhere
+	5 Devoted Marshal
 	5 Undercity Bloodthirster
 	5 Cloud Drinker
 	5 Aspect of Uniformity
 	5 Blooming Sanctuary
 	5 Retriever of Secrets
+	5 Emmara, Ancestral Caregiver
+	5 Dew's Benediction
+	5 Ayla, Harmony's Embrace
 	5 Gheshval, Night's Mantle
 	5 Profitable Demise
 	5 Due of the Powerless
@@ -3015,6 +3033,7 @@
 	5 Rejuvenated Wood-Kin
 	5 Alms Giver
 	5 Euthanist Master
+	5 Orzhov Exorcist
 	5 Bolstering Spores
 	5 Leaf Storm
 	5 Coordinated Assault
@@ -3032,6 +3051,7 @@
 	5 Thrull Collectors
 	5 Flood of Memories
 	5 Catacombs Cleaner
+	5 Cleanser of Debt
 	5 Lightning Rider
 	5 Magebane Rawhide
 	5 Illuminator Imp
@@ -3044,8 +3064,12 @@
 	5 Gorz'Ghum, War Incense
 	5 Gravel-Hide Channeler
 	5 Wrath Guildmage
+	5 Alcarus, Old Growth Protector
 	5 Burgeoning Troops
+	5 Harmony Guildmage
+	5 Ironroot Bindings
 	5 Poised to Strike
+	5 Rise
 	5 Rootguard Loxodon
 	5 Defile
 	5 Devotion Guildmage
@@ -3075,7 +3099,9 @@
 	5 Secret Seeker
 	5 Above
 	5 Escalating Wrath
+	5 Eidolon's Call
 	5 Galvanizing Call
+	5 Blessing of Vitu-Ghazi
 	5 Rousing Freemage
 	5 Druid of the Votary
 	5 Eidolon's Vitality
@@ -3102,8 +3128,10 @@
 	5 Knight of Denial
 	5 Pontific Guard
 	5 Profane Ceremony
+	5 Ledev Captain
 	5 Protector of the Glade
 	5 Selesnya Caretaker
+	5 Sowing Courier
 	5 Ceremony of Fury
 	5 Blinding Flash
 	5 Voltaic Strike
@@ -3115,9 +3143,11 @@
 	5 Orzhov Guildgate
 	5 Dimir Guildgate
 	5 Izzet Guildgate
+	5 Tin Street
 	5 Orzhov Insignia
 	5 Gruul Insignia
 	5 Izzet Insignia
+	5 Selesnya Insignia
 	5 Dimir Insignia
 	5 Backstreet Informant
 	5 Incapacitating Probing
@@ -3156,6 +3186,7 @@
 	5 Ravage
 	5 Static Elemental
 	5 Flaming Claws
+	5 Repurpose the Scraps
 	5 Reconfigure
 	5 Ironclad Cyclops
 	5 Rabid Sewer Rat
@@ -3173,6 +3204,7 @@
 	5 Spectral Rider
 	5 Seventh District Scoundrel
 	5 Gate Penumbra
+	5 Writhing Amalgamate
 	5 Memorable Feast
 	5 Guildpact's Blessing
 	5 Surgical Strike
@@ -3180,4 +3212,5 @@
 	5 Selesnya Guildgate
 	5 Gruul Guildgate
 	5 Vernadi Protector
+	5 Ledev Rescue
 	5 Dryads' Blessing

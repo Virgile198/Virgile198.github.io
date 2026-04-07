@@ -12,11 +12,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Dan Rossi",
-            "notes": "!tag Boros\n!tokens Boros Soldier RAW",
+            "notes": "!tag Boros",
             "image_type": "png"
         },
         {
@@ -373,11 +373,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Ian Llanas",
-            "notes": "!tokens Spirit RAW",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -886,11 +886,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Oskar Johannes Grents",
-            "notes": "!tag Golgari\n!tokens Insect RAW",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -943,11 +943,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Nino Is",
-            "notes": "!tag Golgari\n!tokens Insect RAW<3>",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -1057,11 +1057,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Eden West",
-            "notes": "!tokens Elemental Dog RAW",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1114,11 +1114,11 @@
             "flavor_text": "[i][/i]",
             "pt": "0/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Pedro Sena",
-            "notes": "!tokens Demon RAW",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1190,11 +1190,11 @@
             "flavor_text": "[i][/i]",
             "pt": "5/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Wanderlink",
-            "notes": "!tag Golgari\n!tokens Insect RAW<2>",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -1209,11 +1209,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "freetimeartist",
-            "notes": "!tag Golgari\n!tokens Insect RAW",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -1247,11 +1247,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Tesbraa",
-            "notes": "!tokens Treasure RNF",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1323,11 +1323,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "dominik mayer",
-            "notes": "!tokens Insect RAW",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1437,11 +1437,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Lady Auri",
-            "notes": "!tag Rakdos\n!tokens Treasure RNF",
+            "notes": "!tag Rakdos",
             "image_type": "png"
         },
         {
@@ -1570,11 +1570,11 @@
             "flavor_text": "[i]\u201cLet's give them a show to remember.\u201d\n\u2014 Judith, the bloody deluge[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Putridcheese",
-            "notes": "!tag Rakdos\n!tokens Treasure RNF",
+            "notes": "!tag Rakdos",
             "image_type": "png"
         },
         {
@@ -1589,11 +1589,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Jaan van Eeden",
-            "notes": "!tokens 1/1 Elemental RAW",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1627,11 +1627,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Aj Ramos",
-            "notes": "!tag Boros\n!tokens Goblin RAW",
+            "notes": "!tag Boros",
             "image_type": "png"
         },
         {
@@ -1741,11 +1741,11 @@
             "flavor_text": "[i][/i]",
             "pt": "0/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Gabriel Freitas",
-            "notes": "!tag Rakdos\n!tokens Devil RAW",
+            "notes": "!tag Rakdos",
             "image_type": "png"
         },
         {
@@ -1760,11 +1760,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Margaux Valonia",
-            "notes": "!tokens Treasure RNF",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1836,11 +1836,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Myles Wohl",
-            "notes": "!tokens Treasure RNF;Goblin RAW",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -1855,11 +1855,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Chris Cold",
-            "notes": "!tokens 5/1 Elemental RAW",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2007,11 +2007,11 @@
             "flavor_text": "[i][/i]",
             "pt": "7/5",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Bill Nuwen",
-            "notes": "!tag Golgari\n!tokens Insect RAW<3>",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -2178,11 +2178,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Aerozopher",
-            "notes": "!tag Golgari\n!tokens Insect RAW<2>",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -2197,11 +2197,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Iron Kingdom",
-            "notes": "!tokens Insect RAW<x>",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2216,11 +2216,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Rainer Petter",
-            "notes": "!tag Golgari\n!tokens Insect RAW<1>",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -2235,11 +2235,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Pat Gabrielli",
-            "notes": "!tag Golgari\n!tokens Insect RAW",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -2387,11 +2387,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "antonio esparza",
-            "notes": "!tag Golgari\n!tokens Insect RAW<2>",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -2748,11 +2748,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever you cast a spell or activate an ability that targets a creature you control, draw a card. This ability triggers only once each turn.\n[+1]: Untap target permanent you control. If it's a creature, put a +1/+1 counter on it.\n[-3]: Create two 2/2 green and blue Drake creature tokens with flying.\n[-6]: You get an emblem with \u201cAt the beginning of each upkeep, create a token that's a copy of target permanent.\u201d",
-            "shape": "token",
+            "shape": "planeswalker",
             "set": "RAW",
             "loyalty": "4",
             "artist": "Pathelicos",
-            "notes": "!tokens Drake RAW",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -2805,11 +2805,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "During your turn, as long as Tajic has one or more loyalty counters on him, he's a 2/2 Human Soldier creature and has indestructible and haste.\n[+1]: Up to one other target creature you control gains vigilance and haste until end of turn.\n[-2]: Create two 1/1 red and white Soldier creature tokens.\n[-7]: You get an emblem with \u201cCreatures you control have double strike, lifelink, trample, indestructible and haste.\u201d",
-            "shape": "token",
+            "shape": "planeswalker",
             "set": "RAW",
             "loyalty": "3",
             "artist": "Federico Arguissein",
-            "notes": "!tag Boros\n!tokens Boros Soldier RAW<2>",
+            "notes": "!tag Boros",
             "image_type": "png"
         },
         {
@@ -2824,11 +2824,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "CHA WAK",
-            "notes": "!tag Boros\n!tokens Angel RAW",
+            "notes": "!tag Boros",
             "image_type": "png"
         },
         {
@@ -2862,11 +2862,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Stephanie Herrera",
-            "notes": "!tag Rakdos\n!tokens Treasure RNF",
+            "notes": "!tag Rakdos",
             "image_type": "png"
         },
         {
@@ -2957,7 +2957,7 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "fuse split",
             "set": "RAW",
             "loyalty": "",
             "artist": "Eryk Szczygiel",
@@ -2971,7 +2971,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Rakdos\n!tokens Elemental Dog RAW<2>",
+            "notes": "!tag Rakdos",
             "image_type": "png"
         },
         {
@@ -3148,11 +3148,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Moises Tabares Lewis",
-            "notes": "!tag Boros\n!tokens Boros Soldier RAW<2>",
+            "notes": "!tag Boros",
             "image_type": "png"
         },
         {
@@ -3310,11 +3310,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Ky Tran",
-            "notes": "!tag Golgari\n!tokens Insect RAW<3>",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -3396,11 +3396,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Thetaterart",
-            "notes": "!tag Rakdos\n!tokens Elemental Dog RAW",
+            "notes": "!tag Rakdos",
             "image_type": "png"
         },
         {
@@ -3682,11 +3682,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Dungeon & Dragons",
-            "notes": "!tag Boros\n!tokens 1/1 Elemental RAW",
+            "notes": "!tag Boros",
             "image_type": "png"
         },
         {
@@ -3739,11 +3739,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "monztre",
-            "notes": "!tag Boros\n!tokens Boros Soldier RAW",
+            "notes": "!tag Boros",
             "image_type": "png"
         },
         {
@@ -3787,11 +3787,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Anh Le",
-            "notes": "!tag Boros\n!tokens 1/1 Elemental RAW",
+            "notes": "!tag Boros",
             "image_type": "png"
         },
         {
@@ -3825,11 +3825,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag Boros\n!tapped\n!tokens Boros Soldier RAW<2>",
+            "notes": "!tag Boros\n!tapped",
             "image_type": "png"
         },
         {
@@ -4395,11 +4395,11 @@
             "flavor_text": "[i][/i]",
             "pt": "5/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "jolyne garcia",
-            "notes": "!tag Golgari\n!tokens Skeleton RAW",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -4414,11 +4414,11 @@
             "flavor_text": "[i][/i]",
             "pt": "9/9",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "DANIEL RUBIO",
-            "notes": "!tag Golgari\n!tokens Insect RAW<x>",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -4433,11 +4433,11 @@
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Xavier Ward",
-            "notes": "!tag Golgari\n!tokens Insect RAW<x>",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -4471,11 +4471,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "gun gunawan",
-            "notes": "!tag Golgari\n!tokens Insect RAW<2>",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -4509,7 +4509,7 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "fuse split",
             "set": "RAW",
             "loyalty": "",
             "artist": "Leo de Moura",
@@ -4517,13 +4517,13 @@
             "color2": "BG",
             "type2": "Sorcery",
             "cost2": "{4}{B}{G}",
-            "rules_text2": "Destroy target nonland permanent. Create X 1/1 black and green Insect creature tokens, where X is that permanent's mana value.",
+            "rules_text2": "Exile all graveyards. Create X 1/1 black and green Insect creature tokens and you gain X life, where X is the number of permanent cards exiled this way.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Golgari\n!tokens Insect RAW<x>",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -4576,11 +4576,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Alice Elzey",
-            "notes": "!tag Golgari\n!tokens Insect RAW<2>",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -4614,11 +4614,11 @@
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Luke Hart",
-            "notes": "!tag Golgari\n!tokens Plant RAW",
+            "notes": "!tag Golgari",
             "image_type": "png"
         },
         {
@@ -5127,11 +5127,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Sam kanios",
-            "notes": "!tag Azorius\n!tokens Azorius Soldier RAW<2>",
+            "notes": "!tag Azorius",
             "image_type": "png"
         },
         {
@@ -5346,7 +5346,7 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "fuse split",
             "set": "RAW",
             "loyalty": "",
             "artist": "Ivan Sevic",
@@ -5360,7 +5360,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Azorius\n!tokens Thopter RAW",
+            "notes": "!tag Azorius",
             "image_type": "png"
         },
         {
@@ -5546,11 +5546,11 @@
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Aaron Griffin",
-            "notes": "!tag Azorius\n!tokens Thopter RAW;Sphinx RAW",
+            "notes": "!tag Azorius",
             "image_type": "png"
         },
         {
@@ -5983,11 +5983,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Aries13",
-            "notes": "!tokens Saproling RNF",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -6116,11 +6116,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Mike Pape",
-            "notes": "!tag Orzhov\n!tokens Spirit RNF;Treasure RNF",
+            "notes": "!tag Orzhov",
             "image_type": "png"
         },
         {
@@ -6211,11 +6211,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Sam Kanios",
-            "notes": "!tag Orzhov\n!tokens Treasure RNF",
+            "notes": "!tag Orzhov",
             "image_type": "png"
         },
         {
@@ -6344,11 +6344,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Kay John Yim",
-            "notes": "!tag Selesnya\n!tokens Rhino RNF",
+            "notes": "!tag Selesnya",
             "image_type": "png"
         },
         {
@@ -6382,11 +6382,11 @@
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Pitta",
-            "notes": "!tag Selesnya\n!tokens Wurm RNF",
+            "notes": "!tag Selesnya",
             "image_type": "png"
         },
         {
@@ -6420,11 +6420,11 @@
             "flavor_text": "[i]The soldiers and faithful of the Conclave are never alone.[/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "davehollandart",
-            "notes": "!tag Selesnya\n!tokens Elf Knight RNF",
+            "notes": "!tag Selesnya",
             "image_type": "png"
         },
         {
@@ -6515,11 +6515,11 @@
             "flavor_text": "[i]A symbol of unity, rebirth and fertility.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Sarahlovellart",
-            "notes": "!tag Selesnya\n!tokens Bird RNF",
+            "notes": "!tag Selesnya",
             "image_type": "png"
         },
         {
@@ -6572,11 +6572,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "karipaints",
-            "notes": "!tokens Faerie RNF",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -7085,11 +7085,11 @@
             "flavor_text": "[i]\u201cCome in one and all! Here in Tin street you can find everything you've ever dreamed of untouched by the Ten!\u201d[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Sam",
-            "notes": "!tokens Treasure RNF",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -7180,11 +7180,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Crashington",
-            "notes": "!tag Selesnya\n!tapped\n!tokens Elf Knight RNF",
+            "notes": "!tag Selesnya\n!tapped",
             "image_type": "png"
         },
         {
@@ -7294,11 +7294,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "KuteynikovRoman",
-            "notes": "!tokens Citizen RNF",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -7693,11 +7693,11 @@
             "flavor_text": "[i]\u201cReclaim your birthright!\u201d[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "javi ure",
-            "notes": "!tag Gruul\n!tokens 3/3 Elemental RNF",
+            "notes": "!tag Gruul",
             "image_type": "png"
         },
         {
@@ -7788,11 +7788,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Timi Honkanen",
-            "notes": "!tag Izzet\n!tokens Treasure RNF",
+            "notes": "!tag Izzet",
             "image_type": "png"
         },
         {
@@ -7902,11 +7902,11 @@
             "flavor_text": "[i]\u201cPay you must. Be it with your gold or blood.\u201d[/i]",
             "pt": "3/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "BASTIEN LECOUFFE DEHARME",
-            "notes": "!tag Orzhov\n!tokens Bat RNF",
+            "notes": "!tag Orzhov",
             "image_type": "png"
         },
         {
@@ -8558,11 +8558,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "yoji grey",
-            "notes": "!tag Izzet\n!tokens Construct RNF<x>",
+            "notes": "!tag Izzet",
             "image_type": "png"
         },
         {
@@ -8577,11 +8577,11 @@
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Graey Erb",
-            "notes": "!tag Izzet\n!tokens Construct RNF<x>",
+            "notes": "!tag Izzet",
             "image_type": "png"
         },
         {
@@ -8682,11 +8682,11 @@
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Jakub Bazyluk",
-            "notes": "!tag Gruul\n!tokens Hellion RNF",
+            "notes": "!tag Gruul",
             "image_type": "png"
         },
         {
@@ -8777,11 +8777,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Dominik Mayer",
-            "notes": "!tag Selesnya\n!tokens Saproling RNF<x>",
+            "notes": "!tag Selesnya",
             "image_type": "png"
         },
         {
@@ -8968,11 +8968,11 @@
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Eryk Szczygie\u0142",
-            "notes": "!tag Orzhov\n!tokens Spirit RNF<x>",
+            "notes": "!tag Orzhov",
             "image_type": "png"
         },
         {
@@ -9044,7 +9044,7 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "fuse split",
             "set": "RNF",
             "loyalty": "",
             "artist": "Anna Moshak",
@@ -9058,7 +9058,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Orzhov\n!tokens Zombie Star RNF",
+            "notes": "!tag Orzhov",
             "image_type": "png"
         },
         {
@@ -9472,11 +9472,11 @@
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Connor Sheehan",
-            "notes": "!tag Selesnya\n!tokens Durn' Mir",
+            "notes": "!tag Selesnya",
             "image_type": "png"
         },
         {
@@ -9510,11 +9510,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Agerkvist",
-            "notes": "!tag Selesnya\n!tokens Saproling RNF",
+            "notes": "!tag Selesnya",
             "image_type": "png"
         },
         {
@@ -9529,11 +9529,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Berenica",
-            "notes": "!tag Selesnya\n!tokens Saproling RNF",
+            "notes": "!tag Selesnya",
             "image_type": "png"
         },
         {
@@ -9567,7 +9567,7 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "fuse split",
             "set": "RNF",
             "loyalty": "",
             "artist": "Sigrid Appelberg",
@@ -9581,7 +9581,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "!tag Selesnya\n!tokens Saproling RNF<2>;Elemental Star RNF",
+            "notes": "!tag Selesnya",
             "image_type": "png"
         },
         {
@@ -9634,11 +9634,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "stonefang_inventors",
-            "notes": "!tag Izzet\n!tokens Treasure RNF",
+            "notes": "!tag Izzet",
             "image_type": "png"
         },
         {
@@ -10234,11 +10234,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "John Burns",
-            "notes": "!tag Orzhov\n!tokens Soldier RNF;Treasure RNF",
+            "notes": "!tag Orzhov",
             "image_type": "png"
         },
         {
@@ -10738,11 +10738,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Rick Hertel",
-            "notes": "!tokens Soldier RNF<2>",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -10795,11 +10795,11 @@
             "flavor_text": "[i][/i]",
             "pt": "4/2",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Alexey Kruglov",
-            "notes": "!tag Dimir\n!tokens Zombie RNF",
+            "notes": "!tag Dimir",
             "image_type": "png"
         },
         {
@@ -10833,11 +10833,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Othon Nikolaidis",
-            "notes": "!tag Selesnya\n!tokens Saproling RNF",
+            "notes": "!tag Selesnya",
             "image_type": "png"
         },
         {
@@ -11118,11 +11118,11 @@
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Wizard of the coast",
-            "notes": "!tag Selesnya\n!tokens Saproling RNF",
+            "notes": "!tag Selesnya",
             "image_type": "png"
         },
         {
@@ -11156,11 +11156,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Yurian",
-            "notes": "!tokens Bird RNF",
+            "notes": "",
             "image_type": "png"
         },
         {
@@ -11194,11 +11194,11 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever you attack, flourish 2. [i](Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)[/i]\n[+1]: Create a 1/1 green Saproling creature token.\n[-3]: Exile target artifact, creature or enchantment you don't control. Its controller gains life equal to its mana value.\n[-8]: You get an emblem with \u201cAt the beginning of each upkeep, create two 1/1 green Saproling creature tokens, then put a +1/+1 counter on each creature you control.\u201d",
-            "shape": "token",
+            "shape": "planeswalker",
             "set": "RNF",
             "loyalty": "4",
             "artist": "Christophe Young",
-            "notes": "!tag Selesnya\n!tokens Saproling RNF",
+            "notes": "!tag Selesnya",
             "image_type": "png"
         },
         {
@@ -11308,11 +11308,11 @@
             "flavor_text": "[i]\u201cRise children of the World-Tree!\u201d\n\u2014Emmara, ancestral caregiver[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Wandererlink",
-            "notes": "!tag Selesnya\n!tokens Centaur RNF",
+            "notes": "!tag Selesnya",
             "image_type": "png"
         },
         {

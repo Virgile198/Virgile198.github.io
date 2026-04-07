@@ -7,7 +7,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/5t_Boros Standard Bearer.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/5_Boros Standard Bearer.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Enchantment",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/7t_Eidolon's Flight.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/7_Eidolon's Flight.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Creature — Troll Rogue",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/76t_Jubilent Sewer Cook.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/76_Jubilent Sewer Cook.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/84t_Swarm Broodmother.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/84_Swarm Broodmother.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Sorcery",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/80t_The Show Never Ends.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/80_The Show Never Ends.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Creature — Demon Egg",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/66t_Demon Progeny.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/66_Demon Progeny.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Creature — Gorgon Assassin",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/62t_Daughter of Stone Death.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/62_Daughter of Stone Death.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Creature — Elf Zombie Assassin",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/85t_Swarm Evangel.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/85_Swarm Evangel.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/60t_Corpse Jeweler.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/60_Corpse Jeweler.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Enchantment",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/68t_Eidolon's Infestation.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/68_Eidolon's Infestation.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Creature — Human Shaman Performer",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/93t_Circle Headliner.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/93_Circle Headliner.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Instant",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/89t_Backstage Preparations.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/89_Backstage Preparations.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Enchantment",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/92t_Ceaseless Anger.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/92_Ceaseless Anger.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Creature — Goblin Soldier",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/98t_Firstblade Lieutenant.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/98_Firstblade Lieutenant.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/113t_Welcoming Ringleader.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/113_Welcoming Ringleader.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/102t_Goldscale Whelp.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/102_Goldscale Whelp.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Sorcery",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/104t_Krenko's Ransack.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/104_Krenko's Ransack.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Enchantment",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/95t_Eidolon's Impetus.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/95_Eidolon's Impetus.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/143t_Undercity Ravager.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/143_Undercity Ravager.png"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Creature — Elemental Horror",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/145t_Woodwraith Behemoth.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/145_Woodwraith Behemoth.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Instant",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/140t_Rotten Banquet.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/140_Rotten Banquet.png"
 			}
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"type": "Creature — Plant",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/125t_Deathbloom Mandrake.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/125_Deathbloom Mandrake.png"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Creature — Gorgon Assassin",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/229t_Ochran Stalker.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/229_Ochran Stalker.png"
 			}
 		},
 		{
@@ -1257,7 +1257,7 @@
 			"type": "Creature — Plant Zombie",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/210t_Surging Horror.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/210_Surging Horror.png"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Legendary Planeswalker — Vannifar",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/213t_Vannifar, Voice of the Combine.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/213_Vannifar, Voice of the Combine.png"
 			}
 		},
 		{
@@ -1477,7 +1477,7 @@
 			"type": "Legendary Planeswalker — Tajic",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/211t_Tajic, Boros Examplar.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/211_Tajic, Boros Examplar.png"
 			}
 		},
 		{
@@ -1487,7 +1487,7 @@
 			"type": "Sorcery",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/230t_On Wings of Fury.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/230_On Wings of Fury.png"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Legendary Creature — Human Shaman Perfomer",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/180t_Juri, Charismatic Performer.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/180_Juri, Charismatic Performer.png"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"type": "Sorcery",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/244t_Unleash.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/244_Unleash.png"
 			}
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"type": "Creature — Minotaur Soldier",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/190t_Ordruun Marshal.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/190_Ordruun Marshal.png"
 			}
 		},
 		{
@@ -1727,7 +1727,7 @@
 			"type": "Enchantment",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/168t_Fungus Nursery.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/168_Fungus Nursery.png"
 			}
 		},
 		{
@@ -1767,7 +1767,7 @@
 			"type": "Legendary Creature — Devil Shaman Performer",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/214t_Xaren, Rakdos Uncager.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/214_Xaren, Rakdos Uncager.png"
 			}
 		},
 		{
@@ -1907,7 +1907,7 @@
 			"type": "Enchantment",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/207t_Spark Legion.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/207_Spark Legion.png"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Creature — Human Soldier Wizard",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/235t_War Guildmage.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/235_War Guildmage.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/225t_Flame-kin Summoner.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/225_Flame-kin Summoner.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Artifact",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/249t_Boros Insignia.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/249_Boros Insignia.png"
 			}
 		},
 		{
@@ -2277,7 +2277,7 @@
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/215t_Zafen, Scheming Necromancer.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/215_Zafen, Scheming Necromancer.png"
 			}
 		},
 		{
@@ -2287,7 +2287,7 @@
 			"type": "Creature — Scorpion Horror",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/234t_Voracious Deathstinger.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/234_Voracious Deathstinger.png"
 			}
 		},
 		{
@@ -2297,7 +2297,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/221t_Corpse-Pit Goliath.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/221_Corpse-Pit Goliath.png"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/163t_Festering Mass.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/163_Festering Mass.png"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Instant",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/242t_Remains.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/242_Remains.png"
 			}
 		},
 		{
@@ -2367,7 +2367,7 @@
 			"type": "Creature — Spider Fungus",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/131t_Infested Maneater.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/131_Infested Maneater.png"
 			}
 		},
 		{
@@ -2387,7 +2387,7 @@
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/181t_Lamiel, Deathsprout Cultivator.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/181_Lamiel, Deathsprout Cultivator.png"
 			}
 		},
 		{
@@ -2657,7 +2657,7 @@
 			"type": "Sorcery",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/23t_Ready the Arresters.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/23_Ready the Arresters.png"
 			}
 		},
 		{
@@ -2767,7 +2767,7 @@
 			"type": "Instant",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/241t_Pursuit.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/241_Pursuit.png"
 			}
 		},
 		{
@@ -2867,7 +2867,7 @@
 			"type": "Legendary Creature — Sphinx",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/188t_Octave, Deputy of Discipline.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/188_Octave, Deputy of Discipline.png"
 			}
 		},
 		{
@@ -2962,26 +2962,36 @@
 	5 Time Typhoon
 	5 Synapse Linker
 	5 Deathgorger
+	5 Demon Progeny
 	5 Skull Clamper Parasite
 	5 Gorespawn Demon
 	5 Gruesome Spectacle
+	5 Daughter of Stone Death
+	5 Ceaseless Anger
 	5 Bewitching Lead
+	5 Firstblade Lieutenant
 	5 Flame-kin Commander
 	5 Rakdos Excrutiator
 	5 Mourning Legionnaire
 	5 Aspect of Rebirth
 	5 Perfected Rebirth
 	5 Insatiable Troll
+	5 Woodwraith Behemoth
 	5 Ooze Hydra
 	5 Rakdos Ragefest
 	5 Escaped Hellsteed
 	5 Judith, the Bloody Deluge
+	5 Vannifar, Voice of the Combine
 	5 Replicating Abomination
 	5 Containment Breach
+	5 Tajic, Boros Examplar
+	5 On Wings of Fury
 	5 Radiant Champion
+	5 Juri, Charismatic Performer
 	5 Rix Maadi Abomination
 	5 Mindflare
 	5 Gleeful Skinner
+	5 Unleash
 	5 Gulistan, Master Biomancer
 	5 Metamorphosed Adapter
 	5 Force Shaping
@@ -2989,6 +2999,7 @@
 	5 Transform
 	5 Firemane's Flamberge
 	5 Recruitment Campaign
+	5 Ordruun Marshal
 	5 Incandescent Blessing
 	5 Volley
 	5 Arrester Captain
@@ -3005,13 +3016,20 @@
 	5 Plaza's Omenpath
 	5 Sacred Foundry
 	5 Erstwhile Awakener
+	5 Zafen, Scheming Necromancer
+	5 Voracious Deathstinger
+	5 Corpse-Pit Goliath
+	5 Festering Mass
 	5 Putrefied Tutor
+	5 Remains
+	5 Lamiel, Deathsprout Cultivator
 	5 Amalgamate
 	5 Hull Clade Guardian
 	5 Azorius Lawbringer
 	5 In Formation!
 	5 Jelenn Grand Elocutor
 	5 Precognition Serum
+	5 Pursuit
 	5 Azorius Purifier
 	5 Binding Decree
 	5 Durand, High Justicar
@@ -3025,6 +3043,7 @@
 	5 Bounty Claimer
 	5 Featherscale Drake
 	5 Outmatch
+	5 Eidolon's Flight
 	5 Express Mandate
 	5 Elusive Biomage
 	5 Absorbed Attendant
@@ -3035,16 +3054,25 @@
 	5 Reconsider
 	5 Eidolon's Vision
 	5 Eaten From Within
+	5 Swarm Evangel
 	5 Fired-Up Jester
+	5 Corpse Jeweler
 	5 Deceitful Guide
 	5 Smog Predator
 	5 Vengeful Hands
+	5 Eidolon's Infestation
 	5 Fearless Freemage
 	5 Shackled Blooddrake
+	5 Welcoming Ringleader
+	5 Goldscale Whelp
 	5 Fiery Comeuppance
 	5 All Consuming Rage
+	5 Krenko's Ransack
+	5 Eidolon's Impetus
 	5 Hound Krasis
 	5 Breeding Plant Supervisor
+	5 Rotten Banquet
+	5 Deathbloom Mandrake
 	5 Ravenous Sewerscraper
 	5 Dauntless Protector
 	5 Cytoplasmic Membrane
@@ -3057,8 +3085,10 @@
 	5 Fester
 	5 Forsaken Loxodon
 	5 Gutbloom Host
+	5 Fungus Nursery
 	5 Decay Guildmage
 	5 Bitter
+	5 Xaren, Rakdos Uncager
 	5 Giant Roustabout
 	5 Critics Hunter
 	5 Wojek Recruitee
@@ -3071,7 +3101,9 @@
 	5 Evolution Guildmage
 	5 Live
 	5 Boros Rallier
+	5 Spark Legion
 	5 Righteous Smite
+	5 War Guildmage
 	5 Loud
 	5 Gateless Amulet
 	5 Embersoul Edge
@@ -3088,9 +3120,11 @@
 	5 Decipher the Chronology
 	5 Incarcerate
 	5 Inquisitive Guardmage
+	5 Octave, Deputy of Discipline
 	5 Seal of Censure
 	5 Deadly Spore Storm
 [common(10)]
+	5 Boros Standard Bearer
 	5 Brightsteel Interceptor
 	5 Protect the Precinct
 	5 Firemane Protector
@@ -3113,36 +3147,44 @@
 	5 Void Wave
 	5 Fungal Pest
 	5 Carnarium Acrobat
+	5 Jubilent Sewer Cook
 	5 Stage Cleaner
 	5 First District Paragon
+	5 Swarm Broodmother
 	5 Undercity Cleaner
 	5 Enraged Hellhound
 	5 Reap
 	5 Jagged Edges
+	5 The Show Never Ends
 	5 Cytoplasm Carrier
 	5 Incite Delirium
 	5 Boros Phalanx
 	5 Sting Elemental
 	5 Sunblade Captain
 	5 Second District Keeper
+	5 Circle Headliner
 	5 Wheel of Agony
 	5 Collateral
 	5 Just Strike
 	5 Subjugate
 	5 Furious Upheaval
 	5 Obliterating Strike
+	5 Backstage Preparations
 	5 Wojek Avenger
 	5 Uncontained Hulk
 	5 Golgari Rotseer
 	5 Anglershark Krasis
 	5 Underdeep Kraul
 	5 Gate Bulwark
+	5 Undercity Ravager
 	5 Ochran's Solution
 	5 Return to the Cycle
 	5 Swarm's Voracity
 	5 Redo
 	5 Rotquake
+	5 Ochran Stalker
 	5 Corrosive Experiment
+	5 Surging Horror
 	5 Inspect the Remains
 	5 Mangled Rootgiant
 	5 Splatterhouse Ravager
@@ -3157,7 +3199,9 @@
 	5 Firefist's Indignation
 	5 Firemane Executioner
 	5 Magistrate's Pet
+	5 Flame-kin Summoner
 	5 Azorius Insignia
+	5 Boros Insignia
 	5 Simic Insignia
 	5 Rakdos Insignia
 	5 Golgari Insignia
@@ -3168,10 +3212,12 @@
 	5 Rakdos Guildgate
 	5 Simic Guildgate
 	5 Rakdos Trailblazer
+	5 Infested Maneater
 	5 Accelerated Growth
 	5 Cull
 	5 Azorius Lawmage
 	5 Preemptive Measures
+	5 Ready the Arresters
 	5 Fierce Champion
 	5 Apprehend the Guilty
 	5 Detain Wisdom

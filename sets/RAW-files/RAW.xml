@@ -10,10 +10,10 @@
 	</sets>
 	<cards>
 		<card>
-			<name>Boros Standard Bearer RAW</name>
+			<name>Boros Standard Bearer</name>
 			<text>When this creature dies, create a 1/1 red and white Soldier creature token.
 {4}{W}: Creatures you control get +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/5t_Boros Standard Bearer.png" num="5">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/5_Boros Standard Bearer.png" num="5">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -26,8 +26,6 @@
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Boros Soldier RAW</related>
 		</card>
 		<card>
 			<name>Brightsteel Interceptor</name>
@@ -352,10 +350,10 @@ When this creature enters, tap all creatures you don&apos;t control and untap al
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Eidolon&apos;s Flight RAW</name>
+			<name>Eidolon&apos;s Flight</name>
 			<text>When this enchantment enters, create a 2/2 white Spirit creature token with flying. Scry 2.
 Whenever you cast a multicolored spell, return this enchantment to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/7t_Eidolon&apos;s Flight.png" num="7">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/7_Eidolon&apos;s Flight.png" num="7">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -367,8 +365,6 @@ Whenever you cast a multicolored spell, return this enchantment to its owner&apo
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<token>1</token>
-			<related>Spirit RAW</related>
 		</card>
 		<card>
 			<name>Express Mandate</name>
@@ -829,10 +825,10 @@ Performance — Whenever this creature attacks, you may put a +1/+1 counter on i
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Jubilent Sewer Cook RAW</name>
+			<name>Jubilent Sewer Cook</name>
 			<text>When this creature enters, mill two cards and you gain 2 life.
 Swarm 1—{1}{B} ({1}{B}, Exile this card from your graveyard: Create a 1/1 black and green Insect creature token. Swarm only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/76t_Jubilent Sewer Cook.png" num="76">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/76_Jubilent Sewer Cook.png" num="76">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -845,8 +841,6 @@ Swarm 1—{1}{B} ({1}{B}, Exile this card from your graveyard: Create a 1/1 blac
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Insect RAW</related>
 		</card>
 		<card>
 			<name>Stage Cleaner</name>
@@ -886,10 +880,10 @@ When this creature enters, if you control two or more Gates, up to one target cr
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Swarm Broodmother RAW</name>
+			<name>Swarm Broodmother</name>
 			<text>Flying
 Swarm 3—{4}{B}{B} ({4}{B}{B}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/84t_Swarm Broodmother.png" num="84">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/84_Swarm Broodmother.png" num="84">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -902,8 +896,6 @@ Swarm 3—{4}{B}{B} ({4}{B}{B}, Exile this card from your graveyard: Create thre
 				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related count="3">Insect RAW</related>
 		</card>
 		<card>
 			<name>Undercity Cleaner</name>
@@ -995,11 +987,11 @@ When enchanted creature dies under your control, draw a card.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>The Show Never Ends RAW</name>
+			<name>The Show Never Ends</name>
 			<text>Choose one —
 • Create a 2/1 black and red Elemental Dog creature token with menace, haste and &quot;This creature can&apos;t block.&quot;
 • Return up to two target creature cards from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/80t_The Show Never Ends.png" num="80">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/80_The Show Never Ends.png" num="80">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1011,8 +1003,6 @@ When enchanted creature dies under your control, draw a card.</text>
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<token>1</token>
-			<related>Elemental Dog RAW</related>
 		</card>
 		<card>
 			<name>Cytoplasm Carrier</name>
@@ -1051,11 +1041,11 @@ Whenever another creature dies, put a +1/+1 counters on this creature. If you co
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Demon Progeny RAW</name>
+			<name>Demon Progeny</name>
 			<text>Defender
 Whenever another creature dies, put an egg counter on this creature.
 {T}, Remove six egg counters from this creature: Create a 6/6 black Demon creature token with flying. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/66t_Demon Progeny.png" num="66">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/66_Demon Progeny.png" num="66">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1068,8 +1058,6 @@ Whenever another creature dies, put an egg counter on this creature.
 				<pt>0/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Demon RAW</related>
 		</card>
 		<card>
 			<name>Skull Clamper Parasite</name>
@@ -1129,11 +1117,11 @@ Performance — Whenever this creature attacks, you may put a +1/+1 counter on i
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Daughter of Stone Death RAW</name>
+			<name>Daughter of Stone Death</name>
 			<text>When this creature enters, other creatures get -2/-2 until end of turn.
 {1}{B}, Discard this card: Target creature gets -2/-2 until end of turn.
 Swarm 2—{2}{B} ({2}{B}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/62t_Daughter of Stone Death.png" num="62">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/62_Daughter of Stone Death.png" num="62">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1146,14 +1134,12 @@ Swarm 2—{2}{B} ({2}{B}, Exile this card from your graveyard: Create two 1/1 bl
 				<pt>5/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related count="2">Insect RAW</related>
 		</card>
 		<card>
-			<name>Swarm Evangel RAW</name>
+			<name>Swarm Evangel</name>
 			<text>Deathtouch, lifelink
 Swarm 1—{1}{B} ({1}{B}, Exile this card from your graveyard: Create a 1/1 black and green Insect creature token. Swarm only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/85t_Swarm Evangel.png" num="85">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/85_Swarm Evangel.png" num="85">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1166,8 +1152,6 @@ Swarm 1—{1}{B} ({1}{B}, Exile this card from your graveyard: Create a 1/1 blac
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Insect RAW</related>
 		</card>
 		<card>
 			<name>Fired-Up Jester</name>
@@ -1188,11 +1172,11 @@ Performance — Whenever this creature attacks, you may put a +1/+1 counter on i
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Corpse Jeweler RAW</name>
+			<name>Corpse Jeweler</name>
 			<text>Whenever another creature you control dies, create a Treasure token. This ability triggers only once each turn.
 {T}, Sacrifice a creature: Surveil 1.
 {2}, {T}, Sacrifice a token: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/60t_Corpse Jeweler.png" num="60">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/60_Corpse Jeweler.png" num="60">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1205,8 +1189,6 @@ Performance — Whenever this creature attacks, you may put a +1/+1 counter on i
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Treasure RNF</related>
 		</card>
 		<card>
 			<name>Deceitful Guide</name>
@@ -1266,10 +1248,10 @@ Exile target creature or planeswalker.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Eidolon&apos;s Infestation RAW</name>
+			<name>Eidolon&apos;s Infestation</name>
 			<text>When this enchantment enters, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. Create a 1/1 black and green Insect creature token.
 Whenever you cast a multicolored spell, return this enchantment to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/68t_Eidolon&apos;s Infestation.png" num="68">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/68_Eidolon&apos;s Infestation.png" num="68">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1281,8 +1263,6 @@ Whenever you cast a multicolored spell, return this enchantment to its owner&apo
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<token>1</token>
-			<related>Insect RAW</related>
 		</card>
 		<card>
 			<name>Incite Delirium</name>
@@ -1376,10 +1356,10 @@ When this creature enters, if you control two or more Gates, it fights up to one
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Circle Headliner RAW</name>
+			<name>Circle Headliner</name>
 			<text>When this creature enters, you may discard a card. If you do, draw a card.
 Performance — Whenever this creature attacks, you may put a +1/+1 counter on it and create a Treasure token. If you do, sacrifice it at the beginning of the next end step.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/93t_Circle Headliner.png" num="93">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/93_Circle Headliner.png" num="93">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1392,8 +1372,6 @@ Performance — Whenever this creature attacks, you may put a +1/+1 counter on i
 				<pt>2/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Treasure RNF</related>
 		</card>
 		<card>
 			<name>Wheel of Agony</name>
@@ -1502,10 +1480,10 @@ This spell deals 6 damage to target creature or planeswalker. If that permanent 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Backstage Preparations RAW</name>
+			<name>Backstage Preparations</name>
 			<text>As an additional cost to cast this spell, discard a card.
 Draw two cards. Then if {B} was spent to cast this spell, create a Treasure token and you lose 1 life.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/89t_Backstage Preparations.png" num="89">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/89_Backstage Preparations.png" num="89">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1517,13 +1495,11 @@ Draw two cards. Then if {B} was spent to cast this spell, create a Treasure toke
 				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<token>1</token>
-			<related>Treasure RNF</related>
 		</card>
 		<card>
-			<name>Ceaseless Anger RAW</name>
+			<name>Ceaseless Anger</name>
 			<text>At the beginning of combat on your turn, create X 1/1 red Elemental creature tokens, where X is the greatest power among creatures you control. They gain haste until end of turn. Sacrifice them at the beginning of the next end step.</text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/92t_Ceaseless Anger.png" num="92">RAW</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/92_Ceaseless Anger.png" num="92">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1535,8 +1511,6 @@ Draw two cards. Then if {B} was spent to cast this spell, create a Treasure toke
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<token>1</token>
-			<related>1/1 Elemental RAW</related>
 		</card>
 		<card>
 			<name>Bewitching Lead</name>
@@ -1557,11 +1531,11 @@ Performance — Whenever this creature attacks, you may put a +1/+1 counter on i
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Firstblade Lieutenant RAW</name>
+			<name>Firstblade Lieutenant</name>
 			<text>First strike
 Whenever one ore more creatures you control deal combat damage to a player, create a 1/1 red Goblin creature token.
 Whenever this creature or another creature you control dies, exile the top card of your library. You may play it this turn. This ability triggers only once each turn.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/98t_Firstblade Lieutenant.png" num="98">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/98_Firstblade Lieutenant.png" num="98">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1574,8 +1548,6 @@ Whenever this creature or another creature you control dies, exile the top card 
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Goblin RAW</related>
 		</card>
 		<card>
 			<name>Fearless Freemage</name>
@@ -1669,10 +1641,10 @@ Whenever this creature or another creature you control dies, this creature deals
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Welcoming Ringleader RAW</name>
+			<name>Welcoming Ringleader</name>
 			<text>When this creature enters or dies, create a 1/1 red Devil creature token with &quot;When this creature dies, it deals 1 damage to any target&quot;.
 Whenever this creature attacks, target creature you control gets +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/113t_Welcoming Ringleader.png" num="113">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/113_Welcoming Ringleader.png" num="113">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1685,15 +1657,13 @@ Whenever this creature attacks, target creature you control gets +1/+0 until end
 				<pt>0/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Devil RAW</related>
 		</card>
 		<card>
-			<name>Goldscale Whelp RAW</name>
+			<name>Goldscale Whelp</name>
 			<text>Flying, first strike, haste
 This creature can&apos;t block.
 {2}{R}, Sacrifice this creature: Draw a card and create a Treasure token.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/102t_Goldscale Whelp.png" num="102">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/102_Goldscale Whelp.png" num="102">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1706,8 +1676,6 @@ This creature can&apos;t block.
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Treasure RNF</related>
 		</card>
 		<card>
 			<name>Mourning Legionnaire</name>
@@ -1763,12 +1731,12 @@ This spell deals 4 damage divided as you choose among any number of targets.</te
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Krenko&apos;s Ransack RAW</name>
+			<name>Krenko&apos;s Ransack</name>
 			<text>Choose one —
 • Destroy target land.
 • Create three 1/1 red Goblin creature tokens.
 • Discard your hand, then draw two cards and create a Treasure token.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/104t_Krenko&apos;s Ransack.png" num="104">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/104_Krenko&apos;s Ransack.png" num="104">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1780,15 +1748,12 @@ This spell deals 4 damage divided as you choose among any number of targets.</te
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<token>1</token>
-			<related>Treasure RNF</related>
-			<related>Goblin RAW</related>
 		</card>
 		<card>
-			<name>Eidolon&apos;s Impetus RAW</name>
+			<name>Eidolon&apos;s Impetus</name>
 			<text>When this enchantment enters, create a 5/1 red Elemental creature token with trample and haste. Sacrifice it at the beginning of the next end step.
 Whenever you cast a multicolored spell, return this enchantment to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/95t_Eidolon&apos;s Impetus.png" num="95">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/95_Eidolon&apos;s Impetus.png" num="95">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1800,8 +1765,6 @@ Whenever you cast a multicolored spell, return this enchantment to its owner&apo
 				<coloridentity>R</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<token>1</token>
-			<related>5/1 Elemental RAW</related>
 		</card>
 		<card>
 			<name>Uncontained Hulk</name>
@@ -1931,11 +1894,11 @@ This creature can attack as though it didn&apos;t have defender as long as you c
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Undercity Ravager RAW</name>
+			<name>Undercity Ravager</name>
 			<text>Reach
 When this creature enters, you gain 4 life.
 Swarm 3—{4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/143t_Undercity Ravager.png" num="143">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/143_Undercity Ravager.png" num="143">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1948,8 +1911,6 @@ Swarm 3—{4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Create thre
 				<pt>7/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related count="3">Insect RAW</related>
 		</card>
 		<card>
 			<name>Ochran&apos;s Solution</name>
@@ -2094,10 +2055,10 @@ When this creature enters, it fights up to one target creature you don&apos;t co
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Woodwraith Behemoth RAW</name>
+			<name>Woodwraith Behemoth</name>
 			<text>Whenever a creature you control dies, create a tapped token that&apos;s a copy of it, except it&apos;s a land with &quot;{T}: Add one mana of any color.&quot; Do this only once each turn.
 Swarm 2—{2}{G} ({2}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/145t_Woodwraith Behemoth.png" num="145">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/145_Woodwraith Behemoth.png" num="145">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2110,16 +2071,14 @@ Swarm 2—{2}{G} ({2}{G}, Exile this card from your graveyard: Create two 1/1 bl
 				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related count="2">Insect RAW</related>
 		</card>
 		<card>
-			<name>Rotten Banquet RAW</name>
+			<name>Rotten Banquet</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
 Choose one —
 • Create X 1/1 black and green Insect creature tokens, where X is the sacrificed creature&apos;s toughness.
 • Put X +1/+1 counters on target creature, where X is the sacrificed creature&apos;s power.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/140t_Rotten Banquet.png" num="140">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/140_Rotten Banquet.png" num="140">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2131,15 +2090,13 @@ Choose one —
 				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<token>1</token>
-			<related count="x">Insect RAW</related>
 		</card>
 		<card>
-			<name>Deathbloom Mandrake RAW</name>
+			<name>Deathbloom Mandrake</name>
 			<text>Reach
 Whenever another creature you control dies or one or more cards leave your graveyard, put a +1/+1 counter on this creature.
 Swarm 1—{1}{G} ({1}{G}, Exile this card from your graveyard: Create a 1/1 black and green Insect creature token. Swarm only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/125t_Deathbloom Mandrake.png" num="125">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/125_Deathbloom Mandrake.png" num="125">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2152,14 +2109,12 @@ Swarm 1—{1}{G} ({1}{G}, Exile this card from your graveyard: Create a 1/1 blac
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related count="1">Insect RAW</related>
 		</card>
 		<card>
-			<name>Ochran Stalker RAW</name>
+			<name>Ochran Stalker</name>
 			<text>Flash (You may cast this spell any time you could cast an instant.)
 Swarm 1—{BG}{BG} ({BG}{BG}, Exile this card from your graveyard: Create a 1/1 black and green Insect creature token. Swarm only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/229t_Ochran Stalker.png" num="229">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/229_Ochran Stalker.png" num="229">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2172,8 +2127,6 @@ Swarm 1—{BG}{BG} ({BG}{BG}, Exile this card from your graveyard: Create a 1/1 
 				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Insect RAW</related>
 		</card>
 		<card>
 			<name>Corrosive Experiment</name>
@@ -2299,11 +2252,11 @@ Whenever you cast a multicolored spell, return this enchantment to its owner&apo
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Surging Horror RAW</name>
+			<name>Surging Horror</name>
 			<text>Haste
 This creature can&apos;t be blocked by more than one creature.
 Swarm 2—{1}{B}{G} ({1}{B}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/210t_Surging Horror.png" num="210">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/210_Surging Horror.png" num="210">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2316,8 +2269,6 @@ Swarm 2—{1}{B}{G} ({1}{B}{G}, Exile this card from your graveyard: Create two 
 				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related count="2">Insect RAW</related>
 		</card>
 		<card>
 			<name>Inspect the Remains</name>
@@ -2636,9 +2587,9 @@ Performance — Whenever this creature attacks, you may return target creature c
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Vannifar, Voice of the Combine RAW</name>
+			<name>Vannifar, Voice of the Combine</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/213t_Vannifar, Voice of the Combine.png" num="213">RAW</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/213_Vannifar, Voice of the Combine.png" num="213">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2651,8 +2602,6 @@ Performance — Whenever this creature attacks, you may return target creature c
 				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
-			<token>1</token>
-			<related>Drake RAW</related>
 		</card>
 		<card>
 			<name>Replicating Abomination</name>
@@ -2690,9 +2639,9 @@ Search cards you own in exile with implant, your library, graveyard, and/or hand
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Tajic, Boros Examplar RAW</name>
+			<name>Tajic, Boros Examplar</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/211t_Tajic, Boros Examplar.png" num="211">RAW</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/211_Tajic, Boros Examplar.png" num="211">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2705,14 +2654,12 @@ Search cards you own in exile with implant, your library, graveyard, and/or hand
 				<loyalty>3</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
-			<token>1</token>
-			<related count="2">Boros Soldier RAW</related>
 		</card>
 		<card>
-			<name>On Wings of Fury RAW</name>
+			<name>On Wings of Fury</name>
 			<text>Muster (This spell costs {1} less to cast for each creature that attacked this turn.)
 Create X 4/4 white Angel creature tokens with flying and vigilance. Untap all creatures you control. They gain haste until end of turn. After this main phase, there is an additional combat phase.</text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/230t_On Wings of Fury.png" num="230">RAW</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/230_On Wings of Fury.png" num="230">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2724,8 +2671,6 @@ Create X 4/4 white Angel creature tokens with flying and vigilance. Untap all cr
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<token>1</token>
-			<related>Angel RAW</related>
 		</card>
 		<card>
 			<name>Radiant Champion</name>
@@ -2746,11 +2691,11 @@ At the beginning of combat on your turn, return target creature card with power 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Juri, Charismatic Performer RAW</name>
+			<name>Juri, Charismatic Performer</name>
 			<text>At the beginning of your end step, you may sacrifice another creature. When you do, choose one —
 • Draw a card and create a Treasure token.
 • Put two +1/+1 counters on Juri. Then he deals damage equal to the number of counters on him to target opponent.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/180t_Juri, Charismatic Performer.png" num="180">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/180_Juri, Charismatic Performer.png" num="180">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2763,8 +2708,6 @@ At the beginning of combat on your turn, return target creature card with power 
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Treasure RNF</related>
 		</card>
 		<card>
 			<name>Rix Maadi Abomination</name>
@@ -2841,22 +2784,24 @@ Performance — Whenever this creature attacks, you may put a +1/+1 counter on i
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Unleash RAW</name>
-			<text>Create two 2/1 black and red Elemental Dog creature token with menace, haste, and &quot;This creature can&apos;t block.&quot; Sacrifice them at the beginning of the next end step.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/244t_Unleash.png" num="244">RAW</set>
+			<name>Unleash // Unlearn</name>
+			<text>Create two 2/1 black and red Elemental Dog creature token with menace, haste, and &quot;This creature can&apos;t block.&quot; Sacrifice them at the beginning of the next end step.
+
+---
+
+Choose a nonland card name. Search target opponent&apos;s graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles. This spell deals 1 damage to that player for each card exiled this way.</text>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/244_Unleash.png" num="244">RAW</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>split</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1B/RB/R</manacost>
-				<cmc>3</cmc>
+				<manacost>1B/RB/R // 2BR</manacost>
+				<cmc>7</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<token>1</token>
-			<related count="2">Elemental Dog RAW</related>
 		</card>
 		<card>
 			<name>Gulistan, Master Biomancer</name>
@@ -3003,10 +2948,10 @@ Equip {3}</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Ordruun Marshal RAW</name>
+			<name>Ordruun Marshal</name>
 			<text>When this creature enters, create two 1/1 red and white Soldier creature tokens.
 Whenever this creature attacks or blocks, the next spell you cast this turn without muster has muster. (That spell costs {1} less to cast for each creature that attacked this turn.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/190t_Ordruun Marshal.png" num="190">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/190_Ordruun Marshal.png" num="190">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3019,8 +2964,6 @@ Whenever this creature attacks or blocks, the next spell you cast this turn with
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related count="2">Boros Soldier RAW</related>
 		</card>
 		<card>
 			<name>Incandescent Blessing</name>
@@ -3151,11 +3094,11 @@ This creature&apos;s power is equal to the number of creatures you control or th
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Fungus Nursery RAW</name>
+			<name>Fungus Nursery</name>
 			<text>When this enchantment enters and at the beginning of your upkeep, surveil 1.
 {1}{BG}, Sacrifice a creature: Draw a card and you gain 1 life.
 Swarm 3—{3}{B}{G} ({3}{B}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/168t_Fungus Nursery.png" num="168">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/168_Fungus Nursery.png" num="168">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3167,8 +3110,6 @@ Swarm 3—{3}{B}{G} ({3}{B}{G}, Exile this card from your graveyard: Create thre
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<token>1</token>
-			<related count="3">Insect RAW</related>
 		</card>
 		<card>
 			<name>Decay Guildmage</name>
@@ -3225,10 +3166,10 @@ Exile each card that was put into an opponent&apos;s graveyard this turn. Draw a
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Xaren, Rakdos Uncager RAW</name>
+			<name>Xaren, Rakdos Uncager</name>
 			<text>Whenever Xaren or another nontoken creature you control dies, create a 2/1 black and red Elemental Dog creature token with menace, haste, and &quot;This creature can&apos;t block.&quot; This ability triggers only once each turn.
 {BR}, {T}, Sacrifice another creature: Xaren deals 1 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/214t_Xaren, Rakdos Uncager.png" num="214">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/214_Xaren, Rakdos Uncager.png" num="214">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3241,8 +3182,6 @@ Exile each card that was put into an opponent&apos;s graveyard this turn. Draw a
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Elemental Dog RAW</related>
 		</card>
 		<card>
 			<name>Giant Roustabout</name>
@@ -3483,9 +3422,9 @@ When this creature enters, creatures you control get +1/+1 and gain trample unti
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Spark Legion RAW</name>
+			<name>Spark Legion</name>
 			<text>When this enchantment enters and at the beginning of your precombat main phase, create a 1/1 red Elemental creature token. It gains lifelink and haste until end of turn and attacks each combat this turn if able.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/207t_Spark Legion.png" num="207">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/207_Spark Legion.png" num="207">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3497,8 +3436,6 @@ When this creature enters, creatures you control get +1/+1 and gain trample unti
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<token>1</token>
-			<related>1/1 Elemental RAW</related>
 		</card>
 		<card>
 			<name>Mileva of the Tenth</name>
@@ -3535,10 +3472,10 @@ Whenever Mileva attacks or blocks, prevent all damage that would be dealt to oth
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>War Guildmage RAW</name>
+			<name>War Guildmage</name>
 			<text>{1}{RW}, {T}: Create a 1/1 red and white Soldier creature token.
 {2}{R}{W}: Another target attacking creature you control gets +1/+0 for each other attacking creature you control and gains double strike until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/235t_War Guildmage.png" num="235">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/235_War Guildmage.png" num="235">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3551,8 +3488,6 @@ Whenever Mileva attacks or blocks, prevent all damage that would be dealt to oth
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Boros Soldier RAW</related>
 		</card>
 		<card>
 			<name>Loud // Proud</name>
@@ -3575,9 +3510,9 @@ Creatures you control get +1/+1 and gain vigilance until end of turn.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Flame-kin Summoner RAW</name>
+			<name>Flame-kin Summoner</name>
 			<text>When this creature enters, create a 1/1 red Elemental creature token.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/225t_Flame-kin Summoner.png" num="225">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/225_Flame-kin Summoner.png" num="225">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3590,8 +3525,6 @@ Creatures you control get +1/+1 and gain vigilance until end of turn.</text>
 				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>1/1 Elemental RAW</related>
 		</card>
 		<card>
 			<name>Azorius Insignia</name>
@@ -3612,11 +3545,11 @@ Creatures you control get +1/+1 and gain vigilance until end of turn.</text>
 			<cipt>1</cipt>
 		</card>
 		<card>
-			<name>Boros Insignia RAW</name>
+			<name>Boros Insignia</name>
 			<text>This artifact enters tapped.
 {T}: Add {R} or {W}.
 {2}{R}{W}, {T}, Sacrifice this artifact: Create two 1/1 red and white Soldier creature tokens. Creatures you control gain haste until end of turn.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/249t_Boros Insignia.png" num="249">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/249_Boros Insignia.png" num="249">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3627,8 +3560,6 @@ Creatures you control get +1/+1 and gain vigilance until end of turn.</text>
 				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
-			<token>1</token>
-			<related count="2">Boros Soldier RAW</related>
 			<cipt>1</cipt>
 		</card>
 		<card>
@@ -4109,11 +4040,11 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Zafen, Scheming Necromancer RAW</name>
+			<name>Zafen, Scheming Necromancer</name>
 			<text>Ward—Sacrifice a creature.
 If one or more creature tokens would be created under your control, those tokens plus that many 2/1 black Skeleton creature tokens are created instead.
 {T}, Sacrifice X other creatures: Zafen deals X damage to any target and you gain X life.</text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/215t_Zafen, Scheming Necromancer.png" num="215">RAW</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/215_Zafen, Scheming Necromancer.png" num="215">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4126,15 +4057,13 @@ If one or more creature tokens would be created under your control, those tokens
 				<pt>5/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Skeleton RAW</related>
 		</card>
 		<card>
-			<name>Voracious Deathstinger RAW</name>
+			<name>Voracious Deathstinger</name>
 			<text>Trample, indestructible
 Whenever this creature attacks or blocks, each player sacrifices a creature. You gain life equal to the total toughness of creatures sacrificed.
 Swarm X—{X}{X}{B}{G} ({X}{X}{B}{G}, Exile this card from your graveyard: Create X 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/234t_Voracious Deathstinger.png" num="234">RAW</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/234_Voracious Deathstinger.png" num="234">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4147,15 +4076,13 @@ Swarm X—{X}{X}{B}{G} ({X}{X}{B}{G}, Exile this card from your graveyard: Creat
 				<pt>9/9</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related count="x">Insect RAW</related>
 		</card>
 		<card>
-			<name>Corpse-Pit Goliath RAW</name>
+			<name>Corpse-Pit Goliath</name>
 			<text>Trample
 Whenever this creature or another nontoken creature you control dies, create a 1/1 black and green Insect creature token for each +1/+1 counters on it.
 {BG}, Sacrifice a creature: Put two +1/+1 counters on target creature you control.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/221t_Corpse-Pit Goliath.png" num="221">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/221_Corpse-Pit Goliath.png" num="221">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4168,8 +4095,6 @@ Whenever this creature or another nontoken creature you control dies, create a 1
 				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related count="x">Insect RAW</related>
 		</card>
 		<card>
 			<name>Lothran, the Glouton</name>
@@ -4191,10 +4116,10 @@ Whenever a player sacrifices a creature, put a +1/+1 counter on Lothran.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Festering Mass RAW</name>
+			<name>Festering Mass</name>
 			<text>Attacking creatures you control have deathtouch and lifelink.
 Each creature card in your graveyard has &quot;Swarm 2—{2}{BG}{BG}.&quot; (Exile a creature card from your graveyard and pay {2}{BG}{BG}: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/163t_Festering Mass.png" num="163">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/163_Festering Mass.png" num="163">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4207,8 +4132,6 @@ Each creature card in your graveyard has &quot;Swarm 2—{2}{BG}{BG}.&quot; (Exi
 				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related count="2">Insect RAW</related>
 		</card>
 		<card>
 			<name>Putrefied Tutor</name>
@@ -4227,23 +4150,25 @@ Each creature card in your graveyard has &quot;Swarm 2—{2}{BG}{BG}.&quot; (Exi
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Remains RAW</name>
+			<name>Remains // Remake</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature.
-You draw cards equal to the sacrificed creature&apos;s power, then you gain life equal to its toughness.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/242t_Remains.png" num="242">RAW</set>
+You draw cards equal to the sacrificed creature&apos;s power, then you gain life equal to its toughness.
+
+---
+
+Exile all graveyards. Create X 1/1 black and green Insect creature tokens and you gain X life, where X is the number of permanent cards exiled this way.</text>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/242_Remains.png" num="242">RAW</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>split</layout>
 				<side>front</side>
-				<type>Instant</type>
+				<type>Instant // Sorcery</type>
 				<maintype>Instant</maintype>
-				<manacost>2B/GB/G</manacost>
-				<cmc>4</cmc>
+				<manacost>2B/GB/G // 4BG</manacost>
+				<cmc>10</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<token>1</token>
-			<related count="x">Insect RAW</related>
 		</card>
 		<card>
 			<name>Devil RAW RAW</name>
@@ -4283,10 +4208,10 @@ Performance — Whenever this creature attacks, you may put two +1/+1 counters o
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Infested Maneater RAW</name>
+			<name>Infested Maneater</name>
 			<text>Deathtouch, reach
 Swarm 2—{3}{G} ({3}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/131t_Infested Maneater.png" num="131">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/131_Infested Maneater.png" num="131">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4299,8 +4224,6 @@ Swarm 2—{3}{G} ({3}{G}, Exile this card from your graveyard: Create two 1/1 bl
 				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related count="2">Insect RAW</related>
 		</card>
 		<card>
 			<name>Accelerated Growth</name>
@@ -4319,10 +4242,10 @@ Swarm 2—{3}{G} ({3}{G}, Exile this card from your graveyard: Create two 1/1 bl
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Lamiel, Deathsprout Cultivator RAW</name>
+			<name>Lamiel, Deathsprout Cultivator</name>
 			<text>Whenever one or more other nontoken creatures you control die or one or more cards leave your graveyard, create a 0/1 green Plant creature token. This ability triggers only once each turn.
 {1}{B}{G}, Discard a permanent card: Put a +1/+1 counter on each creature you control.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/181t_Lamiel, Deathsprout Cultivator.png" num="181">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/181_Lamiel, Deathsprout Cultivator.png" num="181">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4335,8 +4258,6 @@ Swarm 2—{3}{G} ({3}{G}, Exile this card from your graveyard: Create two 1/1 bl
 				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Plant RAW</related>
 		</card>
 		<card>
 			<name>Amalgamate</name>
@@ -4848,10 +4769,10 @@ Preamble {5}{W}{W} ({5}{W}{W}, Exile this card from your hand: Cast a copy of it
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Ready the Arresters RAW</name>
+			<name>Ready the Arresters</name>
 			<text>Create two 1/1 blue and white Soldier creature tokens. Then if this spell was cast from exile, you gain 1 life for each creature you control.
 Preamble {3}{W} ({3}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/23t_Ready the Arresters.png" num="23">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/23_Ready the Arresters.png" num="23">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4863,8 +4784,6 @@ Preamble {3}{W} ({3}{W}, Exile this card from your hand: Cast a copy of it witho
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<token>1</token>
-			<related count="2">Azorius Soldier RAW</related>
 		</card>
 		<card>
 			<name>Fierce Champion</name>
@@ -5043,22 +4962,24 @@ Return target spell or nonland permanent an opponent controls to its owner&apos;
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Pursuit RAW</name>
-			<text>Create two 1/1 colorless Thopter artifact creature tokens with flying.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/241t_Pursuit.png" num="241">RAW</set>
+			<name>Pursuit // Purification</name>
+			<text>Create two 1/1 colorless Thopter artifact creature tokens with flying.
+
+---
+
+Exile any number of target creatures, then return them tapped under their owner&apos;s control. Put a +1/+1 counter on each creature you control and a stun counter on each creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/241_Pursuit.png" num="241">RAW</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>split</layout>
 				<side>front</side>
-				<type>Instant</type>
+				<type>Instant // Sorcery</type>
 				<maintype>Instant</maintype>
-				<manacost>1W/UW/U</manacost>
-				<cmc>3</cmc>
+				<manacost>1W/UW/U // 3WU</manacost>
+				<cmc>8</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<token>1</token>
-			<related>Thopter RAW</related>
 		</card>
 		<card>
 			<name>Azorius Purifier</name>
@@ -5221,10 +5142,10 @@ Return all nonland permanents to their owners&apos; hands. Each player may shuff
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Octave, Deputy of Discipline RAW</name>
+			<name>Octave, Deputy of Discipline</name>
 			<text>Flying
 Whenever you cast a spell, create a 1/1 white and blue Thopter artifact creature token with flying. If that spell was cast from exile, create a 4/4 white and blue Sphinx creature token with flying and vigilance. This ability triggers only once each turn.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/188t_Octave, Deputy of Discipline.png" num="188">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/188_Octave, Deputy of Discipline.png" num="188">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5237,9 +5158,6 @@ Whenever you cast a spell, create a 1/1 white and blue Thopter artifact creature
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
-			<related>Thopter RAW</related>
-			<related>Sphinx RAW</related>
 		</card>
 		<card>
 			<name>Peruse the Law</name>
