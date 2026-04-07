@@ -4964,7 +4964,7 @@
             "image_type": "png"
         },
         {
-            "card_name": "5/1 Elemental",
+            "card_name": "Eidolon Elemental",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2013 Elemental",
@@ -4979,7 +4979,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Allan Fonseca Freitas",
-            "notes": "!exportname 5/1 Elemental\n!related Eidolon's Impetus",
+            "notes": "!exportname Eidolon Elemental\n!related Eidolon's Impetus",
             "image_type": "png"
         },
         {

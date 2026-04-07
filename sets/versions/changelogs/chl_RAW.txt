@@ -1,4 +1,12 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+Eidolon Elemental added.
+
+5/1 Elemental removed.
+
+
+VERSION 21 CHANGELOG
 ====================
 
 1/1 Devil added.

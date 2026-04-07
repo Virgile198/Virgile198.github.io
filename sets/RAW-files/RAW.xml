@@ -4622,9 +4622,9 @@ Choose one —
 			<reverse-related>Eidolon&apos;s Flight</reverse-related>
 		</card>
 		<card>
-			<name>5/1 Elemental RAW</name>
+			<name>Eidolon Elemental RAW</name>
 			<text>Trample, haste</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/8t_5/1 Elemental.png" num="8">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/8t_Eidolon Elemental.png" num="8">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
