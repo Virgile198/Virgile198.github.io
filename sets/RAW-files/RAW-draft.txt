@@ -7,7 +7,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/5_Boros Standard Bearer.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/5t_Boros Standard Bearer.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/21_Protect the Precinct.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/22_Protect the Precinct.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/10_Firemane Protector.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/11_Firemane Protector.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Elf Cleric",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/11_Gate Physician.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/12_Gate Physician.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/12_Guildpact Faithful.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/13_Guildpact Faithful.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/25_Shield of Compassion.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/26_Shield of Compassion.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Instant",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/19_Press the Advantage.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/20_Press the Advantage.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/23_Righteous Uprising.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/24_Righteous Uprising.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/24_Sanctum of Protection.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/25_Sanctum of Protection.png"
 			}
 		},
 		{
@@ -145,15 +145,15 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Dog",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/14_Loyal Warhound.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/15_Loyal Warhound.png"
 			}
 		},
 		{
 			"name": "Valiant District Protector",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature — Angel Warrior",
 			"collector_number": "28",
 			"image_uris": {
@@ -185,9 +185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/17_Outmatch.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/18_Outmatch.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Enchantment",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/7_Eidolon's Flight.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/7t_Eidolon's Flight.png"
 			}
 		},
 		{
@@ -324,7 +324,7 @@
 			"name": "Fluxfeather Eagle",
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}{U}",
-			"type": "Creature — Bird Illusion",
+			"type": "Creature — Bird Elemental",
 			"collector_number": "44",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/44_Fluxfeather Eagle.png"
@@ -333,7 +333,7 @@
 		{
 			"name": "Experiment Twenty-Six",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Ooze Shapeshifter",
 			"collector_number": "42",
 			"image_uris": {
@@ -445,16 +445,16 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Fungus Pest",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/70_Fungal Pest.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/71_Fungal Pest.png"
 			}
 		},
 		{
 			"name": "Carnarium Acrobat",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Assassin",
+			"type": "Creature — Human Assassin Performer",
 			"collector_number": "59",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/59_Carnarium Acrobat.png"
@@ -465,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Troll Rogue",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/75_Jubilent Sewer Cook.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/76t_Jubilent Sewer Cook.png"
 			}
 		},
 		{
@@ -475,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Imp",
-			"collector_number": "82",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/82_Stage Cleaner.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/83_Stage Cleaner.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie Soldier",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/69_First District Paragon.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/70_First District Paragon.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Insect",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/83_Swarm Broodmother.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/84t_Swarm Broodmother.png"
 			}
 		},
 		{
@@ -505,25 +505,25 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/85_Undercity Cleaner.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/86_Undercity Cleaner.png"
 			}
 		},
 		{
-			"name": "Unleashed Ragemutt",
+			"name": "Enraged Hellhound",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Elemental Dog",
-			"collector_number": "86",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/86_Unleashed Ragemutt.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/69_Enraged Hellhound.png"
 			}
 		},
 		{
 			"name": "Eaten From Within",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
@@ -535,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "76",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/76_Reap.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/77_Reap.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "74",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/74_Jagged Edges.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/75_Jagged Edges.png"
 			}
 		},
 		{
@@ -555,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "79",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/79_The Show Never Ends.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/80t_The Show Never Ends.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/121_Cytoplasm Carrier.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/122_Cytoplasm Carrier.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Creature — Demon Egg",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/66_Demon Progeny.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/66t_Demon Progeny.png"
 			}
 		},
 		{
@@ -595,9 +595,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Insect",
-			"collector_number": "80",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/80_Skull Clamper Parasite.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/81_Skull Clamper Parasite.png"
 			}
 		},
 		{
@@ -605,9 +605,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Demon",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/71_Gorespawn Demon.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/72_Gorespawn Demon.png"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "72",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/72_Gruesome Spectacle.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/73_Gruesome Spectacle.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Creature — Gorgon Assassin",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/62_Daughter of Stone Death.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/62t_Daughter of Stone Death.png"
 			}
 		},
 		{
@@ -635,16 +635,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Elf Zombie Assassin",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/84_Swarm Evangel.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/85t_Swarm Evangel.png"
 			}
 		},
 		{
 			"name": "Fired-Up Jester",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature — Human Shaman Clown",
 			"collector_number": "164",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/164_Fired-Up Jester.png"
@@ -657,7 +657,7 @@
 			"type": "Creature — Human Citizen",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/60_Corpse Jeweler.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/60t_Corpse Jeweler.png"
 			}
 		},
 		{
@@ -675,29 +675,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Elemental",
-			"collector_number": "81",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/81_Smog Predator.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/82_Smog Predator.png"
 			}
 		},
 		{
 			"name": "Vengeful Hands",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{B}",
+			"mana_cost": "{3}{B}",
 			"type": "Instant",
 			"collector_number": "87",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/87_Vengeful Hands.png"
-			}
-		},
-		{
-			"name": "Deadly Spore Storm",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Instant",
-			"collector_number": "63",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/63_Deadly Spore Storm.png"
 			}
 		},
 		{
@@ -707,7 +697,7 @@
 			"type": "Enchantment",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/68_Eidolon's Infestation.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/68t_Eidolon's Infestation.png"
 			}
 		},
 		{
@@ -715,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/73_Incite Delirium.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/74_Incite Delirium.png"
 			}
 		},
 		{
@@ -725,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/90_Boros Phalanx.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/91_Boros Phalanx.png"
 			}
 		},
 		{
@@ -764,10 +754,10 @@
 			"name": "Circle Headliner",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature — Human Shaman Performer",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/93_Circle Headliner.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/93t_Circle Headliner.png"
 			}
 		},
 		{
@@ -837,7 +827,7 @@
 			"type": "Instant",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/89_Backstage Preparations.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/89t_Backstage Preparations.png"
 			}
 		},
 		{
@@ -847,17 +837,17 @@
 			"type": "Enchantment",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/92_Ceaseless Anger.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/92t_Ceaseless Anger.png"
 			}
 		},
 		{
-			"name": "Captivating Equilibrist",
+			"name": "Bewitching Lead",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "91",
+			"type": "Creature — Human Shaman Performer",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/91_Captivating Equilibrist.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/90_Bewitching Lead.png"
 			}
 		},
 		{
@@ -867,7 +857,7 @@
 			"type": "Creature — Goblin Soldier",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/98_Firstblade Lieutenant.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/98t_Firstblade Lieutenant.png"
 			}
 		},
 		{
@@ -905,9 +895,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Drake",
-			"collector_number": "78",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/78_Shackled Blooddrake.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/79_Shackled Blooddrake.png"
 			}
 		},
 		{
@@ -927,7 +917,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/113_Welcoming Ringleader.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/113t_Welcoming Ringleader.png"
 			}
 		},
 		{
@@ -937,7 +927,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/102_Goldscale Whelp.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/102t_Goldscale Whelp.png"
 			}
 		},
 		{
@@ -945,9 +935,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/16_Mourning Legionnaire.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/17_Mourning Legionnaire.png"
 			}
 		},
 		{
@@ -977,7 +967,7 @@
 			"type": "Sorcery",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/104_Krenko's Ransack.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/104t_Krenko's Ransack.png"
 			}
 		},
 		{
@@ -987,7 +977,7 @@
 			"type": "Enchantment",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/95_Eidolon's Impetus.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/95t_Eidolon's Impetus.png"
 			}
 		},
 		{
@@ -1067,7 +1057,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/143_Undercity Ravager.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/143t_Undercity Ravager.png"
 			}
 		},
 		{
@@ -1115,15 +1105,15 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "77",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/77_Rotquake.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/78_Rotquake.png"
 			}
 		},
 		{
 			"name": "Aspect of Rebirth",
 			"rarity": "mythic",
-			"mana_cost": "{2}{G}{G}{G}",
+			"mana_cost": "{3}{G}{G}{G}",
 			"type": "Creature — Avatar",
 			"collector_number": "119",
 			"image_uris": {
@@ -1133,7 +1123,7 @@
 		{
 			"name": "Perfected Rebirth",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "135",
 			"image_uris": {
@@ -1157,7 +1147,7 @@
 			"type": "Creature — Elemental Horror",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/145_Woodwraith Behemoth.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/145t_Woodwraith Behemoth.png"
 			}
 		},
 		{
@@ -1167,7 +1157,7 @@
 			"type": "Instant",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/140_Rotten Banquet.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/140t_Rotten Banquet.png"
 			}
 		},
 		{
@@ -1175,9 +1165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Plant",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/124_Deathbloom Mandrake.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/125t_Deathbloom Mandrake.png"
 			}
 		},
 		{
@@ -1187,17 +1177,17 @@
 			"type": "Creature — Gorgon Assassin",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/229_Ochran Stalker.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/229t_Ochran Stalker.png"
 			}
 		},
 		{
-			"name": "Feral Experiment",
+			"name": "Corrosive Experiment",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Merfolk Octopus Mutant",
-			"collector_number": "126",
+			"type": "Creature — Ooze",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/126_Feral Experiment.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/121_Corrosive Experiment.png"
 			}
 		},
 		{
@@ -1215,9 +1205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/123_Dauntless Protector.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/124_Dauntless Protector.png"
 			}
 		},
 		{
@@ -1225,9 +1215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/122_Cytoplasmic Membrane.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/123_Cytoplasmic Membrane.png"
 			}
 		},
 		{
@@ -1255,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/125_Eidolon's Genesis.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/126_Eidolon's Genesis.png"
 			}
 		},
 		{
@@ -1267,7 +1257,7 @@
 			"type": "Creature — Plant Zombie",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/210_Surging Horror.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/210t_Surging Horror.png"
 			}
 		},
 		{
@@ -1383,7 +1373,7 @@
 		{
 			"name": "Skyrender Knight",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{W}",
+			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Knight",
 			"collector_number": "206",
 			"image_uris": {
@@ -1413,11 +1403,11 @@
 		{
 			"name": "Magistrate's Pet",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Creature — Bird",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/15_Magistrate's Pet.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/16_Magistrate's Pet.png"
 			}
 		},
 		{
@@ -1443,7 +1433,7 @@
 		{
 			"name": "Judith, the Bloody Deluge",
 			"rarity": "mythic",
-			"mana_cost": "{1}{B}{R}",
+			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Planeswalker — Judith",
 			"collector_number": "179",
 			"image_uris": {
@@ -1457,7 +1447,7 @@
 			"type": "Legendary Planeswalker — Vannifar",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/213_Vannifar, Voice of the Combine.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/213t_Vannifar, Voice of the Combine.png"
 			}
 		},
 		{
@@ -1487,17 +1477,17 @@
 			"type": "Legendary Planeswalker — Tajic",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/211_Tajic, Boros Examplar.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/211t_Tajic, Boros Examplar.png"
 			}
 		},
 		{
 			"name": "On Wings of Fury",
 			"rarity": "mythic",
-			"mana_cost": "{X}{X}{R}{R/W}{R/W}{W}",
+			"mana_cost": "{X}{X}{R}{R/W}{R/W}{R/W}{W}",
 			"type": "Sorcery",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/230_On Wings of Fury.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/230t_On Wings of Fury.png"
 			}
 		},
 		{
@@ -1514,10 +1504,10 @@
 			"name": "Juri, Charismatic Performer",
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
-			"type": "Legendary Creature — Human Shaman",
+			"type": "Legendary Creature — Human Shaman Perfomer",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/180_Juri, Charismatic Performer.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/180t_Juri, Charismatic Performer.png"
 			}
 		},
 		{
@@ -1533,7 +1523,7 @@
 		{
 			"name": "Devastation in the Streets",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{R}",
+			"mana_cost": "{1}{B}{R}",
 			"type": "Sorcery",
 			"collector_number": "157",
 			"image_uris": {
@@ -1567,7 +1557,7 @@
 			"type": "Sorcery",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/244_Unleash.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/244t_Unleash.png"
 			}
 		},
 		{
@@ -1651,13 +1641,13 @@
 			}
 		},
 		{
-			"name": "Ordruun Marshall",
+			"name": "Ordruun Marshal",
 			"rarity": "rare",
 			"mana_cost": "{R}{R}{W}{W}",
 			"type": "Creature — Minotaur Soldier",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/190_Ordruun Marshall.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/190t_Ordruun Marshal.png"
 			}
 		},
 		{
@@ -1713,7 +1703,7 @@
 		{
 			"name": "Forsaken Loxodon",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
+			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Zombie Elephant Warrior",
 			"collector_number": "167",
 			"image_uris": {
@@ -1737,7 +1727,7 @@
 			"type": "Enchantment",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/168_Fungus Nursery.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/168t_Fungus Nursery.png"
 			}
 		},
 		{
@@ -1774,10 +1764,10 @@
 			"name": "Xaren, Rakdos Uncager",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Devil Shaman",
+			"type": "Legendary Creature — Devil Shaman Performer",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/214_Xaren, Rakdos Uncager.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/214t_Xaren, Rakdos Uncager.png"
 			}
 		},
 		{
@@ -1814,7 +1804,7 @@
 			"name": "Chaos Guildmage",
 			"rarity": "uncommon",
 			"mana_cost": "{B/R}{B/R}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature — Human Shaman Performer",
 			"collector_number": "219",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/219_Chaos Guildmage.png"
@@ -1833,7 +1823,7 @@
 		{
 			"name": "Praj, Momir Vig's Legacy",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{U}",
+			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Ooze Mutant",
 			"collector_number": "193",
 			"image_uris": {
@@ -1853,7 +1843,7 @@
 		{
 			"name": "Transfigure",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}{U}",
+			"mana_cost": "{2}{G}{U}",
 			"type": "Sorcery",
 			"collector_number": "212",
 			"image_uris": {
@@ -1917,7 +1907,7 @@
 			"type": "Enchantment",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/207_Spark Legion.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/207t_Spark Legion.png"
 			}
 		},
 		{
@@ -1933,7 +1923,7 @@
 		{
 			"name": "Righteous Smite",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{W}",
+			"mana_cost": "{2}{R}{W}",
 			"type": "Instant",
 			"collector_number": "199",
 			"image_uris": {
@@ -1947,7 +1937,7 @@
 			"type": "Creature — Human Soldier Wizard",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/235_War Guildmage.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/235t_War Guildmage.png"
 			}
 		},
 		{
@@ -1967,7 +1957,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/225_Flame-kin Summoner.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/225t_Flame-kin Summoner.png"
 			}
 		},
 		{
@@ -1987,7 +1977,7 @@
 			"type": "Artifact",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/249_Boros Insignia.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/249t_Boros Insignia.png"
 			}
 		},
 		{
@@ -2221,59 +2211,59 @@
 			}
 		},
 		{
-			"name": "Plains_RAW",
+			"name": "Plains RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/271_Plains_RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/271_Plains RAW.png"
 			}
 		},
 		{
-			"name": "Island_RAW",
+			"name": "Island RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/272_Island_RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/272_Island RAW.png"
 			}
 		},
 		{
-			"name": "Swamp_RAW",
+			"name": "Swamp RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/273_Swamp_RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/273_Swamp RAW.png"
 			}
 		},
 		{
-			"name": "Mountain_RAW",
+			"name": "Mountain RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/274_Mountain_RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/274_Mountain RAW.png"
 			}
 		},
 		{
-			"name": "Forest_RAW",
+			"name": "Forest RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/275_Forest_RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/275_Forest RAW.png"
 			}
 		},
 		{
 			"name": "Erstwhile Awakener",
 			"rarity": "mythic",
-			"mana_cost": "{B}{G}",
+			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Elf Zombie Shaman",
 			"collector_number": "160",
 			"image_uris": {
@@ -2287,7 +2277,7 @@
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/215_Zafen, Scheming Necromancer.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/215t_Zafen, Scheming Necromancer.png"
 			}
 		},
 		{
@@ -2297,7 +2287,7 @@
 			"type": "Creature — Scorpion Horror",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/234_Voracious Deathstinger.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/234t_Voracious Deathstinger.png"
 			}
 		},
 		{
@@ -2307,13 +2297,13 @@
 			"type": "Creature — Insect",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/221_Corpse-Pit Goliath.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/221t_Corpse-Pit Goliath.png"
 			}
 		},
 		{
 			"name": "Lothran, the Glouton",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
+			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Creature — Zombie Troll",
 			"collector_number": "183",
 			"image_uris": {
@@ -2327,7 +2317,7 @@
 			"type": "Creature — Ooze",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/163_Festering Mass.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/163t_Festering Mass.png"
 			}
 		},
 		{
@@ -2347,24 +2337,24 @@
 			"type": "Instant",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/242_Remains.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/242t_Remains.png"
 			}
 		},
 		{
-			"name": "Devil",
+			"name": "Devil RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Devil",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/6_Devil.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/6t_Devil RAW.png"
 			}
 		},
 		{
 			"name": "Rakdos Trailblazer",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature — Human Shaman Clown",
 			"collector_number": "107",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/107_Rakdos Trailblazer.png"
@@ -2377,7 +2367,7 @@
 			"type": "Creature — Spider Fungus",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/131_Infested Maneater.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/131t_Infested Maneater.png"
 			}
 		},
 		{
@@ -2397,7 +2387,7 @@
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/181_Lamiel, Deathsprout Cultivator.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/181t_Lamiel, Deathsprout Cultivator.png"
 			}
 		},
 		{
@@ -2411,13 +2401,13 @@
 			}
 		},
 		{
-			"name": "Elemental Dog",
+			"name": "Elemental Dog RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental Dog",
-			"collector_number": "16",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/16_Elemental Dog.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/14t_Elemental Dog RAW.png"
 			}
 		},
 		{
@@ -2425,59 +2415,49 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "17",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/17_Insect.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/15t_Insect.png"
 			}
 		},
 		{
-			"name": "Plant",
+			"name": "Plant RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Plant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/11_Plant.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/11t_Plant RAW.png"
 			}
 		},
 		{
-			"name": "Skeleton",
+			"name": "Skeleton RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Skeleton",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/5_Skeleton.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/5t_Skeleton RAW.png"
 			}
 		},
 		{
-			"name": "Elemental",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Elemental",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/15_Elemental.png"
-			}
-		},
-		{
-			"name": "Soldier",
+			"name": "Boros Soldier RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/18_Soldier.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/17t_Boros Soldier RAW.png"
 			}
 		},
 		{
-			"name": "Treasure",
+			"name": "Treasure RNF",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/21_Treasure.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/20t_Treasure RNF.png"
 			}
 		},
 		{
@@ -2487,17 +2467,17 @@
 			"type": "Token Creature — Citizen",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/12_Citizen.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/12t_Citizen.png"
 			}
 		},
 		{
-			"name": "Elemental",
+			"name": "1/1 Elemental RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/7_Elemental.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/7t_1/1 Elemental RAW.png"
 			}
 		},
 		{
@@ -2511,23 +2491,13 @@
 			}
 		},
 		{
-			"name": "Soldier",
+			"name": "Azorius Soldier RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
-			"collector_number": "19",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/19_Soldier.png"
-			}
-		},
-		{
-			"name": "Bird",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Bird",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/13_Bird.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/16t_Azorius Soldier RAW.png"
 			}
 		},
 		{
@@ -2535,19 +2505,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Sphinx",
-			"collector_number": "20",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/20_Sphinx.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/18t_Sphinx.png"
 			}
 		},
 		{
-			"name": "Angel",
+			"name": "Angel RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Angel",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/1_Angel.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/1t_Angel RAW.png"
 			}
 		},
 		{
@@ -2557,7 +2527,7 @@
 			"type": "Token Creature — Ooze",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/10_Ooze.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/10t_Ooze.png"
 			}
 		},
 		{
@@ -2581,53 +2551,53 @@
 			}
 		},
 		{
-			"name": "Demon",
+			"name": "Demon RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demon",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/4_Demon.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/4t_Demon RAW.png"
 			}
 		},
 		{
-			"name": "Spirit",
+			"name": "Spirit RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/3_Spirit.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/3t_Spirit RAW.png"
 			}
 		},
 		{
-			"name": "Elemental",
+			"name": "5/1 Elemental RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/8_Elemental.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/8t_5/1 Elemental RAW.png"
 			}
 		},
 		{
-			"name": "Goblin",
+			"name": "Goblin RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Goblin",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/9_Goblin.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/9t_Goblin RAW.png"
 			}
 		},
 		{
-			"name": "Human",
+			"name": "Human RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/2_Human.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/2t_Human RAW.png"
 			}
 		},
 		{
@@ -2643,8 +2613,8 @@
 		{
 			"name": "Azorius Lawmage",
 			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Creature — Human Soldier",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Wizard",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/4_Azorius Lawmage.png"
@@ -2655,9 +2625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/13_In Formation!.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/14_In Formation!.png"
 			}
 		},
 		{
@@ -2665,9 +2635,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/18_Preemptive Measures.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/19_Preemptive Measures.png"
 			}
 		},
 		{
@@ -2675,9 +2645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/20_Proscribe.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/21_Proscribe.png"
 			}
 		},
 		{
@@ -2685,25 +2655,25 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/22_Ready the Arresters.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/23t_Ready the Arresters.png"
 			}
 		},
 		{
-			"name": "Sova Keymaster",
+			"name": "Fierce Champion",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Soldier Wizard",
-			"collector_number": "26",
+			"type": "Creature — Human Soldier",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/26_Sova Keymaster.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/10_Fierce Champion.png"
 			}
 		},
 		{
 			"name": "Zealous Arrester",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "29",
 			"image_uris": {
@@ -2763,7 +2733,7 @@
 		{
 			"name": "Precognition Serum",
 			"rarity": "rare",
-			"mana_cost": "{4}{U}{U}",
+			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
@@ -2797,17 +2767,7 @@
 			"type": "Instant",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/241_Pursuit.png"
-			}
-		},
-		{
-			"name": "Arbiter of Law",
-			"rarity": "mythic",
-			"mana_cost": "{4}{W}{W/U}{U}",
-			"type": "Creature — Angel Advisor",
-			"collector_number": "216",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/216_Arbiter of Law.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/241t_Pursuit.png"
 			}
 		},
 		{
@@ -2823,7 +2783,7 @@
 		{
 			"name": "Binding Decree",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}{U}",
+			"mana_cost": "{W}{U}",
 			"type": "Enchantment",
 			"collector_number": "149",
 			"image_uris": {
@@ -2907,7 +2867,7 @@
 			"type": "Legendary Creature — Sphinx",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/188_Octave, Deputy of Discipline.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/188t_Octave, Deputy of Discipline.png"
 			}
 		},
 		{
@@ -2933,7 +2893,7 @@
 		{
 			"name": "Seal of Censure",
 			"rarity": "uncommon",
-			"mana_cost": "{W}{U}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Instant",
 			"collector_number": "204",
 			"image_uris": {
@@ -2951,57 +2911,77 @@
 			}
 		},
 		{
-			"name": "Drake",
+			"name": "Drake RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Drake",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/14_Drake.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/13t_Drake RAW.png"
+			}
+		},
+		{
+			"name": "Deadly Spore Storm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/63_Deadly Spore Storm.png"
+			}
+		},
+		{
+			"name": "Arbiter of Law",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W/U}{U}",
+			"type": "Creature — Angel Advisor",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/216_Arbiter of Law.png"
+			}
+		},
+		{
+			"name": "Thopter RAW",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Thopter",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/19t_Thopter RAW.png"
 			}
 		}
 	]
 
 [rare(1)]
-	3 Righteous Uprising
+	5 Righteous Uprising
 	5 Wall of Fury
 	5 Sanctum of Protection
 	5 Aurelia's Judgment
-	3 Fluxfeather Eagle
+	5 Fluxfeather Eagle
 	5 Experiment Twenty-Six
 	5 Time Typhoon
 	5 Synapse Linker
-	3 Deathgorger
-	5 Demon Progeny
+	5 Deathgorger
 	5 Skull Clamper Parasite
 	5 Gorespawn Demon
 	5 Gruesome Spectacle
-	5 Daughter of Stone Death
-	3 Ceaseless Anger
-	5 Captivating Equilibrist
-	5 Firstblade Lieutenant
+	5 Bewitching Lead
 	5 Flame-kin Commander
 	5 Rakdos Excrutiator
 	5 Mourning Legionnaire
-	3 Aspect of Rebirth
+	5 Aspect of Rebirth
 	5 Perfected Rebirth
 	5 Insatiable Troll
-	5 Woodwraith Behemoth
 	5 Ooze Hydra
-	3 Rakdos Ragefest
-	3 Escaped Hellsteed
-	3 Judith, the Bloody Deluge
-	3 Vannifar, Voice of the Combine
-	3 Replicating Abomination
-	3 Containment Breach
-	3 Tajic, Boros Examplar
-	3 On Wings of Fury
-	3 Radiant Champion
-	5 Juri, Charismatic Performer
+	5 Rakdos Ragefest
+	5 Escaped Hellsteed
+	5 Judith, the Bloody Deluge
+	5 Replicating Abomination
+	5 Containment Breach
+	5 Radiant Champion
 	5 Rix Maadi Abomination
 	5 Mindflare
 	5 Gleeful Skinner
-	5 Unleash
 	5 Gulistan, Master Biomancer
 	5 Metamorphosed Adapter
 	5 Force Shaping
@@ -3009,7 +2989,6 @@
 	5 Transform
 	5 Firemane's Flamberge
 	5 Recruitment Campaign
-	5 Ordruun Marshall
 	5 Incandescent Blessing
 	5 Volley
 	5 Arrester Captain
@@ -3025,35 +3004,27 @@
 	5 Overgrown Tomb
 	5 Plaza's Omenpath
 	5 Sacred Foundry
-	3 Erstwhile Awakener
-	3 Zafen, Scheming Necromancer
-	3 Voracious Deathstinger
-	5 Corpse-Pit Goliath
-	5 Festering Mass
+	5 Erstwhile Awakener
 	5 Putrefied Tutor
-	5 Remains
-	5 Lamiel, Deathsprout Cultivator
 	5 Amalgamate
 	5 Hull Clade Guardian
 	5 Azorius Lawbringer
 	5 In Formation!
 	5 Jelenn Grand Elocutor
 	5 Precognition Serum
-	5 Pursuit
-	3 Arbiter of Law
 	5 Azorius Purifier
 	5 Binding Decree
 	5 Durand, High Justicar
 	5 Futur Seer
-	3 Judgment of Balance
-	3 Lavinia, the Just
+	5 Judgment of Balance
+	5 Lavinia, the Just
+	5 Arbiter of Law
 [uncommon(3)]
 	5 Loyal Warhound
 	5 Valiant District Protector
 	5 Bounty Claimer
 	5 Featherscale Drake
 	5 Outmatch
-	5 Eidolon's Flight
 	5 Express Mandate
 	5 Elusive Biomage
 	5 Absorbed Attendant
@@ -3064,26 +3035,16 @@
 	5 Reconsider
 	5 Eidolon's Vision
 	5 Eaten From Within
-	5 Swarm Evangel
 	5 Fired-Up Jester
-	5 Corpse Jeweler
 	5 Deceitful Guide
 	5 Smog Predator
 	5 Vengeful Hands
-	5 Deadly Spore Storm
-	5 Eidolon's Infestation
 	5 Fearless Freemage
 	5 Shackled Blooddrake
-	5 Welcoming Ringleader
-	5 Goldscale Whelp
 	5 Fiery Comeuppance
 	5 All Consuming Rage
-	5 Krenko's Ransack
-	5 Eidolon's Impetus
 	5 Hound Krasis
 	5 Breeding Plant Supervisor
-	5 Rotten Banquet
-	5 Deathbloom Mandrake
 	5 Ravenous Sewerscraper
 	5 Dauntless Protector
 	5 Cytoplasmic Membrane
@@ -3096,10 +3057,8 @@
 	5 Fester
 	5 Forsaken Loxodon
 	5 Gutbloom Host
-	5 Fungus Nursery
 	5 Decay Guildmage
 	5 Bitter
-	5 Xaren, Rakdos Uncager
 	5 Giant Roustabout
 	5 Critics Hunter
 	5 Wojek Recruitee
@@ -3112,9 +3071,7 @@
 	5 Evolution Guildmage
 	5 Live
 	5 Boros Rallier
-	5 Spark Legion
 	5 Righteous Smite
-	5 War Guildmage
 	5 Loud
 	5 Gateless Amulet
 	5 Embersoul Edge
@@ -3131,10 +3088,9 @@
 	5 Decipher the Chronology
 	5 Incarcerate
 	5 Inquisitive Guardmage
-	5 Octave, Deputy of Discipline
 	5 Seal of Censure
+	5 Deadly Spore Storm
 [common(10)]
-	5 Boros Standard Bearer
 	5 Brightsteel Interceptor
 	5 Protect the Precinct
 	5 Firemane Protector
@@ -3157,44 +3113,36 @@
 	5 Void Wave
 	5 Fungal Pest
 	5 Carnarium Acrobat
-	5 Jubilent Sewer Cook
 	5 Stage Cleaner
 	5 First District Paragon
-	5 Swarm Broodmother
 	5 Undercity Cleaner
-	5 Unleashed Ragemutt
+	5 Enraged Hellhound
 	5 Reap
 	5 Jagged Edges
-	5 The Show Never Ends
 	5 Cytoplasm Carrier
 	5 Incite Delirium
 	5 Boros Phalanx
 	5 Sting Elemental
 	5 Sunblade Captain
 	5 Second District Keeper
-	5 Circle Headliner
 	5 Wheel of Agony
 	5 Collateral
 	5 Just Strike
 	5 Subjugate
 	5 Furious Upheaval
 	5 Obliterating Strike
-	5 Backstage Preparations
 	5 Wojek Avenger
 	5 Uncontained Hulk
 	5 Golgari Rotseer
 	5 Anglershark Krasis
 	5 Underdeep Kraul
 	5 Gate Bulwark
-	5 Undercity Ravager
 	5 Ochran's Solution
 	5 Return to the Cycle
 	5 Swarm's Voracity
 	5 Redo
 	5 Rotquake
-	5 Ochran Stalker
-	5 Feral Experiment
-	5 Surging Horror
+	5 Corrosive Experiment
 	5 Inspect the Remains
 	5 Mangled Rootgiant
 	5 Splatterhouse Ravager
@@ -3209,30 +3157,25 @@
 	5 Firefist's Indignation
 	5 Firemane Executioner
 	5 Magistrate's Pet
-	5 Flame-kin Summoner
 	5 Azorius Insignia
-	5 Boros Insignia
 	5 Simic Insignia
 	5 Rakdos Insignia
 	5 Golgari Insignia
+	5 Azorius Guildgate
+	5 Boros Guildgate
 	5 Undercity Entrance
+	5 Golgari Guildgate
+	5 Rakdos Guildgate
+	5 Simic Guildgate
 	5 Rakdos Trailblazer
-	5 Infested Maneater
 	5 Accelerated Growth
 	5 Cull
 	5 Azorius Lawmage
 	5 Preemptive Measures
-	5 Ready the Arresters
-	5 Sova Keymaster
+	5 Fierce Champion
 	5 Apprehend the Guilty
 	5 Detain Wisdom
 	5 Inquire
 	5 Peruse the Law
 	5 Safeguard
 	5 Sphinx Lawbinder
-[commonland(1)]
-	5 Azorius Guildgate
-	5 Boros Guildgate
-	5 Golgari Guildgate
-	5 Rakdos Guildgate
-	5 Simic Guildgate

@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/RAW-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/RAW-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>RAW visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -39,19 +42,21 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -126,12 +133,13 @@
 			background: rgba(23, 23, 23, 0.8);
 			border-radius: 8px;
 			position: absolute;
-			left: 10%;
+			left: 5%;
 			width: fit-content;
+			max-width: 90%;
 			margin: 20px 0;
 			padding: 5px 0;
-			display: flex;
-			flex-direction: column;
+			display: grid;
+			grid-template-columns: 1fr;
 			z-index: 3;
 		}
 		.dropdown .set-bar {
@@ -173,380 +181,436 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/RAW-files/logo.png" />
-	<img class="preload-hidden" src="/sets/RAW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/RNF-files/icon.png" />
-		<img class="preload-hidden" id="bg" src="/sets/RAW-files/bg.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/RAW-files/logo.png" />
+	<img class="preload-hidden" src="../sets/RAW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/RNF-files/icon.png" />
+		<img class="preload-hidden" id="bg" src="../sets/RAW-files/bg.png" />
 
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
 
-	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="RAW"><img src="/sets/RAW-files/icon.png">Ravnica’s Awakening</a>
+		<a class="set-bar" href="../previews/RAW"><img src="../sets/RAW-files/icon.png">Ravnica’s Awakening</a>
 	
-		<a class="set-bar inactive" href="RNF"><img src="/sets/RNF-files/icon.png">Ravnica Fractured</a>
+		<a class="set-bar inactive" href="../previews/RNF"><img src="../sets/RNF-files/icon.png">Ravnica Fractured</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/RAW-files/logo.png">
+		<img class="logo" src="../sets/RAW-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img alt="/sets\RAW-files\img\23_Righteous Uprising.png" id="23_Righteous Uprising" data-flag="@X" onclick="openSidebar('23_Righteous Uprising',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\44_Fluxfeather Eagle.png" id="44_Fluxfeather Eagle" data-flag="@X" onclick="openSidebar('44_Fluxfeather Eagle',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\64_Deathgorger.png" id="64_Deathgorger" data-flag="@X" onclick="openSidebar('64_Deathgorger',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\92_Ceaseless Anger.png" id="92_Ceaseless Anger" data-flag="@X" onclick="openSidebar('92_Ceaseless Anger',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\119_Aspect of Rebirth.png" id="119_Aspect of Rebirth" data-flag="@X" onclick="openSidebar('119_Aspect of Rebirth',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\2_Aurelia's Judgment.png" id="2_Aurelias Judgment" data-flag="@X" onclick="openSidebar('2_Aurelias Judgment',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\42_Experiment Twenty-Six.png" id="42_Experiment Twenty-Six" data-flag="@X" onclick="openSidebar('42_Experiment Twenty-Six',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\62_Daughter of Stone Death.png" id="62_Daughter of Stone Death" data-flag="@X" onclick="openSidebar('62_Daughter of Stone Death',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\91_Captivating Equilibrist.png" id="91_Captivating Equilibrist" data-flag="@X" onclick="openSidebar('91_Captivating Equilibrist',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\130_Hull Clade Guardian.png" id="130_Hull Clade Guardian" data-flag="@X" onclick="openSidebar('130_Hull Clade Guardian',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\3_Azorius Lawbringer.png" id="3_Azorius Lawbringer" data-flag="@X" onclick="openSidebar('3_Azorius Lawbringer',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\47_Jelenn Grand Elocutor.png" id="47_Jelenn Grand Elocutor" data-flag="@X" onclick="openSidebar('47_Jelenn Grand Elocutor',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\66_Demon Progeny.png" id="66_Demon Progeny" data-flag="@X" onclick="openSidebar('66_Demon Progeny',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\98_Firstblade Lieutenant.png" id="98_Firstblade Lieutenant" data-flag="@X" onclick="openSidebar('98_Firstblade Lieutenant',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\132_Insatiable Troll.png" id="132_Insatiable Troll" data-flag="@X" onclick="openSidebar('132_Insatiable Troll',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\13_In Formation!.png" id="13_In Formation!" data-flag="@X" onclick="openSidebar('13_In Formation!',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\50_Precognition Serum.png" id="50_Precognition Serum" data-flag="@X" onclick="openSidebar('50_Precognition Serum',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\71_Gorespawn Demon.png" id="71_Gorespawn Demon" data-flag="@X" onclick="openSidebar('71_Gorespawn Demon',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\99_Flame-kin Commander.png" id="99_Flame-kin Commander" data-flag="@X" onclick="openSidebar('99_Flame-kin Commander',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\134_Ooze Hydra.png" id="134_Ooze Hydra" data-flag="@X" onclick="openSidebar('134_Ooze Hydra',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\16_Mourning Legionnaire.png" id="16_Mourning Legionnaire" data-flag="@X" onclick="openSidebar('16_Mourning Legionnaire',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\55_Synapse Linker.png" id="55_Synapse Linker" data-flag="@X" onclick="openSidebar('55_Synapse Linker',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\72_Gruesome Spectacle.png" id="72_Gruesome Spectacle" data-flag="@X" onclick="openSidebar('72_Gruesome Spectacle',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\106_Rakdos Excrutiator.png" id="106_Rakdos Excrutiator" data-flag="@X" onclick="openSidebar('106_Rakdos Excrutiator',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\135_Perfected Rebirth.png" id="135_Perfected Rebirth" data-flag="@X" onclick="openSidebar('135_Perfected Rebirth',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\24_Sanctum of Protection.png" id="24_Sanctum of Protection" data-flag="@X" onclick="openSidebar('24_Sanctum of Protection',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\56_Time Typhoon.png" id="56_Time Typhoon" data-flag="@X" onclick="openSidebar('56_Time Typhoon',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\80_Skull Clamper Parasite.png" id="80_Skull Clamper Parasite" data-flag="@X" onclick="openSidebar('80_Skull Clamper Parasite',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\112_Wall of Fury.png" id="112_Wall of Fury" data-flag="@X" onclick="openSidebar('112_Wall of Fury',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\145_Woodwraith Behemoth.png" id="145_Woodwraith Behemoth" data-flag="@X" onclick="openSidebar('145_Woodwraith Behemoth',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\6_Bounty Claimer.png" id="6_Bounty Claimer" data-flag="@X" onclick="openSidebar('6_Bounty Claimer',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\30_Absorbed Attendant.png" id="30_Absorbed Attendant" data-flag="@X" onclick="openSidebar('30_Absorbed Attendant',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\60_Corpse Jeweler.png" id="60_Corpse Jeweler" data-flag="@X" onclick="openSidebar('60_Corpse Jeweler',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\88_All Consuming Rage.png" id="88_All Consuming Rage" data-flag="@X" onclick="openSidebar('88_All Consuming Rage',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\120_Breeding Plant Supervisor.png" id="120_Breeding Plant Supervisor" data-flag="@X" onclick="openSidebar('120_Breeding Plant Supervisor',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\7_Eidolon's Flight.png" id="7_Eidolons Flight" data-flag="@X" onclick="openSidebar('7_Eidolons Flight',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\31_Aethermage's Contempt.png" id="31_Aethermages Contempt" data-flag="@X" onclick="openSidebar('31_Aethermages Contempt',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\63_Deadly Spore Storm.png" id="63_Deadly Spore Storm" data-flag="@X" onclick="openSidebar('63_Deadly Spore Storm',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\95_Eidolon's Impetus.png" id="95_Eidolons Impetus" data-flag="@X" onclick="openSidebar('95_Eidolons Impetus',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\122_Cytoplasmic Membrane.png" id="122_Cytoplasmic Membrane" data-flag="@X" onclick="openSidebar('122_Cytoplasmic Membrane',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\8_Express Mandate.png" id="8_Express Mandate" data-flag="@X" onclick="openSidebar('8_Express Mandate',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\36_Cocky Fluxmage.png" id="36_Cocky Fluxmage" data-flag="@X" onclick="openSidebar('36_Cocky Fluxmage',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\65_Deceitful Guide.png" id="65_Deceitful Guide" data-flag="@X" onclick="openSidebar('65_Deceitful Guide',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\96_Fearless Freemage.png" id="96_Fearless Freemage" data-flag="@X" onclick="openSidebar('96_Fearless Freemage',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\123_Dauntless Protector.png" id="123_Dauntless Protector" data-flag="@X" onclick="openSidebar('123_Dauntless Protector',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\9_Featherscale Drake.png" id="9_Featherscale Drake" data-flag="@X" onclick="openSidebar('9_Featherscale Drake',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\38_Eidolon's Vision.png" id="38_Eidolons Vision" data-flag="@X" onclick="openSidebar('38_Eidolons Vision',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\67_Eaten From Within.png" id="67_Eaten From Within" data-flag="@X" onclick="openSidebar('67_Eaten From Within',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\97_Fiery Comeuppance.png" id="97_Fiery Comeuppance" data-flag="@X" onclick="openSidebar('97_Fiery Comeuppance',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\124_Deathbloom Mandrake.png" id="124_Deathbloom Mandrake" data-flag="@X" onclick="openSidebar('124_Deathbloom Mandrake',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\14_Loyal Warhound.png" id="14_Loyal Warhound" data-flag="@X" onclick="openSidebar('14_Loyal Warhound',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\39_Elusive Biomage.png" id="39_Elusive Biomage" data-flag="@X" onclick="openSidebar('39_Elusive Biomage',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\68_Eidolon's Infestation.png" id="68_Eidolons Infestation" data-flag="@X" onclick="openSidebar('68_Eidolons Infestation',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\101_Giant Roustabout.png" id="101_Giant Roustabout" data-flag="@X" onclick="openSidebar('101_Giant Roustabout',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\125_Eidolon's Genesis.png" id="125_Eidolons Genesis" data-flag="@X" onclick="openSidebar('125_Eidolons Genesis',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\17_Outmatch.png" id="17_Outmatch" data-flag="@X" onclick="openSidebar('17_Outmatch',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\40_Enfeebling Shackles.png" id="40_Enfeebling Shackles" data-flag="@X" onclick="openSidebar('40_Enfeebling Shackles',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\78_Shackled Blooddrake.png" id="78_Shackled Blooddrake" data-flag="@X" onclick="openSidebar('78_Shackled Blooddrake',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\102_Goldscale Whelp.png" id="102_Goldscale Whelp" data-flag="@X" onclick="openSidebar('102_Goldscale Whelp',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\129_Hound Krasis.png" id="129_Hound Krasis" data-flag="@X" onclick="openSidebar('129_Hound Krasis',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\20_Proscribe.png" id="20_Proscribe" data-flag="@X" onclick="openSidebar('20_Proscribe',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\48_Lawmage Familliar.png" id="48_Lawmage Familliar" data-flag="@X" onclick="openSidebar('48_Lawmage Familliar',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\81_Smog Predator.png" id="81_Smog Predator" data-flag="@X" onclick="openSidebar('81_Smog Predator',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\104_Krenko's Ransack.png" id="104_Krenkos Ransack" data-flag="@X" onclick="openSidebar('104_Krenkos Ransack',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\136_Ravenous Sewerscraper.png" id="136_Ravenous Sewerscraper" data-flag="@X" onclick="openSidebar('136_Ravenous Sewerscraper',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\28_Valiant District Protector.png" id="28_Valiant District Protector" data-flag="@X" onclick="openSidebar('28_Valiant District Protector',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\52_Reconsider.png" id="52_Reconsider" data-flag="@X" onclick="openSidebar('52_Reconsider',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\84_Swarm Evangel.png" id="84_Swarm Evangel" data-flag="@X" onclick="openSidebar('84_Swarm Evangel',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\113_Welcoming Ringleader.png" id="113_Welcoming Ringleader" data-flag="@X" onclick="openSidebar('113_Welcoming Ringleader',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\137_Recovering Wilds.png" id="137_Recovering Wilds" data-flag="@X" onclick="openSidebar('137_Recovering Wilds',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\29_Zealous Arrester.png" id="29_Zealous Arrester" data-flag="@X" onclick="openSidebar('29_Zealous Arrester',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\57_Untwine.png" id="57_Untwine" data-flag="@X" onclick="openSidebar('57_Untwine',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\87_Vengeful Hands.png" id="87_Vengeful Hands" data-flag="@X" onclick="openSidebar('87_Vengeful Hands',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\116_Wojek Recruitee.png" id="116_Wojek Recruitee" data-flag="@X" onclick="openSidebar('116_Wojek Recruitee',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\140_Rotten Banquet.png" id="140_Rotten Banquet" data-flag="@X" onclick="openSidebar('140_Rotten Banquet',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\1_Angelic Rebuke.png" id="1_Angelic Rebuke" data-flag="@X" onclick="openSidebar('1_Angelic Rebuke',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\32_Apprehend the Guilty.png" id="32_Apprehend the Guilty" data-flag="@X" onclick="openSidebar('32_Apprehend the Guilty',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\59_Carnarium Acrobat.png" id="59_Carnarium Acrobat" data-flag="@X" onclick="openSidebar('59_Carnarium Acrobat',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\89_Backstage Preparations.png" id="89_Backstage Preparations" data-flag="@X" onclick="openSidebar('89_Backstage Preparations',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\117_Accelerated Growth.png" id="117_Accelerated Growth" data-flag="@X" onclick="openSidebar('117_Accelerated Growth',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\4_Azorius Lawmage.png" id="4_Azorius Lawmage" data-flag="@X" onclick="openSidebar('4_Azorius Lawmage',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\33_Benthic Protector.png" id="33_Benthic Protector" data-flag="@X" onclick="openSidebar('33_Benthic Protector',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\61_Cull.png" id="61_Cull" data-flag="@X" onclick="openSidebar('61_Cull',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\90_Boros Phalanx.png" id="90_Boros Phalanx" data-flag="@X" onclick="openSidebar('90_Boros Phalanx',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\118_Anglershark Krasis.png" id="118_Anglershark Krasis" data-flag="@X" onclick="openSidebar('118_Anglershark Krasis',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\5_Boros Standard Bearer.png" id="5_Boros Standard Bearer" data-flag="@X" onclick="openSidebar('5_Boros Standard Bearer',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\34_Chains of Submission.png" id="34_Chains of Submission" data-flag="@X" onclick="openSidebar('34_Chains of Submission',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\69_First District Paragon.png" id="69_First District Paragon" data-flag="@X" onclick="openSidebar('69_First District Paragon',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\93_Circle Headliner.png" id="93_Circle Headliner" data-flag="@X" onclick="openSidebar('93_Circle Headliner',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\121_Cytoplasm Carrier.png" id="121_Cytoplasm Carrier" data-flag="@X" onclick="openSidebar('121_Cytoplasm Carrier',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\10_Firemane Protector.png" id="10_Firemane Protector" data-flag="@X" onclick="openSidebar('10_Firemane Protector',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\35_Cleanse.png" id="35_Cleanse" data-flag="@X" onclick="openSidebar('35_Cleanse',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\70_Fungal Pest.png" id="70_Fungal Pest" data-flag="@X" onclick="openSidebar('70_Fungal Pest',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\94_Collateral.png" id="94_Collateral" data-flag="@X" onclick="openSidebar('94_Collateral',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\126_Feral Experiment.png" id="126_Feral Experiment" data-flag="@X" onclick="openSidebar('126_Feral Experiment',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\11_Gate Physician.png" id="11_Gate Physician" data-flag="@X" onclick="openSidebar('11_Gate Physician',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\37_Detain Wisdom.png" id="37_Detain Wisdom" data-flag="@X" onclick="openSidebar('37_Detain Wisdom',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\73_Incite Delirium.png" id="73_Incite Delirium" data-flag="@X" onclick="openSidebar('73_Incite Delirium',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\100_Furious Upheaval.png" id="100_Furious Upheaval" data-flag="@X" onclick="openSidebar('100_Furious Upheaval',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\127_Gate Bulwark.png" id="127_Gate Bulwark" data-flag="@X" onclick="openSidebar('127_Gate Bulwark',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\12_Guildpact Faithful.png" id="12_Guildpact Faithful" data-flag="@X" onclick="openSidebar('12_Guildpact Faithful',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\41_Enlighted Freemage.png" id="41_Enlighted Freemage" data-flag="@X" onclick="openSidebar('41_Enlighted Freemage',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\74_Jagged Edges.png" id="74_Jagged Edges" data-flag="@X" onclick="openSidebar('74_Jagged Edges',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\103_Just Strike.png" id="103_Just Strike" data-flag="@X" onclick="openSidebar('103_Just Strike',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\128_Golgari Rotseer.png" id="128_Golgari Rotseer" data-flag="@X" onclick="openSidebar('128_Golgari Rotseer',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\15_Magistrate's Pet.png" id="15_Magistrates Pet" data-flag="@X" onclick="openSidebar('15_Magistrates Pet',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\43_Fin Clade Guardian.png" id="43_Fin Clade Guardian" data-flag="@X" onclick="openSidebar('43_Fin Clade Guardian',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\75_Jubilent Sewer Cook.png" id="75_Jubilent Sewer Cook" data-flag="@X" onclick="openSidebar('75_Jubilent Sewer Cook',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\105_Obliterating Strike.png" id="105_Obliterating Strike" data-flag="@X" onclick="openSidebar('105_Obliterating Strike',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\131_Infested Maneater.png" id="131_Infested Maneater" data-flag="@X" onclick="openSidebar('131_Infested Maneater',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\18_Preemptive Measures.png" id="18_Preemptive Measures" data-flag="@X" onclick="openSidebar('18_Preemptive Measures',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\45_Gate Infiltrator.png" id="45_Gate Infiltrator" data-flag="@X" onclick="openSidebar('45_Gate Infiltrator',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\76_Reap.png" id="76_Reap" data-flag="@X" onclick="openSidebar('76_Reap',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\107_Rakdos Trailblazer.png" id="107_Rakdos Trailblazer" data-flag="@X" onclick="openSidebar('107_Rakdos Trailblazer',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\133_Ochran's Solution.png" id="133_Ochrans Solution" data-flag="@X" onclick="openSidebar('133_Ochrans Solution',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\19_Press the Advantage.png" id="19_Press the Advantage" data-flag="@X" onclick="openSidebar('19_Press the Advantage',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\46_Inquire.png" id="46_Inquire" data-flag="@X" onclick="openSidebar('46_Inquire',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\77_Rotquake.png" id="77_Rotquake" data-flag="@X" onclick="openSidebar('77_Rotquake',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\108_Second District Keeper.png" id="108_Second District Keeper" data-flag="@X" onclick="openSidebar('108_Second District Keeper',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\138_Redo.png" id="138_Redo" data-flag="@X" onclick="openSidebar('138_Redo',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\21_Protect the Precinct.png" id="21_Protect the Precinct" data-flag="@X" onclick="openSidebar('21_Protect the Precinct',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\49_Lyev Skywatch.png" id="49_Lyev Skywatch" data-flag="@X" onclick="openSidebar('49_Lyev Skywatch',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\79_The Show Never Ends.png" id="79_The Show Never Ends" data-flag="@X" onclick="openSidebar('79_The Show Never Ends',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\109_Sting Elemental.png" id="109_Sting Elemental" data-flag="@X" onclick="openSidebar('109_Sting Elemental',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\139_Return to the Cycle.png" id="139_Return to the Cycle" data-flag="@X" onclick="openSidebar('139_Return to the Cycle',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\22_Ready the Arresters.png" id="22_Ready the Arresters" data-flag="@X" onclick="openSidebar('22_Ready the Arresters',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\51_Raskal Parfumist.png" id="51_Raskal Parfumist" data-flag="@X" onclick="openSidebar('51_Raskal Parfumist',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\82_Stage Cleaner.png" id="82_Stage Cleaner" data-flag="@X" onclick="openSidebar('82_Stage Cleaner',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\110_Subjugate.png" id="110_Subjugate" data-flag="@X" onclick="openSidebar('110_Subjugate',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\141_Swarm's Voracity.png" id="141_Swarms Voracity" data-flag="@X" onclick="openSidebar('141_Swarms Voracity',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\25_Shield of Compassion.png" id="25_Shield of Compassion" data-flag="@X" onclick="openSidebar('25_Shield of Compassion',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\53_Reprocess Essence.png" id="53_Reprocess Essence" data-flag="@X" onclick="openSidebar('53_Reprocess Essence',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\83_Swarm Broodmother.png" id="83_Swarm Broodmother" data-flag="@X" onclick="openSidebar('83_Swarm Broodmother',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\111_Sunblade Captain.png" id="111_Sunblade Captain" data-flag="@X" onclick="openSidebar('111_Sunblade Captain',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\142_Uncontained Hulk.png" id="142_Uncontained Hulk" data-flag="@X" onclick="openSidebar('142_Uncontained Hulk',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\26_Sova Keymaster.png" id="26_Sova Keymaster" data-flag="@X" onclick="openSidebar('26_Sova Keymaster',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\54_Spliced Guardian.png" id="54_Spliced Guardian" data-flag="@X" onclick="openSidebar('54_Spliced Guardian',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\85_Undercity Cleaner.png" id="85_Undercity Cleaner" data-flag="@X" onclick="openSidebar('85_Undercity Cleaner',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\114_Wheel of Agony.png" id="114_Wheel of Agony" data-flag="@X" onclick="openSidebar('114_Wheel of Agony',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\143_Undercity Ravager.png" id="143_Undercity Ravager" data-flag="@X" onclick="openSidebar('143_Undercity Ravager',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\27_Spiretop Courier.png" id="27_Spiretop Courier" data-flag="@X" onclick="openSidebar('27_Spiretop Courier',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\58_Void Wave.png" id="58_Void Wave" data-flag="@X" onclick="openSidebar('58_Void Wave',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\86_Unleashed Ragemutt.png" id="86_Unleashed Ragemutt" data-flag="@X" onclick="openSidebar('86_Unleashed Ragemutt',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\115_Wojek Avenger.png" id="115_Wojek Avenger" data-flag="@X" onclick="openSidebar('115_Wojek Avenger',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\144_Underdeep Kraul.png" id="144_Underdeep Kraul" data-flag="@X" onclick="openSidebar('144_Underdeep Kraul',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\RAW-files\img\24_Righteous Uprising.png" id="RAW_24_Righteous Uprising" data-flag="@X" onclick="openSidebar('RAW_24_Righteous Uprising',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\44_Fluxfeather Eagle.png" id="RAW_44_Fluxfeather Eagle" data-flag="@X" onclick="openSidebar('RAW_44_Fluxfeather Eagle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\64_Deathgorger.png" id="RAW_64_Deathgorger" data-flag="@X" onclick="openSidebar('RAW_64_Deathgorger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\90_Bewitching Lead.png" id="RAW_90_Bewitching Lead" data-flag="@X" onclick="openSidebar('RAW_90_Bewitching Lead',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\119_Aspect of Rebirth.png" id="RAW_119_Aspect of Rebirth" data-flag="@X" onclick="openSidebar('RAW_119_Aspect of Rebirth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\2_Aurelia's Judgment.png" id="RAW_2_Aurelias Judgment" data-flag="@X" onclick="openSidebar('RAW_2_Aurelias Judgment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\42_Experiment Twenty-Six.png" id="RAW_42_Experiment Twenty-Six" data-flag="@X" onclick="openSidebar('RAW_42_Experiment Twenty-Six',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\72_Gorespawn Demon.png" id="RAW_72_Gorespawn Demon" data-flag="@X" onclick="openSidebar('RAW_72_Gorespawn Demon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\99_Flame-kin Commander.png" id="RAW_99_Flame-kin Commander" data-flag="@X" onclick="openSidebar('RAW_99_Flame-kin Commander',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\130_Hull Clade Guardian.png" id="RAW_130_Hull Clade Guardian" data-flag="@X" onclick="openSidebar('RAW_130_Hull Clade Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\3_Azorius Lawbringer.png" id="RAW_3_Azorius Lawbringer" data-flag="@X" onclick="openSidebar('RAW_3_Azorius Lawbringer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\47_Jelenn Grand Elocutor.png" id="RAW_47_Jelenn Grand Elocutor" data-flag="@X" onclick="openSidebar('RAW_47_Jelenn Grand Elocutor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\73_Gruesome Spectacle.png" id="RAW_73_Gruesome Spectacle" data-flag="@X" onclick="openSidebar('RAW_73_Gruesome Spectacle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\106_Rakdos Excrutiator.png" id="RAW_106_Rakdos Excrutiator" data-flag="@X" onclick="openSidebar('RAW_106_Rakdos Excrutiator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\132_Insatiable Troll.png" id="RAW_132_Insatiable Troll" data-flag="@X" onclick="openSidebar('RAW_132_Insatiable Troll',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\14_In Formation!.png" id="RAW_14_In Formation!" data-flag="@X" onclick="openSidebar('RAW_14_In Formation!',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\50_Precognition Serum.png" id="RAW_50_Precognition Serum" data-flag="@X" onclick="openSidebar('RAW_50_Precognition Serum',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\81_Skull Clamper Parasite.png" id="RAW_81_Skull Clamper Parasite" data-flag="@X" onclick="openSidebar('RAW_81_Skull Clamper Parasite',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\112_Wall of Fury.png" id="RAW_112_Wall of Fury" data-flag="@X" onclick="openSidebar('RAW_112_Wall of Fury',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\134_Ooze Hydra.png" id="RAW_134_Ooze Hydra" data-flag="@X" onclick="openSidebar('RAW_134_Ooze Hydra',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\17_Mourning Legionnaire.png" id="RAW_17_Mourning Legionnaire" data-flag="@X" onclick="openSidebar('RAW_17_Mourning Legionnaire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\55_Synapse Linker.png" id="RAW_55_Synapse Linker" data-flag="@X" onclick="openSidebar('RAW_55_Synapse Linker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\63_Deadly Spore Storm.png" id="RAW_63_Deadly Spore Storm" data-flag="@X" onclick="openSidebar('RAW_63_Deadly Spore Storm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\88_All Consuming Rage.png" id="RAW_88_All Consuming Rage" data-flag="@X" onclick="openSidebar('RAW_88_All Consuming Rage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\135_Perfected Rebirth.png" id="RAW_135_Perfected Rebirth" data-flag="@X" onclick="openSidebar('RAW_135_Perfected Rebirth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\25_Sanctum of Protection.png" id="RAW_25_Sanctum of Protection" data-flag="@X" onclick="openSidebar('RAW_25_Sanctum of Protection',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\56_Time Typhoon.png" id="RAW_56_Time Typhoon" data-flag="@X" onclick="openSidebar('RAW_56_Time Typhoon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\65_Deceitful Guide.png" id="RAW_65_Deceitful Guide" data-flag="@X" onclick="openSidebar('RAW_65_Deceitful Guide',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\96_Fearless Freemage.png" id="RAW_96_Fearless Freemage" data-flag="@X" onclick="openSidebar('RAW_96_Fearless Freemage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\120_Breeding Plant Supervisor.png" id="RAW_120_Breeding Plant Supervisor" data-flag="@X" onclick="openSidebar('RAW_120_Breeding Plant Supervisor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\6_Bounty Claimer.png" id="RAW_6_Bounty Claimer" data-flag="@X" onclick="openSidebar('RAW_6_Bounty Claimer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\30_Absorbed Attendant.png" id="RAW_30_Absorbed Attendant" data-flag="@X" onclick="openSidebar('RAW_30_Absorbed Attendant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\67_Eaten From Within.png" id="RAW_67_Eaten From Within" data-flag="@X" onclick="openSidebar('RAW_67_Eaten From Within',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\97_Fiery Comeuppance.png" id="RAW_97_Fiery Comeuppance" data-flag="@X" onclick="openSidebar('RAW_97_Fiery Comeuppance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\123_Cytoplasmic Membrane.png" id="RAW_123_Cytoplasmic Membrane" data-flag="@X" onclick="openSidebar('RAW_123_Cytoplasmic Membrane',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\8_Express Mandate.png" id="RAW_8_Express Mandate" data-flag="@X" onclick="openSidebar('RAW_8_Express Mandate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\31_Aethermage's Contempt.png" id="RAW_31_Aethermages Contempt" data-flag="@X" onclick="openSidebar('RAW_31_Aethermages Contempt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\79_Shackled Blooddrake.png" id="RAW_79_Shackled Blooddrake" data-flag="@X" onclick="openSidebar('RAW_79_Shackled Blooddrake',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\101_Giant Roustabout.png" id="RAW_101_Giant Roustabout" data-flag="@X" onclick="openSidebar('RAW_101_Giant Roustabout',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\124_Dauntless Protector.png" id="RAW_124_Dauntless Protector" data-flag="@X" onclick="openSidebar('RAW_124_Dauntless Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\9_Featherscale Drake.png" id="RAW_9_Featherscale Drake" data-flag="@X" onclick="openSidebar('RAW_9_Featherscale Drake',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\36_Cocky Fluxmage.png" id="RAW_36_Cocky Fluxmage" data-flag="@X" onclick="openSidebar('RAW_36_Cocky Fluxmage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\82_Smog Predator.png" id="RAW_82_Smog Predator" data-flag="@X" onclick="openSidebar('RAW_82_Smog Predator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\116_Wojek Recruitee.png" id="RAW_116_Wojek Recruitee" data-flag="@X" onclick="openSidebar('RAW_116_Wojek Recruitee',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\126_Eidolon's Genesis.png" id="RAW_126_Eidolons Genesis" data-flag="@X" onclick="openSidebar('RAW_126_Eidolons Genesis',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\15_Loyal Warhound.png" id="RAW_15_Loyal Warhound" data-flag="@X" onclick="openSidebar('RAW_15_Loyal Warhound',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\38_Eidolon's Vision.png" id="RAW_38_Eidolons Vision" data-flag="@X" onclick="openSidebar('RAW_38_Eidolons Vision',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\87_Vengeful Hands.png" id="RAW_87_Vengeful Hands" data-flag="@X" onclick="openSidebar('RAW_87_Vengeful Hands',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\91_Boros Phalanx.png" id="RAW_91_Boros Phalanx" data-flag="@X" onclick="openSidebar('RAW_91_Boros Phalanx',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\129_Hound Krasis.png" id="RAW_129_Hound Krasis" data-flag="@X" onclick="openSidebar('RAW_129_Hound Krasis',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\18_Outmatch.png" id="RAW_18_Outmatch" data-flag="@X" onclick="openSidebar('RAW_18_Outmatch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\39_Elusive Biomage.png" id="RAW_39_Elusive Biomage" data-flag="@X" onclick="openSidebar('RAW_39_Elusive Biomage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\59_Carnarium Acrobat.png" id="RAW_59_Carnarium Acrobat" data-flag="@X" onclick="openSidebar('RAW_59_Carnarium Acrobat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\94_Collateral.png" id="RAW_94_Collateral" data-flag="@X" onclick="openSidebar('RAW_94_Collateral',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\136_Ravenous Sewerscraper.png" id="RAW_136_Ravenous Sewerscraper" data-flag="@X" onclick="openSidebar('RAW_136_Ravenous Sewerscraper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\21_Proscribe.png" id="RAW_21_Proscribe" data-flag="@X" onclick="openSidebar('RAW_21_Proscribe',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\40_Enfeebling Shackles.png" id="RAW_40_Enfeebling Shackles" data-flag="@X" onclick="openSidebar('RAW_40_Enfeebling Shackles',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\61_Cull.png" id="RAW_61_Cull" data-flag="@X" onclick="openSidebar('RAW_61_Cull',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\100_Furious Upheaval.png" id="RAW_100_Furious Upheaval" data-flag="@X" onclick="openSidebar('RAW_100_Furious Upheaval',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\137_Recovering Wilds.png" id="RAW_137_Recovering Wilds" data-flag="@X" onclick="openSidebar('RAW_137_Recovering Wilds',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\28_Valiant District Protector.png" id="RAW_28_Valiant District Protector" data-flag="@X" onclick="openSidebar('RAW_28_Valiant District Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\48_Lawmage Familliar.png" id="RAW_48_Lawmage Familliar" data-flag="@X" onclick="openSidebar('RAW_48_Lawmage Familliar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\69_Enraged Hellhound.png" id="RAW_69_Enraged Hellhound" data-flag="@X" onclick="openSidebar('RAW_69_Enraged Hellhound',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\103_Just Strike.png" id="RAW_103_Just Strike" data-flag="@X" onclick="openSidebar('RAW_103_Just Strike',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\117_Accelerated Growth.png" id="RAW_117_Accelerated Growth" data-flag="@X" onclick="openSidebar('RAW_117_Accelerated Growth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\29_Zealous Arrester.png" id="RAW_29_Zealous Arrester" data-flag="@X" onclick="openSidebar('RAW_29_Zealous Arrester',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\52_Reconsider.png" id="RAW_52_Reconsider" data-flag="@X" onclick="openSidebar('RAW_52_Reconsider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\70_First District Paragon.png" id="RAW_70_First District Paragon" data-flag="@X" onclick="openSidebar('RAW_70_First District Paragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\105_Obliterating Strike.png" id="RAW_105_Obliterating Strike" data-flag="@X" onclick="openSidebar('RAW_105_Obliterating Strike',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\118_Anglershark Krasis.png" id="RAW_118_Anglershark Krasis" data-flag="@X" onclick="openSidebar('RAW_118_Anglershark Krasis',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\1_Angelic Rebuke.png" id="RAW_1_Angelic Rebuke" data-flag="@X" onclick="openSidebar('RAW_1_Angelic Rebuke',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\57_Untwine.png" id="RAW_57_Untwine" data-flag="@X" onclick="openSidebar('RAW_57_Untwine',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\71_Fungal Pest.png" id="RAW_71_Fungal Pest" data-flag="@X" onclick="openSidebar('RAW_71_Fungal Pest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\107_Rakdos Trailblazer.png" id="RAW_107_Rakdos Trailblazer" data-flag="@X" onclick="openSidebar('RAW_107_Rakdos Trailblazer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\121_Corrosive Experiment.png" id="RAW_121_Corrosive Experiment" data-flag="@X" onclick="openSidebar('RAW_121_Corrosive Experiment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\4_Azorius Lawmage.png" id="RAW_4_Azorius Lawmage" data-flag="@X" onclick="openSidebar('RAW_4_Azorius Lawmage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\32_Apprehend the Guilty.png" id="RAW_32_Apprehend the Guilty" data-flag="@X" onclick="openSidebar('RAW_32_Apprehend the Guilty',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\74_Incite Delirium.png" id="RAW_74_Incite Delirium" data-flag="@X" onclick="openSidebar('RAW_74_Incite Delirium',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\108_Second District Keeper.png" id="RAW_108_Second District Keeper" data-flag="@X" onclick="openSidebar('RAW_108_Second District Keeper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\122_Cytoplasm Carrier.png" id="RAW_122_Cytoplasm Carrier" data-flag="@X" onclick="openSidebar('RAW_122_Cytoplasm Carrier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\10_Fierce Champion.png" id="RAW_10_Fierce Champion" data-flag="@X" onclick="openSidebar('RAW_10_Fierce Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\33_Benthic Protector.png" id="RAW_33_Benthic Protector" data-flag="@X" onclick="openSidebar('RAW_33_Benthic Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\75_Jagged Edges.png" id="RAW_75_Jagged Edges" data-flag="@X" onclick="openSidebar('RAW_75_Jagged Edges',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\109_Sting Elemental.png" id="RAW_109_Sting Elemental" data-flag="@X" onclick="openSidebar('RAW_109_Sting Elemental',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\127_Gate Bulwark.png" id="RAW_127_Gate Bulwark" data-flag="@X" onclick="openSidebar('RAW_127_Gate Bulwark',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\11_Firemane Protector.png" id="RAW_11_Firemane Protector" data-flag="@X" onclick="openSidebar('RAW_11_Firemane Protector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\34_Chains of Submission.png" id="RAW_34_Chains of Submission" data-flag="@X" onclick="openSidebar('RAW_34_Chains of Submission',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\77_Reap.png" id="RAW_77_Reap" data-flag="@X" onclick="openSidebar('RAW_77_Reap',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\110_Subjugate.png" id="RAW_110_Subjugate" data-flag="@X" onclick="openSidebar('RAW_110_Subjugate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\128_Golgari Rotseer.png" id="RAW_128_Golgari Rotseer" data-flag="@X" onclick="openSidebar('RAW_128_Golgari Rotseer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\12_Gate Physician.png" id="RAW_12_Gate Physician" data-flag="@X" onclick="openSidebar('RAW_12_Gate Physician',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\35_Cleanse.png" id="RAW_35_Cleanse" data-flag="@X" onclick="openSidebar('RAW_35_Cleanse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\78_Rotquake.png" id="RAW_78_Rotquake" data-flag="@X" onclick="openSidebar('RAW_78_Rotquake',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\111_Sunblade Captain.png" id="RAW_111_Sunblade Captain" data-flag="@X" onclick="openSidebar('RAW_111_Sunblade Captain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\133_Ochran's Solution.png" id="RAW_133_Ochrans Solution" data-flag="@X" onclick="openSidebar('RAW_133_Ochrans Solution',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\13_Guildpact Faithful.png" id="RAW_13_Guildpact Faithful" data-flag="@X" onclick="openSidebar('RAW_13_Guildpact Faithful',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\37_Detain Wisdom.png" id="RAW_37_Detain Wisdom" data-flag="@X" onclick="openSidebar('RAW_37_Detain Wisdom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\83_Stage Cleaner.png" id="RAW_83_Stage Cleaner" data-flag="@X" onclick="openSidebar('RAW_83_Stage Cleaner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\114_Wheel of Agony.png" id="RAW_114_Wheel of Agony" data-flag="@X" onclick="openSidebar('RAW_114_Wheel of Agony',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\138_Redo.png" id="RAW_138_Redo" data-flag="@X" onclick="openSidebar('RAW_138_Redo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\16_Magistrate's Pet.png" id="RAW_16_Magistrates Pet" data-flag="@X" onclick="openSidebar('RAW_16_Magistrates Pet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\41_Enlighted Freemage.png" id="RAW_41_Enlighted Freemage" data-flag="@X" onclick="openSidebar('RAW_41_Enlighted Freemage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\86_Undercity Cleaner.png" id="RAW_86_Undercity Cleaner" data-flag="@X" onclick="openSidebar('RAW_86_Undercity Cleaner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\115_Wojek Avenger.png" id="RAW_115_Wojek Avenger" data-flag="@X" onclick="openSidebar('RAW_115_Wojek Avenger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\139_Return to the Cycle.png" id="RAW_139_Return to the Cycle" data-flag="@X" onclick="openSidebar('RAW_139_Return to the Cycle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\19_Preemptive Measures.png" id="RAW_19_Preemptive Measures" data-flag="@X" onclick="openSidebar('RAW_19_Preemptive Measures',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\43_Fin Clade Guardian.png" id="RAW_43_Fin Clade Guardian" data-flag="@X" onclick="openSidebar('RAW_43_Fin Clade Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\141_Swarm's Voracity.png" id="RAW_141_Swarms Voracity" data-flag="@X" onclick="openSidebar('RAW_141_Swarms Voracity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\20_Press the Advantage.png" id="RAW_20_Press the Advantage" data-flag="@X" onclick="openSidebar('RAW_20_Press the Advantage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\45_Gate Infiltrator.png" id="RAW_45_Gate Infiltrator" data-flag="@X" onclick="openSidebar('RAW_45_Gate Infiltrator',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\142_Uncontained Hulk.png" id="RAW_142_Uncontained Hulk" data-flag="@X" onclick="openSidebar('RAW_142_Uncontained Hulk',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\22_Protect the Precinct.png" id="RAW_22_Protect the Precinct" data-flag="@X" onclick="openSidebar('RAW_22_Protect the Precinct',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\46_Inquire.png" id="RAW_46_Inquire" data-flag="@X" onclick="openSidebar('RAW_46_Inquire',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\144_Underdeep Kraul.png" id="RAW_144_Underdeep Kraul" data-flag="@X" onclick="openSidebar('RAW_144_Underdeep Kraul',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\26_Shield of Compassion.png" id="RAW_26_Shield of Compassion" data-flag="@X" onclick="openSidebar('RAW_26_Shield of Compassion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\49_Lyev Skywatch.png" id="RAW_49_Lyev Skywatch" data-flag="@X" onclick="openSidebar('RAW_49_Lyev Skywatch',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\27_Spiretop Courier.png" id="RAW_27_Spiretop Courier" data-flag="@X" onclick="openSidebar('RAW_27_Spiretop Courier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\51_Raskal Parfumist.png" id="RAW_51_Raskal Parfumist" data-flag="@X" onclick="openSidebar('RAW_51_Raskal Parfumist',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\53_Reprocess Essence.png" id="RAW_53_Reprocess Essence" data-flag="@X" onclick="openSidebar('RAW_53_Reprocess Essence',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\54_Spliced Guardian.png" id="RAW_54_Spliced Guardian" data-flag="@X" onclick="openSidebar('RAW_54_Spliced Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\58_Void Wave.png" id="RAW_58_Void Wave" data-flag="@X" onclick="openSidebar('RAW_58_Void Wave',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\178_Judgment of Balance.png" id="178_Judgment of Balance" data-flag="@X" onclick="openSidebar('178_Judgment of Balance',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\161_Escaped Hellsteed.png" id="161_Escaped Hellsteed" data-flag="@X" onclick="openSidebar('161_Escaped Hellsteed',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\160_Erstwhile Awakener.png" id="160_Erstwhile Awakener" data-flag="@X" onclick="openSidebar('160_Erstwhile Awakener',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\196_Radiant Champion.png" id="196_Radiant Champion" data-flag="@X" onclick="openSidebar('196_Radiant Champion',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\198_Replicating Abomination.png" id="198_Replicating Abomination" data-flag="@X" onclick="openSidebar('198_Replicating Abomination',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\182_Lavinia, the Just.png" id="182_Lavinia, the Just" data-flag="@X" onclick="openSidebar('182_Lavinia, the Just',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\179_Judith, the Bloody Deluge.png" id="179_Judith, the Bloody Deluge" data-flag="@X" onclick="openSidebar('179_Judith, the Bloody Deluge',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\215_Zafen, Scheming Necromancer.png" id="215_Zafen, Scheming Necromancer" data-flag="@X" onclick="openSidebar('215_Zafen, Scheming Necromancer',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\211_Tajic, Boros Examplar.png" id="211_Tajic, Boros Examplar" data-flag="@X" onclick="openSidebar('211_Tajic, Boros Examplar',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\213_Vannifar, Voice of the Combine.png" id="213_Vannifar, Voice of the Combine" data-flag="@X" onclick="openSidebar('213_Vannifar, Voice of the Combine',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\216_Arbiter of Law.png" id="216_Arbiter of Law" data-flag="@X" onclick="openSidebar('216_Arbiter of Law',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\232_Rakdos Ragefest.png" id="232_Rakdos Ragefest" data-flag="@X" onclick="openSidebar('232_Rakdos Ragefest',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\234_Voracious Deathstinger.png" id="234_Voracious Deathstinger" data-flag="@X" onclick="openSidebar('234_Voracious Deathstinger',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\230_On Wings of Fury.png" id="230_On Wings of Fury" data-flag="@X" onclick="openSidebar('230_On Wings of Fury',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\220_Containment Breach.png" id="220_Containment Breach" data-flag="@X" onclick="openSidebar('220_Containment Breach',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\148_Azorius Purifier.png" id="148_Azorius Purifier" data-flag="@X" onclick="openSidebar('148_Azorius Purifier',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\155_The Curtain Falls.png" id="155_The Curtain Falls" data-flag="@X" onclick="openSidebar('155_The Curtain Falls',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\147_Amalgamate.png" id="147_Amalgamate" data-flag="@X" onclick="openSidebar('147_Amalgamate',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\174_Incandescent Blessing.png" id="174_Incandescent Blessing" data-flag="@X" onclick="openSidebar('174_Incandescent Blessing',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\171_Gulistan, Master Biomancer.png" id="171_Gulistan, Master Biomancer" data-flag="@X" onclick="openSidebar('171_Gulistan, Master Biomancer',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\149_Binding Decree.png" id="149_Binding Decree" data-flag="@X" onclick="openSidebar('149_Binding Decree',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\170_Gleeful Skinner.png" id="170_Gleeful Skinner" data-flag="@X" onclick="openSidebar('170_Gleeful Skinner',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\163_Festering Mass.png" id="163_Festering Mass" data-flag="@X" onclick="openSidebar('163_Festering Mass',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\187_Mileva of the Tenth.png" id="187_Mileva of the Tenth" data-flag="@X" onclick="openSidebar('187_Mileva of the Tenth',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\186_Metamorphosed Adapter.png" id="186_Metamorphosed Adapter" data-flag="@X" onclick="openSidebar('186_Metamorphosed Adapter',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\159_Durand, High Justicar.png" id="159_Durand, High Justicar" data-flag="@X" onclick="openSidebar('159_Durand, High Justicar',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\180_Juri, Charismatic Performer.png" id="180_Juri, Charismatic Performer" data-flag="@X" onclick="openSidebar('180_Juri, Charismatic Performer',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\181_Lamiel, Deathsprout Cultivator.png" id="181_Lamiel, Deathsprout Cultivator" data-flag="@X" onclick="openSidebar('181_Lamiel, Deathsprout Cultivator',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\190_Ordruun Marshall.png" id="190_Ordruun Marshall" data-flag="@X" onclick="openSidebar('190_Ordruun Marshall',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\205_Skybreaker Biotitan.png" id="205_Skybreaker Biotitan" data-flag="@X" onclick="openSidebar('205_Skybreaker Biotitan',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\169_Futur Seer.png" id="169_Futur Seer" data-flag="@X" onclick="openSidebar('169_Futur Seer',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\201_Rix Maadi Abomination.png" id="201_Rix Maadi Abomination" data-flag="@X" onclick="openSidebar('201_Rix Maadi Abomination',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\195_Putrefied Tutor.png" id="195_Putrefied Tutor" data-flag="@X" onclick="openSidebar('195_Putrefied Tutor',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\197_Recruitment Campaign.png" id="197_Recruitment Campaign" data-flag="@X" onclick="openSidebar('197_Recruitment Campaign',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\212_Transfigure.png" id="212_Transfigure" data-flag="@X" onclick="openSidebar('212_Transfigure',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\217_Arrester Captain.png" id="217_Arrester Captain" data-flag="@X" onclick="openSidebar('217_Arrester Captain',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\228_Mindflare.png" id="228_Mindflare" data-flag="@X" onclick="openSidebar('228_Mindflare',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\221_Corpse-Pit Goliath.png" id="221_Corpse-Pit Goliath" data-flag="@X" onclick="openSidebar('221_Corpse-Pit Goliath',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\224_Firemane's Flamberge.png" id="224_Firemanes Flamberge" data-flag="@X" onclick="openSidebar('224_Firemanes Flamberge',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\226_Force Shaping.png" id="226_Force Shaping" data-flag="@X" onclick="openSidebar('226_Force Shaping',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\241_Pursuit.png" id="241_Pursuit" data-flag="@X" onclick="openSidebar('241_Pursuit',true)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\244_Unleash.png" id="244_Unleash" data-flag="@X" onclick="openSidebar('244_Unleash',true)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\242_Remains.png" id="242_Remains" data-flag="@X" onclick="openSidebar('242_Remains',true)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\245_Volley.png" id="245_Volley" data-flag="@X" onclick="openSidebar('245_Volley',true)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\243_Transform.png" id="243_Transform" data-flag="@X" onclick="openSidebar('243_Transform',true)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\156_Decipher the Chronology.png" id="156_Decipher the Chronology" data-flag="@X" onclick="openSidebar('156_Decipher the Chronology',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\152_Coerced Participation.png" id="152_Coerced Participation" data-flag="@X" onclick="openSidebar('152_Coerced Participation',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\162_Fester.png" id="162_Fester" data-flag="@X" onclick="openSidebar('162_Fester',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\150_Boros Rallier.png" id="150_Boros Rallier" data-flag="@X" onclick="openSidebar('150_Boros Rallier',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\151_Cerebral Plating.png" id="151_Cerebral Plating" data-flag="@X" onclick="openSidebar('151_Cerebral Plating',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\175_Incarcerate.png" id="175_Incarcerate" data-flag="@X" onclick="openSidebar('175_Incarcerate',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\153_Critics Hunter.png" id="153_Critics Hunter" data-flag="@X" onclick="openSidebar('153_Critics Hunter',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\167_Forsaken Loxodon.png" id="167_Forsaken Loxodon" data-flag="@X" onclick="openSidebar('167_Forsaken Loxodon',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\158_Diana, Passer of Judgment.png" id="158_Diana, Passer of Judgment" data-flag="@X" onclick="openSidebar('158_Diana, Passer of Judgment',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\154_Crypsis Clade Agent.png" id="154_Crypsis Clade Agent" data-flag="@X" onclick="openSidebar('154_Crypsis Clade Agent',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\176_Inquisitive Guardmage.png" id="176_Inquisitive Guardmage" data-flag="@X" onclick="openSidebar('176_Inquisitive Guardmage',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\157_Devastation in the Streets.png" id="157_Devastation in the Streets" data-flag="@X" onclick="openSidebar('157_Devastation in the Streets',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\168_Fungus Nursery.png" id="168_Fungus Nursery" data-flag="@X" onclick="openSidebar('168_Fungus Nursery',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\199_Righteous Smite.png" id="199_Righteous Smite" data-flag="@X" onclick="openSidebar('199_Righteous Smite',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\189_Ooze Bioprocessor.png" id="189_Ooze Bioprocessor" data-flag="@X" onclick="openSidebar('189_Ooze Bioprocessor',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\188_Octave, Deputy of Discipline.png" id="188_Octave, Deputy of Discipline" data-flag="@X" onclick="openSidebar('188_Octave, Deputy of Discipline',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\164_Fired-Up Jester.png" id="164_Fired-Up Jester" data-flag="@X" onclick="openSidebar('164_Fired-Up Jester',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\172_Gutbloom Host.png" id="172_Gutbloom Host" data-flag="@X" onclick="openSidebar('172_Gutbloom Host',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\206_Skyrender Knight.png" id="206_Skyrender Knight" data-flag="@X" onclick="openSidebar('206_Skyrender Knight',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\193_Praj, Momir Vig's Legacy.png" id="193_Praj, Momir Vigs Legacy" data-flag="@X" onclick="openSidebar('193_Praj, Momir Vigs Legacy',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\204_Seal of Censure.png" id="204_Seal of Censure" data-flag="@X" onclick="openSidebar('204_Seal of Censure',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\214_Xaren, Rakdos Uncager.png" id="214_Xaren, Rakdos Uncager" data-flag="@X" onclick="openSidebar('214_Xaren, Rakdos Uncager',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\183_Lothran, the Glouton.png" id="183_Lothran, the Glouton" data-flag="@X" onclick="openSidebar('183_Lothran, the Glouton',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\207_Spark Legion.png" id="207_Spark Legion" data-flag="@X" onclick="openSidebar('207_Spark Legion',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\194_Psychogenetic Tap.png" id="194_Psychogenetic Tap" data-flag="@X" onclick="openSidebar('194_Psychogenetic Tap',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\231_Order Guildmage.png" id="231_Order Guildmage" data-flag="@X" onclick="openSidebar('231_Order Guildmage',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\219_Chaos Guildmage.png" id="219_Chaos Guildmage" data-flag="@X" onclick="openSidebar('219_Chaos Guildmage',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\222_Decay Guildmage.png" id="222_Decay Guildmage" data-flag="@X" onclick="openSidebar('222_Decay Guildmage',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\235_War Guildmage.png" id="235_War Guildmage" data-flag="@X" onclick="openSidebar('235_War Guildmage',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\223_Evolution Guildmage.png" id="223_Evolution Guildmage" data-flag="@X" onclick="openSidebar('223_Evolution Guildmage',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\238_Denied.png" id="238_Denied" data-flag="@X" onclick="openSidebar('238_Denied',true)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\236_Ball.png" id="236_Ball" data-flag="@X" onclick="openSidebar('236_Ball',true)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\237_Bitter.png" id="237_Bitter" data-flag="@X" onclick="openSidebar('237_Bitter',true)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\240_Loud.png" id="240_Loud" data-flag="@X" onclick="openSidebar('240_Loud',true)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\239_Live.png" id="239_Live" data-flag="@X" onclick="openSidebar('239_Live',true)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\191_Peruse the Law.png" id="191_Peruse the Law" data-flag="@X" onclick="openSidebar('191_Peruse the Law',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\173_Havoc Bringer.png" id="173_Havoc Bringer" data-flag="@X" onclick="openSidebar('173_Havoc Bringer',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\177_Inspect the Remains.png" id="177_Inspect the Remains" data-flag="@X" onclick="openSidebar('177_Inspect the Remains',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\165_Firefist's Indignation.png" id="165_Firefists Indignation" data-flag="@X" onclick="openSidebar('165_Firefists Indignation',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\146_Adaptive Surge.png" id="146_Adaptive Surge" data-flag="@X" onclick="openSidebar('146_Adaptive Surge',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\202_Safeguard.png" id="202_Safeguard" data-flag="@X" onclick="openSidebar('202_Safeguard',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\184_Macabre Spectacle.png" id="184_Macabre Spectacle" data-flag="@X" onclick="openSidebar('184_Macabre Spectacle',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\185_Mangled Rootgiant.png" id="185_Mangled Rootgiant" data-flag="@X" onclick="openSidebar('185_Mangled Rootgiant',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\166_Firemane Executioner.png" id="166_Firemane Executioner" data-flag="@X" onclick="openSidebar('166_Firemane Executioner',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\192_Plaxplated Biotitan.png" id="192_Plaxplated Biotitan" data-flag="@X" onclick="openSidebar('192_Plaxplated Biotitan',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\208_Sphinx Lawbinder.png" id="208_Sphinx Lawbinder" data-flag="@X" onclick="openSidebar('208_Sphinx Lawbinder',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\200_Ring Fire Maniac.png" id="200_Ring Fire Maniac" data-flag="@X" onclick="openSidebar('200_Ring Fire Maniac',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\210_Surging Horror.png" id="210_Surging Horror" data-flag="@X" onclick="openSidebar('210_Surging Horror',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\209_Sunhome Defender.png" id="209_Sunhome Defender" data-flag="@X" onclick="openSidebar('209_Sunhome Defender',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\203_Scaly Hummerbrood.png" id="203_Scaly Hummerbrood" data-flag="@X" onclick="openSidebar('203_Scaly Hummerbrood',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\218_Brightsteel Interceptor.png" id="218_Brightsteel Interceptor" data-flag="@X" onclick="openSidebar('218_Brightsteel Interceptor',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\233_Splatterhouse Ravager.png" id="233_Splatterhouse Ravager" data-flag="@X" onclick="openSidebar('233_Splatterhouse Ravager',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\229_Ochran Stalker.png" id="229_Ochran Stalker" data-flag="@X" onclick="openSidebar('229_Ochran Stalker',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\225_Flame-kin Summoner.png" id="225_Flame-kin Summoner" data-flag="@X" onclick="openSidebar('225_Flame-kin Summoner',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\227_Gyre Clade Guardian.png" id="227_Gyre Clade Guardian" data-flag="@X" onclick="openSidebar('227_Gyre Clade Guardian',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\178_Judgment of Balance.png" id="RAW_178_Judgment of Balance" data-flag="@X" onclick="openSidebar('RAW_178_Judgment of Balance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\161_Escaped Hellsteed.png" id="RAW_161_Escaped Hellsteed" data-flag="@X" onclick="openSidebar('RAW_161_Escaped Hellsteed',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\160_Erstwhile Awakener.png" id="RAW_160_Erstwhile Awakener" data-flag="@X" onclick="openSidebar('RAW_160_Erstwhile Awakener',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\196_Radiant Champion.png" id="RAW_196_Radiant Champion" data-flag="@X" onclick="openSidebar('RAW_196_Radiant Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\198_Replicating Abomination.png" id="RAW_198_Replicating Abomination" data-flag="@X" onclick="openSidebar('RAW_198_Replicating Abomination',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\182_Lavinia, the Just.png" id="RAW_182_Lavinia, the Just" data-flag="@X" onclick="openSidebar('RAW_182_Lavinia, the Just',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\179_Judith, the Bloody Deluge.png" id="RAW_179_Judith, the Bloody Deluge" data-flag="@X" onclick="openSidebar('RAW_179_Judith, the Bloody Deluge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\147_Amalgamate.png" id="RAW_147_Amalgamate" data-flag="@X" onclick="openSidebar('RAW_147_Amalgamate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\174_Incandescent Blessing.png" id="RAW_174_Incandescent Blessing" data-flag="@X" onclick="openSidebar('RAW_174_Incandescent Blessing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\220_Containment Breach.png" id="RAW_220_Containment Breach" data-flag="@X" onclick="openSidebar('RAW_220_Containment Breach',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\216_Arbiter of Law.png" id="RAW_216_Arbiter of Law" data-flag="@X" onclick="openSidebar('RAW_216_Arbiter of Law',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\232_Rakdos Ragefest.png" id="RAW_232_Rakdos Ragefest" data-flag="@X" onclick="openSidebar('RAW_232_Rakdos Ragefest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\195_Putrefied Tutor.png" id="RAW_195_Putrefied Tutor" data-flag="@X" onclick="openSidebar('RAW_195_Putrefied Tutor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\187_Mileva of the Tenth.png" id="RAW_187_Mileva of the Tenth" data-flag="@X" onclick="openSidebar('RAW_187_Mileva of the Tenth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\171_Gulistan, Master Biomancer.png" id="RAW_171_Gulistan, Master Biomancer" data-flag="@X" onclick="openSidebar('RAW_171_Gulistan, Master Biomancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\148_Azorius Purifier.png" id="RAW_148_Azorius Purifier" data-flag="@X" onclick="openSidebar('RAW_148_Azorius Purifier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\155_The Curtain Falls.png" id="RAW_155_The Curtain Falls" data-flag="@X" onclick="openSidebar('RAW_155_The Curtain Falls',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\162_Fester.png" id="RAW_162_Fester" data-flag="@X" onclick="openSidebar('RAW_162_Fester',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\197_Recruitment Campaign.png" id="RAW_197_Recruitment Campaign" data-flag="@X" onclick="openSidebar('RAW_197_Recruitment Campaign',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\186_Metamorphosed Adapter.png" id="RAW_186_Metamorphosed Adapter" data-flag="@X" onclick="openSidebar('RAW_186_Metamorphosed Adapter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\149_Binding Decree.png" id="RAW_149_Binding Decree" data-flag="@X" onclick="openSidebar('RAW_149_Binding Decree',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\170_Gleeful Skinner.png" id="RAW_170_Gleeful Skinner" data-flag="@X" onclick="openSidebar('RAW_170_Gleeful Skinner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\167_Forsaken Loxodon.png" id="RAW_167_Forsaken Loxodon" data-flag="@X" onclick="openSidebar('RAW_167_Forsaken Loxodon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\224_Firemane's Flamberge.png" id="RAW_224_Firemanes Flamberge" data-flag="@X" onclick="openSidebar('RAW_224_Firemanes Flamberge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\205_Skybreaker Biotitan.png" id="RAW_205_Skybreaker Biotitan" data-flag="@X" onclick="openSidebar('RAW_205_Skybreaker Biotitan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\159_Durand, High Justicar.png" id="RAW_159_Durand, High Justicar" data-flag="@X" onclick="openSidebar('RAW_159_Durand, High Justicar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\201_Rix Maadi Abomination.png" id="RAW_201_Rix Maadi Abomination" data-flag="@X" onclick="openSidebar('RAW_201_Rix Maadi Abomination',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\172_Gutbloom Host.png" id="RAW_172_Gutbloom Host" data-flag="@X" onclick="openSidebar('RAW_172_Gutbloom Host',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\245_Volley.png" id="RAW_245_Volley" data-flag="@X" onclick="openSidebar('RAW_245_Volley',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\212_Transfigure.png" id="RAW_212_Transfigure" data-flag="@X" onclick="openSidebar('RAW_212_Transfigure',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\169_Futur Seer.png" id="RAW_169_Futur Seer" data-flag="@X" onclick="openSidebar('RAW_169_Futur Seer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\228_Mindflare.png" id="RAW_228_Mindflare" data-flag="@X" onclick="openSidebar('RAW_228_Mindflare',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\183_Lothran, the Glouton.png" id="RAW_183_Lothran, the Glouton" data-flag="@X" onclick="openSidebar('RAW_183_Lothran, the Glouton',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\150_Boros Rallier.png" id="RAW_150_Boros Rallier" data-flag="@X" onclick="openSidebar('RAW_150_Boros Rallier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\226_Force Shaping.png" id="RAW_226_Force Shaping" data-flag="@X" onclick="openSidebar('RAW_226_Force Shaping',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\217_Arrester Captain.png" id="RAW_217_Arrester Captain" data-flag="@X" onclick="openSidebar('RAW_217_Arrester Captain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\152_Coerced Participation.png" id="RAW_152_Coerced Participation" data-flag="@X" onclick="openSidebar('RAW_152_Coerced Participation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\222_Decay Guildmage.png" id="RAW_222_Decay Guildmage" data-flag="@X" onclick="openSidebar('RAW_222_Decay Guildmage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\158_Diana, Passer of Judgment.png" id="RAW_158_Diana, Passer of Judgment" data-flag="@X" onclick="openSidebar('RAW_158_Diana, Passer of Judgment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\243_Transform.png" id="RAW_243_Transform" data-flag="@X" onclick="openSidebar('RAW_243_Transform',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\156_Decipher the Chronology.png" id="RAW_156_Decipher the Chronology" data-flag="@X" onclick="openSidebar('RAW_156_Decipher the Chronology',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\153_Critics Hunter.png" id="RAW_153_Critics Hunter" data-flag="@X" onclick="openSidebar('RAW_153_Critics Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\237_Bitter.png" id="RAW_237_Bitter" data-flag="@X" onclick="openSidebar('RAW_237_Bitter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\199_Righteous Smite.png" id="RAW_199_Righteous Smite" data-flag="@X" onclick="openSidebar('RAW_199_Righteous Smite',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\151_Cerebral Plating.png" id="RAW_151_Cerebral Plating" data-flag="@X" onclick="openSidebar('RAW_151_Cerebral Plating',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\175_Incarcerate.png" id="RAW_175_Incarcerate" data-flag="@X" onclick="openSidebar('RAW_175_Incarcerate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\157_Devastation in the Streets.png" id="RAW_157_Devastation in the Streets" data-flag="@X" onclick="openSidebar('RAW_157_Devastation in the Streets',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\177_Inspect the Remains.png" id="RAW_177_Inspect the Remains" data-flag="@X" onclick="openSidebar('RAW_177_Inspect the Remains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\206_Skyrender Knight.png" id="RAW_206_Skyrender Knight" data-flag="@X" onclick="openSidebar('RAW_206_Skyrender Knight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\154_Crypsis Clade Agent.png" id="RAW_154_Crypsis Clade Agent" data-flag="@X" onclick="openSidebar('RAW_154_Crypsis Clade Agent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\176_Inquisitive Guardmage.png" id="RAW_176_Inquisitive Guardmage" data-flag="@X" onclick="openSidebar('RAW_176_Inquisitive Guardmage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\164_Fired-Up Jester.png" id="RAW_164_Fired-Up Jester" data-flag="@X" onclick="openSidebar('RAW_164_Fired-Up Jester',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\185_Mangled Rootgiant.png" id="RAW_185_Mangled Rootgiant" data-flag="@X" onclick="openSidebar('RAW_185_Mangled Rootgiant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\240_Loud.png" id="RAW_240_Loud" data-flag="@X" onclick="openSidebar('RAW_240_Loud',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\189_Ooze Bioprocessor.png" id="RAW_189_Ooze Bioprocessor" data-flag="@X" onclick="openSidebar('RAW_189_Ooze Bioprocessor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\204_Seal of Censure.png" id="RAW_204_Seal of Censure" data-flag="@X" onclick="openSidebar('RAW_204_Seal of Censure',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\219_Chaos Guildmage.png" id="RAW_219_Chaos Guildmage" data-flag="@X" onclick="openSidebar('RAW_219_Chaos Guildmage',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\165_Firefist's Indignation.png" id="RAW_165_Firefists Indignation" data-flag="@X" onclick="openSidebar('RAW_165_Firefists Indignation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\193_Praj, Momir Vig's Legacy.png" id="RAW_193_Praj, Momir Vigs Legacy" data-flag="@X" onclick="openSidebar('RAW_193_Praj, Momir Vigs Legacy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\231_Order Guildmage.png" id="RAW_231_Order Guildmage" data-flag="@X" onclick="openSidebar('RAW_231_Order Guildmage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\236_Ball.png" id="RAW_236_Ball" data-flag="@X" onclick="openSidebar('RAW_236_Ball',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\166_Firemane Executioner.png" id="RAW_166_Firemane Executioner" data-flag="@X" onclick="openSidebar('RAW_166_Firemane Executioner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\194_Psychogenetic Tap.png" id="RAW_194_Psychogenetic Tap" data-flag="@X" onclick="openSidebar('RAW_194_Psychogenetic Tap',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\238_Denied.png" id="RAW_238_Denied" data-flag="@X" onclick="openSidebar('RAW_238_Denied',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\173_Havoc Bringer.png" id="RAW_173_Havoc Bringer" data-flag="@X" onclick="openSidebar('RAW_173_Havoc Bringer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\209_Sunhome Defender.png" id="RAW_209_Sunhome Defender" data-flag="@X" onclick="openSidebar('RAW_209_Sunhome Defender',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\223_Evolution Guildmage.png" id="RAW_223_Evolution Guildmage" data-flag="@X" onclick="openSidebar('RAW_223_Evolution Guildmage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\191_Peruse the Law.png" id="RAW_191_Peruse the Law" data-flag="@X" onclick="openSidebar('RAW_191_Peruse the Law',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\184_Macabre Spectacle.png" id="RAW_184_Macabre Spectacle" data-flag="@X" onclick="openSidebar('RAW_184_Macabre Spectacle',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\239_Live.png" id="RAW_239_Live" data-flag="@X" onclick="openSidebar('RAW_239_Live',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\202_Safeguard.png" id="RAW_202_Safeguard" data-flag="@X" onclick="openSidebar('RAW_202_Safeguard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\200_Ring Fire Maniac.png" id="RAW_200_Ring Fire Maniac" data-flag="@X" onclick="openSidebar('RAW_200_Ring Fire Maniac',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\146_Adaptive Surge.png" id="RAW_146_Adaptive Surge" data-flag="@X" onclick="openSidebar('RAW_146_Adaptive Surge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\208_Sphinx Lawbinder.png" id="RAW_208_Sphinx Lawbinder" data-flag="@X" onclick="openSidebar('RAW_208_Sphinx Lawbinder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\233_Splatterhouse Ravager.png" id="RAW_233_Splatterhouse Ravager" data-flag="@X" onclick="openSidebar('RAW_233_Splatterhouse Ravager',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\192_Plaxplated Biotitan.png" id="RAW_192_Plaxplated Biotitan" data-flag="@X" onclick="openSidebar('RAW_192_Plaxplated Biotitan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\218_Brightsteel Interceptor.png" id="RAW_218_Brightsteel Interceptor" data-flag="@X" onclick="openSidebar('RAW_218_Brightsteel Interceptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\203_Scaly Hummerbrood.png" id="RAW_203_Scaly Hummerbrood" data-flag="@X" onclick="openSidebar('RAW_203_Scaly Hummerbrood',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\227_Gyre Clade Guardian.png" id="RAW_227_Gyre Clade Guardian" data-flag="@X" onclick="openSidebar('RAW_227_Gyre Clade Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\247_Ancient Monoliths.png" id="247_Ancient Monoliths" data-flag="@X" onclick="openSidebar('247_Ancient Monoliths',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\255_Opal Medallion.png" id="255_Opal Medallion" data-flag="@X" onclick="openSidebar('255_Opal Medallion',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\257_Ravnican Omnicompass.png" id="257_Ravnican Omnicompass" data-flag="@X" onclick="openSidebar('257_Ravnican Omnicompass',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\246_Ageless Scholar.png" id="246_Ageless Scholar" data-flag="@X" onclick="openSidebar('246_Ageless Scholar',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\250_Decrepit Gargoyle.png" id="250_Decrepit Gargoyle" data-flag="@X" onclick="openSidebar('250_Decrepit Gargoyle',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\251_Embersoul Edge.png" id="251_Embersoul Edge" data-flag="@X" onclick="openSidebar('251_Embersoul Edge',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\252_Gatekeeper Golem.png" id="252_Gatekeeper Golem" data-flag="@X" onclick="openSidebar('252_Gatekeeper Golem',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\253_Gateless Amulet.png" id="253_Gateless Amulet" data-flag="@X" onclick="openSidebar('253_Gateless Amulet',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\248_Azorius Insignia.png" id="248_Azorius Insignia" data-flag="@X" onclick="openSidebar('248_Azorius Insignia',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\249_Boros Insignia.png" id="249_Boros Insignia" data-flag="@X" onclick="openSidebar('249_Boros Insignia',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\254_Golgari Insignia.png" id="254_Golgari Insignia" data-flag="@X" onclick="openSidebar('254_Golgari Insignia',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\256_Rakdos Insignia.png" id="256_Rakdos Insignia" data-flag="@X" onclick="openSidebar('256_Rakdos Insignia',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\258_Simic Insignia.png" id="258_Simic Insignia" data-flag="@X" onclick="openSidebar('258_Simic Insignia',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\264_Hallowed Fountain.png" id="264_Hallowed Fountain" data-flag="@X" onclick="openSidebar('264_Hallowed Fountain',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\260_Blood Crypt.png" id="260_Blood Crypt" data-flag="@X" onclick="openSidebar('260_Blood Crypt',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\265_Overgrown Tomb.png" id="265_Overgrown Tomb" data-flag="@X" onclick="openSidebar('265_Overgrown Tomb',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\268_Sacred Foundry.png" id="268_Sacred Foundry" data-flag="@X" onclick="openSidebar('268_Sacred Foundry',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\262_Breeding Pool.png" id="262_Breeding Pool" data-flag="@X" onclick="openSidebar('262_Breeding Pool',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\259_Azorius Guildgate.png" id="259_Azorius Guildgate" data-flag="@X" onclick="openSidebar('259_Azorius Guildgate',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\267_Rakdos Guildgate.png" id="267_Rakdos Guildgate" data-flag="@X" onclick="openSidebar('267_Rakdos Guildgate',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\263_Golgari Guildgate.png" id="263_Golgari Guildgate" data-flag="@X" onclick="openSidebar('263_Golgari Guildgate',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\261_Boros Guildgate.png" id="261_Boros Guildgate" data-flag="@X" onclick="openSidebar('261_Boros Guildgate',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\269_Simic Guildgate.png" id="269_Simic Guildgate" data-flag="@X" onclick="openSidebar('269_Simic Guildgate',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\266_Plaza's Omenpath.png" id="266_Plazas Omenpath" data-flag="@X" onclick="openSidebar('266_Plazas Omenpath',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\270_Undercity Entrance.png" id="270_Undercity Entrance" data-flag="@X" onclick="openSidebar('270_Undercity Entrance',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\271_Plains_RAW.png" id="271_Plains_RAW" data-flag="@X" onclick="openSidebar('271_Plains_RAW',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\272_Island_RAW.png" id="272_Island_RAW" data-flag="@X" onclick="openSidebar('272_Island_RAW',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\273_Swamp_RAW.png" id="273_Swamp_RAW" data-flag="@X" onclick="openSidebar('273_Swamp_RAW',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\274_Mountain_RAW.png" id="274_Mountain_RAW" data-flag="@X" onclick="openSidebar('274_Mountain_RAW',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\275_Forest_RAW.png" id="275_Forest_RAW" data-flag="@X" onclick="openSidebar('275_Forest_RAW',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\247_Ancient Monoliths.png" id="RAW_247_Ancient Monoliths" data-flag="@X" onclick="openSidebar('RAW_247_Ancient Monoliths',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\255_Opal Medallion.png" id="RAW_255_Opal Medallion" data-flag="@X" onclick="openSidebar('RAW_255_Opal Medallion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\257_Ravnican Omnicompass.png" id="RAW_257_Ravnican Omnicompass" data-flag="@X" onclick="openSidebar('RAW_257_Ravnican Omnicompass',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\246_Ageless Scholar.png" id="RAW_246_Ageless Scholar" data-flag="@X" onclick="openSidebar('RAW_246_Ageless Scholar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\250_Decrepit Gargoyle.png" id="RAW_250_Decrepit Gargoyle" data-flag="@X" onclick="openSidebar('RAW_250_Decrepit Gargoyle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\251_Embersoul Edge.png" id="RAW_251_Embersoul Edge" data-flag="@X" onclick="openSidebar('RAW_251_Embersoul Edge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\252_Gatekeeper Golem.png" id="RAW_252_Gatekeeper Golem" data-flag="@X" onclick="openSidebar('RAW_252_Gatekeeper Golem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\253_Gateless Amulet.png" id="RAW_253_Gateless Amulet" data-flag="@X" onclick="openSidebar('RAW_253_Gateless Amulet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\248_Azorius Insignia.png" id="RAW_248_Azorius Insignia" data-flag="@X" onclick="openSidebar('RAW_248_Azorius Insignia',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\254_Golgari Insignia.png" id="RAW_254_Golgari Insignia" data-flag="@X" onclick="openSidebar('RAW_254_Golgari Insignia',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\256_Rakdos Insignia.png" id="RAW_256_Rakdos Insignia" data-flag="@X" onclick="openSidebar('RAW_256_Rakdos Insignia',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\258_Simic Insignia.png" id="RAW_258_Simic Insignia" data-flag="@X" onclick="openSidebar('RAW_258_Simic Insignia',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\264_Hallowed Fountain.png" id="RAW_264_Hallowed Fountain" data-flag="@X" onclick="openSidebar('RAW_264_Hallowed Fountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\260_Blood Crypt.png" id="RAW_260_Blood Crypt" data-flag="@X" onclick="openSidebar('RAW_260_Blood Crypt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\265_Overgrown Tomb.png" id="RAW_265_Overgrown Tomb" data-flag="@X" onclick="openSidebar('RAW_265_Overgrown Tomb',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\268_Sacred Foundry.png" id="RAW_268_Sacred Foundry" data-flag="@X" onclick="openSidebar('RAW_268_Sacred Foundry',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\262_Breeding Pool.png" id="RAW_262_Breeding Pool" data-flag="@X" onclick="openSidebar('RAW_262_Breeding Pool',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\259_Azorius Guildgate.png" id="RAW_259_Azorius Guildgate" data-flag="@X" onclick="openSidebar('RAW_259_Azorius Guildgate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\267_Rakdos Guildgate.png" id="RAW_267_Rakdos Guildgate" data-flag="@X" onclick="openSidebar('RAW_267_Rakdos Guildgate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\263_Golgari Guildgate.png" id="RAW_263_Golgari Guildgate" data-flag="@X" onclick="openSidebar('RAW_263_Golgari Guildgate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\261_Boros Guildgate.png" id="RAW_261_Boros Guildgate" data-flag="@X" onclick="openSidebar('RAW_261_Boros Guildgate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\269_Simic Guildgate.png" id="RAW_269_Simic Guildgate" data-flag="@X" onclick="openSidebar('RAW_269_Simic Guildgate',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\266_Plaza's Omenpath.png" id="RAW_266_Plazas Omenpath" data-flag="@X" onclick="openSidebar('RAW_266_Plazas Omenpath',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\270_Undercity Entrance.png" id="RAW_270_Undercity Entrance" data-flag="@X" onclick="openSidebar('RAW_270_Undercity Entrance',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\271_Plains RAW.png" id="RAW_271_Plains RAW" data-flag="@X" onclick="openSidebar('RAW_271_Plains RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\272_Island RAW.png" id="RAW_272_Island RAW" data-flag="@X" onclick="openSidebar('RAW_272_Island RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\273_Swamp RAW.png" id="RAW_273_Swamp RAW" data-flag="@X" onclick="openSidebar('RAW_273_Swamp RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\274_Mountain RAW.png" id="RAW_274_Mountain RAW" data-flag="@X" onclick="openSidebar('RAW_274_Mountain RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\275_Forest RAW.png" id="RAW_275_Forest RAW" data-flag="@X" onclick="openSidebar('RAW_275_Forest RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\12t_Citizen.png" id="12t_Citizen" data-flag="@X" onclick="openSidebar('12t_Citizen',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\21t_Treasure.png" id="21t_Treasure" data-flag="@X" onclick="openSidebar('21t_Treasure',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\1t_Angel.png" id="1t_Angel" data-flag="@X" onclick="openSidebar('1t_Angel',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\2t_Human.png" id="2t_Human" data-flag="@X" onclick="openSidebar('2t_Human',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\3t_Spirit.png" id="3t_Spirit" data-flag="@X" onclick="openSidebar('3t_Spirit',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\4t_Demon.png" id="4t_Demon" data-flag="@X" onclick="openSidebar('4t_Demon',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\5t_Skeleton.png" id="5t_Skeleton" data-flag="@X" onclick="openSidebar('5t_Skeleton',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\6t_Devil.png" id="6t_Devil" data-flag="@X" onclick="openSidebar('6t_Devil',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\7t_Elemental.png" id="7t_Elemental" data-flag="@X" onclick="openSidebar('7t_Elemental',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\8t_Elemental.png" id="8t_Elemental" data-flag="@X" onclick="openSidebar('8t_Elemental',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\9t_Goblin.png" id="9t_Goblin" data-flag="@X" onclick="openSidebar('9t_Goblin',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\10t_Ooze.png" id="10t_Ooze" data-flag="@X" onclick="openSidebar('10t_Ooze',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\11t_Plant.png" id="11t_Plant" data-flag="@X" onclick="openSidebar('11t_Plant',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\13t_Bird.png" id="13t_Bird" data-flag="@X" onclick="openSidebar('13t_Bird',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\14t_Drake.png" id="14t_Drake" data-flag="@X" onclick="openSidebar('14t_Drake',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\15t_Elemental.png" id="15t_Elemental" data-flag="@X" onclick="openSidebar('15t_Elemental',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\16t_Elemental Dog.png" id="16t_Elemental Dog" data-flag="@X" onclick="openSidebar('16t_Elemental Dog',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\17t_Insect.png" id="17t_Insect" data-flag="@X" onclick="openSidebar('17t_Insect',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\18t_Soldier.png" id="18t_Soldier" data-flag="@X" onclick="openSidebar('18t_Soldier',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\19t_Soldier.png" id="19t_Soldier" data-flag="@X" onclick="openSidebar('19t_Soldier',false)"></div>
-				<div class="container"><img alt="/sets\RAW-files\img\20t_Sphinx.png" id="20t_Sphinx" data-flag="@X" onclick="openSidebar('20t_Sphinx',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\12t_Citizen.png" id="RAW_12t_Citizen" data-flag="@X" onclick="openSidebar('RAW_12t_Citizen',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\20t_Treasure RNF.png" id="RAW_20t_Treasure RNF" data-flag="@X" onclick="openSidebar('RAW_20t_Treasure RNF',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\249t_Boros Insignia.png" id="RAW_249t_Boros Insignia" data-flag="@X" onclick="openSidebar('RAW_249t_Boros Insignia',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\92t_Ceaseless Anger.png" id="RAW_92t_Ceaseless Anger" data-flag="@X" onclick="openSidebar('RAW_92t_Ceaseless Anger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\62t_Daughter of Stone Death.png" id="RAW_62t_Daughter of Stone Death" data-flag="@X" onclick="openSidebar('RAW_62t_Daughter of Stone Death',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\66t_Demon Progeny.png" id="RAW_66t_Demon Progeny" data-flag="@X" onclick="openSidebar('RAW_66t_Demon Progeny',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\98t_Firstblade Lieutenant.png" id="RAW_98t_Firstblade Lieutenant" data-flag="@X" onclick="openSidebar('RAW_98t_Firstblade Lieutenant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\145t_Woodwraith Behemoth.png" id="RAW_145t_Woodwraith Behemoth" data-flag="@X" onclick="openSidebar('RAW_145t_Woodwraith Behemoth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\7t_Eidolon's Flight.png" id="RAW_7t_Eidolons Flight" data-flag="@X" onclick="openSidebar('RAW_7t_Eidolons Flight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\60t_Corpse Jeweler.png" id="RAW_60t_Corpse Jeweler" data-flag="@X" onclick="openSidebar('RAW_60t_Corpse Jeweler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\68t_Eidolon's Infestation.png" id="RAW_68t_Eidolons Infestation" data-flag="@X" onclick="openSidebar('RAW_68t_Eidolons Infestation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\85t_Swarm Evangel.png" id="RAW_85t_Swarm Evangel" data-flag="@X" onclick="openSidebar('RAW_85t_Swarm Evangel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\95t_Eidolon's Impetus.png" id="RAW_95t_Eidolons Impetus" data-flag="@X" onclick="openSidebar('RAW_95t_Eidolons Impetus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\102t_Goldscale Whelp.png" id="RAW_102t_Goldscale Whelp" data-flag="@X" onclick="openSidebar('RAW_102t_Goldscale Whelp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\104t_Krenko's Ransack.png" id="RAW_104t_Krenkos Ransack" data-flag="@X" onclick="openSidebar('RAW_104t_Krenkos Ransack',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\113t_Welcoming Ringleader.png" id="RAW_113t_Welcoming Ringleader" data-flag="@X" onclick="openSidebar('RAW_113t_Welcoming Ringleader',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\125t_Deathbloom Mandrake.png" id="RAW_125t_Deathbloom Mandrake" data-flag="@X" onclick="openSidebar('RAW_125t_Deathbloom Mandrake',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\140t_Rotten Banquet.png" id="RAW_140t_Rotten Banquet" data-flag="@X" onclick="openSidebar('RAW_140t_Rotten Banquet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\1t_Angel RAW.png" id="RAW_1t_Angel RAW" data-flag="@X" onclick="openSidebar('RAW_1t_Angel RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\2t_Human RAW.png" id="RAW_2t_Human RAW" data-flag="@X" onclick="openSidebar('RAW_2t_Human RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\3t_Spirit RAW.png" id="RAW_3t_Spirit RAW" data-flag="@X" onclick="openSidebar('RAW_3t_Spirit RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\4t_Demon RAW.png" id="RAW_4t_Demon RAW" data-flag="@X" onclick="openSidebar('RAW_4t_Demon RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\5t_Boros Standard Bearer.png" id="RAW_5t_Boros Standard Bearer" data-flag="@X" onclick="openSidebar('RAW_5t_Boros Standard Bearer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\5t_Skeleton RAW.png" id="RAW_5t_Skeleton RAW" data-flag="@X" onclick="openSidebar('RAW_5t_Skeleton RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\6t_Devil RAW.png" id="RAW_6t_Devil RAW" data-flag="@X" onclick="openSidebar('RAW_6t_Devil RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\7t_1/1 Elemental RAW.png" id="RAW_7t_1/1 Elemental RAW" data-flag="@X" onclick="openSidebar('RAW_7t_1/1 Elemental RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\8t_5/1 Elemental RAW.png" id="RAW_8t_5/1 Elemental RAW" data-flag="@X" onclick="openSidebar('RAW_8t_5/1 Elemental RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\9t_Goblin RAW.png" id="RAW_9t_Goblin RAW" data-flag="@X" onclick="openSidebar('RAW_9t_Goblin RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\10t_Ooze.png" id="RAW_10t_Ooze" data-flag="@X" onclick="openSidebar('RAW_10t_Ooze',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\11t_Plant RAW.png" id="RAW_11t_Plant RAW" data-flag="@X" onclick="openSidebar('RAW_11t_Plant RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\23t_Ready the Arresters.png" id="RAW_23t_Ready the Arresters" data-flag="@X" onclick="openSidebar('RAW_23t_Ready the Arresters',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\76t_Jubilent Sewer Cook.png" id="RAW_76t_Jubilent Sewer Cook" data-flag="@X" onclick="openSidebar('RAW_76t_Jubilent Sewer Cook',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\80t_The Show Never Ends.png" id="RAW_80t_The Show Never Ends" data-flag="@X" onclick="openSidebar('RAW_80t_The Show Never Ends',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\84t_Swarm Broodmother.png" id="RAW_84t_Swarm Broodmother" data-flag="@X" onclick="openSidebar('RAW_84t_Swarm Broodmother',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\89t_Backstage Preparations.png" id="RAW_89t_Backstage Preparations" data-flag="@X" onclick="openSidebar('RAW_89t_Backstage Preparations',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\93t_Circle Headliner.png" id="RAW_93t_Circle Headliner" data-flag="@X" onclick="openSidebar('RAW_93t_Circle Headliner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\131t_Infested Maneater.png" id="RAW_131t_Infested Maneater" data-flag="@X" onclick="openSidebar('RAW_131t_Infested Maneater',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\143t_Undercity Ravager.png" id="RAW_143t_Undercity Ravager" data-flag="@X" onclick="openSidebar('RAW_143t_Undercity Ravager',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\211t_Tajic, Boros Examplar.png" id="RAW_211t_Tajic, Boros Examplar" data-flag="@X" onclick="openSidebar('RAW_211t_Tajic, Boros Examplar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\213t_Vannifar, Voice of the Combine.png" id="RAW_213t_Vannifar, Voice of the Combine" data-flag="@X" onclick="openSidebar('RAW_213t_Vannifar, Voice of the Combine',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\215t_Zafen, Scheming Necromancer.png" id="RAW_215t_Zafen, Scheming Necromancer" data-flag="@X" onclick="openSidebar('RAW_215t_Zafen, Scheming Necromancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\230t_On Wings of Fury.png" id="RAW_230t_On Wings of Fury" data-flag="@X" onclick="openSidebar('RAW_230t_On Wings of Fury',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\234t_Voracious Deathstinger.png" id="RAW_234t_Voracious Deathstinger" data-flag="@X" onclick="openSidebar('RAW_234t_Voracious Deathstinger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\163t_Festering Mass.png" id="RAW_163t_Festering Mass" data-flag="@X" onclick="openSidebar('RAW_163t_Festering Mass',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\180t_Juri, Charismatic Performer.png" id="RAW_180t_Juri, Charismatic Performer" data-flag="@X" onclick="openSidebar('RAW_180t_Juri, Charismatic Performer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\181t_Lamiel, Deathsprout Cultivator.png" id="RAW_181t_Lamiel, Deathsprout Cultivator" data-flag="@X" onclick="openSidebar('RAW_181t_Lamiel, Deathsprout Cultivator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\190t_Ordruun Marshal.png" id="RAW_190t_Ordruun Marshal" data-flag="@X" onclick="openSidebar('RAW_190t_Ordruun Marshal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\221t_Corpse-Pit Goliath.png" id="RAW_221t_Corpse-Pit Goliath" data-flag="@X" onclick="openSidebar('RAW_221t_Corpse-Pit Goliath',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\241t_Pursuit.png" id="RAW_241t_Pursuit" data-flag="@X" onclick="openSidebar('RAW_241t_Pursuit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\242t_Remains.png" id="RAW_242t_Remains" data-flag="@X" onclick="openSidebar('RAW_242t_Remains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\244t_Unleash.png" id="RAW_244t_Unleash" data-flag="@X" onclick="openSidebar('RAW_244t_Unleash',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\168t_Fungus Nursery.png" id="RAW_168t_Fungus Nursery" data-flag="@X" onclick="openSidebar('RAW_168t_Fungus Nursery',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\188t_Octave, Deputy of Discipline.png" id="RAW_188t_Octave, Deputy of Discipline" data-flag="@X" onclick="openSidebar('RAW_188t_Octave, Deputy of Discipline',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\207t_Spark Legion.png" id="RAW_207t_Spark Legion" data-flag="@X" onclick="openSidebar('RAW_207t_Spark Legion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\214t_Xaren, Rakdos Uncager.png" id="RAW_214t_Xaren, Rakdos Uncager" data-flag="@X" onclick="openSidebar('RAW_214t_Xaren, Rakdos Uncager',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\235t_War Guildmage.png" id="RAW_235t_War Guildmage" data-flag="@X" onclick="openSidebar('RAW_235t_War Guildmage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\13t_Drake RAW.png" id="RAW_13t_Drake RAW" data-flag="@X" onclick="openSidebar('RAW_13t_Drake RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\14t_Elemental Dog RAW.png" id="RAW_14t_Elemental Dog RAW" data-flag="@X" onclick="openSidebar('RAW_14t_Elemental Dog RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\15t_Insect.png" id="RAW_15t_Insect" data-flag="@X" onclick="openSidebar('RAW_15t_Insect',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\16t_Azorius Soldier RAW.png" id="RAW_16t_Azorius Soldier RAW" data-flag="@X" onclick="openSidebar('RAW_16t_Azorius Soldier RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\17t_Boros Soldier RAW.png" id="RAW_17t_Boros Soldier RAW" data-flag="@X" onclick="openSidebar('RAW_17t_Boros Soldier RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\18t_Sphinx.png" id="RAW_18t_Sphinx" data-flag="@X" onclick="openSidebar('RAW_18t_Sphinx',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\19t_Thopter RAW.png" id="RAW_19t_Thopter RAW" data-flag="@X" onclick="openSidebar('RAW_19t_Thopter RAW',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\210t_Surging Horror.png" id="RAW_210t_Surging Horror" data-flag="@X" onclick="openSidebar('RAW_210t_Surging Horror',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\225t_Flame-kin Summoner.png" id="RAW_225t_Flame-kin Summoner" data-flag="@X" onclick="openSidebar('RAW_225t_Flame-kin Summoner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\RAW-files\img\229t_Ochran Stalker.png" id="RAW_229t_Ochran Stalker" data-flag="@X" onclick="openSidebar('RAW_229t_Ochran Stalker',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="RAW_e" data-flag="@E" onclick="openSidebar('RAW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="RAW_er" data-flag="@E" onclick="openSidebar('RAW_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -559,19 +623,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -606,13 +762,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -638,27 +797,51 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
@@ -670,17 +853,19 @@
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -713,6 +898,7 @@
 	}
 
 	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -722,6 +908,7 @@
 	}
 
 	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
 		var sets = document.querySelectorAll('.inactive');
 		for(const set of sets)
 		{
@@ -738,16 +925,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -757,7 +944,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

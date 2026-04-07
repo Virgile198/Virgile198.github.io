@@ -1,4 +1,285 @@
-﻿VERSION 58 CHANGELOG
+﻿VERSION 59 CHANGELOG
+====================
+
+Worldring Ouroboros added.
+Saproling RNF added.
+Spirit RNF added.
+Hellion RNF added.
+Construct RNF added.
+Zombie RNF added.
+Zombie Star RNF added.
+Citizen RNF added.
+Elemental Star RNF added.
+Bird RNF added.
+Elf Knight RNF added.
+Treasure RNF added.
+3/3 Elemental RNF added.
+Soldier RNF added.
+Rhino RNF added.
+Wurm RNF added.
+Durn' Mir RNF added.
+Faerie RNF added.
+Centaur RNF added.
+Bat RNF added.
+
+Worldring Uroboros removed.
+Saproling removed.
+Spirit removed.
+Hellion removed.
+Construct removed.
+Zombie removed.
+Zombie Star; removed.
+Citizen removed.
+Elemental removed.
+Bird removed.
+Copy removed.
+Elf Knight removed.
+Treasure removed.
+Elemental removed.
+Soldier removed.
+Rhino removed.
+Wurm removed.
+Durn'mir removed.
+Fairie removed.
+Centaur removed.
+Bat removed.
+
+Wildheart Raiders
+
+Mossback Pulverizer
+rules_text: Trample
+Whenever this creature attacks, create 1/1 green Saproling creature token that's tapped and attacking.
+{2}, Sacrifice a Saproling: Put a +1/+1 counter on this creature. => Trample
+Whenever this creature attacks, create 1/1 green Saproling creature token that's tapped and attacking.
+{2}, Sacrifice a token: Put a +1/+1 counter on this creature.
+
+Teysa Karlov, Master of Deals
+
+Vicious Blackmailer
+cost: {1}{B}{B} => {2}{B}
+rules_text: Flash
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead you draw a card unless they pay 2 life. If they do, you gain 2 life. => Flash
+Ward—Discard a card.
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead you draw a card unless they pay 2 life. If they do, you gain 2 life.
+pt: 3/2 => 3/1
+
+Orzhov Exorcist
+
+Knight of Denial
+rules_text: Vigilance
+Ward—Pay 4 life.
+When this creature enters, each opponent loses 2 life and you gain 2 life. => Vigilance, menace
+When this creature enters, each opponent loses 2 life and you gain 2 life.
+
+Flowerbed Envoy's Call
+
+Dutiful Archprotector
+rules_text: Your opponents can't cast spells or activate nonland abilities during your turn.
+Sacrifice this creature: Prevent all damage that would be dealt to you this turn. Creatures you control gain hexproof and indestructible until end of turn. => Your opponents can't cast spells during your turn.
+During turns other than yours, you and other creatures you control have hexproof.
+
+Ledev Captain
+
+Sowing Courier
+
+Branching Possibilities
+
+Essencesnatch
+
+Shambling Grotesquerie
+rules_text: Lifelink
+Cover up 2—{1}{U}{U}{B} [i]({1}{U}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, target player mills three cards. => Lifelink
+Cover up 2—{U}{U}{B} [i]({U}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, target player mills three cards.
+
+Deeproot Entity
+rules_text: Ward {2}
+This spell can't be countered.
+Creature spells and abilities of creatures you control can't be countered.
+If a triggered ability of another creature or land you control triggers, it triggers an additional time. => This spell can't be countered.
+Creature spells you control and abilities of creatures you control can't be countered.
+If a triggered ability of another creature or land you control triggers, it triggers an additional time.
+
+Storm Eater
+rules_text: Flying
+Ward—Pay 3 life.
+Whenever you cast a spell, this creature deals X damage to any target, where X is the amount of mana spent to cast that spell. => Flying
+Ward—Pay 5 life.
+Whenever you cast a spell, this creature deals X damage to any target, where X is the amount of mana spent to cast that spell.
+
+Clawing Grasp
+cost: {2}{B} => {1}{B}
+rules_text: Destroy target creature.
+Cover up 2—{2}{B}{B}, Pay 3 life [i]({2}{B}{B}, Pay 3 life, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Exile target creature with mana value 3 or less.
+Cover up 2—{2}{B} [i]({2}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Orzhov Guildgate
+
+Dimir Guildgate
+
+Izzet Guildgate
+
+Tin Street
+
+Orzhov Insignia
+rules_text: This artifact enters tapped.
+{T}: Add {W} or {B}.
+{W}{B}, {T}, Sacrifice this artifact: Exile up to two target cards from a single graveyard. You gain 2 life. => This artifact enters tapped.
+{T}: Add {W} or {B}.
+{W}{B}, {T}, Sacrifice this artifact: Exile up to two target cards from a single graveyard. You gain 3 life.
+
+Gruul Insignia
+
+Izzet Insignia
+
+Selesnya Insignia
+
+Dimir Insignia
+
+Vault of the Paruns
+
+Incapacitating Probing
+rules_text: Target creature gets -2/-0 until end of turn. Surveil 2.
+Cover up 2—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Target creature gets -2/-0 until end of turn. Surveil 2.
+Cover up 2—{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Shady Courier
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Cover up 2—{3}{U} [i]({3}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Cover up 3—{3}{U}{U} [i]({3}{U}{U}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Fires of Reclamation
+
+Brilliant Artist
+type: Creature — Fairie Wizard Bard => Creature — Faerie Wizard Bard
+
+Duskmantle Agent
+type: Creature — Fairie Assassin => Creature — Faerie Assassin
+
+Mad Alchemist
+
+Cleanser of Debt
+
+Deadly Familiar
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+[i]Oblation 2[/i] — When this creature enters, you may pay 2 life. When you do, target creature you control gets +1/+0 and gains deathtouch and haste until end of turn. => Vigilance, haste
+[i]Oblation 2[/i] — When this creature enters, you may pay 2 life. When you do, target creature you control gets +1/+0 and gains deathtouch and indestructible until end of turn.
+pt: 3/3 => 3/2
+
+Unearthed Mysteries
+rules_text: Return target creature card from a graveyard to the battlefield under your control with a finality counter on it.
+Cover up 3—{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Return target creature card from a graveyard to the battlefield under your control with a finality counter on it.
+Cover up 3—{3}{B} [i]({3}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Factory Line
+
+Workshop Supervisor
+
+Bushfire Shaman
+pt: 5/4 => 5/5
+
+Rakasht, Spawn of Ulasht
+rules_text: This creature enters with a number of +1/+1 counters on it equal to number of creature and/or land cards in all graveyards.
+{X}, Remove X +1/+1 counters from among creatures you control: Choose one. Activate only once each turn.
+• Create a X/X red and green Hellion creature token with haste. X can't be 0.
+• This creature deals X damage to any target. X can't be 0. => This creature enters with a number of +1/+1 counters on it equal to total number of creature and/or land cards in all graveyards.
+{X}, Remove X +1/+1 counters from among creatures you control: Choose one. Activate only once each turn.
+• Create a X/X red and green Hellion creature token with haste. X can't be 0.
+• This creature deals X damage to any target. X can't be 0.
+
+Spore Waltz
+
+Cemetery Guardian
+
+Milana, Orzhov High Prelate
+rules_text: At the beginning of your end step, if you gained or lost life this turn, return up to one target artifact, creature or enchantment if it has mana value X or less from your graveyard to the battlefield with a finality counter on it, where X is the amount of life you gained or lost this turn, whichever is greater.
+{T}, Sacrifice another nontoken nonland permanent you control: You gain life equal to that permanent mana value. => At the beginning of your end step, if you gained or lost life this turn, return up to one target artifact, creature or enchantment if it has mana value X or less from your graveyard to the battlefield with a finality counter on it, where X is the amount of life you gained or lost this turn, whichever is greater.
+{2}, {T}, Sacrifice another nontoken nonland permanent you control: You gain life equal to that permanent mana value.
+
+Vitality
+
+Hyper Space Time Bubble
+rules_text: Flip [[b]one[/b]] coin(s). For each flip you win, take an extra turn after this one. For each flip you lose, add {U}{U}{R}{R} and exile the top [[b]two[/b]] cards of your library. Until end of your next turn, you may play those cards.
+Iterate {7}{U}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Flip [[b]one[/b]] coin(s). For each flip you win, take an extra turn after this one. For each flip you lose, add {C}{U}{U}{R}{R} and exile the top [[b]two[/b]] cards of your library. Until end of your next turn, you may play those cards.
+Iterate {7}{U}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Heart of Cinders
+rules_text: Ward—Pay X life, where X is this creature's power.
+Whenever this creature enters or attacks, it rages, then you may return target land card from your graveyard to the battlefield tapped. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i] => Ward—Pay life equal to this creature's power.
+Whenever this creature enters or attacks, it rages, then you may return target land card from your graveyard to the battlefield tapped. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Alcarus, Old Growth Protector
+
+Harmony Guildmage
+
+Ironroot Bindings
+
+Rise
+
+Repurpose the Scraps
+
+Devotion Guildmage
+rules_text: {WB}, {T}: Exile up to one target card from a graveyard. If you exiled a creature card this way, you gain 1 life.
+{3}{W}{B}: This creature deals 2 damage to target opponent or planeswalker. You gain 2 life. => {WB}, {T}: Exile up to one target card from a graveyard. You gain 1 life.
+{3}{W}{B}: This creature deals 2 damage to target opponent or planeswalker. You gain 2 life.
+
+Rix Navven, Overcharged Brute
+rules_text: Ward {2}
+Whenever you cast an instant or sorcery spell, you may have this creature get +X/+X until end of turn, where X is the amount of mana spent to cast that spell. Do this only once each turn. => Trample
+Whenever you cast an instant or sorcery spell, you may have this creature get +X/+X until end of turn, where X is the amount of mana spent to cast that spell. Do this only once each turn.
+
+Tamed Hellkite
+pt: 3/3 => 3/2
+
+Devoted Marshal
+
+Secret Seeker
+type: Creature — Fairie => Creature — Faerie
+
+Eidolon's Call
+
+Writhing Amalgamate
+
+Blessing of Vitu-Ghazi
+
+Memorable Feast
+rules_text: As an additional cost to cast this spell, sacrifice a creature or token.
+Draw two cards and you gain 3 life. => As an additional cost to cast this spell, sacrifice a creature or token.
+Draw two cards and you gain 2 life.
+
+Eidolon's Vitality
+rules_text: When this enchantment enters, search your library for a land card or a creature card with mana value 2 or less, put it onto the battlefield tapped, then shuffle.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand. => When this enchantment enters, search your library for a creature card with mana value 2 or less, put it onto the battlefield tapped, then shuffle.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand.
+
+Wasteful Inheritor
+
+Deep Wound
+
+Emmara, Ancestral Caregiver
+
+Selesnya Guildgate
+
+Dew's Benediction
+
+Gruul Guildgate
+
+Ayla, Harmony's Embrace
+
+Ledev Rescue
+rules_text: You may cast this spell as though it had flash if you pay {W} to cast it.
+Create a 3/3 green Centaur creature token and you gain 3 life. => You may cast this spell as though it had flash if {W} was spent to cast it.
+Create a 3/3 green Centaur creature token and you gain 3 life.
+
+Chains of Torment
+rules_text: Ward—Pay 3 life
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+At the beginning of your upkeep, each opponent loses 1 life and you gain 1 life. => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+At the beginning of your end step, the owner of the exiled card loses 1 life and you gain 1 life.
+
+
+VERSION 58 CHANGELOG
 ====================
 
 
