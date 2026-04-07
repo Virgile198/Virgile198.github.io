@@ -2608,7 +2608,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "Whenever you cast a spell or activate an ability that targets a creature you control, draw a card. This ability triggers only once each turn.\n[+1]: Untap target permanent you control. If it's a creature, put a +1/+1 counter on it.\n[-3]: Create two 2/2 green and blue Drake creature tokens with flying.\n[-6]: You get an emblem with \u201cAt the beginning of each upkeep, create a token that's a copy of target permanent.\u201d",
+            "special_text": "Whenever you cast a spell or activate an ability that targets a creature you control, draw a card. This ability triggers only once each turn.\n[+1]: Untap target permanent you control. If it's a creature, put a +1/+1 counter on it.\n[-3]: Create two 2/2 green and blue Drake creature tokens with flying.\n[-7]: You get an emblem with \u201cAt the beginning of each upkeep, create two tokens that are copies of target permanent.\u201d",
             "shape": "planeswalker",
             "set": "RAW",
             "loyalty": "4",
