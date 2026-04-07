@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Vedalken Monk",
-			"collector_number": "41",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/41_Enlighted Freemage.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/40_Enlighted Freemage.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Fish Mutant",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/43_Fin Clade Guardian.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/42_Fin Clade Guardian.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/45_Gate Infiltrator.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/44_Gate Infiltrator.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/49_Lyev Skywatch.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/48_Lyev Skywatch.png"
 			}
 		},
 		{
@@ -301,13 +301,13 @@
 			}
 		},
 		{
-			"name": "Cleanse",
+			"name": "Oust",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "35",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/35_Cleanse.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/49_Oust.png"
 			}
 		},
 		{
@@ -325,9 +325,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{U}{U}",
 			"type": "Creature — Bird Elemental",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/44_Fluxfeather Eagle.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/43_Fluxfeather Eagle.png"
 			}
 		},
 		{
@@ -335,9 +335,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Ooze Shapeshifter",
-			"collector_number": "42",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/42_Experiment Twenty-Six.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/41_Experiment Twenty-Six.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Elf Fish Mutant Wizard",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/39_Elusive Biomage.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/38_Elusive Biomage.png"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/48_Lawmage Familliar.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/47_Lawmage Familliar.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/36_Cocky Fluxmage.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/35_Cocky Fluxmage.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/38_Eidolon's Vision.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/37_Eidolon's Vision.png"
 			}
 		},
 		{
@@ -2341,13 +2341,13 @@
 			}
 		},
 		{
-			"name": "Devil RAW",
+			"name": "1/1 Devil",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Devil",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/6t_Devil RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/6t_1/1 Devil.png"
 			}
 		},
 		{
@@ -2401,83 +2401,83 @@
 			}
 		},
 		{
-			"name": "Elemental Dog RAW",
+			"name": "2/1 Elemental Dog",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental Dog",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/14t_Elemental Dog RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/14t_2/1 Elemental Dog.png"
 			}
 		},
 		{
-			"name": "Insect",
+			"name": "1/1 Insect",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/15t_Insect.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/15t_1/1 Insect.png"
 			}
 		},
 		{
-			"name": "Plant RAW",
+			"name": "0/1 Plant",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Plant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/11t_Plant RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/11t_0/1 Plant.png"
 			}
 		},
 		{
-			"name": "Skeleton RAW",
+			"name": "2/1 Skeleton",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Skeleton",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/5t_Skeleton RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/5t_2/1 Skeleton.png"
 			}
 		},
 		{
-			"name": "Boros Soldier RAW",
+			"name": "1/1 Boros Soldier",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/17t_Boros Soldier RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/17t_1/1 Boros Soldier.png"
 			}
 		},
 		{
-			"name": "Treasure RNF",
+			"name": "Treasure",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/20t_Treasure RNF.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/20t_Treasure.png"
 			}
 		},
 		{
-			"name": "Citizen",
+			"name": "2/2 Citizen",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Citizen",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/12t_Citizen.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/12t_2/2 Citizen.png"
 			}
 		},
 		{
-			"name": "1/1 Elemental RAW",
+			"name": "1/1 Elemental",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/7t_1/1 Elemental RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/7t_1/1 Elemental.png"
 			}
 		},
 		{
@@ -2491,33 +2491,33 @@
 			}
 		},
 		{
-			"name": "Azorius Soldier RAW",
+			"name": "1/1 Azorius Soldier",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/16t_Azorius Soldier RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/16t_1/1 Azorius Soldier.png"
 			}
 		},
 		{
-			"name": "Sphinx",
+			"name": "4/4 Sphinx",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Sphinx",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/18t_Sphinx.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/18t_4/4 Sphinx.png"
 			}
 		},
 		{
-			"name": "Angel RAW",
+			"name": "4/4 Angel",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Angel",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/1t_Angel RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/1t_4/4 Angel.png"
 			}
 		},
 		{
@@ -2551,53 +2551,53 @@
 			}
 		},
 		{
-			"name": "Demon RAW",
+			"name": "6/6 Demon",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demon",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/4t_Demon RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/4t_6/6 Demon.png"
 			}
 		},
 		{
-			"name": "Spirit RAW",
+			"name": "2/2 Spirit",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/3t_Spirit RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/3t_2/2 Spirit.png"
 			}
 		},
 		{
-			"name": "Eidolon Elemental RAW",
+			"name": "5/1 Eidolon Elemental",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/8t_Eidolon Elemental RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/8t_5/1 Eidolon Elemental.png"
 			}
 		},
 		{
-			"name": "Goblin RAW",
+			"name": "1/1 Goblin",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Goblin",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/9t_Goblin RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/9t_1/1 Goblin.png"
 			}
 		},
 		{
-			"name": "Human RAW",
+			"name": "1/1 Human",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/2t_Human RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/2t_1/1 Human.png"
 			}
 		},
 		{
@@ -2695,9 +2695,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/37_Detain Wisdom.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/36_Detain Wisdom.png"
 			}
 		},
 		{
@@ -2705,9 +2705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "40",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/40_Enfeebling Shackles.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/39_Enfeebling Shackles.png"
 			}
 		},
 		{
@@ -2715,9 +2715,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/46_Inquire.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/45_Inquire.png"
 			}
 		},
 		{
@@ -2725,9 +2725,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/47_Jelenn Grand Elocutor.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/46_Jelenn Grand Elocutor.png"
 			}
 		},
 		{
@@ -2911,13 +2911,13 @@
 			}
 		},
 		{
-			"name": "Drake RAW",
+			"name": "2/2 Drake",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Drake",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/13t_Drake RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/13t_2/2 Drake.png"
 			}
 		},
 		{
@@ -2941,13 +2941,13 @@
 			}
 		},
 		{
-			"name": "Thopter RAW",
+			"name": "1/1 Thopter",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Thopter",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/19t_Thopter RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/19t_1/1 Thopter.png"
 			}
 		}
 	]
@@ -3143,7 +3143,7 @@
 	5 Lyev Skywatch
 	5 Chains of Submission
 	5 Reprocess Essence
-	5 Cleanse
+	5 Oust
 	5 Void Wave
 	5 Fungal Pest
 	5 Carnarium Acrobat
@@ -3205,7 +3205,12 @@
 	5 Simic Insignia
 	5 Rakdos Insignia
 	5 Golgari Insignia
+	5 Azorius Guildgate
+	5 Boros Guildgate
 	5 Undercity Entrance
+	5 Golgari Guildgate
+	5 Rakdos Guildgate
+	5 Simic Guildgate
 	5 Rakdos Trailblazer
 	5 Infested Maneater
 	5 Accelerated Growth
@@ -3220,9 +3225,3 @@
 	5 Peruse the Law
 	5 Safeguard
 	5 Sphinx Lawbinder
-[commonland(1)]
-	5 Azorius Guildgate
-	5 Boros Guildgate
-	5 Golgari Guildgate
-	5 Rakdos Guildgate
-	5 Simic Guildgate
