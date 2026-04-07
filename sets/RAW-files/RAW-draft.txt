@@ -2571,13 +2571,13 @@
 			}
 		},
 		{
-			"name": "5/1 Elemental RAW",
+			"name": "Eidolon Elemental RAW",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/8t_5/1 Elemental RAW.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/8t_Eidolon Elemental RAW.png"
 			}
 		},
 		{

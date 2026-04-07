@@ -1717,8 +1717,8 @@
         "position": ""
     },
     {
-        "card_name": "Devotion Guildmage",
-        "number": 221,
+        "card_name": "Wasteful Inheritor",
+        "number": 212,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1757,9 +1757,9 @@
         "position": ""
     },
     {
-        "card_name": "Skin",
-        "number": 242,
-        "shape": "fuse split",
+        "card_name": "Devotion Guildmage",
+        "number": 221,
+        "shape": "normal",
         "set": "RNF",
         "rotated": false,
         "position": ""
@@ -1797,9 +1797,9 @@
         "position": ""
     },
     {
-        "card_name": "Deadly Familiar",
-        "number": 165,
-        "shape": "normal",
+        "card_name": "Skin",
+        "number": 242,
+        "shape": "fuse split",
         "set": "RNF",
         "rotated": false,
         "position": ""
@@ -1837,8 +1837,8 @@
         "position": ""
     },
     {
-        "card_name": "Knight of Denial",
-        "number": 186,
+        "card_name": "Deadly Familiar",
+        "number": 165,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1877,8 +1877,8 @@
         "position": ""
     },
     {
-        "card_name": "Vengeful Return",
-        "number": 209,
+        "card_name": "Knight of Denial",
+        "number": 186,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1917,8 +1917,8 @@
         "position": ""
     },
     {
-        "card_name": "Treasured Pet",
-        "number": 232,
+        "card_name": "Vengeful Return",
+        "number": 209,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1952,7 +1952,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Treasured Pet",
+        "number": 232,
+        "shape": "normal",
+        "set": "RNF",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "Mass Scrambler",
@@ -2421,14 +2426,6 @@
         "position": ""
     },
     {
-        "card_name": "Wasteful Inheritor",
-        "number": 212,
-        "shape": "token",
-        "set": "RNF",
-        "rotated": false,
-        "position": ""
-    },
-    {
         "card_name": "Durn' Mir RNF",
         "number": 13,
         "shape": "token",
@@ -2467,6 +2464,9 @@
         "set": "RNF",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

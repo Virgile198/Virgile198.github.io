@@ -4712,7 +4712,7 @@
             "notes": "!exportname Spirit RAW\n!related Eidolon's Flight"
         },
         {
-            "card_name": "5/1 Elemental RAW",
+            "card_name": "Eidolon Elemental RAW",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental",
@@ -4727,7 +4727,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Allan Fonseca Freitas",
-            "notes": "!exportname 5/1 Elemental RAW\n!related Eidolon's Impetus"
+            "notes": "!exportname Eidolon Elemental RAW\n!related Eidolon's Impetus"
         },
         {
             "card_name": "Goblin RAW",

@@ -2747,7 +2747,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/212t_Wasteful Inheritor.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/212_Wasteful Inheritor.png"
 			}
 		},
 		{
@@ -3107,6 +3107,7 @@
 	5 Eidolon's Vitality
 	5 Outraged Avenger
 	5 Furious Pangoduan
+	5 Wasteful Inheritor
 	5 District Explorer
 	5 Ruins Scavenger
 	5 Replicating Flare

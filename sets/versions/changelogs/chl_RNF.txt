@@ -1,4 +1,12 @@
-﻿VERSION 60 CHANGELOG
+﻿VERSION 61 CHANGELOG
+====================
+
+
+
+Wasteful Inheritor
+
+
+VERSION 60 CHANGELOG
 ====================
 
 

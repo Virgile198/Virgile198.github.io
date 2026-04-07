@@ -4909,10 +4909,10 @@ Whenever this creature becomes the target of a spell you control, it rages. (You
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Wasteful Inheritor RNF</name>
+			<name>Wasteful Inheritor</name>
 			<text>Oblation 2 — When this creature enters, you may pay 2 life. When you do, create two Treasure tokens.
 {1}, Sacrifice another creature or token: Surveil 1, then draw a card.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/212t_Wasteful Inheritor.png" num="212">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/212_Wasteful Inheritor.png" num="212">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4925,7 +4925,6 @@ Whenever this creature becomes the target of a spell you control, it rages. (You
 				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<token>1</token>
 		</card>
 		<card>
 			<name>District Explorer</name>

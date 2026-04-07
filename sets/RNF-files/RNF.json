@@ -5049,11 +5049,11 @@
             "flavor_text": "[i]\u201cWhat's the point of having money if not to spend it at your every whim?\u201d[/i]",
             "pt": "3/5",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "RNF",
             "loyalty": "",
             "artist": "Enrique Mel\u00e9ndez Gal\u00e1n",
-            "notes": "!tag Orzhov\n!token Treasure RNF<2>"
+            "notes": "!tag Orzhov"
         },
         {
             "card_name": "District Explorer",
@@ -5398,5 +5398,5 @@
             "notes": "!tag Dimir"
         }
     ],
-    "version": 60
+    "version": 61
 }
