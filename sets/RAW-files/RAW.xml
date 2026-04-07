@@ -4171,9 +4171,9 @@ Exile all graveyards. Create X 1/1 black and green Insect creature tokens and yo
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Devil RAW RAW</name>
+			<name>1/1 Devil RAW</name>
 			<text>When this creature dies, it deals 1 damage to any target.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/6t_Devil RAW.png" num="6">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/6t_1/1 Devil.png" num="6">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4277,10 +4277,10 @@ Destroy target permanent. Add X mana in any combination of colors, where X is th
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Elemental Dog RAW RAW</name>
+			<name>2/1 Elemental Dog RAW</name>
 			<text>Menace, haste
 This creature can&apos;t block.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/14t_Elemental Dog RAW.png" num="14">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/14t_2/1 Elemental Dog.png" num="14">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4320,7 +4320,7 @@ This creature can&apos;t block.</text>
 			<reverse-related>Jubilent Sewer Cook</reverse-related>
 			<reverse-related count="3">Swarm Broodmother</reverse-related>
 			<reverse-related>Swarm Evangel</reverse-related>
-			<reverse-related count="1">Deathbloom Mandrake</reverse-related>
+			<reverse-related>Deathbloom Mandrake</reverse-related>
 			<reverse-related count="2">Infested Maneater</reverse-related>
 			<reverse-related count="x">Rotten Banquet</reverse-related>
 			<reverse-related count="3">Undercity Ravager</reverse-related>
@@ -4334,9 +4334,9 @@ This creature can&apos;t block.</text>
 			<reverse-related count="x">Voracious Deathstinger</reverse-related>
 		</card>
 		<card>
-			<name>Plant RAW RAW</name>
+			<name>0/1 Plant RAW</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/11t_Plant RAW.png" num="11">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/11t_0/1 Plant.png" num="11">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4353,9 +4353,9 @@ This creature can&apos;t block.</text>
 			<reverse-related>Lamiel, Deathsprout Cultivator</reverse-related>
 		</card>
 		<card>
-			<name>Skeleton RAW RAW</name>
+			<name>2/1 Skeleton RAW</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/5t_Skeleton RAW.png" num="5">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/5t_2/1 Skeleton.png" num="5">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4372,9 +4372,9 @@ This creature can&apos;t block.</text>
 			<reverse-related>Zafen, Scheming Necromancer</reverse-related>
 		</card>
 		<card>
-			<name>Boros Soldier RAW RAW</name>
+			<name>1/1 Boros Soldier RAW</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/17t_Boros Soldier RAW.png" num="17">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/17t_1/1 Boros Soldier.png" num="17">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4396,9 +4396,9 @@ This creature can&apos;t block.</text>
 			<reverse-related count="2"> Boros Examplar</reverse-related>
 		</card>
 		<card>
-			<name>Treasure RNF RAW</name>
+			<name>Treasure RAW</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/20t_Treasure RNF.png" num="20">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/20t_Treasure.png" num="20">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4417,9 +4417,9 @@ This creature can&apos;t block.</text>
 			<reverse-related>Juri, Charimastic Performer</reverse-related>
 		</card>
 		<card>
-			<name>Citizen RAW</name>
+			<name>2/2 Citizen RAW</name>
 			<text>This creature is all colors.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/12t_Citizen.png" num="12">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/12t_2/2 Citizen.png" num="12">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4432,11 +4432,12 @@ This creature can&apos;t block.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse-related>Plaza&apos;s Omenpath</reverse-related>
 		</card>
 		<card>
-			<name>1/1 Elemental RAW RAW</name>
+			<name>1/1 Elemental RAW</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/7t_1/1 Elemental RAW.png" num="7">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/7t_1/1 Elemental.png" num="7">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4471,9 +4472,9 @@ This creature can&apos;t block.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Azorius Soldier RAW RAW</name>
+			<name>1/1 Azorius Soldier RAW</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/16t_Azorius Soldier RAW.png" num="16">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/16t_1/1 Azorius Soldier.png" num="16">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4508,9 +4509,9 @@ This creature can&apos;t block.</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>Angel RAW RAW</name>
+			<name>4/4 Angel RAW</name>
 			<text>Flying, vigilance</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/1t_Angel RAW.png" num="1">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/1t_4/4 Angel.png" num="1">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4583,9 +4584,9 @@ Choose one —
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Demon RAW RAW</name>
+			<name>6/6 Demon RAW</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/4t_Demon RAW.png" num="4">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/4t_6/6 Demon.png" num="4">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4602,9 +4603,9 @@ Choose one —
 			<reverse-related>Demon Progeny</reverse-related>
 		</card>
 		<card>
-			<name>Spirit RAW RAW</name>
+			<name>2/2 Spirit RAW</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/3t_Spirit RAW.png" num="3">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/3t_2/2 Spirit.png" num="3">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4621,9 +4622,9 @@ Choose one —
 			<reverse-related>Eidolon&apos;s Flight</reverse-related>
 		</card>
 		<card>
-			<name>Eidolon Elemental RAW RAW</name>
+			<name>5/1 Elemental RAW</name>
 			<text>Trample, haste</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/8t_Eidolon Elemental RAW.png" num="8">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/8t_5/1 Elemental.png" num="8">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4640,9 +4641,9 @@ Choose one —
 			<reverse-related>Eidolon&apos;s Impetus</reverse-related>
 		</card>
 		<card>
-			<name>Goblin RAW RAW</name>
+			<name>1/1 Goblin RAW</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/9t_Goblin RAW.png" num="9">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/9t_1/1 Goblin.png" num="9">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4660,9 +4661,9 @@ Choose one —
 			<reverse-related count="3">Krenko&apos;s Ransack</reverse-related>
 		</card>
 		<card>
-			<name>Human RAW RAW</name>
+			<name>1/1 Human RAW</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/2t_Human RAW.png" num="2">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/2t_1/1 Human.png" num="2">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5230,9 +5231,9 @@ You have hexproof.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Drake RAW RAW</name>
+			<name>2/2 Drake RAW</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/13t_Drake RAW.png" num="13">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/13t_2/2 Drake.png" num="13">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5286,9 +5287,9 @@ You may cast creature spells without paying paying their mana cost.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Thopter RAW RAW</name>
+			<name>1/1 Thopter RAW</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/19t_Thopter RAW.png" num="19">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/19t_1/1 Thopter.png" num="19">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

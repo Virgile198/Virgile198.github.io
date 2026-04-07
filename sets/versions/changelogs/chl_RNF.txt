@@ -1,4 +1,48 @@
-﻿VERSION 61 CHANGELOG
+﻿VERSION 62 CHANGELOG
+====================
+
+1/1 Saproling added.
+1/1 Spirit added.
+Hellion Star added.
+1/1 Construct added.
+2/2 Zombie added.
+Zombie Star added.
+2/2 Citizen added.
+Elemental Star added.
+1/1 Bird added.
+2/2 Elf Knight added.
+Treasure added.
+3/3 Elemental added.
+1/1 Soldier added.
+4/4 Rhino added.
+5/5 Wurm added.
+2/3 Durn' Mir added.
+1/1 Faerie added.
+3/3 Centaur added.
+1/1 Bat added.
+
+Saproling RNF removed.
+Spirit RNF removed.
+Hellion RNF removed.
+Construct RNF removed.
+Zombie RNF removed.
+Zombie Star RNF removed.
+Citizen RNF removed.
+Elemental Star RNF removed.
+Bird RNF removed.
+Elf Knight RNF removed.
+Treasure RNF removed.
+3/3 Elemental RNF removed.
+Soldier RNF removed.
+Rhino RNF removed.
+Wurm RNF removed.
+Durn' Mir RNF removed.
+Faerie RNF removed.
+Centaur RNF removed.
+Bat RNF removed.
+
+
+VERSION 61 CHANGELOG
 ====================
 
 

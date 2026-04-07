@@ -2044,9 +2044,9 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Saproling RNF RNF</name>
+			<name>1/1 Saproling RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/10t_Saproling RNF.png" num="10">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/10t_1/1 Saproling.png" num="10">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2070,9 +2070,9 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			<reverse-related count="x">Spore Waltz</reverse-related>
 		</card>
 		<card>
-			<name>Spirit RNF RNF</name>
+			<name>1/1 Spirit RNF</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/17t_Spirit RNF.png" num="17">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/17t_1/1 Spirit.png" num="17">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2091,9 +2091,9 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			<reverse-related>Teysa Karlov, Master of Deals</reverse-related>
 		</card>
 		<card>
-			<name>Hellion RNF RNF</name>
+			<name>Hellion Star RNF</name>
 			<text>Haste</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/16t_Hellion RNF.png" num="16">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/16t_Hellion Star.png" num="16">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2110,9 +2110,9 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			<reverse-related>Rakasht, Spawn of Ulasht</reverse-related>
 		</card>
 		<card>
-			<name>Construct RNF RNF</name>
+			<name>1/1 Construct RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/18t_Construct RNF.png" num="18">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/18t_1/1 Construct.png" num="18">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2128,9 +2128,9 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			<reverse-related count="x">Workshop Supervisor</reverse-related>
 		</card>
 		<card>
-			<name>Zombie RNF RNF</name>
+			<name>2/2 Zombie RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/5t_Zombie RNF.png" num="5">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/5t_2/2 Zombie.png" num="5">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2147,9 +2147,9 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			<reverse-related>Writhing Amalgamate</reverse-related>
 		</card>
 		<card>
-			<name>Zombie Star RNF RNF</name>
+			<name>Zombie Star RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/6t_Zombie Star RNF.png" num="6">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/6t_Zombie Star.png" num="6">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2166,9 +2166,9 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			<reverse-related>Vitality // Vitelline</reverse-related>
 		</card>
 		<card>
-			<name>Citizen RNF RNF</name>
+			<name>2/2 Citizen RNF</name>
 			<text>This creature is all colors.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/12t_Citizen RNF.png" num="12">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/12t_2/2 Citizen.png" num="12">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2184,9 +2184,9 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			<reverse-related>Vault of the Paruns</reverse-related>
 		</card>
 		<card>
-			<name>Elemental Star RNF RNF</name>
+			<name>Elemental Star RNF</name>
 			<text>This creature&apos;s power and toughness are each equal to the number of creatures you control.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/14t_Elemental Star RNF.png" num="14">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/14t_Elemental Star.png" num="14">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2203,9 +2203,9 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			<reverse-related>Rise // Shine</reverse-related>
 		</card>
 		<card>
-			<name>Bird RNF RNF</name>
+			<name>1/1 Bird RNF</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/1t_Bird RNF.png" num="1">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/1t_1/1 Bird.png" num="1">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2223,9 +2223,9 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			<reverse-related count="2">Sowing Courier</reverse-related>
 		</card>
 		<card>
-			<name>Elf Knight RNF RNF</name>
+			<name>2/2 Elf Knight RNF</name>
 			<text>Vigilance</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/15t_Elf Knight RNF.png" num="15">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/15t_2/2 Elf Knight.png" num="15">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2243,9 +2243,9 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			<reverse-related>Selesnya Insignia</reverse-related>
 		</card>
 		<card>
-			<name>Treasure RNF RNF</name>
+			<name>Treasure RNF</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/19t_Treasure RNF.png" num="19">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/19t_Treasure.png" num="19">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2265,9 +2265,9 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			<reverse-related count="2">Wasteful Inheritor</reverse-related>
 		</card>
 		<card>
-			<name>3/3 Elemental RNF RNF</name>
+			<name>3/3 Elemental RNF</name>
 			<text>Haste</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/7t_3/3 Elemental RNF.png" num="7">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/7t_3/3 Elemental.png" num="7">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4405,9 +4405,9 @@ Whenever one or more cards leave your graveyard, surveil 1. (Look at the top car
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Soldier RNF RNF</name>
+			<name>1/1 Soldier RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/2t_Soldier RNF.png" num="2">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/2t_1/1 Soldier.png" num="2">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4425,9 +4425,9 @@ Whenever one or more cards leave your graveyard, surveil 1. (Look at the top car
 			<reverse-related>Devoted Marshal</reverse-related>
 		</card>
 		<card>
-			<name>Rhino RNF RNF</name>
+			<name>4/4 Rhino RNF</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/9t_Rhino RNF.png" num="9">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/9t_4/4 Rhino.png" num="9">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4444,9 +4444,9 @@ Whenever one or more cards leave your graveyard, surveil 1. (Look at the top car
 			<reverse-related>Flowerbed Envoy&apos;s Call</reverse-related>
 		</card>
 		<card>
-			<name>Wurm RNF RNF</name>
+			<name>5/5 Wurm RNF</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/11t_Wurm RNF.png" num="11">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/11t_5/5 Wurm.png" num="11">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4463,9 +4463,9 @@ Whenever one or more cards leave your graveyard, surveil 1. (Look at the top car
 			<reverse-related>Worldring Ouroboros</reverse-related>
 		</card>
 		<card>
-			<name>Durn&apos; Mir RNF RNF</name>
+			<name>2/3 Durn&apos; Mir RNF</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/13t_Durn&apos; Mir RNF.png" num="13">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/13t_2/3 Durn&apos; Mir.png" num="13">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4555,9 +4555,9 @@ When enchanted creature dies, return it to the battlefield tapped under its owne
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Faerie RNF RNF</name>
+			<name>1/1 Faerie RNF</name>
 			<text>Flying, prowess</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/3t_Faerie RNF.png" num="3">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/3t_1/1 Faerie.png" num="3">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4818,9 +4818,9 @@ Enchanted creature gets +1/+2 and has hexproof from monocolored.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Centaur RNF RNF</name>
+			<name>3/3 Centaur RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/8t_Centaur RNF.png" num="8">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/8t_3/3 Centaur.png" num="8">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4961,9 +4961,9 @@ Whenever this creature becomes the target of a spell you control, it rages. (You
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Bat RNF RNF</name>
+			<name>1/1 Bat RNF</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/4t_Bat RNF.png" num="4">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/4t_1/1 Bat.png" num="4">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

@@ -4298,7 +4298,7 @@
             "notes": "!tag Golgari"
         },
         {
-            "card_name": "Devil RAW",
+            "card_name": "1/1 Devil",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Devil",
@@ -4313,7 +4313,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Kev Walker",
-            "notes": "!exportname Devil RAW\n!tag Rakdos\n!related Welcoming Ringleader"
+            "notes": "!exportname 1/1 Devil\n!tag Rakdos\n!related Welcoming Ringleader"
         },
         {
             "card_name": "Rakdos Trailblazer",
@@ -4406,7 +4406,7 @@
             "notes": "!tag Golgari"
         },
         {
-            "card_name": "Elemental Dog RAW",
+            "card_name": "2/1 Elemental Dog",
             "color": "BR",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental Dog",
@@ -4421,7 +4421,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Oceane Roh",
-            "notes": "!exportname Elemental Dog RAW\n!tag Rakdos\n!related The Show Never Ends;Unleash // Unlearn<2>;Xaren, Rakdos Uncager"
+            "notes": "!exportname 2/1 Elemental Dog\n!tag Rakdos\n!related The Show Never Ends;Unleash // Unlearn<2>;Xaren, Rakdos Uncager"
         },
         {
             "card_name": "Insect",
@@ -4439,10 +4439,10 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Ben Wootten",
-            "notes": "!exprtname Insect RAW\n!related Daughter of Stone Death<2>;Eidolon's Infestation;Jubilent Sewer Cook;Swarm Broodmother<3>;Swarm Evangel;Deathbloom Mandrake<1>;Infested Maneater<2>;Rotten Banquet<x>;Undercity Ravager<3>;Woodwraith Behemoth<2>;Corpse-Pit Goliath<x>;Ochran Stalker;Remains // Remake<x>;Festering Mass<2>;Fungus Nursery<3>;Surging Horror<2>;Voracious Deathstinger<x>"
+            "notes": "!exprtname 1/1 Insect\n!related Daughter of Stone Death<2>;Eidolon's Infestation;Jubilent Sewer Cook;Swarm Broodmother<3>;Swarm Evangel;Deathbloom Mandrake;Infested Maneater<2>;Rotten Banquet<x>;Undercity Ravager<3>;Woodwraith Behemoth<2>;Corpse-Pit Goliath<x>;Ochran Stalker;Remains // Remake<x>;Festering Mass<2>;Fungus Nursery<3>;Surging Horror<2>;Voracious Deathstinger<x>"
         },
         {
-            "card_name": "Plant RAW",
+            "card_name": "0/1 Plant",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Plant",
@@ -4457,10 +4457,10 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Madeline Boni",
-            "notes": "!exportname Plant RAW\n!related Lamiel, Deathsprout Cultivator"
+            "notes": "!exportname 0/1 Plant\n!related Lamiel, Deathsprout Cultivator"
         },
         {
-            "card_name": "Skeleton RAW",
+            "card_name": "2/1 Skeleton",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Skeleton",
@@ -4475,10 +4475,10 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Camille Alquier",
-            "notes": "!exportname Skeleton RAW\n!related Zafen, Scheming Necromancer"
+            "notes": "!exportname 2/1 Skeleton\n!related Zafen, Scheming Necromancer"
         },
         {
-            "card_name": "Boros Soldier RAW",
+            "card_name": "1/1 Boros Soldier",
             "color": "WR",
             "rarity": "common",
             "type": "Token Creature \u2014 Soldier",
@@ -4493,10 +4493,10 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "David Palumbo",
-            "notes": "!exportname Boros Soldier RAW\n!related Boros Insignia<2>;Boros Standard Bearer;War Guildmage;Ordruun Marshall<2>;Tajic; Boros Examplar<2>"
+            "notes": "!exportname 1/1 Boros Soldier\n!related Boros Insignia<2>;Boros Standard Bearer;War Guildmage;Ordruun Marshall<2>;Tajic; Boros Examplar<2>"
         },
         {
-            "card_name": "Treasure RNF",
+            "card_name": "Treasure",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
@@ -4511,10 +4511,10 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Mark Behm",
-            "notes": "!exportname Treasure RNF\n!related Corpse Jeweler;Backstage Preparations;Circle Headliner;Goldscale Whelp;Krenko's Ransack;Juri, Charimastic Performer"
+            "notes": "!exportname Treasure\n!related Corpse Jeweler;Backstage Preparations;Circle Headliner;Goldscale Whelp;Krenko's Ransack;Juri, Charimastic Performer"
         },
         {
-            "card_name": "Citizen",
+            "card_name": "2/2 Citizen",
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Citizen",
@@ -4529,10 +4529,10 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Winona Nelson",
-            "notes": "!token"
+            "notes": "!exportname 2/2 Citizen\n!related Plaza's Omenpath"
         },
         {
-            "card_name": "1/1 Elemental RAW",
+            "card_name": "1/1 Elemental",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental",
@@ -4547,7 +4547,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Dungeon & Dragons",
-            "notes": "!exportname 1/1 Elemental RAW\n!related Ceaseless Anger<x>;Flame-kin Summoner;Spark Legion"
+            "notes": "!exportname 1/1 Elemental\n!related Ceaseless Anger<x>;Flame-kin Summoner;Spark Legion"
         },
         {
             "card_name": "Coerced Participation",
@@ -4568,7 +4568,7 @@
             "notes": "!tag Rakdos"
         },
         {
-            "card_name": "Azorius Soldier RAW",
+            "card_name": "1/1 Azorius Soldier",
             "color": "WU",
             "rarity": "common",
             "type": "Token Creature \u2014 Soldier",
@@ -4583,7 +4583,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Renan Morae",
-            "notes": "!exportname Azorius Soldier RAW\n!related Ready the Arresters<2>"
+            "notes": "!exportname 1/1 Azorius Soldier\n!related Ready the Arresters<2>"
         },
         {
             "card_name": "Sphinx",
@@ -4604,7 +4604,7 @@
             "notes": "!tag Azorius"
         },
         {
-            "card_name": "Angel RAW",
+            "card_name": "4/4 Angel",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Angel",
@@ -4619,7 +4619,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Volkan Ba\u01f5a",
-            "notes": "!exportname Angel RAW\n!tag Boros\n!related On Wings of Fury"
+            "notes": "!exportname 4/4 Angel\n!tag Boros\n!related On Wings of Fury"
         },
         {
             "card_name": "Ooze",
@@ -4676,7 +4676,7 @@
             "notes": ""
         },
         {
-            "card_name": "Demon RAW",
+            "card_name": "6/6 Demon",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Demon",
@@ -4691,10 +4691,10 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Aaron Miller",
-            "notes": "!exportname Demon RAW\n!token\n!related Demon Progeny"
+            "notes": "!exportname 6/6 Demon\n!token\n!related Demon Progeny"
         },
         {
-            "card_name": "Spirit RAW",
+            "card_name": "2/2 Spirit",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Spirit",
@@ -4709,10 +4709,10 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Aaron Nakahara",
-            "notes": "!exportname Spirit RAW\n!related Eidolon's Flight"
+            "notes": "!exportname 2/2 Spirit\n!related Eidolon's Flight"
         },
         {
-            "card_name": "Eidolon Elemental RAW",
+            "card_name": "5/1 Elemental",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental",
@@ -4727,10 +4727,10 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Allan Fonseca Freitas",
-            "notes": "!exportname Eidolon Elemental RAW\n!related Eidolon's Impetus"
+            "notes": "!exportname 5/1 Elemental\n!related Eidolon's Impetus"
         },
         {
-            "card_name": "Goblin RAW",
+            "card_name": "1/1 Goblin",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Goblin",
@@ -4745,10 +4745,10 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Mark Zug",
-            "notes": "!exportname Goblin RAW\n!related Firstblade Lieutenant;Krenko's Ransack<3>"
+            "notes": "!exportname 1/1 Goblin\n!related Firstblade Lieutenant;Krenko's Ransack<3>"
         },
         {
-            "card_name": "Human RAW",
+            "card_name": "1/1 Human",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Human",
@@ -4763,7 +4763,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Bram Sels",
-            "notes": "!exportname Human RAW\n!related Bounty Claimer<x>;Righteous Uprising;Furious Upheaval<2>"
+            "notes": "!exportname 1/1 Human\n!related Bounty Claimer<x>;Righteous Uprising;Furious Upheaval<2>"
         },
         {
             "card_name": "Azorius Lawbringer",
@@ -5344,7 +5344,7 @@
             "notes": "!tag Azorius"
         },
         {
-            "card_name": "Drake RAW",
+            "card_name": "2/2 Drake",
             "color": "UG",
             "rarity": "common",
             "type": "Token Creature \u2014 Drake",
@@ -5359,7 +5359,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Nick Percival",
-            "notes": "!exportname Drake RAW\n!Simic\n!related Vannifar, Voice of the Combine<2>"
+            "notes": "!exportname 2/2 Drake\n!Simic\n!related Vannifar, Voice of the Combine<2>"
         },
         {
             "card_name": "Deadly Spore Storm",
@@ -5398,7 +5398,7 @@
             "notes": "!tag Azorius"
         },
         {
-            "card_name": "Thopter RAW",
+            "card_name": "1/1 Thopter",
             "color": "WU",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Thopter",
@@ -5413,8 +5413,8 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Darren Tan",
-            "notes": "!exportname Thopter RAW\n!tag Azorius\n!related Pursuit // Purification<2>;Octave, Deputy of Discipline"
+            "notes": "!exportname 1/1 Thopter\n!tag Azorius\n!related Pursuit // Purification<2>;Octave, Deputy of Discipline"
         }
     ],
-    "version": 20
+    "version": 21
 }

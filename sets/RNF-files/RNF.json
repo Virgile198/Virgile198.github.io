@@ -2094,7 +2094,7 @@
             "notes": "!tag Orzhov"
         },
         {
-            "card_name": "Saproling RNF",
+            "card_name": "1/1 Saproling",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Saproling",
@@ -2109,10 +2109,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "T. Alex Mills",
-            "notes": "!exportname Saproling RNF\n!related Ironroot Bindings;Rise // Shine<2>;Mossback Pulverizer;Harmony Guildmage;Ayla, Harmony's Embrace;Blessing of Vitu-Ghazi;Emmara, Ancestral Caregiver;Spore Waltz<x>"
+            "notes": "!exportname 1/1 Saproling\n!related Ironroot Bindings;Rise // Shine<2>;Mossback Pulverizer;Harmony Guildmage;Ayla, Harmony's Embrace;Blessing of Vitu-Ghazi;Emmara, Ancestral Caregiver;Spore Waltz<x>"
         },
         {
-            "card_name": "Spirit RNF",
+            "card_name": "1/1 Spirit",
             "color": "WB",
             "rarity": "common",
             "type": "Token Creature \u2014 Spirit",
@@ -2127,10 +2127,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Josh Hass",
-            "notes": "!exportname Spirit RNF\n!tag Orzhov\n!related Cemetery Guardian;Vitality // Vitelline;Teysa Karlov, Master of Deals"
+            "notes": "!exportname 1/1 Spirit\n!tag Orzhov\n!related Cemetery Guardian;Vitality // Vitelline;Teysa Karlov, Master of Deals"
         },
         {
-            "card_name": "Hellion RNF",
+            "card_name": "Hellion Star",
             "color": "RG",
             "rarity": "common",
             "type": "Token Creature \u2014 Hellion",
@@ -2145,10 +2145,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "AlexKonstad",
-            "notes": "!exportname Hellion RNF\n!tag Gruul\n!related Rakasht, Spawn of Ulasht"
+            "notes": "!exportname Hellion Star\n!tag Gruul\n!related Rakasht, Spawn of Ulasht"
         },
         {
-            "card_name": "Construct RNF",
+            "card_name": "1/1 Construct",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Construct",
@@ -2163,10 +2163,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Aleksi Briclot",
-            "notes": "!exportname Construct RNF\n!related Factory Line<x>;Workshop Supervisor<x>"
+            "notes": "!exportname 1/1 Construct\n!related Factory Line<x>;Workshop Supervisor<x>"
         },
         {
-            "card_name": "Zombie RNF",
+            "card_name": "2/2 Zombie",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Zombie",
@@ -2181,10 +2181,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Florian Herold",
-            "notes": "!exportname Zombie RNF\n!related Writhing Amalgamate"
+            "notes": "!exportname 2/2 Zombie\n!related Writhing Amalgamate"
         },
         {
-            "card_name": "Zombie Star RNF",
+            "card_name": "Zombie Star",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Zombie",
@@ -2199,10 +2199,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Neronapalm",
-            "notes": "!exportname Zombie Star RNF\n!related Vitality // Vitelline"
+            "notes": "!exportname Zombie Star\n!related Vitality // Vitelline"
         },
         {
-            "card_name": "Citizen RNF",
+            "card_name": "2/2 Citizen",
             "color": "",
             "rarity": "common",
             "type": "Token Creature \u2014 Citizen",
@@ -2217,10 +2217,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Winona Nelson",
-            "notes": "!exportname Citizen RNF\n!token\n!related Vault of the Paruns"
+            "notes": "!exportname 2/2 Citizen\n!related Vault of the Paruns"
         },
         {
-            "card_name": "Elemental Star RNF",
+            "card_name": "Elemental Star",
             "color": "WG",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental",
@@ -2235,10 +2235,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mark Winters",
-            "notes": "!exportname Elemental Star RNF\n!tag Selesnya\n!related Rise // Shine"
+            "notes": "!exportname Elemental Star\n!tag Selesnya\n!related Rise // Shine"
         },
         {
-            "card_name": "Bird RNF",
+            "card_name": "1/1 Bird",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Bird",
@@ -2253,10 +2253,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "James Ryman",
-            "notes": "!exportname Bird RNF\n!tag Selesnya\n!related Dew's Benediction;Sowing Courier<2>"
+            "notes": "!exportname 1/1 Bird\n!tag Selesnya\n!related Dew's Benediction;Sowing Courier<2>"
         },
         {
-            "card_name": "Elf Knight RNF",
+            "card_name": "2/2 Elf Knight",
             "color": "WG",
             "rarity": "common",
             "type": "Token Creature \u2014 Elf Knight",
@@ -2271,10 +2271,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Tomasz Jedruszek",
-            "notes": "!exportname Elf Knight RNF\n!tag Selesnya\n!related Ledev Captain;Selesnya Insignia"
+            "notes": "!exportname 2/2 Elf Knight\n!tag Selesnya\n!related Ledev Captain;Selesnya Insignia"
         },
         {
-            "card_name": "Treasure RNF",
+            "card_name": "Treasure",
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
@@ -2289,10 +2289,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Mark Behm",
-            "notes": "!exportname Treasure RNF\n!related Tin Street;Orzhov Exorcist;Devoted Marshal;Mad Alchemist;Repurpose the Scraps;Teysa Karlov, Master of Deals;Wasteful Inheritor<2>"
+            "notes": "!exportname Treasure\n!related Tin Street;Orzhov Exorcist;Devoted Marshal;Mad Alchemist;Repurpose the Scraps;Teysa Karlov, Master of Deals;Wasteful Inheritor<2>"
         },
         {
-            "card_name": "3/3 Elemental RNF",
+            "card_name": "3/3 Elemental",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental",
@@ -2307,7 +2307,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "ConceptartistJR",
-            "notes": "!exportname 3/3 Elemental RNF\n!tag Gruul\n!related Fires of Reclamation"
+            "notes": "!exportname 3/3 Elemental\n!tag Gruul\n!related Fires of Reclamation"
         },
         {
             "card_name": "Zhur-Taa Ember Shaman",
@@ -4524,7 +4524,7 @@
             "notes": "!tag hate"
         },
         {
-            "card_name": "Soldier RNF",
+            "card_name": "1/1 Soldier",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Soldier",
@@ -4539,10 +4539,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Alonzo Emata",
-            "notes": "!exportname Soldier RNF\n!token\n!related Eidolon's Call<2>;Devoted Marshal"
+            "notes": "!exportname 1/1 Soldier\n!related Eidolon's Call<2>;Devoted Marshal"
         },
         {
-            "card_name": "Rhino RNF",
+            "card_name": "4/4 Rhino",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Rhino",
@@ -4557,10 +4557,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Aaron Miller",
-            "notes": "!exportname Rhino RNF\n!tag Selesnya\n!related Flowerbed Envoy's Call"
+            "notes": "!exportname 4/4 Rhino\n!tag Selesnya\n!related Flowerbed Envoy's Call"
         },
         {
-            "card_name": "Wurm RNF",
+            "card_name": "5/5 Wurm",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Wurm",
@@ -4575,10 +4575,10 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Anthony Palumbo",
-            "notes": "!exportname Wurm RNF\n!tag Selesnya\n!related Worldring Ouroboros"
+            "notes": "!exportname 5/5 Wurm\n!tag Selesnya\n!related Worldring Ouroboros"
         },
         {
-            "card_name": "Durn' Mir RNF",
+            "card_name": "2/3 Durn' Mir",
             "color": "WG",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Bird",
@@ -4593,7 +4593,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Chris-Owl",
-            "notes": "!exportname Durn' Mir RNF\n!tag Selesnya\n!related Alcarus, Old Growth Protector"
+            "notes": "!exportname 2/3 Durn' Mir\n!tag Selesnya\n!related Alcarus, Old Growth Protector"
         },
         {
             "card_name": "Aspect of Uniformity",
@@ -4678,7 +4678,7 @@
             "notes": "!tag Orzhov"
         },
         {
-            "card_name": "Faerie RNF",
+            "card_name": "1/1 Faerie",
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Faerie",
@@ -4693,7 +4693,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "SteveSketches",
-            "notes": "!exportname Faerie RNF\n!related Essencesnatch"
+            "notes": "!exportname 1/1 Faerie\n!related Essencesnatch"
         },
         {
             "card_name": "Conclave Spirewatch",
@@ -4948,7 +4948,7 @@
             "notes": ""
         },
         {
-            "card_name": "Centaur RNF",
+            "card_name": "3/3 Centaur",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Centaur",
@@ -4963,7 +4963,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Federico Arguissein",
-            "notes": "!exportname Centaur RNF\n!tag Selesnya\n!related Ledev Rescue"
+            "notes": "!exportname 3/3 Centaur\n!tag Selesnya\n!related Ledev Rescue"
         },
         {
             "card_name": "Druid of the Votary",
@@ -5092,7 +5092,7 @@
             "notes": ""
         },
         {
-            "card_name": "Bat RNF",
+            "card_name": "1/1 Bat",
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Bat",
@@ -5107,7 +5107,7 @@
             "set": "RNF",
             "loyalty": "",
             "artist": "Philippine VANHOUTTE",
-            "notes": "!exportname Bat RNF\n!tag Orzhov\n!related Cleanser of Debt"
+            "notes": "!exportname 1/1 Bat\n!tag Orzhov\n!related Cleanser of Debt"
         },
         {
             "card_name": "Deep Wound",
@@ -5398,5 +5398,5 @@
             "notes": "!tag Dimir"
         }
     ],
-    "version": 61
+    "version": 62
 }

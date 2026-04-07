@@ -2314,7 +2314,7 @@
     },
     "a->token",
     {
-        "card_name": "Citizen RNF",
+        "card_name": "2/2 Citizen",
         "number": 12,
         "shape": "token",
         "set": "RNF",
@@ -2322,7 +2322,7 @@
         "position": ""
     },
     {
-        "card_name": "Construct RNF",
+        "card_name": "1/1 Construct",
         "number": 18,
         "shape": "token",
         "set": "RNF",
@@ -2330,7 +2330,7 @@
         "position": ""
     },
     {
-        "card_name": "Treasure RNF",
+        "card_name": "Treasure",
         "number": 19,
         "shape": "token",
         "set": "RNF",
@@ -2338,7 +2338,7 @@
         "position": ""
     },
     {
-        "card_name": "Bird RNF",
+        "card_name": "1/1 Bird",
         "number": 1,
         "shape": "token",
         "set": "RNF",
@@ -2346,7 +2346,7 @@
         "position": ""
     },
     {
-        "card_name": "Soldier RNF",
+        "card_name": "1/1 Soldier",
         "number": 2,
         "shape": "token",
         "set": "RNF",
@@ -2354,7 +2354,7 @@
         "position": ""
     },
     {
-        "card_name": "Faerie RNF",
+        "card_name": "1/1 Faerie",
         "number": 3,
         "shape": "token",
         "set": "RNF",
@@ -2362,7 +2362,7 @@
         "position": ""
     },
     {
-        "card_name": "Bat RNF",
+        "card_name": "1/1 Bat",
         "number": 4,
         "shape": "token",
         "set": "RNF",
@@ -2370,7 +2370,7 @@
         "position": ""
     },
     {
-        "card_name": "Zombie RNF",
+        "card_name": "2/2 Zombie",
         "number": 5,
         "shape": "token",
         "set": "RNF",
@@ -2378,7 +2378,7 @@
         "position": ""
     },
     {
-        "card_name": "Zombie Star RNF",
+        "card_name": "Zombie Star",
         "number": 6,
         "shape": "token",
         "set": "RNF",
@@ -2386,7 +2386,7 @@
         "position": ""
     },
     {
-        "card_name": "3/3 Elemental RNF",
+        "card_name": "3/3 Elemental",
         "number": 7,
         "shape": "token",
         "set": "RNF",
@@ -2394,7 +2394,7 @@
         "position": ""
     },
     {
-        "card_name": "Centaur RNF",
+        "card_name": "3/3 Centaur",
         "number": 8,
         "shape": "token",
         "set": "RNF",
@@ -2402,7 +2402,7 @@
         "position": ""
     },
     {
-        "card_name": "Rhino RNF",
+        "card_name": "4/4 Rhino",
         "number": 9,
         "shape": "token",
         "set": "RNF",
@@ -2410,7 +2410,7 @@
         "position": ""
     },
     {
-        "card_name": "Saproling RNF",
+        "card_name": "1/1 Saproling",
         "number": 10,
         "shape": "token",
         "set": "RNF",
@@ -2418,7 +2418,7 @@
         "position": ""
     },
     {
-        "card_name": "Wurm RNF",
+        "card_name": "5/5 Wurm",
         "number": 11,
         "shape": "token",
         "set": "RNF",
@@ -2426,7 +2426,7 @@
         "position": ""
     },
     {
-        "card_name": "Durn' Mir RNF",
+        "card_name": "2/3 Durn' Mir",
         "number": 13,
         "shape": "token",
         "set": "RNF",
@@ -2434,7 +2434,7 @@
         "position": ""
     },
     {
-        "card_name": "Elemental Star RNF",
+        "card_name": "Elemental Star",
         "number": 14,
         "shape": "token",
         "set": "RNF",
@@ -2442,7 +2442,7 @@
         "position": ""
     },
     {
-        "card_name": "Elf Knight RNF",
+        "card_name": "2/2 Elf Knight",
         "number": 15,
         "shape": "token",
         "set": "RNF",
@@ -2450,7 +2450,7 @@
         "position": ""
     },
     {
-        "card_name": "Hellion RNF",
+        "card_name": "Hellion Star",
         "number": 16,
         "shape": "token",
         "set": "RNF",
@@ -2458,7 +2458,7 @@
         "position": ""
     },
     {
-        "card_name": "Spirit RNF",
+        "card_name": "1/1 Spirit",
         "number": 17,
         "shape": "token",
         "set": "RNF",

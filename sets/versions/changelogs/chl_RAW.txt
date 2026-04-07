@@ -1,4 +1,46 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+1/1 Devil added.
+2/1 Elemental Dog added.
+0/1 Plant added.
+2/1 Skeleton added.
+1/1 Boros Soldier added.
+Treasure added.
+2/2 Citizen added.
+1/1 Elemental added.
+1/1 Azorius Soldier added.
+4/4 Angel added.
+6/6 Demon added.
+2/2 Spirit added.
+5/1 Elemental added.
+1/1 Goblin added.
+1/1 Human added.
+2/2 Drake added.
+1/1 Thopter added.
+
+Devil RAW removed.
+Elemental Dog RAW removed.
+Plant RAW removed.
+Skeleton RAW removed.
+Boros Soldier RAW removed.
+Treasure RNF removed.
+Citizen removed.
+1/1 Elemental RAW removed.
+Azorius Soldier RAW removed.
+Angel RAW removed.
+Demon RAW removed.
+Spirit RAW removed.
+Eidolon Elemental RAW removed.
+Goblin RAW removed.
+Human RAW removed.
+Drake RAW removed.
+Thopter RAW removed.
+
+Insect
+
+
+VERSION 20 CHANGELOG
 ====================
 
 Eidolon Elemental RAW added.
