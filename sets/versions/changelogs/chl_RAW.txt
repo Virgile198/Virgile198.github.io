@@ -1,4 +1,16 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+1/1 Insect added.
+4/4 Sphinx added.
+5/1 Eidolon Elemental added.
+
+Insect removed.
+Sphinx removed.
+Eidolon Elemental removed.
+
+
+VERSION 22 CHANGELOG
 ====================
 
 Eidolon Elemental added.

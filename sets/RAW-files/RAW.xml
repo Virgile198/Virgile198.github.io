@@ -4299,9 +4299,9 @@ This creature can&apos;t block.</text>
 			<reverse-related>Xaren, Rakdos Uncager</reverse-related>
 		</card>
 		<card>
-			<name>Insect RAW</name>
+			<name>1/1 Insect RAW</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/15t_Insect.png" num="15">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/15t_1/1 Insect.png" num="15">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4491,9 +4491,9 @@ This creature can&apos;t block.</text>
 			<reverse-related count="2">Ready the Arresters</reverse-related>
 		</card>
 		<card>
-			<name>Sphinx RAW</name>
+			<name>4/4 Sphinx RAW</name>
 			<text>Flying, vigilance</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/18t_Sphinx.png" num="18">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/18t_4/4 Sphinx.png" num="18">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4507,6 +4507,7 @@ This creature can&apos;t block.</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+			<reverse-related>Octave, Deputy of Discipline</reverse-related>
 		</card>
 		<card>
 			<name>4/4 Angel RAW</name>
@@ -4622,9 +4623,9 @@ Choose one —
 			<reverse-related>Eidolon&apos;s Flight</reverse-related>
 		</card>
 		<card>
-			<name>Eidolon Elemental RAW</name>
+			<name>5/1 Eidolon Elemental RAW</name>
 			<text>Trample, haste</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/8t_Eidolon Elemental.png" num="8">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/8t_5/1 Eidolon Elemental.png" num="8">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

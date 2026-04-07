@@ -4424,7 +4424,7 @@
             "notes": "!exportname 2/1 Elemental Dog\n!tag Rakdos\n!related The Show Never Ends;Unleash // Unlearn<2>;Xaren, Rakdos Uncager"
         },
         {
-            "card_name": "Insect",
+            "card_name": "1/1 Insect",
             "color": "BG",
             "rarity": "common",
             "type": "Token Creature \u2014 Insect",
@@ -4439,7 +4439,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Ben Wootten",
-            "notes": "!exprtname 1/1 Insect\n!related Daughter of Stone Death<2>;Eidolon's Infestation;Jubilent Sewer Cook;Swarm Broodmother<3>;Swarm Evangel;Deathbloom Mandrake;Infested Maneater<2>;Rotten Banquet<x>;Undercity Ravager<3>;Woodwraith Behemoth<2>;Corpse-Pit Goliath<x>;Ochran Stalker;Remains // Remake<x>;Festering Mass<2>;Fungus Nursery<3>;Surging Horror<2>;Voracious Deathstinger<x>"
+            "notes": "!exportname 1/1 Insect\n!related Daughter of Stone Death<2>;Eidolon's Infestation;Jubilent Sewer Cook;Swarm Broodmother<3>;Swarm Evangel;Deathbloom Mandrake;Infested Maneater<2>;Rotten Banquet<x>;Undercity Ravager<3>;Woodwraith Behemoth<2>;Corpse-Pit Goliath<x>;Ochran Stalker;Remains // Remake<x>;Festering Mass<2>;Fungus Nursery<3>;Surging Horror<2>;Voracious Deathstinger<x>"
         },
         {
             "card_name": "0/1 Plant",
@@ -4586,7 +4586,7 @@
             "notes": "!exportname 1/1 Azorius Soldier\n!related Ready the Arresters<2>"
         },
         {
-            "card_name": "Sphinx",
+            "card_name": "4/4 Sphinx",
             "color": "WU",
             "rarity": "common",
             "type": "Token Creature \u2014 Sphinx",
@@ -4601,7 +4601,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Scott Murphy",
-            "notes": "!tag Azorius"
+            "notes": "!exportname 4/4 Sphinx\n!tag Azorius\n!related Octave, Deputy of Discipline"
         },
         {
             "card_name": "4/4 Angel",
@@ -4712,7 +4712,7 @@
             "notes": "!exportname 2/2 Spirit\n!related Eidolon's Flight"
         },
         {
-            "card_name": "Eidolon Elemental",
+            "card_name": "5/1 Eidolon Elemental",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental",
@@ -4727,7 +4727,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Allan Fonseca Freitas",
-            "notes": "!exportname Eidolon Elemental\n!related Eidolon's Impetus"
+            "notes": "!exportname 5/1 Eidolon Elemental\n!related Eidolon's Impetus"
         },
         {
             "card_name": "1/1 Goblin",
