@@ -864,7 +864,7 @@ Performance — Whenever this creature attacks, you may put a +1/+1 counter on i
 		<card>
 			<name>First District Paragon</name>
 			<text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)
-When this creature enters, if you control two or more Gates, up to one target creature gains lifelink and indestructible until your next turn.</text>
+When this creature enters, if you control two or more Gates, put a +1/+1 counter on target creature you control. It gains lifelink until end of turn.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/70_First District Paragon.png" num="70">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -5163,7 +5163,7 @@ Whenever you cast a spell, create a 1/1 white and blue Thopter artifact creature
 		</card>
 		<card>
 			<name>Peruse the Law</name>
-			<text>Choose one. If this spell was cast from exile, choose one or more instead.
+			<text>Choose one. If this spell was cast from exile, you may choose both instead.
 • You draw a card and gain 3 life.
 • Return target nonland permanent to its owner&apos;s hand.
 Preamble {2}{W}{U} ({2}{W}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)</text>

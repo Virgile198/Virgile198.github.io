@@ -877,7 +877,7 @@
             "number": 70,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\nWhen this creature enters, if you control two or more Gates, up to one target creature gains lifelink and indestructible until your next turn.",
+            "rules_text": "Lifelink [i](Damage dealt by this creature also causes you to gain that much life.)[/i]\nWhen this creature enters, if you control two or more Gates, put a +1/+1 counter on target creature you control. It gains lifelink until end of turn.",
             "flavor_text": "[i]\u201cNot even death will stop me from upholding my oath.\u201d[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -5279,7 +5279,7 @@
             "number": 191,
             "color_identity": "WU",
             "cost": "{W}{U}",
-            "rules_text": "Choose one. If this spell was cast from exile, choose one or more instead.\n\u2022 You draw a card and gain 3 life.\n\u2022 Return target nonland permanent to its owner's hand.\nPreamble {2}{W}{U} [i]({2}{W}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i]",
+            "rules_text": "Choose one. If this spell was cast from exile, you may choose both instead.\n\u2022 You draw a card and gain 3 life.\n\u2022 Return target nonland permanent to its owner's hand.\nPreamble {2}{W}{U} [i]({2}{W}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5416,5 +5416,5 @@
             "notes": "!exportname 1/1 Thopter\n!tag Azorius\n!related Pursuit // Purification<2>;Octave, Deputy of Discipline"
         }
     ],
-    "version": 25
+    "version": 26
 }
