@@ -5,7 +5,7 @@
 			<name>RAW</name>
 			<longname>Ravnica&apos;s Awakening</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-08</releasedate>
+			<releasedate>2026-04-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1249,7 +1249,7 @@ Exile target creature or planeswalker.</text>
 		</card>
 		<card>
 			<name>Eidolon&apos;s Infestation</name>
-			<text>When this enchantment enters, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. Create a 1/1 black and green Insect creature token.
+			<text>When this enchantment enters, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Create a 1/1 black and green Insect creature token.
 Whenever you cast a multicolored spell, return this enchantment to its owner&apos;s hand.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/68_Eidolon&apos;s Infestation.png" num="68">RAW</set>
 			<prop>
@@ -2003,54 +2003,52 @@ Choose one or more —
 		</card>
 		<card>
 			<name>Aspect of Rebirth</name>
-			<text>Whenever this creature enters or attacks, mill five cards. Then return up to one permanent card from your graveyard to your hand. When you do, put X +1/+1 counters on each creature you control, where X is the mana value of the permanent returned this way.</text>
+			<text>Whenever this creature enters or attacks, mill three cards. Then return up to one permanent card from your graveyard to your hand. If you return a land card to your hand this way, put a +1/+1 counter on each creature you control.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/119_Aspect of Rebirth.png" num="119">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Avatar</type>
 				<maintype>Creature</maintype>
-				<manacost>3GGG</manacost>
-				<cmc>6</cmc>
+				<manacost>2GGG</manacost>
+				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>4/4</pt>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Perfected Rebirth</name>
-			<text>As an additional cost to cast this spell, you may sacrifice a creature.
-Return target creature card from your graveyard to the battlefield. Then if the additional cost was cast, put X +1/+1 counters on it, where X is the total power and toughness of the sacrificed creature.</text>
+			<text>Once during each of your turn, you may cast a creature spell from your graveyard. If you cast a spell this way, that creature enters with a +1/+1 counter and a finality counter on it.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/135_Perfected Rebirth.png" num="135">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>2GG</manacost>
-				<cmc>4</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Insatiable Troll</name>
 			<text>Trample
-When this creature enters, it fights up to one target creature you don&apos;t control.
-{2}{G}{G}, Sacrifice two creatures: Return this card from your graveyard to the battlefield tapped with a finality counter on it. Activate only as a sorcery.</text>
+{T}, Sacrifice another creature: This creature fights target creature you don&apos;t control.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/132_Insatiable Troll.png" num="132">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Troll</type>
 				<maintype>Creature</maintype>
-				<manacost>4GG</manacost>
-				<cmc>6</cmc>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>5/5</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2064,7 +2062,7 @@ Swarm 2—{2}{G} ({2}{G}, Exile this card from your graveyard: Create two 1/1 bl
 				<side>front</side>
 				<type>Creature — Elemental Horror</type>
 				<maintype>Creature</maintype>
-				<manacost>2GG</manacost>
+				<manacost>3G</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -2209,7 +2207,7 @@ Whenever this creature enters, deals combat damage to a player or dies, create t
 				<side>front</side>
 				<type>Creature — Ooze Hydra Mutant</type>
 				<maintype>Creature</maintype>
-				<manacost>3GG</manacost>
+				<manacost>4G</manacost>
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -3196,7 +3194,7 @@ Performance — Whenever this creature attacks, you may put a +1/+1 counter on i
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/4</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>

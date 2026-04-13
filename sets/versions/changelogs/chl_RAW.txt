@@ -1,4 +1,43 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+
+
+Eidolon's Infestation
+rules_text: When this enchantment enters, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. Create a 1/1 black and green Insect creature token.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand. => When this enchantment enters, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Create a 1/1 black and green Insect creature token.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand.
+
+Aspect of Rebirth
+cost: {3}{G}{G}{G} => {2}{G}{G}{G}
+rules_text: Whenever this creature enters or attacks, mill five cards. Then return up to one permanent card from your graveyard to your hand. When you do, put X +1/+1 counters on each creature you control, where X is the mana value of the permanent returned this way. => Whenever this creature enters or attacks, mill three cards. Then return up to one permanent card from your graveyard to your hand. If you return a land card to your hand this way, put a +1/+1 counter on each creature you control.
+pt: 4/4 => 5/5
+
+Perfected Rebirth
+type: Sorcery => Enchantment
+cost: {2}{G}{G} => {4}{G}{G}
+rules_text: As an additional cost to cast this spell, you may sacrifice a creature.
+Return target creature card from your graveyard to the battlefield. Then if the additional cost was cast, put X +1/+1 counters on it, where X is the total power and toughness of the sacrificed creature. => Once during each of your turn, you may cast a creature spell from your graveyard. If you cast a spell this way, that creature enters with a +1/+1 counter and a finality counter on it.
+
+Insatiable Troll
+cost: {4}{G}{G} => {2}{G}
+rules_text: Trample
+When this creature enters, it fights up to one target creature you don't control.
+{2}{G}{G}, Sacrifice two creatures: Return this card from your graveyard to the battlefield tapped with a finality counter on it. Activate only as a sorcery. => Trample
+{T}, Sacrifice another creature: This creature fights target creature you don't control.
+pt: 5/5 => 3/3
+
+Woodwraith Behemoth
+cost: {2}{G}{G} => {3}{G}
+
+Ooze Hydra
+cost: {3}{G}{G} => {4}{G}
+
+Giant Roustabout
+pt: 3/4 => 4/4
+
+
+VERSION 27 CHANGELOG
 ====================
 
 
