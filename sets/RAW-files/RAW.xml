@@ -5,7 +5,7 @@
 			<name>RAW</name>
 			<longname>Ravnica&apos;s Awakening</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-13</releasedate>
+			<releasedate>2026-04-23</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -52,7 +52,7 @@ Preamble {3}{WU}{WU} ({3}{WU}{WU}, Exile this card from your hand: Cast a copy o
 			<text>Choose one —
 • This spell deals X damage to target attacking or blocking creature, where X is 2 plus the number of creatures you control.
 • Untap up to two target creatures you control.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/22_Protect the Precinct.png" num="22">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/21_Protect the Precinct.png" num="21">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -133,7 +133,7 @@ Whenever you cast a spell from anywhere other than your hand, scry 1 and you gai
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -176,7 +176,7 @@ Enchanted creature gets +0/+2 and can block an additional creature.</text>
 			<name>Press the Advantage</name>
 			<text>Muster (This spell costs {1} less to cast for each creature that attacked this turn.)
 Creatures you control get +2/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/20_Press the Advantage.png" num="20">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/19_Press the Advantage.png" num="19">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -193,7 +193,7 @@ Creatures you control get +2/+1 until end of turn.</text>
 			<name>Righteous Uprising</name>
 			<text>When this enchantment enters, create a 1/1 white Human creature token.
 If one or more tokens would be created under your control, three times that many of those tokens are created instead.</text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/24_Righteous Uprising.png" num="24">RAW</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/23_Righteous Uprising.png" num="23">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -262,7 +262,7 @@ Destroy all creatures. You gain 1 life for each creature you controlled that was
 		<card>
 			<name>Loyal Warhound</name>
 			<text>{1}, Sacrifice this creature: Another target creature or planeswalker you control gains hexproof and indestructible until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/15_Loyal Warhound.png" num="15">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/14_Loyal Warhound.png" num="14">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -304,7 +304,7 @@ Whenever a Gate you control enters, create a tapped 1/1 white Human creature tok
 				<side>front</side>
 				<type>Creature — Human Mercenary</type>
 				<maintype>Creature</maintype>
-				<manacost>2WW</manacost>
+				<manacost>3W</manacost>
 				<cmc>4</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -336,7 +336,7 @@ When this creature enters, tap all creatures you don&apos;t control and untap al
 			<text>Choose one —
 • Destroy target tapped creature.
 • Put a +1/+1 counter on each of up to two target creatures you control. They gain vigilance until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/18_Outmatch.png" num="18">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/17_Outmatch.png" num="17">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -405,13 +405,31 @@ During your turn, this creature has hexproof.</text>
 		</card>
 		<card>
 			<name>Enlighted Freemage</name>
-			<text>Flash
-Whenever you cast a spell from exile, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/40_Enlighted Freemage.png" num="40">RAW</set>
+			<text>Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/41_Enlighted Freemage.png" num="41">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Vedalken Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raskal Perfumist</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Flying
+At the beginning of your end step, if you haven&apos;t cast a spell from your hand this turn, surveil 1.</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/51_Raskal Perfumist.png" num="51">RAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fairie Rogue</type>
 				<maintype>Creature</maintype>
 				<manacost>1U</manacost>
 				<cmc>2</cmc>
@@ -422,28 +440,10 @@ Whenever you cast a spell from exile, put a +1/+1 counter on this creature. This
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Raskal Parfumist</name>
-			<text>Flying
-This creature can only block creatures with flying.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/51_Raskal Parfumist.png" num="51">RAW</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Fairie Rogue</type>
-				<maintype>Creature</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Fin Clade Guardian</name>
 			<text>Implant {2}{U} ({2}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)
 Flying, vigilance</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/42_Fin Clade Guardian.png" num="42">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/43_Fin Clade Guardian.png" num="43">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -461,7 +461,7 @@ Flying, vigilance</text>
 			<name>Gate Infiltrator</name>
 			<text>Whenever this creature deals damage to a player, draw a card, then discard a card.
 This creature can&apos;t be blocked as long as you control a Gate.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/44_Gate Infiltrator.png" num="44">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/45_Gate Infiltrator.png" num="45">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -478,18 +478,18 @@ This creature can&apos;t be blocked as long as you control a Gate.</text>
 		<card>
 			<name>Spliced Guardian</name>
 			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
-{2}{G}, Remove a +1/+1 counter from a creature you control: Draw a card.</text>
+{2}{G}: Put a +1/+1 counter on this creature. It gains trample until end of turn. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/54_Spliced Guardian.png" num="54">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Elf Octopus Mutant Warrior</type>
 				<maintype>Creature</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>UG</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -497,7 +497,7 @@ This creature can&apos;t be blocked as long as you control a Gate.</text>
 			<name>Lyev Skywatch</name>
 			<text>Flying
 When this creature enters, return up to one other target nonland permanent to its owner&apos;s hand.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/48_Lyev Skywatch.png" num="48">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/49_Lyev Skywatch.png" num="49">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -515,7 +515,7 @@ When this creature enters, return up to one other target nonland permanent to it
 			<name>Chains of Submission</name>
 			<text>Enchant creature
 Enchanted creature gets -5/-0 and loses all abilities.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/34_Chains of Submission.png" num="34">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/35_Chains of Submission.png" num="35">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -545,9 +545,9 @@ Enchanted creature gets -5/-0 and loses all abilities.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Oust</name>
+			<name>Bereave</name>
 			<text>Counter target spell unless its controller pays {2}. If that spell is monocolored, counter it unless its controller pays {3} instead.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/49_Oust.png" num="49">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/34_Bereave.png" num="34">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -562,16 +562,15 @@ Enchanted creature gets -5/-0 and loses all abilities.</text>
 		</card>
 		<card>
 			<name>Void Wave</name>
-			<text>This spell costs {1} less to cast if you cast a spell from exile this turn.
-Return target creature to its owner&apos;s hand. Scry 1.</text>
+			<text>Return target creature to its owner&apos;s hand. If you&apos;ve cast a spell from anywhere other than your hand this turn, scry 2.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/58_Void Wave.png" num="58">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1U</manacost>
-				<cmc>2</cmc>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -582,7 +581,7 @@ Return target creature to its owner&apos;s hand. Scry 1.</text>
 			<text>Flash
 Flying
 Whenever you activate an ability that&apos;s not a mana ability, you may pay {2}{U}. When you do, create a token that&apos;s a copy of this creature.</text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/43_Fluxfeather Eagle.png" num="43">RAW</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/44_Fluxfeather Eagle.png" num="44">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -600,7 +599,7 @@ Whenever you activate an ability that&apos;s not a mana ability, you may pay {2}
 			<name>Experiment Twenty-Six</name>
 			<text>Implant {2}{U} ({2}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)
 Whenever this creature enters or deals combat damage to a player, you may have it become a copy of target creature, except it isn&apos;t legendary and has this ability. When you do, put a +1/+1 counter on it.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/41_Experiment Twenty-Six.png" num="41">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/42_Experiment Twenty-Six.png" num="42">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -632,7 +631,7 @@ Whenever this creature enters or deals combat damage to a player, you may have i
 		</card>
 		<card>
 			<name>Synapse Linker</name>
-			<text>Other creatures you control have all my abilities except this one.</text>
+			<text>Other creatures you control have all this creature&apos;s abilities except this one.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/55_Synapse Linker.png" num="55">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -651,7 +650,7 @@ Whenever this creature enters or deals combat damage to a player, you may have i
 			<name>Elusive Biomage</name>
 			<text>Implant {2}{U} ({2}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)
 This creature can&apos;t be blocked.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/38_Elusive Biomage.png" num="38">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/39_Elusive Biomage.png" num="39">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -680,7 +679,7 @@ This creature can&apos;t be blocked.</text>
 				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>2/4</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -689,7 +688,7 @@ This creature can&apos;t be blocked.</text>
 			<text>Flash
 Flying, vigilance
 {U}, Sacrifice this creature: Counter target noncreature spell or ability unless its controller pays {2}.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/47_Lawmage Familliar.png" num="47">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/48_Lawmage Familliar.png" num="48">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -707,13 +706,13 @@ Flying, vigilance
 			<name>Cocky Fluxmage</name>
 			<text>Flying
 At the beginning of combat on your turn, up to one target creature you control loses all its abilities and becomes a blue Bird creature with base power and toughness X/X and flying until end of turn, where X is the number of Gates you control.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/35_Cocky Fluxmage.png" num="35">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/36_Cocky Fluxmage.png" num="36">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>2UU</manacost>
+				<manacost>3U</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -776,7 +775,7 @@ Counter target spell, activated ability, or triggered ability unless its control
 			<name>Eidolon&apos;s Vision</name>
 			<text>When this enchantment enters, target player shuffles up to three target cards from their graveyard into their library. Draw a card.
 Whenever you cast a multicolored spell, return this enchantment to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/37_Eidolon&apos;s Vision.png" num="37">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/38_Eidolon&apos;s Vision.png" num="38">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1222,7 +1221,7 @@ Whenever a Gate you control enters, target creature you don&apos;t control gets 
 				<side>front</side>
 				<type>Creature — Elemental</type>
 				<maintype>Creature</maintype>
-				<manacost>2BB</manacost>
+				<manacost>3B</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1286,7 +1285,7 @@ Whenever you cast a multicolored spell, return this enchantment to its owner&apo
 			<name>Boros Phalanx</name>
 			<text>Muster (This spell costs {1} less to cast for each creature that attacked this turn.)
 Reach (This creature can block creatures with flying.)
-When this creature enters, it deals 3 damage to target opponent.</text>
+When this creature enters, it deals 3 damage to target opponent or planeswalker.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/91_Boros Phalanx.png" num="91">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -1411,7 +1410,7 @@ This spell deals 2 damage to any target. If a creature was sacrificed, it deals 
 		<card>
 			<name>Just Strike</name>
 			<text>Muster (This spell costs {1} less to cast for each creature that attacked this turn.)
-Target creature gets +2/+0 and gains first strike until end of turn.</text>
+Target creature gets +2/+0 and gains first strike and trample until end of turn.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/103_Just Strike.png" num="103">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -1559,11 +1558,11 @@ Whenever a Gate you control enters, add {R}.</text>
 				<side>front</side>
 				<type>Creature — Human Shaman</type>
 				<maintype>Creature</maintype>
-				<manacost>1RR</manacost>
+				<manacost>2R</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/2</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1587,9 +1586,10 @@ When this creature enters, it deals X damage divided as you chose among any numb
 		</card>
 		<card>
 			<name>Rakdos Excrutiator</name>
-			<text>Your opponents can&apos;t gain life.
+			<text>This spell can&apos;t be countered.
+Your opponents can&apos;t gain life.
 Damage can&apos;t be prevented.
-Spells and abilities you control that target an opponent and/or a permanent they control can&apos;t be countered.</text>
+Spells and abilities you control can&apos;t be countered.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/106_Rakdos Excrutiator.png" num="106">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -1606,7 +1606,7 @@ Spells and abilities you control that target an opponent and/or a permanent they
 		</card>
 		<card>
 			<name>Shackled Blooddrake</name>
-			<text>When this creature enters, target opponent discards a card.
+			<text>When this creature enters, each opponent discards a card.
 Performance — Whenever this creature attacks, you may put a +1/+1 counter on it and have it gain flying. If you do, sacrifice it at the beginning of the next end step.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/79_Shackled Blooddrake.png" num="79">RAW</set>
 			<prop>
@@ -1679,9 +1679,9 @@ This creature can&apos;t block.
 		</card>
 		<card>
 			<name>Mourning Legionnaire</name>
-			<text>Whenever this creature or another creature you control dies, put a +1/+1 counter on target creature you control. If this is the second time this ability has resolved this turn, draw a card.
+			<text>Whenever this creature or another creature you control dies, put a +1/+1 counter on each creature you control. This ability triggers only once each turn.
 Sacrifice this creature: Creatures you control gain indestructible until end of turn.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/17_Mourning Legionnaire.png" num="17">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/16_Mourning Legionnaire.png" num="16">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1813,7 +1813,7 @@ Vigilance, haste</text>
 				<side>front</side>
 				<type>Creature — Insect Lizard Dog Mutant</type>
 				<maintype>Creature</maintype>
-				<manacost>3G</manacost>
+				<manacost>2GG</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -1841,8 +1841,8 @@ Trample</text>
 		</card>
 		<card>
 			<name>Breeding Plant Supervisor</name>
-			<text>Whenever you activate an ability that&apos;s not a mana ability, you may pay {1}{G}. When you do, put a +1/+1 counter on target creature you control.
-{3}{G}: Create a 0/0 green Ooze creature token. Put a +1/+1 counter on it.</text>
+			<text>The first ability you activate each turn that&apos;s not a mana ability costs {2} less to activate.
+Whenever you activate an ability that&apos;s not a mana ability for the first time each turn, scry 1.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/120_Breeding Plant Supervisor.png" num="120">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -1853,7 +1853,7 @@ Trample</text>
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/2</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1877,7 +1877,7 @@ Trample</text>
 		</card>
 		<card>
 			<name>Gate Bulwark</name>
-			<text>Defender, vigilance
+			<text>Defender, vigilance, reach
 This creature can attack as though it didn&apos;t have defender as long as you control a Gate.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/127_Gate Bulwark.png" num="127">RAW</set>
 			<prop>
@@ -1895,8 +1895,7 @@ This creature can attack as though it didn&apos;t have defender as long as you c
 		</card>
 		<card>
 			<name>Undercity Ravager</name>
-			<text>Reach
-When this creature enters, you gain 4 life.
+			<text>Trample
 Swarm 3—{4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/143_Undercity Ravager.png" num="143">RAW</set>
 			<prop>
@@ -1904,11 +1903,11 @@ Swarm 3—{4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Create thre
 				<side>front</side>
 				<type>Creature — Insect</type>
 				<maintype>Creature</maintype>
-				<manacost>5G</manacost>
+				<manacost>4GG</manacost>
 				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>7/5</pt>
+				<pt>7/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1952,7 +1951,7 @@ Choose one or more —
 		<card>
 			<name>Swarm&apos;s Voracity</name>
 			<text>Choose one —
-• Target creature gets +1/+1 until end of turn for each creature you control or each +1/+1 counters among creatures you control, whichever is greater.
+• Target creature gets +1/+1 until end of turn for each creature you control.
 • Destroy target creature with flying.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/141_Swarm&apos;s Voracity.png" num="141">RAW</set>
 			<prop>
@@ -2003,15 +2002,15 @@ Choose one or more —
 		</card>
 		<card>
 			<name>Aspect of Rebirth</name>
-			<text>Whenever this creature enters or attacks, mill three cards. Then return up to one permanent card from your graveyard to your hand. If you return a land card to your hand this way, put a +1/+1 counter on each creature you control.</text>
+			<text>Whenever this creature enters or attacks, mill three cards. Then return a permanent card from your graveyard to your hand. Put X +1/+1 counters on each creature you control where X is the mana value of that permanent card.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/119_Aspect of Rebirth.png" num="119">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Avatar</type>
 				<maintype>Creature</maintype>
-				<manacost>2GGG</manacost>
-				<cmc>5</cmc>
+				<manacost>3GGG</manacost>
+				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<pt>5/5</pt>
@@ -2020,15 +2019,15 @@ Choose one or more —
 		</card>
 		<card>
 			<name>Perfected Rebirth</name>
-			<text>Once during each of your turn, you may cast a creature spell from your graveyard. If you cast a spell this way, that creature enters with a +1/+1 counter and a finality counter on it.</text>
+			<text>Once during each of your turn, you may cast a creature spell from your graveyard. If you cast a spell this way, that creature enters with a +1/+1 counter and finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/135_Perfected Rebirth.png" num="135">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>4GG</manacost>
-				<cmc>6</cmc>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -2037,7 +2036,8 @@ Choose one or more —
 		<card>
 			<name>Insatiable Troll</name>
 			<text>Trample
-{T}, Sacrifice another creature: This creature fights target creature you don&apos;t control.</text>
+{2}{G}, Discard this card: Put a +1/+1 counter on target creature you control. It gains trample and indestructible until end of turn.
+Swarm 2—{2}{G} ({2}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/132_Insatiable Troll.png" num="132">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -2048,14 +2048,14 @@ Choose one or more —
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/3</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Woodwraith Behemoth</name>
-			<text>Whenever a creature you control dies, create a tapped token that&apos;s a copy of it, except it&apos;s a land with &quot;{T}: Add one mana of any color.&quot; Do this only once each turn.
-Swarm 2—{2}{G} ({2}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
+			<text>Whenever a creature you control dies, create a tapped token that&apos;s a copy of it, except it&apos;s a land with &quot;{T}: Add one mana of any of this card&apos;s colors.&quot; Do this only once each turn.
+{1}{G}, {T}, Sacrifice a land: Return target creature card from your graveyard to your hand.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/145_Woodwraith Behemoth.png" num="145">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -2171,7 +2171,7 @@ This creature can&apos;t be blocked by creatures with power 2 or less.</text>
 				<side>front</side>
 				<type>Creature — Human Warrior</type>
 				<maintype>Creature</maintype>
-				<manacost>3GG</manacost>
+				<manacost>4G</manacost>
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -2200,32 +2200,32 @@ This creature can&apos;t be blocked by creatures with power 2 or less.</text>
 		<card>
 			<name>Ooze Hydra</name>
 			<text>Implant {3}{G}{G} ({3}{G}{G}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)
-Whenever this creature enters, deals combat damage to a player or dies, create two 0/0 green Ooze creature tokens. Put a +1/+1 counter on each of them. Then put a +1/+1 counter on each creature you control with a +1/+1 counter on it.</text>
+Whenever this creature enters, deals combat damage to a player or dies, create two 0/0 green Ooze creature tokens. Put a +1/+1 counter on each of them. Then put a +1/+1 counter on each creature you control.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/134_Ooze Hydra.png" num="134">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Ooze Hydra Mutant</type>
 				<maintype>Creature</maintype>
-				<manacost>4G</manacost>
+				<manacost>3GG</manacost>
 				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/2</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Recovering Wilds</name>
-			<text>Search your library for a basic land card or Gate card, put it onto the battlefield tapped, then shuffle.</text>
+			<text>Searched your library and/or graveyard for up to three basic land cards and/or Gate cards, reveal them, put one onto the battlefield tapped and the rest into your hand. If you searched your library this way, shuffle.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/137_Recovering Wilds.png" num="137">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -2253,7 +2253,7 @@ Whenever you cast a multicolored spell, return this enchantment to its owner&apo
 			<text>Haste
 This creature can&apos;t be blocked by more than one creature.
 Swarm 2—{1}{B}{G} ({1}{B}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/210_Surging Horror.png" num="210">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/209_Surging Horror.png" num="209">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2285,7 +2285,7 @@ Swarm 2—{1}{B}{G} ({1}{B}{G}, Exile this card from your graveyard: Create two 
 		</card>
 		<card>
 			<name>Mangled Rootgiant</name>
-			<text>Reach, trample
+			<text>Menace, reach
 When this creature enters, you gain 3 life and surveil 3.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/185_Mangled Rootgiant.png" num="185">RAW</set>
 			<prop>
@@ -2332,7 +2332,7 @@ Performance — Whenever this creature attacks, you may put a +1/+1 counter on i
 				<cmc>2</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>2/1</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2427,7 +2427,7 @@ Whenever this creature deals combat damage to a player, draw a card.</text>
 			<name>Scaly Hummerbrood</name>
 			<text>Implant {1}{G}{U} ({1}{G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)
 Flying, trample</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/203_Scaly Hummerbrood.png" num="203">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/202_Scaly Hummerbrood.png" num="202">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2446,7 +2446,7 @@ Flying, trample</text>
 			<text>Muster (This spell costs {1} less to cast for each creature that attacked this turn.)
 Vigilance
 Ward—Pay 2 life.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/209_Sunhome Defender.png" num="209">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/208_Sunhome Defender.png" num="208">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2464,7 +2464,7 @@ Ward—Pay 2 life.</text>
 			<name>Skyrender Knight</name>
 			<text>Flying
 Whenever another creature you control enters, this creature deals 1 damage to target opponent and you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/206_Skyrender Knight.png" num="206">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/205_Skyrender Knight.png" num="205">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2517,7 +2517,7 @@ This spell deals 3 damage to any target and you gain 3 life.</text>
 			<text>Flying
 When this creature enters, scry 1.
 Preamble {1}{W} ({1}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/16_Magistrate&apos;s Pet.png" num="16">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/15_Magistrate&apos;s Pet.png" num="15">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2533,7 +2533,8 @@ Preamble {1}{W} ({1}{W}, Exile this card from your hand: Cast a copy of it witho
 		</card>
 		<card>
 			<name>Rakdos Ragefest</name>
-			<text>All creatures have haste, decayed, and attack each combat if able. They lose defender and can&apos;t have or gain defender.
+			<text>This spell can&apos;t be countered.
+All creatures have haste, decayed, and attack each combat if able. They lose defender and can&apos;t have or gain defender.
 Whenever a creature dies, each player draws cards and loses life equal to that creature&apos;s power.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/232_Rakdos Ragefest.png" num="232">RAW</set>
 			<prop>
@@ -2638,7 +2639,7 @@ Search cards you own in exile with implant, your library, graveyard, and/or hand
 		<card>
 			<name>Tajic, Boros Examplar</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/211_Tajic, Boros Examplar.png" num="211">RAW</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/210_Tajic, Boros Examplar.png" num="210">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2708,8 +2709,7 @@ At the beginning of combat on your turn, return target creature card with mana v
 		</card>
 		<card>
 			<name>Rix Maadi Abomination</name>
-			<text>First strike
-Ward—Discard a card.
+			<text>Ward—Discard a card.
 If a creature attacking or dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/201_Rix Maadi Abomination.png" num="201">RAW</set>
 			<prop>
@@ -2721,7 +2721,7 @@ If a creature attacking or dying causes a triggered ability of a permanent you c
 				<cmc>4</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
-				<pt>3/3</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2746,8 +2746,7 @@ If a creature attacking or dying causes a triggered ability of a permanent you c
 		</card>
 		<card>
 			<name>Mindflare</name>
-			<text>This spell can&apos;t be countered.
-This spell deals X damage to target player, where X is the number of cards in that player&apos;s hand. Then, that player exiles that many cards from the top of their library. Until the end of your next turn, you may play cards exiled this way, and mana of any type can be spent to cast spells among them.</text>
+			<text>This spell deals X damage to target player, where X is the number of cards in that player&apos;s hand. Then, that player exiles that many cards from the top of their library. Until the end of your next turn, you may play cards exiled this way, and mana of any type can be spent to cast spells among them.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/228_Mindflare.png" num="228">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -2802,8 +2801,8 @@ Choose a nonland card name. Search target opponent&apos;s graveyard, hand, and l
 		</card>
 		<card>
 			<name>Gulistan, Master Biomancer</name>
-			<text>Vigilance
-{X}{G}{G}{U}, {T}: Choose up to one other target nontoken creature you control. Create a token that&apos;s a copy of it, except it isn&apos;t legendary, is a Frog Lizard creature and has base power and toughness 0/0. Put X +1/+1 counters on it.</text>
+			<text>Vigilance, ward {1}
+{X}{G}{U}, {T}: Choose up to one target nontoken creature you control. Create a token that&apos;s a copy of it, except it isn&apos;t legendary, is a Frog Lizard creature and has base power and toughness 0/0. Put X +1/+1 counters on it.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/171_Gulistan, Master Biomancer.png" num="171">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -2832,7 +2831,7 @@ If one or more +1/+1 counters would be put on a creature you control, twice that
 				<cmc>4</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2859,7 +2858,7 @@ If one or more +1/+1 counters would be put on a creature you control, twice that
 			<text>Implant {3}{G}{U} ({3}{G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)
 Flying, trample
 Whenever this creature deals combat damage to a player, draw a card, then you may cast a spell from your hand with mana value less than or equal to the damage dealt without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/205_Skybreaker Biotitan.png" num="205">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/204_Skybreaker Biotitan.png" num="204">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2981,18 +2980,18 @@ Whenever this creature attacks or blocks, the next spell you cast this turn with
 		<card>
 			<name>Diana, Passer of Judgment</name>
 			<text>Flying, vigilance
-Whenever a player attacks, Diana gets +X/+0 until end of turn, where X is the total power of other attacking creatures. Then if her power is 10 or greater, she gains trample and indestructible until end of turn.</text>
+At the beginning of each end step, if two or more creatures you control attacked or blocked this turn, Diana deals 2 damage to each opponent.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/158_Diana, Passer of Judgment.png" num="158">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Angel Warrior</type>
 				<maintype>Creature</maintype>
-				<manacost>3RW</manacost>
-				<cmc>5</cmc>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
-				<pt>1/5</pt>
+				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3018,10 +3017,9 @@ For each permanent type, each player sacrifices a permanent of that type. This s
 		</card>
 		<card>
 			<name>Arrester Captain</name>
-			<text>When this creature enters, look at an opponent&apos;s hand, then choose any card name.
-Spells of the chosen name cost {2} more to cast.
-Abilities of nonland permanents or cards of the chosen name cost {2} more to activate.
-Preamble {2}{WU}{WU} ({2}{WU}{WU}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)</text>
+			<text>This creature has hexproof as long as an opponent controls more creatures than you.
+This creature can&apos;t be blocked as long as an opponent has more life than you.
+Whenever this creature enters or attacks, draw a card if an opponent has more cards in hand than you.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/217_Arrester Captain.png" num="217">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3258,7 +3256,7 @@ Decayed (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 
 ---
 
-Each creature you control that entered this turn gets +1/+0 and gains haste until end of turn.</text>
+Creatures you control get +1/+0 and gain haste until end of turn.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/236_Ball.png" num="236">RAW</set>
 			<prop>
 				<layout>split</layout>
@@ -3274,8 +3272,8 @@ Each creature you control that entered this turn gets +1/+0 and gains haste unti
 		</card>
 		<card>
 			<name>Praj, Momir Vig&apos;s Legacy</name>
-			<text>Abilities you control that target this creature cost {1} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.
-{1}{G}{U}: Put a +1/+1 counter on another target creature. Praj and that creature gain each other&apos;s abilities until end of turn. Activate only as a sorcery.</text>
+			<text>Abilities you activate that target this creature cost {1} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.
+{2}{G}{U}: Put a +1/+1 counter on another target creature. Praj and that creature gain each other&apos;s abilities until end of turn. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/193_Praj, Momir Vig&apos;s Legacy.png" num="193">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3312,7 +3310,7 @@ When this creature enters, return up to one other target nonland permanent you c
 		<card>
 			<name>Transfigure</name>
 			<text>Exile target permanent, then its controller reveals cards from the top of their library until they reveal a card that shares a card type with the exiled permanent. They put that card onto the battlefield and the rest on the bottom of their library in any order. Shuffle this card into its owner&apos;s library.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/212_Transfigure.png" num="212">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/211_Transfigure.png" num="211">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3421,7 +3419,7 @@ When this creature enters, creatures you control get +1/+1 and gain trample unti
 		<card>
 			<name>Spark Legion</name>
 			<text>When this enchantment enters and at the beginning of your precombat main phase, create a 1/1 red Elemental creature token. It gains lifelink and haste until end of turn and attacks each combat this turn if able.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/207_Spark Legion.png" num="207">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/206_Spark Legion.png" num="206">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3436,8 +3434,8 @@ When this creature enters, creatures you control get +1/+1 and gain trample unti
 		</card>
 		<card>
 			<name>Mileva of the Tenth</name>
-			<text>Vigilance, haste
-Whenever Mileva attacks or blocks, prevent all damage that would be dealt to other creatures you control until end of combat.</text>
+			<text>Haste
+As long as Mileva is blocking or being blocked, prevent all damage that would be dealt to other creatures you control.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/187_Mileva of the Tenth.png" num="187">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3525,9 +3523,9 @@ Creatures you control get +1/+1 and gain vigilance until end of turn.</text>
 		</card>
 		<card>
 			<name>Azorius Insignia</name>
-			<text>This artifact enters tapped.
-{T}: Add {W} or {U}.
-{3}{W}{U}, {T}, Sacrifice this artifact: You draw two cards and gain 3 life.</text>
+			<text>When this artifact enters, scry 2.
+{1}, {T}: Add {W} or {U}.
+{3}{W}{U}, {T}, Sacrifice this artifact: You draw two cards and gain 2 life.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/248_Azorius Insignia.png" num="248">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3543,8 +3541,8 @@ Creatures you control get +1/+1 and gain vigilance until end of turn.</text>
 		</card>
 		<card>
 			<name>Boros Insignia</name>
-			<text>This artifact enters tapped.
-{T}: Add {R} or {W}.
+			<text>When this artifact enters, scry 2.
+{1}, {T}: Add {R} or {W}.
 {2}{R}{W}, {T}, Sacrifice this artifact: Create two 1/1 red and white Soldier creature tokens. Creatures you control gain haste until end of turn.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/249_Boros Insignia.png" num="249">RAW</set>
 			<prop>
@@ -3561,9 +3559,9 @@ Creatures you control get +1/+1 and gain vigilance until end of turn.</text>
 		</card>
 		<card>
 			<name>Simic Insignia</name>
-			<text>This artifact enters tapped.
-{T}: Add {G} or {U}.
-{1}{G}{U}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature you control. It gains flying and trample until end of turn.</text>
+			<text>When this artifact enters, scry 2.
+{1}, {T}: Add {G} or {U}.
+{G}{U}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature you control. It gains flying until end of turn. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/258_Simic Insignia.png" num="258">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3579,8 +3577,8 @@ Creatures you control get +1/+1 and gain vigilance until end of turn.</text>
 		</card>
 		<card>
 			<name>Rakdos Insignia</name>
-			<text>This artifact enters tapped.
-{T}: Add {B} or {R}.
+			<text>When this artifact enters, scry 2.
+{1}, {T}: Add {B} or {R}.
 {1}{B}{R}, {T}, Sacrifice this artifact: Each player discards a card. Draw a card. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/256_Rakdos Insignia.png" num="256">RAW</set>
 			<prop>
@@ -3597,8 +3595,8 @@ Creatures you control get +1/+1 and gain vigilance until end of turn.</text>
 		</card>
 		<card>
 			<name>Golgari Insignia</name>
-			<text>This artifact enters tapped.
-{T}: Add {B} or {G}.
+			<text>When this artifact enters, scry 2.
+{1}, {T}: Add {B} or {G}.
 {3}{B}{G}, {T}, Sacrifice this artifact: Mill three cards. You may return a creature card and/or a land card from your graveyard to your hand.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/254_Golgari Insignia.png" num="254">RAW</set>
 			<prop>
@@ -3631,7 +3629,8 @@ Creatures you control get +1/+1 and gain vigilance until end of turn.</text>
 		<card>
 			<name>Ancient Monoliths</name>
 			<text>Multicolored spells you control can&apos;t be countered.
-Whenever you cast a multicolored spell, copy that spell. You may chose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+Multicolored permanents you control have hexproof from monocolored.
+Whenever you cast a multicolored spell, copy that spell. You may chose new targets for the copy.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/247_Ancient Monoliths.png" num="247">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3677,7 +3676,8 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 		</card>
 		<card>
 			<name>Ageless Scholar</name>
-			<text>When this creature enters, you may search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle.</text>
+			<text>This artifact is all colors.
+When this creature enters, you may search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/246_Ageless Scholar.png" num="246">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3686,6 +3686,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 				<maintype>Creature</maintype>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
+				<coloridentity>WUBRG</coloridentity>
 				<pt>3/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -3693,8 +3694,8 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 		<card>
 			<name>Gatekeeper Golem</name>
 			<text>Affinity for Gates (This spell costs {1} less to cast for each Gate you control.)
-Vigilance, hexproof from monocolored
-This artifact is all colors.</text>
+Trample
+Whenever a Gate you control enters, creatures you control get +1/+1 and gain vigilance until end of turn.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/252_Gatekeeper Golem.png" num="252">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -3703,8 +3704,7 @@ This artifact is all colors.</text>
 				<maintype>Creature</maintype>
 				<manacost>6</manacost>
 				<cmc>6</cmc>
-				<coloridentity>WUBRG</coloridentity>
-				<pt>4/4</pt>
+				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4019,7 +4019,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		</card>
 		<card>
 			<name>Erstwhile Awakener</name>
-			<text>Sacrifice another creature: Add one mana of any color.
+			<text>Sacrifice another creature: Add one mana of any color. You gain 1 life.
 {G}: Exile target card from a graveyard.
 {3}{B}{B}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/160_Erstwhile Awakener.png" num="160">RAW</set>
@@ -4097,25 +4097,25 @@ Whenever this creature or another nontoken creature you control dies, create a 1
 			<name>Lothran, the Glouton</name>
 			<text>Menace
 Whenever Lothran attacks, you may sacrifice another creature. If you do, he gains indestructible until end of turn.
-Whenever a player sacrifices a creature, put a +1/+1 counter on Lothran.</text>
+Whenever you sacrifice a permanent, put a +1/+1 counter on Lothran.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/183_Lothran, the Glouton.png" num="183">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Zombie Troll</type>
 				<maintype>Creature</maintype>
-				<manacost>2BG</manacost>
-				<cmc>4</cmc>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
-				<pt>3/2</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Festering Mass</name>
 			<text>Attacking creatures you control have deathtouch and lifelink.
-Each creature card in your graveyard has &quot;Swarm 2—{2}{BG}{BG}.&quot; (Exile a creature card from your graveyard and pay {2}{BG}{BG}: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
+Each creature card in your graveyard has &quot;Swarm 2—{2}{BG}{BG}.&quot; ({2}{BG}{BG}, Exile a creature card from your graveyard: Create two 1/1 black and green Insect creature tokens.)</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/163_Festering Mass.png" num="163">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -4126,7 +4126,7 @@ Each creature card in your graveyard has &quot;Swarm 2—{2}{BG}{BG}.&quot; (Exi
 				<cmc>4</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
-				<pt>3/5</pt>
+				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4224,7 +4224,7 @@ Swarm 2—{3}{G} ({3}{G}, Exile this card from your graveyard: Create two 1/1 bl
 		</card>
 		<card>
 			<name>Accelerated Growth</name>
-			<text>If {U} was spent to cast this spell, look at the top seven cards of your library. Otherwise, look at the top four cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+			<text>Look at the top five cards of your library. If {U} was spent to cast this spell, put a card from among them into your hand. Otherwise, reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/117_Accelerated Growth.png" num="117">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -4701,7 +4701,7 @@ Preamble {5}{W}{W} ({5}{W}{W}, Exile this card from your hand: Cast a copy of it
 		</card>
 		<card>
 			<name>Azorius Lawmage</name>
-			<text>At the beginning of your end step, if you didn&apos;t cast spells from your hand this turn, untap up to one target creature you control.
+			<text>At the beginning of your end step, if you haven&apos;t cast a spell from your hand this turn, untap up to one target creature you control.
 {1}{U}, {T}: Tap target artifact or creature.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/4_Azorius Lawmage.png" num="4">RAW</set>
 			<prop>
@@ -4718,9 +4718,9 @@ Preamble {5}{W}{W} ({5}{W}{W}, Exile this card from your hand: Cast a copy of it
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>In Formation!</name>
-			<text>You gain hexproof until end of turn. Permanents you control gain indestructible until end of turn. Untap each creature you control.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/14_In Formation!.png" num="14">RAW</set>
+			<name>Safeguard</name>
+			<text>You gain hexproof until end of turn. Permanents you control gain indestructible and hexproof until end of turn.</text>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/24_Safeguard.png" num="24">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4736,7 +4736,7 @@ Preamble {5}{W}{W} ({5}{W}{W}, Exile this card from your hand: Cast a copy of it
 		<card>
 			<name>Preemptive Measures</name>
 			<text>Target creature you control gets +2/+2 until end of turn. If you&apos;ve cast a spell from anywhere other than your hand this turn, it also gains first strike and lifelink until end of turn.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/19_Preemptive Measures.png" num="19">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/18_Preemptive Measures.png" num="18">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4753,8 +4753,8 @@ Preamble {5}{W}{W} ({5}{W}{W}, Exile this card from your hand: Cast a copy of it
 			<name>Proscribe</name>
 			<text>Choose one —
 • Exile target artifact or enchantment.
-• Exile target player&apos;s graveyard. Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/21_Proscribe.png" num="21">RAW</set>
+• Exile target player&apos;s graveyard.</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/20_Proscribe.png" num="20">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4769,16 +4769,16 @@ Preamble {5}{W}{W} ({5}{W}{W}, Exile this card from your hand: Cast a copy of it
 		</card>
 		<card>
 			<name>Ready the Arresters</name>
-			<text>Create two 1/1 blue and white Soldier creature tokens. Then if this spell was cast from exile, you gain 1 life for each creature you control.
-Preamble {3}{W} ({3}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/23_Ready the Arresters.png" num="23">RAW</set>
+			<text>Create two 1/1 white and blue Soldier creature tokens. If this spell was cast from exile, you gain 1 life for each creature you control.
+Preamble {4}{W} ({4}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/22_Ready the Arresters.png" num="22">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -4840,7 +4840,7 @@ Preamble {3}{U} ({3}{U}, Exile this card from your hand: Cast a copy of it witho
 		<card>
 			<name>Detain Wisdom</name>
 			<text>Each player mills three cards. You may put a card you milled this way into your hand. Then if {W} was spent to cast this spell, exile each opponent&apos;s graveyard.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/36_Detain Wisdom.png" num="36">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/37_Detain Wisdom.png" num="37">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4857,7 +4857,7 @@ Preamble {3}{U} ({3}{U}, Exile this card from your hand: Cast a copy of it witho
 			<name>Enfeebling Shackles</name>
 			<text>Creatures your opponents control get -2/-0 until end of turn. Then if this spell was cast from exile, tap each of those creature with power 1 or less.
 Preamble {3}{U} ({3}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/39_Enfeebling Shackles.png" num="39">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/40_Enfeebling Shackles.png" num="40">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4874,7 +4874,7 @@ Preamble {3}{U} ({3}{U}, Exile this card from your hand: Cast a copy of it witho
 			<name>Inquire</name>
 			<text>Draw a card.
 Preamble {1}{U} ({1}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/45_Inquire.png" num="45">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/46_Inquire.png" num="46">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4891,7 +4891,7 @@ Preamble {1}{U} ({1}{U}, Exile this card from your hand: Cast a copy of it witho
 			<name>Jelenn Grand Elocutor</name>
 			<text>Spells you cast from exile cost {2} less to cast.
 Whenever you cast a spell from anywhere other than your hand, draw a card. This ability triggers only once each turn.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/46_Jelenn Grand Elocutor.png" num="46">RAW</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/47_Jelenn Grand Elocutor.png" num="47">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5017,7 +5017,7 @@ Whenever an opponent casts a spell or activates an ability of a nonland permanen
 		</card>
 		<card>
 			<name>Decipher the Chronology</name>
-			<text>Search your library and/or graveyard for another nonland card with mana value 3 or less, reveal it, and put it into your hand. If you searched your library this way, shuffle.</text>
+			<text>Search your library and/or graveyard for a nonland card with mana value 3 or less, reveal it, and put it into your hand. If you searched your library this way, shuffle. Exile this card.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/156_Decipher the Chronology.png" num="156">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -5033,9 +5033,8 @@ Whenever an opponent casts a spell or activates an ability of a nonland permanen
 		</card>
 		<card>
 			<name>Durand, High Justicar</name>
-			<text>Vigilance
-Each player can&apos;t cast more than one spell from their hand each turn.
-Your opponents can&apos;t cast spells or activate abilities during your turn or combat.</text>
+			<text>Each player can&apos;t cast more than one spell from their hand each turn.
+Each nonland card in your hand has preamble. The preamble cost is equal to {2} plus its mana cost. (Exile a nonland card from your hand and pay its preamble cost: Cast a copy of it without paying its mana cost. You may cast it from exile. Preamble only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/159_Durand, High Justicar.png" num="159">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -5052,8 +5051,8 @@ Your opponents can&apos;t cast spells or activate abilities during your turn or 
 		</card>
 		<card>
 			<name>Futur Seer</name>
-			<text>Lifelink, ward {2}
-At the beginning of your end step, if you haven&apos;t cast spells from your hand this turn, look at the top two cards of your library. Put one of them into your hand and the other at the bottom of your library.</text>
+			<text>Your opponents can&apos;t cast spells or activate abilities during your turn.
+At the beginning of your end step, if you haven&apos;t cast a spell from hand this turn, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/169_Futur Seer.png" num="169">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -5064,7 +5063,7 @@ At the beginning of your end step, if you haven&apos;t cast spells from your han
 				<cmc>4</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
-				<pt>2/6</pt>
+				<pt>2/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5143,7 +5142,7 @@ Return all nonland permanents to their owners&apos; hands. Each player may shuff
 		<card>
 			<name>Octave, Deputy of Discipline</name>
 			<text>Flying
-Whenever you cast a spell during your turn, create a 1/1 white and blue Thopter artifact creature token with flying. If that spell was cast from exile, create two of those tokens instead. This ability triggers only once each turn.</text>
+Whenever you cast a spell during your turn, create a 1/1 white and blue Thopter artifact creature token with flying. If that spell was cast from anywhere other than your hand, create two of those tokens instead. This ability triggers only once each turn.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/188_Octave, Deputy of Discipline.png" num="188">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -5178,16 +5177,15 @@ Preamble {2}{W}{U} ({2}{W}{U}, Exile this card from your hand: Cast a copy of it
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Safeguard</name>
-			<text>This spell costs {1} less to cast and can&apos;t be countered if it targets a spell that targets you and/or a permanent and/or a spell you control.
-Counter target spell.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/202_Safeguard.png" num="202">RAW</set>
+			<name>Unending Tirade</name>
+			<text>Counter target spell. Its controller mills X cards and you gain X life.</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/212_Unending Tirade.png" num="212">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1WU</manacost>
+				<manacost>X1WU</manacost>
 				<cmc>3</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
@@ -5197,7 +5195,7 @@ Counter target spell.</text>
 		<card>
 			<name>Seal of Censure</name>
 			<text>Until end of turn, nonland permanents lose all abilities. Tap all nonland permanents.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/204_Seal of Censure.png" num="204">RAW</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/203_Seal of Censure.png" num="203">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5214,7 +5212,7 @@ Counter target spell.</text>
 			<name>Sphinx Lawbinder</name>
 			<text>Flying, vigilance
 You have hexproof.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/208_Sphinx Lawbinder.png" num="208">RAW</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/207_Sphinx Lawbinder.png" num="207">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
