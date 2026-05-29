@@ -344,7 +344,7 @@
         "position": ""
     },
     {
-        "card_name": "Freemage's Fiery Ritual",
+        "card_name": "Freemage's Fiery Temper",
         "number": 97,
         "shape": "normal",
         "set": "RAW",
@@ -496,7 +496,7 @@
         "position": ""
     },
     {
-        "card_name": "Shackled Blooddrake",
+        "card_name": "Shackled Bloodrake",
         "number": 80,
         "shape": "normal",
         "set": "RAW",
@@ -1174,7 +1174,7 @@
     "a->gold",
     {
         "card_name": "Judgment of Balance",
-        "number": 179,
+        "number": 178,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1182,14 +1182,6 @@
     },
     {
         "card_name": "Escaped Hellsteed",
-        "number": 162,
-        "shape": "normal",
-        "set": "RAW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Erstwhile Awakener",
         "number": 161,
         "shape": "normal",
         "set": "RAW",
@@ -1197,8 +1189,16 @@
         "position": ""
     },
     {
+        "card_name": "Erstwhile Awakener",
+        "number": 160,
+        "shape": "normal",
+        "set": "RAW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Radiant Champion",
-        "number": 196,
+        "number": 195,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1214,7 +1214,7 @@
     },
     {
         "card_name": "Lavinia, the Just",
-        "number": 183,
+        "number": 182,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1222,7 +1222,7 @@
     },
     {
         "card_name": "Judith, the Bloody Deluge",
-        "number": 180,
+        "number": 179,
         "shape": "planeswalker",
         "set": "RAW",
         "rotated": false,
@@ -1318,7 +1318,7 @@
     },
     {
         "card_name": "Incandescent Blessing",
-        "number": 175,
+        "number": 174,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1326,7 +1326,7 @@
     },
     {
         "card_name": "Gulistan, Master Biomancer",
-        "number": 172,
+        "number": 171,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1342,78 +1342,6 @@
     },
     {
         "card_name": "Gleeful Skinner",
-        "number": 171,
-        "shape": "normal",
-        "set": "RAW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Festering Mass",
-        "number": 164,
-        "shape": "normal",
-        "set": "RAW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mileva of the Tenth",
-        "number": 188,
-        "shape": "normal",
-        "set": "RAW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Metamorphosed Adapter",
-        "number": 187,
-        "shape": "normal",
-        "set": "RAW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Durand, High Justicar",
-        "number": 160,
-        "shape": "normal",
-        "set": "RAW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Juri, Charismatic Performer",
-        "number": 181,
-        "shape": "normal",
-        "set": "RAW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Lamiel, Deathsprout Cultivator",
-        "number": 182,
-        "shape": "normal",
-        "set": "RAW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Ordruun Marshal",
-        "number": 191,
-        "shape": "normal",
-        "set": "RAW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Replicating Abomination",
-        "number": 198,
-        "shape": "normal",
-        "set": "RAW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Futur Seer",
         "number": 170,
         "shape": "normal",
         "set": "RAW",
@@ -1421,7 +1349,71 @@
         "position": ""
     },
     {
-        "card_name": "Rix Maadi Abomination",
+        "card_name": "Festering Mass",
+        "number": 163,
+        "shape": "normal",
+        "set": "RAW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mileva of the Tenth",
+        "number": 187,
+        "shape": "normal",
+        "set": "RAW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Metamorphosed Adapter",
+        "number": 186,
+        "shape": "normal",
+        "set": "RAW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forecaster Arbitrator",
+        "number": 167,
+        "shape": "normal",
+        "set": "RAW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Juri, Charismatic Performer",
+        "number": 180,
+        "shape": "normal",
+        "set": "RAW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lamiel, Deathsprout Cultivator",
+        "number": 181,
+        "shape": "normal",
+        "set": "RAW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ordruun Marshal",
+        "number": 190,
+        "shape": "normal",
+        "set": "RAW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Replicating Abomination",
+        "number": 197,
+        "shape": "normal",
+        "set": "RAW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sarvis, High Justicar",
         "number": 201,
         "shape": "normal",
         "set": "RAW",
@@ -1429,8 +1421,16 @@
         "position": ""
     },
     {
+        "card_name": "Rix Maadi Abomination",
+        "number": 200,
+        "shape": "normal",
+        "set": "RAW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Putrefied Tutor",
-        "number": 195,
+        "number": 194,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1438,7 +1438,7 @@
     },
     {
         "card_name": "Recruitment Campaign",
-        "number": 197,
+        "number": 196,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1550,7 +1550,7 @@
     },
     {
         "card_name": "Fester",
-        "number": 163,
+        "number": 162,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1574,7 +1574,7 @@
     },
     {
         "card_name": "Incarcerate",
-        "number": 176,
+        "number": 175,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1614,7 +1614,7 @@
     },
     {
         "card_name": "Inquisitive Guardmage",
-        "number": 177,
+        "number": 176,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1638,7 +1638,7 @@
     },
     {
         "card_name": "Righteous Smite",
-        "number": 199,
+        "number": 198,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1646,14 +1646,6 @@
     },
     {
         "card_name": "Ooze Bioprocessor",
-        "number": 190,
-        "shape": "normal",
-        "set": "RAW",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Octave, Deputy of Discipline",
         "number": 189,
         "shape": "normal",
         "set": "RAW",
@@ -1661,8 +1653,16 @@
         "position": ""
     },
     {
+        "card_name": "Octave, Deputy of Discipline",
+        "number": 188,
+        "shape": "normal",
+        "set": "RAW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Fired-Up Jester",
-        "number": 165,
+        "number": 164,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1670,7 +1670,7 @@
     },
     {
         "card_name": "Gutbloom Host",
-        "number": 173,
+        "number": 172,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1686,7 +1686,7 @@
     },
     {
         "card_name": "Praj, Momir Vig's Legacy",
-        "number": 194,
+        "number": 193,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1710,7 +1710,7 @@
     },
     {
         "card_name": "Lothran, the Glouton",
-        "number": 184,
+        "number": 183,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1814,7 +1814,7 @@
     },
     {
         "card_name": "Peruse the Law",
-        "number": 192,
+        "number": 191,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1822,7 +1822,7 @@
     },
     {
         "card_name": "Havoc Bringer",
-        "number": 174,
+        "number": 173,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1830,7 +1830,7 @@
     },
     {
         "card_name": "Inspect the Remains",
-        "number": 178,
+        "number": 177,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1838,7 +1838,7 @@
     },
     {
         "card_name": "Firefist's Indignation",
-        "number": 166,
+        "number": 165,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1862,7 +1862,7 @@
     },
     {
         "card_name": "Macabre Spectacle",
-        "number": 185,
+        "number": 184,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1870,7 +1870,7 @@
     },
     {
         "card_name": "Mangled Rootgiant",
-        "number": 186,
+        "number": 185,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1878,7 +1878,7 @@
     },
     {
         "card_name": "Firemane Executioner",
-        "number": 167,
+        "number": 166,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1886,7 +1886,7 @@
     },
     {
         "card_name": "Plaxplated Biotitan",
-        "number": 193,
+        "number": 192,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1902,7 +1902,7 @@
     },
     {
         "card_name": "Ring Fire Maniac",
-        "number": 200,
+        "number": 199,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,

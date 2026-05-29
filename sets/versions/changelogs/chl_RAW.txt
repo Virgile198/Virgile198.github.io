@@ -1,4 +1,185 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+Freemage's Fiery Temper added.
+Shackled Bloodrake added.
+Sarvis, High Justicar added.
+Forecaster Arbitrator added.
+
+Freemage's Fiery Ritual removed.
+Shackled Blooddrake removed.
+Durand, High Justicar removed.
+Futur Seer removed.
+
+Boros Standard Bearer
+
+Spiretop Courier
+
+Loyal Warhound
+
+Valiant District Protector
+rules_text: Flying, vigilance
+Whenever this creature attacks, target creature you control with power less than or equal to this creature's gain double strike until end of turn. => Flying
+Whenever this creature attacks, target creature you control with power less than or equal to this creature's gain double strike until end of turn.
+
+Lyev Skywatch
+
+Reprocess Essence
+
+Synapse Linker
+
+Lawmage Familliar
+
+Aethermage's Contempt
+rules_text: As an additional cost to cast this spell, tap any number of untapped Gates you control. Copy it for each Gate tapped this way.
+The owner of target nonland permanent puts it on the or bottom or their library. => As an additional cost to cast this spell, tap any number of untapped Gates you control. Copy it for each Gate tapped this way.
+The owner of target nonland permanent puts it on the top or bottom or their library.
+
+Untwine
+
+Fungal Pest
+
+First District Paragon
+rules_text: Whenever a Gate you control enters, this creature gains lifelink and indestructible until ens of turn. => Whenever a Gate you control enters, this creature gains lifelink and indestructible until end of turn.
+
+Eaten From Within
+rules_text: As an additional cost to cast this spell, you may sacrifice any number of creatures. This spell costs {2} less to cast for each creature sacrificed this way.
+Return target creature card from your graveyard to the battlefield. => As an additional cost to cast this spell, you may sacrifice any number of creatures.
+Return target creature card from your graveyard to the battlefield. Put X +1/+1 counters on it and you gain X life, where X is twice the number of creatures sacrificed this way.
+
+Jagged Edges
+
+Skull Clamper Parasite
+
+Gruesome Spectacle
+
+Wheel of Agony
+
+Firstblade Lieutenant
+
+Rakdos Excrutiator
+
+Wojek Avenger
+
+Welcoming Ringleader
+
+Mourning Legionnaire
+
+Nephilim's Impetus
+rules_text: Choose one. If you control a multicolored permanent, you may choose two instead.
+• Create a 4/1 red Elemental creature token with trample and haste. Sacrifice it at the beginning of the next end step.
+• Exile the top two cards of your library. Until the end of your next turn, you may play those cards. => Choose one. If you control a multicolored permanent, you may choose two instead.
+• Create a 4/1 red Elemental creature token with trample and haste. Sacrifice it at the beginning of the next end step.
+• Exile the top two cards of your library. You may play them this turn.
+
+Uncontained Hulk
+rules_text: When this creature enters, put a +1/+1 counter on target creature you control and you gain 1 life.
+Whenever this creature dies, put its counters on up to one target creature you control. => When this creature enters, put a +1/+1 counter on target creature you control and you gain 1 life.
+When this creature dies, put its counters on up to one target creature you control.
+
+Golgari Rotseer
+
+Breeding Plant Supervisor
+
+Woodwraith Behemoth
+
+Containment Breach
+cost: {X}{X}{X}{G}{U} => {X}{X}{G}{U}
+rules_text: This spell can't be countered.
+Search your library, graveyard and/or hand for any number of creature cards with total mana value X or less, put them onto the battlefield. Then, for each of those creatures, create X tokens that are copies of it. If you searched your library this way, shuffle. => This spell can't be countered.
+Search your library for any number of creature cards with total mana value X or less, put them onto the battlefield, then shuffle. For each of those creatures, create X tokens that are copies of it.
+
+Devastation in the Streets
+rules_text: Choose one or both —
+• Destroy target artifact or creature.
+• Target creature you control deals damage equal to its power to any other target. Then sacrifice it. => Choose one —
+• Destroy target artifact.
+• Destroy target creature.
+• Destroy target planeswalker.
+
+Gleeful Skinner
+cost: {1}{B}{R} => {3}{B}{R}
+rules_text: Double strike, lifelink
+If a player would gain life, each of your opponent loses that much life instead.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and have each other creature you control gain double strike and lifelink until end of turn. If you do, sacrifice it at the beginning of the next end step. => If a player would gain life, each of your opponent loses that much life instead.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and have each creature you control gain lifelink until end of turn. If you do, sacrifice it at the beginning of the next end step.
+pt: 2/4 => 5/6
+
+Critics Hunter
+rules_text: Haste
+Decayed [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{BR}, Pay 3 life: Return this card from your graveyard to the battlefield. Activate only as a sorcery. => Haste
+Decayed [i](This creature can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{BR}, Sacrifice a creature: Return this card from your graveyard to the battlefield. Activate only as a sorcery.
+
+Wojek Recruitee
+
+Crypsis Clade Guardian
+rules_text: Implant {1}{G}{U} [i]({1}{G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Whenever one or more creatures you control deal combat damage to a player, that player mills cards equal to the damage dealt. You may put a land card milled this way onto the battlefield tapped under your control. => Implant {1}{G}{U} [i]({1}{G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Whenever one or more creatures you control deal combat damage to a player, that player mills cards equal to the damage dealt this way. You may put a land card milled this way onto the battlefield under your control.
+pt: 3/4 => 3/3
+
+Transfigure
+type: Instant => Sorcery
+rules_text: Exile target spell or permanent. Its controller reveals cards from the top of their library until they reveal a card that shares a card type with the exiled spell or permanent. They may play that card without paying its mana cost. Then they shuffle. => Exile target nonland permanent. Its controller reveals cards from the top of their library until they reveal a card that shares a card type with the exiled permanent, exiles that card, then they shuffle. They may cast the exiled card without paying its mana cost until their next end step.
+
+Ooze Bioprocessor
+rules_text: {T}: Add one mana of any color. When you spend this mana to cast a creature spell or activate an ability, put a +1/+1 counter on this creature.
+{T}, Remove X +1/+1 counters from this creature: Add X mana in any combination of colors. => {T}: Add one mana of any color. When you spend this mana to cast a creature spell or activate an ability, put a +1/+1 counter on this creature.
+{T}, Remove a +1/+1 counter from this creature: Draw a card.
+
+Erstwhile Awakener
+rules_text: Sacrifice another creature: Add one mana of any color. You gain 1 life.
+{G}: Exile target card from a graveyard.
+{3}{B}{B}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery. => {T}, Sacrifice another creature: Add two mana in any combination of colors.
+{G}: Exile target card from a graveyard.
+{3}{B}{B}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
+
+Putrefied Tutor
+rules_text: Search your library for a card, put that card into your graveyard, then shuffle. You may return a card from your graveyard to your hand. Exile this card. => Search your library for a card, put that card into your graveyard, then shuffle. You may return a card from your graveyard to your hand.
+Exile Putrefied Tutor.
+
+Hull Clade Guardian
+
+Safeguard
+
+Righteous Uprising
+rules_text: Create twice X white 1/1 Human creature tokens, where X is the number of Gates you control. => Create twice X 1/1 white Human creature tokens, where X is the number of Gates you control.
+
+Ready the Arresters
+rules_text: Create two 1/1 white and blue Soldier creature tokens. If this spell was cast from exile, you gain 1 life for each creature you control.
+Preamble {3}{W} [i]({3}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => Create two 1/1 white and blue Soldier creature tokens.
+Preamble {3}{W} [i]({3}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i]
+
+Zealous Arrester
+rules_text: When this creature enters, tap up to one target creature and put a stun counter on it.
+Preamble {2}{W} [i]({2}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => Vigilance
+When this creature enters, tap up to one target creature and put a stun counter on it.
+Preamble {2}{W} [i]({2}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i]
+
+Enfeebling Shackles
+type: Instant => Artifact
+rules_text: Creatures your opponents control get -2/-0 until end of turn. Then if this spell was cast from exile, tap each of those creature with power 1 or less.
+Preamble {3}{U} [i]({3}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => When this artifact enters, scry 2.
+{2}, {T}: Target creature can't attack or block until your next turn.
+Preamble {2}{U} [i]({2}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i]
+
+Jelenn Grand Elocutor
+
+Decipher the Chronology
+rules_text: Search your library and/or graveyard for a nonland card with mana value 3 or less, reveal it, and put it into your hand. If you searched your library this way, shuffle. Exile this card. => Search your library and/or graveyard for a nonland card with mana value 3 or less, reveal it, and put it into your hand. If you searched your library this way, shuffle.
+Exile Decipher the Chronology.
+
+Arbiter of Law
+rules_text: Flying, vigilance
+Your opponents can't cast creature spells.
+You may cast creature spells without paying paying their mana cost. => Flying, vigilance
+Your opponents can't cast creature spells.
+You may cast creature spells without paying their mana cost.
+
+
+VERSION 33 CHANGELOG
 ====================
 
 Monument to Solidarity added.
