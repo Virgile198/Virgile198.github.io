@@ -279,7 +279,7 @@ Destroy all creatures. You gain 1 life for each creature you controlled that was
 		<card>
 			<name>Valiant District Protector</name>
 			<text>Flying
-Whenever this creature attacks, target creature you control with power less than or equal to this creature&apos;s gain double strike until end of turn.</text>
+Whenever this creature attacks, target creature you control with power less than or equal to this creature&apos;s gains double strike until end of turn.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/28_Valiant District Protector.png" num="28">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -4711,7 +4711,7 @@ You gain hexproof until end of turn. Creatures you control gain hexproof and ind
 		</card>
 		<card>
 			<name>Righteous Uprising</name>
-			<text>Create twice X 1/1 white Human creature tokens, where X is the number of Gates you control.</text>
+			<text>Create X 1/1 white Human creature tokens, where X is twice the number of Gates you control.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/23_Righteous Uprising.png" num="23">RAW</set>
 			<prop>
 				<layout>normal</layout>

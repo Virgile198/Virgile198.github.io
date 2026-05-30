@@ -1,4 +1,18 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+
+
+Valiant District Protector
+rules_text: Flying
+Whenever this creature attacks, target creature you control with power less than or equal to this creature's gain double strike until end of turn. => Flying
+Whenever this creature attacks, target creature you control with power less than or equal to this creature's gains double strike until end of turn.
+
+Righteous Uprising
+rules_text: Create twice X 1/1 white Human creature tokens, where X is the number of Gates you control. => Create X 1/1 white Human creature tokens, where X is twice the number of Gates you control.
+
+
+VERSION 35 CHANGELOG
 ====================
 
 
