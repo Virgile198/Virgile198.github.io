@@ -5448,7 +5448,7 @@
             "shape": "token",
             "set": "RAW",
             "loyalty": "",
-            "artist": "Federico Arguissein",
+            "artist": "Pathelicos",
             "notes": "!exportname Vannifar Emblem\n!related Vannifar, Voice of the Combine"
         },
         {
@@ -5470,5 +5470,5 @@
             "notes": "!exportname 2/1 Skeleton\n!related Zafen, Scheming Necromancer"
         }
     ],
-    "version": 38
+    "version": 39
 }

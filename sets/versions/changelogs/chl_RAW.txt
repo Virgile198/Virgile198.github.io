@@ -1,4 +1,12 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+
+
+Vannifar Emblem
+
+
+VERSION 38 CHANGELOG
 ====================
 
 Tajic Emblem added.
