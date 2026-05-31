@@ -263,7 +263,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Yahor Palishchuk",
-            "notes": "!tag Boros",
+            "notes": "!tag Boros\n!tag wishlist",
             "image_type": "png"
         },
         {
@@ -2733,7 +2733,7 @@
             "set": "RAW",
             "loyalty": "4",
             "artist": "Crimson Caldera",
-            "notes": "!tag Rakdos",
+            "notes": "!tag Rakdos\n!tag wishlist",
             "image_type": "png"
         },
         {
@@ -2752,7 +2752,7 @@
             "set": "RAW",
             "loyalty": "4",
             "artist": "Pathelicos",
-            "notes": "",
+            "notes": "!tag Simic\n!tag wishlist",
             "image_type": "png"
         },
         {
@@ -2809,7 +2809,7 @@
             "set": "RAW",
             "loyalty": "3",
             "artist": "Federico Arguissein",
-            "notes": "!tag Boros",
+            "notes": "!tag Boros\n!tag wishlist",
             "image_type": "png"
         },
         {
@@ -5645,7 +5645,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Kyle Pearson",
-            "notes": "!tag Azorius",
+            "notes": "!tag Azorius\n!tag wishlist",
             "image_type": "png"
         },
         {

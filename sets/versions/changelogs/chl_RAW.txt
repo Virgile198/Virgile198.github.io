@@ -1,4 +1,20 @@
-﻿VERSION 36 CHANGELOG
+﻿VERSION 37 CHANGELOG
+====================
+
+
+
+Aurelia's Judgment
+
+Judith, the Bloody Deluge
+
+Vannifar, Voice of the Combine
+
+Tajic, Boros Examplar
+
+Arbiter of Law
+
+
+VERSION 36 CHANGELOG
 ====================
 
 
