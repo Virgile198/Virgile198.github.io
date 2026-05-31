@@ -1,4 +1,25 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+Tajic Emblem added.
+Vannifar Emblem added.
+
+
+6/6 Demon
+
+Pursuit
+rules_text: Create two 1/1 colorless Thopter artifact creature tokens with flying. => Create two 1/1 white and blue Thopter artifact creature tokens with flying.
+
+Judgment of Balance
+rules_text: This spell can't be countered.
+Return all nonland permanents to their owners' hands. Each player may shuffle their hand and graveyard into their library, then each player who does creates a 4/4 white and blue Sphinx token creature with flying and vigilance, draws seven cards and gains 7 life. => This spell can't be countered.
+Return all nonland permanents to their owners' hands. Each player may shuffle their hand and graveyard into their library, then each player who does creates a 4/4 white and blue Sphinx creature token with flying and vigilance, draws seven cards and gains 7 life.
+
+2/1 Skeleton
+type: Creature — Skeleton => Token Creature — Skeleton
+
+
+VERSION 37 CHANGELOG
 ====================
 
 

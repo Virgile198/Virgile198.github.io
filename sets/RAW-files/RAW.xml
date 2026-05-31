@@ -4310,25 +4310,6 @@ This creature can&apos;t block.</text>
 			<reverse-related>Lamiel, Deathsprout Cultivator</reverse-related>
 		</card>
 		<card>
-			<name>2/1 Skeleton RAW</name>
-			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/5t_2/1 Skeleton.png" num="5">RAW</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Skeleton</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>2/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-			<reverse-related>Zafen, Scheming Necromancer</reverse-related>
-		</card>
-		<card>
 			<name>1/1 Boros Soldier RAW</name>
 			<text></text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/18t_1/1 Boros Soldier.png" num="18">RAW</set>
@@ -4922,7 +4903,7 @@ Return target spell or nonland permanent an opponent controls to its owner&apos;
 		</card>
 		<card>
 			<name>Pursuit // Purification</name>
-			<text>Create two 1/1 colorless Thopter artifact creature tokens with flying.
+			<text>Create two 1/1 white and blue Thopter artifact creature tokens with flying.
 
 ---
 
@@ -5069,7 +5050,7 @@ Preamble {2}{W}{U} ({2}{W}{U}, Exile this card from your hand: Cast a copy of it
 		<card>
 			<name>Judgment of Balance</name>
 			<text>This spell can&apos;t be countered.
-Return all nonland permanents to their owners&apos; hands. Each player may shuffle their hand and graveyard into their library, then each player who does creates a 4/4 white and blue Sphinx token creature with flying and vigilance, draws seven cards and gains 7 life.</text>
+Return all nonland permanents to their owners&apos; hands. Each player may shuffle their hand and graveyard into their library, then each player who does creates a 4/4 white and blue Sphinx creature token with flying and vigilance, draws seven cards and gains 7 life.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/178_Judgment of Balance.png" num="178">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -5314,6 +5295,57 @@ When this land enters, sacrifice it unless you pay {1}.
 			<tablerow>2</tablerow>
 			<token>1</token>
 			<reverse-related>Monument to Strength</reverse-related>
+		</card>
+		<card>
+			<name>Tajic Emblem RAW</name>
+			<text>Creatures you control have double strike, lifelink, trample, indestructible and haste.</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/22t_Tajic Emblem.png" num="22">RAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem</type>
+				<maintype>Emblem</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>Tajic, Boros Examplar</reverse-related>
+		</card>
+		<card>
+			<name>Vannifar Emblem RAW</name>
+			<text>At the beginning of each upkeep, create three tokens that are copies of target permanent.</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/23t_Vannifar Emblem.png" num="23">RAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem</type>
+				<maintype>Emblem</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<reverse-related>Vannifar, Voice of the Combine</reverse-related>
+		</card>
+		<card>
+			<name>2/1 Skeleton RAW</name>
+			<text></text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RAW-files/img/5t_2/1 Skeleton.png" num="5">RAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Zafen, Scheming Necromancer</reverse-related>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

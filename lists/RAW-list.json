@@ -2315,6 +2315,22 @@
         "position": ""
     },
     {
+        "card_name": "Tajic Emblem",
+        "number": 22,
+        "shape": "token",
+        "set": "RAW",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Vannifar Emblem",
+        "number": 23,
+        "shape": "token",
+        "set": "RAW",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "4/4 Angel",
         "number": 1,
         "shape": "token",
@@ -2465,12 +2481,6 @@
         "set": "RAW",
         "rotated": false,
         "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
