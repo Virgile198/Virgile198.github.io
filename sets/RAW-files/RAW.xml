@@ -5,7 +5,7 @@
 			<name>RAW</name>
 			<longname>Ravnica&apos;s Awakening</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-31</releasedate>
+			<releasedate>2026-06-03</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -722,7 +722,7 @@ Whenever this creature enters or you cast a spell from anywhere other than your 
 		<card>
 			<name>Aethermage&apos;s Contempt</name>
 			<text>As an additional cost to cast this spell, tap any number of untapped Gates you control. Copy it for each Gate tapped this way.
-The owner of target nonland permanent puts it on the top or bottom or their library.</text>
+The owner of target nonland permanent puts it on the top or bottom of their library.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/31_Aethermage&apos;s Contempt.png" num="31">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -1547,14 +1547,15 @@ Whenever this creature or another creature you control dies, you may exile the t
 		</card>
 		<card>
 			<name>Freemage&apos;s Fiery Temper</name>
-			<text>This spell deals damage equal to three times the number of Gates you control to target creature.</text>
+			<text>Affinity for Gates (This spell costs {1} less to cast for each Gate you control.)
+This spell deals X damage to target creature or planeswalker.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/97_Freemage&apos;s Fiery Temper.png" num="97">RAW</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>R</manacost>
+				<manacost>XR</manacost>
 				<cmc>1</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -2833,7 +2834,7 @@ If one or more +1/+1 counters would be put on a creature you control, that many 
 		<card>
 			<name>Force Shaping</name>
 			<text>Choose one or both —
-• Copy target triggered or activated ability. You may chose new targets for the copy.
+• Copy target activated or triggered ability. You may chose new targets for the copy.
 • Counter target activated or triggered ability.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/225_Force Shaping.png" num="225">RAW</set>
 			<prop>
@@ -3653,7 +3654,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 		</card>
 		<card>
 			<name>Ageless Scholar</name>
-			<text>This artifact is all colors.
+			<text>Ageless Scholar is all colors.
 When this creature enters, you may search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/246_Ageless Scholar.png" num="246">RAW</set>
 			<prop>
@@ -3687,10 +3688,10 @@ Whenever a Gate you control enters, creatures you control get +1/+1 and gain vig
 		</card>
 		<card>
 			<name>Ravnican Omnicompass</name>
-			<text>This artifact is all colors.
+			<text>Ravnican Omnicompass is all colors.
 Gates you control enter untapped.
-If you control two or more Gates with different names, creatures you control get +1/+1 and have vigilance.
-If you control five or more Gates with different names, creatures you control get +4/+4 and have trample.</text>
+As long as you control two or more Gates with different names, creatures you control get +1/+1 and have vigilance.
+As long as you control five or more Gates with different names, creatures you control get +4/+4 and have trample.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/257_Ravnican Omnicompass.png" num="257">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -4830,7 +4831,7 @@ Preamble {1}{U} ({1}{U}, Exile this card from your hand: Cast a copy of it witho
 		</card>
 		<card>
 			<name>Jelenn Grand Elocutor</name>
-			<text>Spells you cast from anywhere other than you hand cost {2} less to cast.
+			<text>Spells you cast from anywhere other than your hand cost {2} less to cast.
 Whenever you cast a spell from anywhere other than your hand, draw a card. This ability triggers only once each turn.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/44_Jelenn Grand Elocutor.png" num="44">RAW</set>
 			<prop>

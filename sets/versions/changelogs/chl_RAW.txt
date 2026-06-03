@@ -1,4 +1,46 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+
+
+Aethermage's Contempt
+rules_text: As an additional cost to cast this spell, tap any number of untapped Gates you control. Copy it for each Gate tapped this way.
+The owner of target nonland permanent puts it on the top or bottom or their library. => As an additional cost to cast this spell, tap any number of untapped Gates you control. Copy it for each Gate tapped this way.
+The owner of target nonland permanent puts it on the top or bottom of their library.
+
+Freemage's Fiery Temper
+cost: {R} => {X}{R}
+rules_text: This spell deals damage equal to three times the number of Gates you control to target creature. => Affinity for Gates [i](This spell costs {1} less to cast for each Gate you control.)[/i]
+This spell deals X damage to target creature or planeswalker.
+
+Force Shaping
+rules_text: Choose one or both —
+• Copy target triggered or activated ability. You may chose new targets for the copy.
+• Counter target activated or triggered ability. => Choose one or both —
+• Copy target activated or triggered ability. You may chose new targets for the copy.
+• Counter target activated or triggered ability.
+
+Ageless Scholar
+rules_text: This artifact is all colors.
+When this creature enters, you may search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle. => Ageless Scholar is all colors.
+When this creature enters, you may search your library for a basic land card or Gate card, reveal it, put it into your hand, then shuffle.
+
+Ravnican Omnicompass
+rules_text: This artifact is all colors.
+Gates you control enter untapped.
+If you control two or more Gates with different names, creatures you control get +1/+1 and have vigilance.
+If you control five or more Gates with different names, creatures you control get +4/+4 and have trample. => Ravnican Omnicompass is all colors.
+Gates you control enter untapped.
+As long as you control two or more Gates with different names, creatures you control get +1/+1 and have vigilance.
+As long as you control five or more Gates with different names, creatures you control get +4/+4 and have trample.
+
+Jelenn Grand Elocutor
+rules_text: Spells you cast from anywhere other than you hand cost {2} less to cast.
+Whenever you cast a spell from anywhere other than your hand, draw a card. This ability triggers only once each turn. => Spells you cast from anywhere other than your hand cost {2} less to cast.
+Whenever you cast a spell from anywhere other than your hand, draw a card. This ability triggers only once each turn.
+
+
+VERSION 39 CHANGELOG
 ====================
 
 
