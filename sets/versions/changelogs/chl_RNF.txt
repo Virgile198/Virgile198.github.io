@@ -1,4 +1,142 @@
-﻿VERSION 63 CHANGELOG
+﻿VERSION 64 CHANGELOG
+====================
+
+
+
+Wall of Fury
+rules_text: Defender, reach
+This creature's power is equal to the number of creatures you control.
+At the beginning of combat on your turn, another target creature you control gets +X/+0 and gains haste until end of turn, where X is this creature's power. => Defender, reach
+This creature's gets +1/+0 for each attacking creatures.
+At the beginning of combat on your turn, target creature you control gains haste and can attack as though it didn't have defender until end of turn.
+pt: */3 => 0/3
+
+Gate Infiltrator
+pt: 1/3 => 1/4
+
+Untwine
+cost: {X}{U}{U} => {X}{U}
+rules_text: This spell costs {1} less to cast for each creature you control with a +1/+1 counter on it.
+Counter target spell, activated ability, or triggered ability unless its controller pays {X}. => This spell costs {1} less to cast for each creature you control with a +1/+1 counter on it.
+Counter target spell unless its controller pays {X}.
+
+First District Paragon
+
+Corpse Jeweler
+rules_text: Whenever another creature you control dies, create a Treasure token. This ability triggers only once each turn.
+{T}, Sacrifice a creature: Surveil 1.
+{2}, {T}, Sacrifice a token: Draw a card. => Whenever another creature you control dies, create a Treasure token. This ability triggers only once during each of your turn.
+{T}, Sacrifice a creature: Surveil 1.
+{2}, {T}, Sacrifice a token: Draw a card.
+pt: 1/3 => 1/2
+
+Backstage Preparations
+type: Instant => Sorcery
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards. Then if {B} was spent to cast this spell, create a Treasure token and you lose 1 life. => As an additional cost to cast this spell, discard a card.
+Draw two cards. Then if {B} was spent to cast this spell, create a tapped Treasure token and you lose 1 life.
+
+Flame-kin Commander
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+When this creature enters or dies, it deals X damage divided as you chose among any number of targets, where X is the number of creatures you control or the highest power among creatures you control, whichever is greater. => Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+When this creature enters or dies, it deals X damage divided as you chose among any number of targets, where X is the highest power among creatures you control.
+
+Goldscale Whelp
+rules_text: Flying, first strike, haste
+This creature can't block.
+{2}{R}, Sacrifice this creature: Draw a card and create a Treasure token. => Flying, haste
+This creature can't block.
+{3}{R}, Sacrifice this creature: Draw a card and create a Treasure token.
+
+Mourning Legionnaire
+
+Woodwraith Behemoth
+rules_text: Whenever a creature you control dies, create a tapped token that's a copy of it, except it's a land with “{T}: Add one mana of any of this card's colors.” Do this only once each turn.
+{1}{G}, {T}, Sacrifice a land: Return target creature card from your graveyard to your hand. => Whenever this creature enters or attacks you may sacrifice another creature. When you do, create a tapped token that's a copy of that creature, except it's a land and has “{T}: Add one mana of any of this card's colors” and loses all other abilities.
+{1}{G}, {T}, Sacrifice a land: Return target creature card from your graveyard to your hand.
+pt: 3/5 => 4/5
+
+Ooze Hydra
+rules_text: Implant {2}{G}{G} [i]({2}{G}{G}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Whenever this creature enters, deals combat damage to a player or dies, create two 0/0 green and blue Ooze creature tokens. Put a +1/+1 counter on each of them, then put a +1/+1 counter on each creature you control. => Implant {2}{G}{G} [i]({2}{G}{G}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Whenever this creature enters, deals combat damage to a player, or dies, create two 0/0 green and blue Ooze creature tokens. Put a +1/+1 counter on each creature you control.
+pt: 1/1 => 2/2
+
+Judith, the Bloody Deluge
+cost: {2}{B}{R} => {1}{B}{R}
+special_text: Whenever you sacrifice a permanent, Judith deals 1 damage to any target.
+[+2]: You may sacrifice a creature or discard a card. If you do, draw a card.
+[-3]: Destroy target artifact, creature or planeswalker.
+[-9]: Return all creature cards from each graveyard to the battlefield under your control. They gain haste until end of turn. Sacrifice them at the beginning of the next end step. => Whenever you sacrifice a permanent, Judith deals 1 damage to any target.
+[+1]: You may sacrifice a creature or discard a card. If you do, draw a card.
+[-2]: Create a token that's a copy of target creature you control, except it has haste and “At the beginning of the end step, sacrifice this token.”
+[-6]: Return all creature cards from each graveyard to the battlefield under your control. They gain haste until end of turn. Sacrifice them at the beginning of the next end step.
+loyalty: 4 => 3
+
+Vannifar, Voice of the Combine
+cost: {2}{G}{U} => {3}{G}{U}
+special_text: Whenever you cast a spell or activate an ability that targets a creature you control, draw a card. This ability triggers only once each turn.
+[+1]: Untap target permanent you control. If it's a creature, put a +1/+1 counter on it.
+[-3]: Create two 2/2 green and blue Drake creature tokens with flying.
+[-8]: You get an emblem with “At the beginning of each upkeep, create three tokens that are copies of target permanent.” => Whenever you cast a spell or activate an ability that targets a creature you control, draw a card. This ability triggers only once each turn.
+[+1]: Distribute two +1/+1 counters among one or two target permanents you control. Untap them.
+[-3]: Create two 2/2 green and blue Drake creature tokens with flying.
+[-6]: You gain an emblem with “Whenever a permanent you control becomes the target of a spell or ability you control, create a token that's a copy of it.”
+
+Tajic, Boros Examplar
+
+Force Shaping
+rules_text: Choose one or both —
+• Copy target activated or triggered ability. You may chose new targets for the copy.
+• Counter target activated or triggered ability. => Choose one or both —
+• Copy target activated or triggered ability from a nonland source. You may chose new targets for the copy.
+• Counter target activated or triggered ability from a nonland source.
+
+Thorough Probing
+rules_text: Look at the top four cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order. You may play an additional land this turn. => Look at the top four cards of your library. Put up to one land card from among them onto the battlefield tapped, put another card from among them into your hand and the rest on the bottom of your library in a random order.
+
+Recruitment Campaign
+rules_text: Search your library for a creature card, reveal it, put it into your hand, then shuffle. Then you may put a creature card with mana value 2 or less from your hand onto the battlefield. It gains haste until end of turn. => Search your library for a creature card with mana value 2 or less, reveal it, put it into your hand, then shuffle. Then you may put a creature card with mana value 2 or less from your hand onto the battlefield. It gains haste until end of turn.
+
+Ageless Scholar
+pt: 2/2 => 2/1
+
+Ravnican Omnicompass
+rules_text: Ravnican Omnicompass is all colors.
+Gates you control enter untapped.
+As long as you control two or more Gates with different names, creatures you control get +1/+1 and have vigilance.
+As long as you control five or more Gates with different names, creatures you control get +4/+4 and have trample. => Ravnican Omnicompass is all colors.
+Gates you control enter untapped.
+You may look at the top card of your library any time.
+You may play Gate cards from the top of your library.
+
+Voracious Deathstinger
+rules_text: Trample, indestructible
+Whenever this creature attacks or blocks, each player sacrifices a creature. You gain life equal to the total toughness of creatures sacrificed.
+Swarm X—{X}{B}{BG}{G} [i]({X}{B}{BG}{G}, Exile this card from your graveyard: Create X 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => Trample, indestructible
+Whenever this creature attacks or blocks, each player sacrifices a creature. You gain life equal to the total toughness of creatures sacrificed.
+Swarm X—{X}{BG}{BG} [i]({X}{BG}{BG}, Exile this card from your graveyard: Create X 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+
+Accelerated Growth
+rules_text: Look at the top five cards of your library. If {U} was spent to cast this spell, put a card from among them into your hand. Otherwise, reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => Look at the top five cards of your library. If {U} was spent to cast this spell, put a card from among them into your hand. Otherwise, reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Hull Clade Guardian
+rules_text: Ward {2}
+Whenever this creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.
+Remove a +1/+1 counter from this creature: It gains your choice of vigilance, reach or trample until end of turn. => Ward {2}
+Whenever this creature becomes the target of a spell or ability you control, put a +1/+1 counter on it. This ability triggers only once each turn.
+Remove a +1/+1 counter from this creature: It gains your choice of vigilance, reach or trample until end of turn.
+
+Righteous Uprising
+rules_text: Create X 1/1 white Human creature tokens, where X is twice the number of Gates you control. => Create X 1/1 white Human creature tokens, where X is the number of Gates you control.
+
+Arbiter of Law
+
+Vannifar Emblem
+rules_text: At the beginning of each upkeep, create three tokens that are copies of target permanent. => Whenever a permanent you control becomes the target of a spell or ability you control, create a token that's a copy of it.
+
+
+VERSION 63 CHANGELOG
 ====================
 
 Boros Standard Bearer added.
