@@ -1,4 +1,592 @@
-﻿VERSION 64 CHANGELOG
+﻿VERSION 65 CHANGELOG
+====================
+
+Sootfurr Brute added.
+Mizzium Cannon added.
+Burning-Tree Blackhorn added.
+Wildheart Raiders added.
+Inquisitive Minotaur added.
+Mountain Hurler added.
+Shamanic Power added.
+Bloodrust Assailant added.
+Fierce Maaka Kitten added.
+Gate Breaker added.
+Augmented Monstrosity added.
+Blightblood Abomination added.
+Razortusk Piglet added.
+Rejuvenated Wood-Kin added.
+Mossback Pulverizer added.
+Alms Giver added.
+Spectral Advisor added.
+Clergy Enforcer added.
+Cruel Robber added.
+Corpse Excavator added.
+Euthanist Master added.
+Teysa Karlov, Master of Deals added.
+Treasured Pet added.
+Assessor of Worth added.
+Priest of The Welcoming added.
+Vicious Blackmailer added.
+Orzhov Exorcist added.
+Vulpus Honorguard added.
+Howling Gate added.
+Knight of Denial added.
+Pontific Guard added.
+Profane Ceremony added.
+Pruning added.
+Flowerbed Envoy's Call added.
+Dutiful Archprotector added.
+Worldring Ouroboros added.
+Bolstering Spores added.
+Ledev Captain added.
+Leaf Storm added.
+Coordinated Assault added.
+Protector of the Glade added.
+Selesnya Caretaker added.
+Sowing Courier added.
+Branching Possibilities added.
+Ral, Thundering Genius added.
+Essencesnatch added.
+Ceremony of Fury added.
+Overflowing Buffer added.
+Thought Accelerator added.
+Blinding Flash added.
+Voltaic Strike added.
+Mass Scrambler added.
+Flux Launcher Maniac added.
+Ecstatic Fluxburster added.
+Bionic Strength added.
+Fluctuating Reality added.
+Aether Condensator added.
+Cognition Theft added.
+Blood-Drenched Spoil added.
+Shambling Grotesquerie added.
+Deeproot Entity added.
+Storm Eater added.
+Clawing Grasp added.
+Mind Hemorrhage added.
+Orzhov Guildgate added.
+Dimir Guildgate added.
+Izzet Guildgate added.
+Tin Street added.
+Transguild Square added.
+Orzhov Insignia added.
+Gruul Insignia added.
+Izzet Insignia added.
+Selesnya Insignia added.
+Dimir Insignia added.
+Custodian of the Guildpact added.
+Living Monument added.
+Shield of the Guildpact added.
+Heart of Communion added.
+Vault of the Paruns added.
+Oblivion Urn added.
+Prismatic Custodian added.
+Watery Grave added.
+Stomping Ground added.
+Temple Garden added.
+Godless Shrine added.
+Steam Vents added.
+Hidden Scrutiny added.
+Vital Reclamation added.
+Backstreet Informant added.
+Incapacitating Probing added.
+Anguished Fall added.
+World-Tree Guardian added.
+Protector of the Meek added.
+Deep Sewage Lurker added.
+Thrull Collectors added.
+Frontline Cultivator added.
+Ninth District Benevolent added.
+Shady Courier added.
+Lightningquake added.
+Fires of Reclamation added.
+Conclave Sentinel added.
+Brilliant Artist added.
+Flood of Memories added.
+Duskmantle Agent added.
+Mad Alchemist added.
+Mounted Warbeast added.
+Rumbling Drake added.
+Catacombs Cleaner added.
+Winged Mare added.
+Thraka, Ire of the Wilds added.
+Cleanser of Debt added.
+1/1 Saproling added.
+1/1 Spirit added.
+Hellion Star added.
+1/1 Construct added.
+2/2 Zombie added.
+Zombie Star added.
+Elemental Star added.
+1/1 Bird added.
+2/2 Elf Knight added.
+3/3 Elemental added.
+Zhur-Taa Ember Shaman added.
+Falling Apart added.
+Call of the Hunt added.
+Deadly Familiar added.
+Deafening Cacophony added.
+Mind Tap added.
+Izzet Apprentice added.
+Slitz-Clan Opportunist added.
+Debtor Hunter added.
+Lightning Rider added.
+Priest of the Old Ways added.
+Magebane Rawhide added.
+Caller of the Wilds added.
+Illuminator Imp added.
+Arrogant Hermit added.
+Guardian of the Hour added.
+Unearthed Mysteries added.
+Truesight Sphinx added.
+Lightning Catalyst added.
+Maree, Nivix Grand Chamberlain added.
+Reload added.
+Factory Line added.
+Workshop Supervisor added.
+Blessing of Savagery added.
+Bushfire Shaman added.
+Ghor-Clan Charger added.
+Ram added.
+Rakasht, Spawn of Ulasht added.
+Mind Warp added.
+Syphon Psyche added.
+Essence Shift added.
+Chosen of the Worldsoul added.
+Spore Waltz added.
+Vanish added.
+Circu, Butcher of Memories added.
+Examination added.
+Incisive Reversal added.
+Sewer Grafter added.
+Unending Nightmare added.
+Boon of the Worldsoul added.
+Selesnya Sporewielder added.
+Cemetery Guardian added.
+Cruel Advokist added.
+Dispossession added.
+Milana, Orzhov High Prelate added.
+Vitality added.
+Disunite added.
+Dissect Thoughts added.
+Subvert added.
+Facsimile Project added.
+Torpor added.
+Bloodletter's Bat added.
+Wild Stomper added.
+Hyper Space Time Bubble added.
+Ashentrunk Incinerator added.
+Factory Sentinel added.
+Heart of Cinders added.
+Flourishing Phytohydra added.
+Dimir Necrosage added.
+Coldhearted Cardinal added.
+Bolrac-Clan City Breacher added.
+Fiery Form added.
+Gorz'Ghum, War Incense added.
+Gravel-Hide Channeler added.
+Wrath Guildmage added.
+Ravage added.
+Static Elemental added.
+Alcarus, Old Growth Protector added.
+Burgeoning Troops added.
+Harmony Guildmage added.
+Ironroot Bindings added.
+Poised to Strike added.
+Rise added.
+Rootguard Loxodon added.
+Flaming Claws added.
+Repurpose the Scraps added.
+Reconfigure added.
+Defile added.
+Devotion Guildmage added.
+Priest of Purification added.
+Skin added.
+The Cozen added.
+Ironclad Cyclops added.
+Wave of Agitation added.
+Cerebrospiker added.
+Innovation Guildmage added.
+Now added.
+Polarity Switcher added.
+Rix Navven, Overcharged Brute added.
+Necrotic Haze added.
+Scorching Thunder added.
+Eidolon's Fury added.
+Crazed Rioter added.
+Tamed Hellkite added.
+Eidolon's Thirst added.
+Dimir Cutthroat added.
+Lost added.
+Sleeper Spybug added.
+Violent Reshaping added.
+Zorin, Hiding in Plain Sight added.
+Rabid Sewer Rat added.
+Sharer of the Ichor added.
+Escaped Prototype added.
+Corrosive Bile Spitter added.
+Door to Everywhere added.
+Devoted Marshal added.
+Third District Sharpshooter added.
+Undercity Bloodthirster added.
+Shredding Barrage added.
+Tend to the Gardens added.
+Blessing of Wrath added.
+Enforcers of the Guildpact added.
+Insatiable Moroii added.
+Cloud Drinker added.
+Eidolon's Wisdom added.
+Secret Seeker added.
+Forgotten Phantasm added.
+Oppress added.
+1/1 Soldier added.
+4/4 Rhino added.
+5/5 Wurm added.
+2/3 Durn' Mir added.
+Aspect of Uniformity added.
+Above added.
+Blooming Sanctuary added.
+Vengeful Return added.
+1/1 Faerie added.
+Conclave Spirewatch added.
+Escalating Wrath added.
+Spectral Rider added.
+Seventh District Scoundrel added.
+Eidolon's Call added.
+Retriever of Secrets added.
+Gate Penumbra added.
+Writhing Amalgamate added.
+Galvanizing Call added.
+Blessing of Vitu-Ghazi added.
+Memorable Feast added.
+Rousing Freemage added.
+Guildpact's Blessing added.
+Surgical Strike added.
+3/3 Centaur added.
+Druid of the Votary added.
+Eidolon's Vitality added.
+Outraged Avenger added.
+Furious Pangoduan added.
+Wasteful Inheritor added.
+District Explorer added.
+Ruins Scavenger added.
+1/1 Bat added.
+Deep Wound added.
+Emmara, Ancestral Caregiver added.
+Selesnya Guildgate added.
+Dew's Benediction added.
+Gruul Guildgate added.
+Ayla, Harmony's Embrace added.
+Gheshval, Night's Mantle added.
+Profitable Demise added.
+Replicating Flare added.
+Manipulation Guildmage added.
+Vernadi Protector added.
+Ledev Rescue added.
+Chains of Torment added.
+Due of the Powerless added.
+Dryads' Blessing added.
+Mindflayer of the Dim added.
+
+Boros Standard Bearer removed.
+Brightsteel Interceptor removed.
+Protect the Precinct removed.
+Firemane Protector removed.
+Gate Physician removed.
+Spiretop Courier removed.
+Guildpact Faithful removed.
+Shield of Compassion removed.
+Angelic Rebuke removed.
+Press the Advantage removed.
+Monument to Solidarity removed.
+Wall of Fury removed.
+Sanctum of Protection removed.
+Aurelia's Judgment removed.
+Loyal Warhound removed.
+Valiant District Protector removed.
+Bounty Claimer removed.
+Featherscale Drake removed.
+Outmatch removed.
+Nephilim's Gift removed.
+Express Mandate removed.
+Benthic Protector removed.
+Enlighted Freemage removed.
+Raskal Perfumist removed.
+Fin Clade Guardian removed.
+Gate Infiltrator removed.
+Spliced Guardian removed.
+Lyev Skywatch removed.
+Chains of Submission removed.
+Reprocess Essence removed.
+Bereave removed.
+Void Wave removed.
+Monument to Wisdom removed.
+Experiment Twenty-Six removed.
+Time Bend removed.
+Synapse Linker removed.
+Elusive Biomage removed.
+Absorbed Attendant removed.
+Lawmage Familliar removed.
+Rimescale Drake removed.
+Aethermage's Contempt removed.
+Untwine removed.
+Reconsider removed.
+Nephilim's Vision removed.
+Fungal Pest removed.
+Carnarium Acrobat removed.
+Jubilent Sewer Cook removed.
+Stage Cleaner removed.
+First District Paragon removed.
+Swarm Broodmother removed.
+Undercity Cleaner removed.
+Enraged Hellhound removed.
+Eaten From Within removed.
+Reap removed.
+Jagged Edges removed.
+The Show Never Ends removed.
+Regenerative Cocoon removed.
+Monument to Depravity removed.
+Demon Progeny removed.
+Skull Clamper Parasite removed.
+Gorespawn Demon removed.
+Gruesome Spectacle removed.
+Daughter of Stone Death removed.
+Ochran Enforcer removed.
+Fired-Up Jester removed.
+Corpse Jeweler removed.
+Deceitful Guide removed.
+Smog Predator removed.
+Vengeful Hands removed.
+Nephilim's Corruption removed.
+Incite Delirium removed.
+Boros Phalanx removed.
+Sting Elemental removed.
+Sunblade Captain removed.
+Second District Keeper removed.
+Circle Headliner removed.
+Wheel of Agony removed.
+Collateral removed.
+Just Strike removed.
+Subjugate removed.
+Furious Upheaval removed.
+Obliterating Strike removed.
+Backstage Preparations removed.
+Monument to Fury removed.
+Bewitching Lead removed.
+Firstblade Lieutenant removed.
+Freemage's Fiery Temper removed.
+Flame-kin Commander removed.
+Rakdos Excrutiator removed.
+Shackled Bloodrake removed.
+Wojek Avenger removed.
+Welcoming Ringleader removed.
+Goldscale Whelp removed.
+Mourning Legionnaire removed.
+Fiery Comeuppance removed.
+All Consuming Rage removed.
+Krenko's Ransack removed.
+Nephilim's Impetus removed.
+Uncontained Hulk removed.
+Golgari Rotseer removed.
+Hound Krasis removed.
+Anglershark Krasis removed.
+Breeding Plant Supervisor removed.
+Underdeep Kraul removed.
+Gate Bulwark removed.
+Undercity Ravager removed.
+Stamp Out removed.
+Return to the Cycle removed.
+Swarm's Voracity removed.
+Redo removed.
+Rotquake removed.
+Monument to Strength removed.
+Perfected Rebirth removed.
+Insatiable Troll removed.
+Woodwraith Behemoth removed.
+Rotten Banquet removed.
+Deathbloom Mandrake removed.
+Ochran Stalker removed.
+Corrosive Experiment removed.
+Ravenous Sewerscraper removed.
+Dauntless Protector removed.
+Cytoplasmic Membrane removed.
+Ooze Hydra removed.
+Recovering Wilds removed.
+Nephilim's Presence removed.
+Surging Horror removed.
+Inspect the Remains removed.
+Mangled Rootgiant removed.
+Splatterhouse Ravager removed.
+Ring Fire Maniac removed.
+Macabre Spectacle removed.
+Havoc Bringer removed.
+Gyre Clade Guardian removed.
+Plaxplated Biotitan removed.
+Adaptive Surge removed.
+Scaly Hummerbrood removed.
+Sunhome Defender removed.
+Skyrender Knight removed.
+Firefist's Indignation removed.
+Firemane Executioner removed.
+Magistrate's Pet removed.
+Rakdos Ragefest removed.
+Escaped Hellsteed removed.
+Judith, the Bloody Deluge removed.
+Vannifar, Voice of the Combine removed.
+Replicating Abomination removed.
+Containment Breach removed.
+Tajic, Boros Examplar removed.
+On Wings of Fury removed.
+Radiant Champion removed.
+Juri, Charismatic Performer removed.
+Rix Maadi Abomination removed.
+Devastation in the Streets removed.
+Mindflare removed.
+Gleeful Skinner removed.
+Unleash removed.
+Gulistan, Master Biomancer removed.
+Metamorphosed Adapter removed.
+Force Shaping removed.
+Skybreaker Biotitan removed.
+Thorough Probing removed.
+Transform removed.
+Firemane's Flamberge removed.
+Recruitment Campaign removed.
+Ordruun Marshal removed.
+Incandescent Blessing removed.
+Diana, Passer of Judgment removed.
+Volley removed.
+Arrester Captain removed.
+Fester removed.
+Forsaken Loxodon removed.
+Gutbloom Host removed.
+Fungus Nursery removed.
+Decay Guildmage removed.
+Bitter removed.
+The Curtain Falls removed.
+Xaren, Rakdos Uncager removed.
+Giant Roustabout removed.
+Critics Hunter removed.
+Wojek Recruitee removed.
+Chaos Guildmage removed.
+Ball removed.
+Praj, Momir Vig's Legacy removed.
+Crypsis Clade Guardian removed.
+Transfigure removed.
+Ooze Bioprocessor removed.
+Cerebral Plating removed.
+Evolution Guildmage removed.
+Live removed.
+Boros Rallier removed.
+Spark Legion removed.
+Mileva of the Tenth removed.
+Righteous Smite removed.
+War Guildmage removed.
+Loud removed.
+Flame-kin Summoner removed.
+Azorius Insignia removed.
+Boros Insignia removed.
+Simic Insignia removed.
+Rakdos Insignia removed.
+Golgari Insignia removed.
+Opal Medallion removed.
+Ancient Monoliths removed.
+Embersoul Edge removed.
+Ageless Scholar removed.
+Gatekeeper Golem removed.
+Ravnican Omnicompass removed.
+Decrepit Gargoyle removed.
+Blood Crypt removed.
+Azorius Guildgate removed.
+Boros Guildgate removed.
+Breeding Pool removed.
+Golgari Guildgate removed.
+Hallowed Fountain removed.
+Overgrown Tomb removed.
+Rakdos Guildgate removed.
+Plaza's Omenpath removed.
+Sacred Foundry removed.
+Simic Guildgate removed.
+Erstwhile Awakener removed.
+Zafen, Scheming Necromancer removed.
+Voracious Deathstinger removed.
+Corpse-Pit Goliath removed.
+Lothran, the Glouton removed.
+Festering Mass removed.
+Putrefied Tutor removed.
+Remains removed.
+1/1 Devil removed.
+Rakdos Trailblazer removed.
+Infested Maneater removed.
+Accelerated Growth removed.
+Lamiel, Deathsprout Cultivator removed.
+Amalgamate removed.
+2/1 Elemental Dog removed.
+1/1 Insect removed.
+0/1 Plant removed.
+1/1 Boros Soldier removed.
+1/1 Elemental removed.
+Coerced Participation removed.
+1/1 Azorius Soldier removed.
+4/4 Sphinx removed.
+4/4 Angel removed.
+Ooze removed.
+Hull Clade Guardian removed.
+Cull removed.
+6/6 Demon removed.
+2/2 Spirit removed.
+4/1 Nephilim Elemental removed.
+1/1 Goblin removed.
+1/1 Human removed.
+Azorius Lawbringer removed.
+Azorius Lawmage removed.
+Safeguard removed.
+Preemptive Measures removed.
+Righteous Uprising removed.
+Ready the Arresters removed.
+Fierce Champion removed.
+Zealous Arrester removed.
+Apprehend the Guilty removed.
+Detain Wisdom removed.
+Enfeebling Shackles removed.
+Inquire removed.
+Jelenn Grand Elocutor removed.
+Precognition Serum removed.
+Denied removed.
+Order Guildmage removed.
+Pursuit removed.
+Azorius Purifier removed.
+Binding Decree removed.
+Decipher the Chronology removed.
+Sarvis, High Justicar removed.
+Forecaster Arbitrator removed.
+Incarcerate removed.
+Inquisitive Guardmage removed.
+Judgment of Balance removed.
+Lavinia, the Just removed.
+Octave, Deputy of Discipline removed.
+Peruse the Law removed.
+Unending Tirade removed.
+Seal of Censure removed.
+Sphinx Lawbinder removed.
+2/2 Drake removed.
+Deadly Spore Storm removed.
+Arbiter of Law removed.
+1/1 Thopter removed.
+Gateway Plaza removed.
+Esoteric Signet removed.
+5/5 Beast removed.
+Tajic Emblem removed.
+Vannifar Emblem removed.
+2/1 Skeleton removed.
+
+2/2 Citizen
+
+Treasure
+
+
+VERSION 64 CHANGELOG
 ====================
 
 

@@ -1,4 +1,247 @@
-﻿VERSION 40 CHANGELOG
+﻿VERSION 41 CHANGELOG
+====================
+
+
+
+Brightsteel Interceptor
+rules_text: Flash
+Flying
+When this creature enters, tap or untap up to one target artifact or creature.
+Preamble {3}{WU}{WU} [i]({3}{WU}{WU}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => Flash
+Flying
+When this creature enters, tap or untap up to one target artifact or creature.
+Preamble {3}{WU}{WU} [i]({3}{WU}{WU}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this later from exile. Preamble only as a sorcery.)[/i]
+
+Wall of Fury
+rules_text: Defender, reach
+This creature's power is equal to the number of creatures you control.
+At the beginning of combat on your turn, another target creature you control gets +X/+0 and gains haste until end of turn, where X is this creature's power. => Defender, reach
+This creature's gets +1/+0 for each attacking creatures.
+At the beginning of combat on your turn, target creature you control gains haste and can attack as though it didn't have defender until end of turn.
+pt: */3 => 0/3
+
+Gate Infiltrator
+pt: 1/3 => 1/4
+
+Untwine
+cost: {X}{U}{U} => {X}{U}
+rules_text: This spell costs {1} less to cast for each creature you control with a +1/+1 counter on it.
+Counter target spell, activated ability, or triggered ability unless its controller pays {X}. => This spell costs {1} less to cast for each creature you control with a +1/+1 counter on it.
+Counter target spell unless its controller pays {X}.
+
+First District Paragon
+
+Corpse Jeweler
+rules_text: Whenever another creature you control dies, create a Treasure token. This ability triggers only once each turn.
+{T}, Sacrifice a creature: Surveil 1.
+{2}, {T}, Sacrifice a token: Draw a card. => Whenever another creature you control dies, create a Treasure token. This ability triggers only once during each of your turn.
+{T}, Sacrifice a creature: Surveil 1.
+{2}, {T}, Sacrifice a token: Draw a card.
+pt: 1/3 => 1/2
+
+Backstage Preparations
+type: Instant => Sorcery
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards. Then if {B} was spent to cast this spell, create a Treasure token and you lose 1 life. => As an additional cost to cast this spell, discard a card.
+Draw two cards. Then if {B} was spent to cast this spell, create a tapped Treasure token and you lose 1 life.
+
+Flame-kin Commander
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+When this creature enters or dies, it deals X damage divided as you chose among any number of targets, where X is the number of creatures you control or the highest power among creatures you control, whichever is greater. => Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+When this creature enters or dies, it deals X damage divided as you chose among any number of targets, where X is the highest power among creatures you control.
+
+Welcoming Ringleader
+rules_text: When this creature enters or dies, create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target”.
+Whenever this creature attacks, target creature you control gets +1/+0 until end of turn. => When this creature enters, create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target”.
+Whenever this creature attacks, target creature you control gets +1/+0 until end of turn.
+
+Goldscale Whelp
+rules_text: Flying, first strike, haste
+This creature can't block.
+{2}{R}, Sacrifice this creature: Draw a card and create a Treasure token. => Flying, haste
+This creature can't block.
+{3}{R}, Sacrifice this creature: Draw a card and create a Treasure token.
+
+Mourning Legionnaire
+
+Breeding Plant Supervisor
+rules_text: The first ability you activate each turn that's not a mana ability costs {2} less to activate.
+Whenever you activate an ability that's not a mana ability for the first time each turn, surveil 1. => The nonmana ability you activate each turn costs {2} less to activate.
+Whenever you activate a nonmana ability for the first time each turn, surveil 1.
+
+Woodwraith Behemoth
+rules_text: Whenever a creature you control dies, create a tapped token that's a copy of it, except it's a land with “{T}: Add one mana of any of this card's colors.” Do this only once each turn.
+{1}{G}, {T}, Sacrifice a land: Return target creature card from your graveyard to your hand. => Whenever this creature enters or attacks, if it's not a token, you may sacrifice another creature. When you do, create a token that's a copy of that creature, except it's a 1/1 green Forest Elemental land creature token. [i](It is affected by summoning sickness, and it has “{T}: Add {G}.”)[/i]
+{1}{G}, {T}, Sacrifice a land: Return target creature card from your graveyard to your hand.
+
+Ooze Hydra
+rules_text: Implant {2}{G}{G} [i]({2}{G}{G}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Whenever this creature enters, deals combat damage to a player or dies, create two 0/0 green and blue Ooze creature tokens. Put a +1/+1 counter on each of them, then put a +1/+1 counter on each creature you control. => Implant {2}{G}{G} [i]({2}{G}{G}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this from exile.)[/i]
+Whenever this creature enters, deals combat damage to a player, or dies, create two 0/0 green and blue Ooze creature tokens. Put a +1/+1 counter on each creature you control.
+pt: 1/1 => 2/2
+
+Magistrate's Pet
+rules_text: Flying
+When this creature enters, scry 1.
+Preamble {1}{W} [i]({1}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => Flying
+When this creature enters, scry 1.
+Preamble {1}{W} [i]({1}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this later from exile. Preamble only as a sorcery.)[/i]
+
+Rakdos Ragefest
+rules_text: This spell can't be countered.
+All creatures have haste, decayed, and attack each combat if able. They lose defender and can't have or gain defender.
+Whenever a creature dies, each player draws cards and loses life equal to that creature's power. => All creatures have haste, decayed, and attack each combat if able. They lose defender and can't have or gain defender.
+Whenever a creature dies, each player draws cards and loses life equal to that creature's power.
+
+Judith, the Bloody Deluge
+cost: {2}{B}{R} => {1}{B}{R}
+special_text: Whenever you sacrifice a permanent, Judith deals 1 damage to any target.
+[+2]: You may sacrifice a creature or discard a card. If you do, draw a card.
+[-3]: Destroy target artifact, creature or planeswalker.
+[-9]: Return all creature cards from each graveyard to the battlefield under your control. They gain haste until end of turn. Sacrifice them at the beginning of the next end step. => Whenever you sacrifice a permanent, Judith deals 1 damage to any target.
+[+1]: You may sacrifice a creature or discard a card. If you do, draw a card.
+[-2]: Create a token that's a copy of target creature you control, except it has haste and “At the beginning of the end step, sacrifice this token.”
+[-6]: Return all creature cards from each graveyard to the battlefield under your control. They gain haste until end of turn. Sacrifice them at the beginning of the next end step.
+loyalty: 4 => 3
+
+Vannifar, Voice of the Combine
+cost: {2}{G}{U} => {3}{G}{U}
+special_text: Whenever you cast a spell or activate an ability that targets a creature you control, draw a card. This ability triggers only once each turn.
+[+1]: Untap target permanent you control. If it's a creature, put a +1/+1 counter on it.
+[-3]: Create two 2/2 green and blue Drake creature tokens with flying.
+[-8]: You get an emblem with “At the beginning of each upkeep, create three tokens that are copies of target permanent.” => Whenever you cast a spell or activate an ability that targets a creature you control, draw a card. This ability triggers only once each turn.
+[+1]: Distribute two +1/+1 counters among one or two target permanents you control. Untap them.
+[-3]: Create two 2/2 green and blue Drake creature tokens with flying.
+[-6]: You gain an emblem with “Whenever a permanent you control becomes the target of a spell or ability you control, create a token that's a copy of it.”
+
+Tajic, Boros Examplar
+
+Mindflare
+rules_text: This spell deals X damage to target player, where X is the number of cards in that player's hand. Then, that player exiles that many cards from the top of their library. Until the end of your next turn, you may play cards exiled this way, and mana of any type can be spent to cast spells among them. => This spell can't be countered.
+This spell deals X damage to target player, where X is the number of cards in that player's hand. Then, that player exiles that many cards from the top of their library. Until the end of your next turn, you may play cards exiled this way, and mana of any type can be spent to cast spells among them.
+
+Metamorphosed Adapter
+rules_text: Whenever you activate an ability that's not a mana ability, you may copy it. If you do, you may choose new targets for the copy. Do this only once each turn.
+If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on that creature instead. => Whenever you activate a nonmana ability, you may copy it. If you do, you may choose new targets for the copy. Do this only once each turn.
+If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on that creature instead.
+
+Force Shaping
+rules_text: Choose one or both —
+• Copy target activated or triggered ability. You may chose new targets for the copy.
+• Counter target activated or triggered ability. => Choose one or both —
+• Copy target activated or triggered ability from a nonland source. You may chose new targets for the copy.
+• Counter target activated or triggered ability from a nonland source.
+
+Thorough Probing
+rules_text: Look at the top four cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order. You may play an additional land this turn. => Look at the top four cards of your library. Put up to one land card from among them onto the battlefield tapped, put another card from among them into your hand and the rest on the bottom of your library in a random order.
+
+Recruitment Campaign
+rules_text: Search your library for a creature card, reveal it, put it into your hand, then shuffle. Then you may put a creature card with mana value 2 or less from your hand onto the battlefield. It gains haste until end of turn. => Search your library for a creature card with mana value 2 or less, reveal it, put it into your hand, then shuffle. Then you may put a creature card with mana value 2 or less from your hand onto the battlefield. It gains haste until end of turn.
+
+Ageless Scholar
+pt: 2/2 => 2/1
+
+Ravnican Omnicompass
+rules_text: Ravnican Omnicompass is all colors.
+Gates you control enter untapped.
+As long as you control two or more Gates with different names, creatures you control get +1/+1 and have vigilance.
+As long as you control five or more Gates with different names, creatures you control get +4/+4 and have trample. => Ravnican Omnicompass is all colors.
+Gates you control enter untapped.
+You may look at the top card of your library any time.
+You may play Gate cards from the top of your library.
+
+Voracious Deathstinger
+rules_text: Trample, indestructible
+Whenever this creature attacks or blocks, each player sacrifices a creature. You gain life equal to the total toughness of creatures sacrificed.
+Swarm X—{X}{B}{BG}{G} [i]({X}{B}{BG}{G}, Exile this card from your graveyard: Create X 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => Trample, indestructible
+Whenever this creature attacks or blocks, each player sacrifices a creature.
+Swarm X—{X}{G}{BG}{B} [i]({X}{G}{BG}{B}, Exile this card from your graveyard: Create X 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+pt: 9/9 => 10/10
+
+Accelerated Growth
+rules_text: Look at the top five cards of your library. If {U} was spent to cast this spell, put a card from among them into your hand. Otherwise, reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in any order. => Look at the top five cards of your library. If {U} was spent to cast this spell, put a card from among them into your hand. Otherwise, reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Hull Clade Guardian
+rules_text: Ward {2}
+Whenever this creature becomes the target of a spell or ability you control, put a +1/+1 counter on it.
+Remove a +1/+1 counter from this creature: It gains your choice of vigilance, reach or trample until end of turn. => Ward {2}
+Whenever this creature becomes the target of a spell or ability you control, put a +1/+1 counter on it. This ability triggers only once each turn.
+Remove a +1/+1 counter from this creature: It gains your choice of vigilance, reach or trample until end of turn.
+
+Azorius Lawbringer
+rules_text: Flying, vigilance
+Other creatures you control get +1/+0.
+Creatures you don't control get -1/-0.
+Preamble {5}{W}{W} [i]({5}{W}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => Flying, vigilance
+Other creatures you control get +1/+0.
+Creatures you don't control get -1/-0.
+Preamble {5}{W}{W} [i]({5}{W}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this later from exile. Preamble only as a sorcery.)[/i]
+
+Righteous Uprising
+rules_text: Create X 1/1 white Human creature tokens, where X is twice the number of Gates you control. => Create X 1/1 white Human creature tokens, where X is the number of Gates you control.
+
+Ready the Arresters
+rules_text: Create two 1/1 white and blue Soldier creature tokens.
+Preamble {3}{W} [i]({3}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => Create two 1/1 white and blue Soldier creature tokens.
+Preamble {3}{W} [i]({3}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this later from exile. Preamble only as a sorcery.)[/i]
+
+Zealous Arrester
+rules_text: Vigilance
+When this creature enters, tap up to one target creature and put a stun counter on it.
+Preamble {2}{W} [i]({2}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => Vigilance
+When this creature enters, tap up to one target creature and put a stun counter on it.
+Preamble {2}{W} [i]({2}{W}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this later from exile. Preamble only as a sorcery.)[/i]
+
+Apprehend the Guilty
+rules_text: Tap up to two target creatures. Put a stun counter on each of them.
+Preamble {3}{U} [i]({3}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => Tap up to two target creatures. Put a stun counter on each of them.
+Preamble {3}{U} [i]({3}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this later from exile. Preamble only as a sorcery.)[/i]
+
+Enfeebling Shackles
+rules_text: When this artifact enters, scry 2.
+{2}, {T}: Target creature can't attack or block until your next turn.
+Preamble {2}{U} [i]({2}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => When this artifact enters, scry 2.
+{2}, {T}: Target creature can't attack or block until your next turn.
+Preamble {2}{U} [i]({2}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this later from exile. Preamble only as a sorcery.)[/i]
+
+Inquire
+rules_text: Draw a card.
+Preamble {1}{U} [i]({1}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => Draw a card.
+Preamble {1}{U} [i]({1}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this later from exile. Preamble only as a sorcery.)[/i]
+
+Precognition Serum
+rules_text: Look at the top six cards of your library. Put three of them into your hand and the rest on the bottom of your library in any order.
+Preamble {4}{U}{U} [i]({4}{U}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => Look at the top six cards of your library. Put three of them into your hand and the rest on the bottom of your library in any order.
+Preamble {4}{U}{U} [i]({4}{U}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this later from exile. Preamble only as a sorcery.)[/i]
+
+Inquisitive Guardmage
+rules_text: Flying, lifelink
+When this creature enters, draw a card.
+Preamble {2}{W}{U} [i]({2}{W}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => Flying, lifelink
+When this creature enters, draw a card.
+Preamble {2}{W}{U} [i]({2}{W}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this later from exile. Preamble only as a sorcery.)[/i]
+
+Lavinia, the Just
+rules_text: Players can only declare one attacker and one blocker each turn.
+Whenever a player casts a spell from anywhere other than their hand or activates an ability from anywhere other than the battlefield, you may draw a card. => Each player can only declare one attacker and one blocker each turn.
+Whenever a player casts a spell from anywhere other than their hand or activates an ability from anywhere other than the battlefield, you may draw a card. Do this only once each turn.
+
+Peruse the Law
+rules_text: Choose one. If this spell was cast from exile, you may choose both instead.
+• You draw a card and gain 3 life.
+• Return target nonland permanent to its owner's hand.
+Preamble {2}{W}{U} [i]({2}{W}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this from exile. Preamble only as a sorcery.)[/i] => Choose one. If this spell was cast from exile, you may choose both instead.
+• You draw a card and gain 3 life.
+• Return target nonland permanent to its owner's hand.
+Preamble {2}{W}{U} [i]({2}{W}{U}, Exile this card from your hand: Cast a copy of it without paying its mana cost. You may cast this later from exile. Preamble only as a sorcery.)[/i]
+
+Arbiter of Law
+
+Vannifar Emblem
+rules_text: At the beginning of each upkeep, create three tokens that are copies of target permanent. => Whenever a permanent you control becomes the target of a spell or ability you control, create a token that's a copy of it.
+
+
+VERSION 40 CHANGELOG
 ====================
 
 

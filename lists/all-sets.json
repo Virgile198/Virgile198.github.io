@@ -1,8 +1,13 @@
 ﻿{
     "sets": [
         {
-            "set_code": "RNF",
+            "set_code": "RAW",
             "set_name": "Ravnica\u2019s Awakening",
+            "formats": ""
+        },
+        {
+            "set_code": "RNF",
+            "set_name": "Ravnica Fractured",
             "formats": ""
         }
     ]
