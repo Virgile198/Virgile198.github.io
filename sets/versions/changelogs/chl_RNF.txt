@@ -1,4 +1,539 @@
-﻿VERSION 65 CHANGELOG
+﻿VERSION 66 CHANGELOG
+====================
+
+Ministrant of Duty added.
+Gateway Plaza added.
+Pruniv, Prismatic Custodian added.
+Archway Sphinx added.
+Righteous Rebuke added.
+Profane added.
+Archspire Hellkite added.
+Desenite Enforcers added.
+Righteous Outburst added.
+Locket of Communion added.
+1/1 Selesnya Soldier added.
+1/1 Human added.
+1/1 Orzhov Soldier added.
+4/4 Beast added.
+Screeching Aberration added.
+1/1 Horror added.
+Gateway Curse added.
+Rubblebelt Explorer added.
+
+Spectral Advisor removed.
+Bolstering Spores removed.
+Mind Hemorrhage removed.
+Tin Street removed.
+Heart of Communion removed.
+Prismatic Custodian removed.
+Truesight Sphinx removed.
+Torpor removed.
+Defile removed.
+Tamed Hellkite removed.
+Sleeper Spybug removed.
+Enforcers of the Guildpact removed.
+1/1 Soldier removed.
+Outraged Avenger removed.
+
+Mizzium Cannon
+cost: {1}{R}{R} => {2}{R}
+
+Wildheart Raiders
+
+Inquisitive Minotaur
+
+Mountain Hurler
+
+Augmented Monstrosity
+pt: 4/4 => 3/4
+
+Blightblood Abomination
+
+Rejuvenated Wood-Kin
+
+Alms Giver
+
+Corpse Excavator
+rules_text: Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i][i]Oblation 2[/i][/i] — When this creature enters, you may pay 2 life. When you do, mill three cards, then you may return a creature card from your graveyard to your hand. If you do, put a finality counter on this creature. => Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+[i][i]Oblation 2[/i][/i] — When this creature enters, you may pay 2 life. When you do, mill three cards, then return up to one creature card from your graveyard to your hand.
+
+Priest of The Welcoming
+cost: {4}{W}{W} => {5}{W}
+
+Vicious Blackmailer
+type: Creature — Human Citizen Rogue => Creature — Human Rogue
+rules_text: Flash
+Ward—Discard a card.
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead you draw a card unless they pay 2 life. If they do, you gain 2 life. => Flash
+If an opponent would draw a card except the first one they draw in each of their draw steps, instead you draw a card unless they pay 2 life. If they do, you gain 2 life.
+
+Howling Gate
+
+Profane Ceremony
+rules_text: Choose one or both —
+• Exile up to two target cards from a single graveyard. You gain 1 life for each creature cards exiled this way.
+• Return up to two target creature cards from your graveyard to your hand. => Choose one or both —
+• Exile any number of target players' graveyards. You gain 1 life for each creature card exiled this way.
+• Return up to two target creature cards from your graveyard to your hand.
+
+Dutiful Archprotector
+
+Ledev Captain
+
+Leaf Storm
+
+Ral, Thundering Genius
+rules_text: At the beginning of your first main phase, choose one —
+• When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. You may only cast one spell this turn.
+• Draw a card, then discard a card. Add {U}{R}. This mana can't be spent to cast permanent spells. => At the beginning of your first main phase, choose one —
+• When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. You may only cast one spell this turn.
+• Draw a card, then discard a card. Add {U}{R}. Spend this mana only to cast instant or sorcery spells.
+
+Essencesnatch
+rules_text: Counter target spell. Choose one —
+• Create a 1/1 blue Faerie creature token with flying and prowess.
+• Put two +1/+1 counters on target creature you control.
+• Draw a card. => Counter target spell. If that spell is countered this way, choose one —
+• Create a 1/1 blue Faerie creature token with flying and prowess.
+• Put two +1/+1 counters on target creature you control.
+• Draw a card.
+
+Voltaic Strike
+rules_text: This spell deals [[b]2[/b]] damage to any target.
+Iterate {5}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => This spell deals [[b]2[/b]] damage to any target.
+Iterate {4}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Fluctuating Reality
+rules_text: Choose [[b]one[/b]] —
+• Return up to one target creature to its owner's hand.
+• Mill three cards. You may put a nonpermanent card from among the milled cards into your hand.
+Iterate {3}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Choose [[b]one[/b]] —
+• Return up to one target nonland permanent to its owner's hand.
+• Mill three cards. You may put an instant or sorcery card from among the milled cards into your hand.
+Iterate {3}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Deeproot Entity
+cost: {2}{G}{G}{G} => {3}{G}{G}{G}
+rules_text: This spell can't be countered.
+Creature spells you control and abilities of creatures you control can't be countered.
+If a triggered ability of another creature or land you control triggers, it triggers an additional time. => This spell can't be countered.
+Creature spells you control and abilities of creatures you control can't be countered.
+If a triggered ability of another creature or land you control triggers, it triggers two additional times.
+
+Transguild Square
+rules_text: When this land enters, scry X, where X is the number of different colors of mana Gates you control could produce.
+{T}: Add {C}.
+{T}: Add one mana of any type that a Gate you control could produce. => When this land enters, if you control two or more Gates, scry 3.
+{T}: Add {C}.
+{T}: Add one mana of any type that a Gate you control could produce.
+
+Orzhov Insignia
+cost: {2} => {1}
+rules_text: This artifact enters tapped.
+{T}: Add {W} or {B}.
+{W}{B}, {T}, Sacrifice this artifact: Exile up to two target cards from a single graveyard. You gain 3 life. => When this artifact enters, scry 2.
+{1}, {T}: Add {W} or {B}.
+{W}{B}, {T}, Sacrifice this artifact: Exile up to three target cards from a single graveyard. You gain 3 life.
+
+Gruul Insignia
+cost: {2} => {1}
+rules_text: This artifact enters tapped.
+{T}: Add {R} or {G}.
+{1}{R}{G}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature you control. Draw a card if you control a creature with the greatest power among creatures on the battlefield. => When this artifact enters, scry 2.
+{1}, {T}: Add {R} or {G}.
+{R}{G}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature you control. It gains haste until end of turn. Activate only as a sorcery.
+
+Izzet Insignia
+cost: {2} => {1}
+rules_text: This artifact enters tapped.
+{T}: Add {U} or {R}.
+{2}{U}{R}, {T}, Sacrifice this artifact: Draw three cards, then discard two cards. => When this artifact enters, scry 2.
+{1}, {T}: Add {U} or {R}.
+{2}{U}{R}, {T}, Sacrifice this artifact: Draw two cards, then discard a card. Create a Treasure token.
+
+Selesnya Insignia
+cost: {2} => {1}
+rules_text: This artifact enters tapped.
+{T}: Add {G} or {W}.
+{2}{G}{W}, {T}, Sacrifice this artifact: Create a 2/2 green and white Elf Knight creature token with vigilance. => When this artifact enters, scry 2.
+{1}, {T}: Add {G} or {W}.
+{3}{G}{W}, {T}, Sacrifice this artifact: Put a +1/+1 counter on each creature you control. They gain trample until end of turn. Activate only as a sorcery.
+
+Dimir Insignia
+cost: {2} => {1}
+rules_text: This artifact enters tapped.
+{T}: Add {U} or {B}.
+{1}{U}{B}, {T}, Sacrifice this artifact: Draw a card, then each player mills two cards. => When this artifact enters, scry 2.
+{1}, {T}: Add {U} or {B}.
+{1}{U}{B}, {T}, Sacrifice this artifact: Surveil 3, then draw a card.
+
+Custodian of the Guildpact
+rules_text: This artifact is all colors.
+When this artifact enters, scry 2.
+{1}: Add one mana of any color. Activate only once each turn. => Custodian of the Guildpact is all colors.
+When this artifact enters, scry 2.
+{1}: Add one mana of any color. Activate only once each turn.
+
+Living Monument
+rules_text: Defender [i](This creature can't attack.)[/i]
+Whenever a Gate enters under your control, until end of turn, this creature gains vigilance, can attack as though it didn't have defender, and assigns combat damage equal to its toughness rather than its power. => Defender [i](This creature can't attack.)[/i]
+Whenever a Gate you control enters, until end of turn, this creature gains vigilance, can attack as though it didn't have defender, and assigns combat damage equal to its toughness rather than its power.
+
+Shield of the Guildpact
+rules_text: Equipped creature gets +0/+2 for each Gate you control and has ward {X}, where X is the number of Gates you control.
+During your turn, equipped creature assigns combat damage equal to its toughness rather than its power.
+Equip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Equipped creature gets +0/+2 for each Gate you control and has “Ward {X}”, where X is the number of Gates you control.
+During your turn, equipped creature assigns combat damage equal to its toughness rather than its power.
+Equip {3} [i]({3}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Vault of the Paruns
+rules_text: When this artifact enters and whenever you cast a multicolored spell, choose one that hasn't been chosen this turn —
+• Create a 2/2 Citizen creature token that's all colors.
+• Draw a card.
+• You gain 3 life. => Whenever you cast this spell or a multicolored spell, choose one that hasn't been chosen this turn —
+• Create a 2/2 Citizen creature token that's all colors.
+• Draw a card.
+• You gain 3 life.
+
+Hidden Scrutiny
+rules_text: If a spell or ability you control would make you look at the top cards of any player's library, look at that many cards plus one instead.
+Whenever one or more cards leave your graveyard, surveil 1. => When this enchantment enters, surveil 1.
+You may look at an additional card each time you cover up, scry or surveil.
+
+Vital Reclamation
+
+Anguished Fall
+rules_text: Each opponent sacrifices a creature. If {U} was spent to cast this spell, any number of target players each mill three cards. => Each opponent sacrifices a creature. If {U} was spent to cast this spell, target player mills three cards.
+
+Deep Sewage Lurker
+rules_text: When this creature enters, tap up to one target creature an opponent controls and put a stun counter on it, then that creature's controller mills four cards. => When this creature enters, tap up to one target creature an opponent controls and put a stun counter on it. That creature's controller mills four cards.
+
+Thrull Collectors
+
+Ninth District Benevolent
+rules_text: When this creature enters, you gain 3 life. Then if you control two or more Gates, scry 2. => When this creature enters, scry 2 and you gain X life, where X the number of Gates you control.
+
+Fires of Reclamation
+
+Brilliant Artist
+
+Flood of Memories
+
+Mad Alchemist
+
+Rumbling Drake
+rules_text: Flying, vigilance
+Whenever this creature enters or attacks, it deals 1 damage to target opponent. => Flying, vigilance
+Whenever you cast an instant or sorcery spell, this creature deals 1 damage to target opponent.
+
+Thraka, Ire of the Wilds
+rules_text: This spell can't be countered.
+Trample, ward {3}
+Whenever this creature attacks, put X +1/+1 counters on each creature you control, where X is the total number of creature and land cards in your graveyard. => This spell can't be countered.
+Trample, ward {3}
+Whenever Thraka attacks, put X +1/+1 counters on each creature you control, where X is the total number of creature and land cards in your graveyard.
+
+Cleanser of Debt
+
+1/1 Saproling
+
+Treasure
+
+Call of the Hunt
+
+Deadly Familiar
+rules_text: Vigilance, haste
+[i]Oblation 2[/i] — When this creature enters, you may pay 2 life. When you do, target creature you control gets +1/+0 and gains deathtouch and indestructible until end of turn. => Vigilance, haste
+[i]Oblation 2[/i] — When this creature enters, you may pay 2 life. When you do, target creature you control gets +1/+0 and gains indestructible until end of turn.
+
+Deafening Cacophony
+rules_text: This spell deals 3 damage to target attacking or blocking creature. If {B} was spent to cast this spell, you gain 3 life. => This spell deals 3 damage to target attacking or blocking creature. If {B} was spent to cast this spell, you gain life equal to the damage dealt this way.
+
+Mind Tap
+rules_text: Tap target creature and put two stun counters on it. Scry 1. If {R} was spent to cast this spell, exile the top card of your library. Until the end of your next turn, you may play that card. => Tap target creature and put two stun counters on it. Scry 1. Then if {R} was spent to cast this spell, exile the top card of your library. Until the end of your next turn, you may play that card.
+
+Slitz-Clan Opportunist
+
+Priest of the Old Ways
+rules_text: When this creature enters, target creature you control rages. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i] => When this creature enters, target creature you control rages. It gains trample and haste until end of turn. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+pt: 3/2 => 2/2
+
+Caller of the Wilds
+pt: 2/3 => 2/4
+
+Arrogant Hermit
+
+Guardian of the Hour
+rules_text: Flash
+Flying, vigilance
+When this creature enters, if it's an opponent's combat phase, end the phase and that player can't cast spells this turn. Otherwise, creatures you control get +1/+0 and gain indestructible until end of turn. => Flash
+Flying
+When this creature enters, if it's an opponent's combat phase, end the phase and that player can't cast spells this turn. Otherwise, creatures you control get +1/+0 and gain indestructible until end of turn.
+pt: 3/4 => 3/5
+
+Maree, Nivix Grand Chamberlain
+rules_text: Whenever an instant or sorcery card leaves your graveyard, draw a card and this creature deals 1 damage to each opponent.
+{T}: Draw a card, then discard a card.
+{4}{U}{R}: Exile target instant or sorcery card from your graveyard. You may cast a copy of it without paying its mana cost. => Whenever an instant or sorcery card leaves your graveyard, draw a card and Maree deals 1 damage to each opponent.
+{T}: Draw a card, then discard a card.
+{4}{U}{R}: Exile up to one target instant or sorcery card from your graveyard and copy it. You may cast the copy without paying its mana cost.
+
+Rakasht, Spawn of Ulasht
+rules_text: This creature enters with a number of +1/+1 counters on it equal to total number of creature and/or land cards in all graveyards.
+{X}, Remove X +1/+1 counters from among creatures you control: Choose one. Activate only once each turn.
+• Create a X/X red and green Hellion creature token with haste. X can't be 0.
+• This creature deals X damage to any target. X can't be 0. => Rakasht enters with a number of +1/+1 counters on it equal to total number of land and creature cards in all graveyards.
+{X}, Remove X +1/+1 counters from among creatures you control: Choose one. Activate only once each turn.
+• This creature deals X damage to any target.
+• Create a X/X red and green Hellion creature token with haste.
+
+Boon of the Worldsoul
+
+Cruel Advokist
+rules_text: Lifelink
+As this creature enters, look at an opponent's hand, then choose any nonland card name.
+Whenever an opponent casts a spell with the chosen name or activates an ability of a permanent with the chosen name, this creature deals 3 damage to that player. => Lifelink
+As this creature enters, look at an opponent's hand, then choose any nonland card name.
+Whenever an opponent casts a spell with the chosen name or activates an ability of a card or permanent with the chosen name, this creature deals 3 damage to that player.
+
+Milana, Orzhov High Prelate
+rules_text: At the beginning of your end step, if you gained or lost life this turn, return up to one target artifact, creature or enchantment if it has mana value X or less from your graveyard to the battlefield with a finality counter on it, where X is the amount of life you gained or lost this turn, whichever is greater.
+{2}, {T}, Sacrifice another nontoken nonland permanent you control: You gain life equal to that permanent mana value. => Whenever you pay life, you may look at that many cards from the top of target opponent's library, exile one of them face down, then put the rest into their graveyard. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell. Do this only once each turn.
+Whenever you cast a spell you don't own, you gain life equal to its mana value.
+
+Vitality
+rules_text: Put a +1/+1 counter on target creature you control. It gains lifelink and indestructible until end of turn. => Target creature you control gets +1/+0 and gains lifelink and indestructible until end of turn.
+
+Disunite
+
+Dissect Thoughts
+
+Subvert
+type: Instant => Enchantment — Aura
+cost: {2}{U}{U} => {1}{U}
+rules_text: This spell costs {2} less to cast if it targets a monocolored spell or permanent.
+Choose one —
+• The owner of target nonland permanent puts it on their choice of the top or bottom of their library.
+• Counter target creature or planeswalker spell. => Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature can't become untapped and can't have counters put on it. If it is monocolored, it also loses all abilities and has base power and toughness 0/1.
+
+Wild Stomper
+
+Hyper Space Time Bubble
+rules_text: Flip [[b]one[/b]] coin(s). For each flip you win, take an extra turn after this one. For each flip you lose, add {C}{U}{U}{R}{R} and exile the top [[b]two[/b]] cards of your library. Until end of your next turn, you may play those cards.
+Iterate {7}{U}{U}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Flip [[b]one[/b]] coin(s). For each flip you win, take an extra turn after this one. For each flip you lose, add {U}{U}{R}{R} and exile the top two cards of your library. Until end of your next turn, you may play those cards.
+Iterate {7}{U}{UR}{UR}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Heart of Cinders
+rules_text: Ward—Pay life equal to this creature's power.
+Whenever this creature enters or attacks, it rages, then you may return target land card from your graveyard to the battlefield tapped. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i] => Ward—Pay life equal to this creature's power.
+Whenever this creature enters or attacks, it rages, then return up to one land card from your graveyard to the battlefield tapped. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Dimir Necrosage
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Flying, deathtouch, hexproof
+Whenever one or more cards are put into exile from your graveyard, each opponent loses 1 life. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Flying, deathtouch, hexproof
+Whenever one or more cards leave your graveyard, each opponent loses 1 life and you gain 1 life.
+
+Gorz'Ghum, War Incense
+rules_text: Whenever you discard one or more cards, you may discard them into exile instead. Until end of turn, you may play those cards from exile.
+Whenever you put one or more +1/+1 counters on a creature you control, it gets +1/+1 until end of turn. => You may play cards from your graveyard that you've discarded this turn.
+{8}{R}{G}, {T}: Create a 4/4 red and green Beast creature token with trample. This ability costs {1} less to activate for each land and creature cards in your graveyard.
+pt: 2/2 => 1/3
+
+Gravel-Hide Channeler
+rules_text: {T}: Add one mana of any color. If that mana is spent to cast a creature spell, it gains “When this creature enters, it rages.” [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i] => {T}: Add one mana of any color. If that mana is spent to cast a creature spell, it can't be countered and it gains “When this creature enters, it rages.” [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+pt: 1/3 => 2/3
+
+Wrath Guildmage
+rules_text: {RG}, {T}: The next spell you cast this turn can't be countered.
+{2}{R}{G}: Double the power and toughness of another target attacking creature you control until end of turn. => {RG}, {T}: The next spell you cast this turn can't be countered.
+{2}{R}{G}: Double the power and toughness of target creature you control until end of turn. Activate only as a sorcery.
+
+Ravage
+cost: {3}{R}{R} => {4}{R}
+
+Alcarus, Old Growth Protector
+rules_text: First strike, reach
+When this creature enters, create Durn'mir, a legendary 2/3 green and white Bird creature token with flying.
+Each creature you control with a +1/+1 counter on it has trample. => First strike, reach
+When Alcarus enters, create Durn'mir, a legendary 2/3 green and white Bird creature token with flying.
+Each creature you control with a +1/+1 counter on it has trample.
+
+Ironroot Bindings
+
+Reconfigure
+
+Priest of Purification
+rules_text: During your turn, if a card or token would be put into an opponent's graveyard from anywhere, exile it instead.
+Whenever a creature blocks this creature, if you gained or lost life this turn, that creature gets -2/-2 until end of turn. => If one or more cards and/or tokens would be put into an opponent's graveyard from anywhere, exile them instead. You gain 1 life.
+At the beginning of your end step, if you gained or lost life this turn, each opponent loses 1 life. If you gained and lost life this turn, they lose 2 life instead.
+
+The Cozen
+rules_text: As long as you've lost life during your turn, this creature has first strike and deathtouch.
+Whenever you gain life, put a +1/+1 counter on this creature.
+When this creature dies, you gain life equal to its power. => As long as you've lost life during your turn, The Cozen has first strike and deathtouch.
+Whenever you gain life, put a +1/+1 counter on this creature.
+When The Cozen dies, you gain life equal to their power.
+
+Ironclad Cyclops
+
+Wave of Agitation
+
+Innovation Guildmage
+rules_text: {2}{UR}, {T}: Draw two cards, then discard two cards.
+{2}{U}{R}: Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy. => {2}{UR}, {T}: Draw two cards, then discard two cards.
+{2}{U}{R}: Copy target instant spell, sorcery spell, activated ability, or triggered ability you control. You may choose new targets for the copy.
+
+Polarity Switcher
+
+Rix Navven, Overcharged Brute
+rules_text: Trample
+Whenever you cast an instant or sorcery spell, you may have this creature get +X/+X until end of turn, where X is the amount of mana spent to cast that spell. Do this only once each turn. => Trample, ward {1}
+Whenever you cast an instant or sorcery spell, you may have Rix Navven get +X/+X until end of turn, where X is the amount of mana spent to cast that spell. Do this only once each turn.
+
+Necrotic Haze
+
+Scorching Thunder
+
+Crazed Rioter
+
+Lost
+
+Zorin, Hiding in Plain Sight
+rules_text: Whenever you exile one or more cards from a graveyard, choose one. This ability triggers only once each turn.
+• Put a +1/+1 counter on this creature. It can't be blocked until end of turn.
+• Up to one target creature you don't control gets -2/-1 and loses all abilities until end of turn. => Whenever one or more cards leave your graveyard from a graveyard, choose one. This ability triggers only once each turn.
+• Put a +1/+1 counter on Zorin. She can't be blocked until end of turn.
+• Create a Treasure token.
+
+Rabid Sewer Rat
+
+Corrosive Bile Spitter
+
+Devoted Marshal
+type: Creature — Human Knight => Creature — Vampire Knight
+rules_text: Deathtouch, lifelink
+Whenever you gain or lose life during your turn, choose one that hasn't been chosen this turn —
+• Create a tapped 1/1 white Soldier creature token.
+• Create a tapped Treasure token.
+• Surveil 2. => Deathtouch, lifelink
+Whenever you gain or lose life during your turn, choose one that hasn't been chosen this turn –
+• Create a tapped 1/1 white Human creature token.
+• Create a tapped Treasure token.
+• Surveil 2.
+
+Insatiable Moroii
+cost: {3}{B}{B} => {4}{B}
+rules_text: Flying
+When this creature enters, each opponent loses 1 life for each Gate you control. You gain life equal to the life lost this way.
+Whenever a Gate you control enters, each player loses 1 life. => Flying
+Whenever this creature enters or attacks, you lose 2 life.
+Whenever you lose life during your turn, put a +1/+1 counter on this creature.
+pt: 4/4 => 4/3
+
+Cloud Drinker
+cost: {4}{U}{U} => {4}{U}
+rules_text: This spell can't be countered.
+Flying [i](This creature can't be blocked except by creatures with flying or reach.)[/i]
+Hexproof [i](This creature can't be the target of spells or abilities your opponents control.)[/i] => Flying, vigilance, ward {2}
+Whenever this creature attacks, target player mills X cards, where X is the number of cards in your graveyard.
+pt: 5/5 => 4/5
+
+Forgotten Phantasm
+rules_text: Flying
+Whenever one or more cards leave your graveyard, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Flying, vigilance
+Whenever one or more cards leave your graveyard, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Aspect of Uniformity
+pt: 8/8 => 6/6
+
+Seventh District Scoundrel
+rules_text: When this creature enters, if you control two or more Gates, draw two cards, then discard two cards. Otherwise, draw a card, then discard a card instead. => When this creature enters, tap target creature you don't control and put a stun counter on it.
+{5}{U}, {T}: Surveil 2. This ability costs {1} less to activate for each Gate you control.
+pt: 3/2 => 2/2
+
+Eidolon's Call
+rules_text: When this enchantment enters, create two 1/1 white Soldier creature tokens. You gain 2 life.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand. => When this enchantment enters, create two 1/1 white Human creature tokens. You gain 2 life.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand.
+
+Gate Penumbra
+rules_text: When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+This creature has menace as long as you control a Gate. => When this creature enters, surveil 2.
+Whenever a Gate you control enters, this creature gains menace and deathtouch until end of turn.
+pt: 5/5 => 4/5
+
+Memorable Feast
+
+Rousing Freemage
+cost: {3}{W}{W} => {4}{W}
+
+Guildpact's Blessing
+rules_text: Flash
+Enchant creature you control
+When this Aura enters, untap enchanted creature.
+Enchanted creature gets +1/+2 and has hexproof from monocolored. => Flash
+Enchant creature you control
+When this Aura enters, untap enchanted creature.
+Enchanted creature gets +1/+3 hexproof from monocolored.
+
+3/3 Centaur
+
+Druid of the Votary
+
+1/1 Bat
+
+Deep Wound
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Enchant creature
+Enchanted creature gets -2/-2.
+When this card is put into your graveyard from anywhere, surveil 1. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Enchant creature
+Enchanted creature gets -2/-2.
+When this Deep Wound is put into your graveyard from anywhere, surveil 1.
+
+Emmara, Ancestral Caregiver
+rules_text: Whenever another creature or land you control enters, you gain 1 life.
+Whenever a nontoken creature you control dies, if it had one or more +1/+1 counters on it, create a 1/1 green Saproling creature token.
+{3}{G}{W}: Put a +1/+1 counter on each creature you control. => Whenever Emmara or another nontoken creature you control dies, if it had one or more +1/+1 counters on it, create a 1/1 green Saproling creature token.
+{3}{G}{W}: Put a +1/+1 counter on each creature you control.
+
+Dew's Benediction
+rules_text: Whenever you gain life during your turn, choose one. This ability triggers only once each turn.
+• Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn.
+• Create a 1/1 white Bird creature token with flying. => Whenever you gain life, choose one. This ability triggers only once during each of your turns.
+• Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn.
+• Create a 1/1 white Bird creature token with flying.
+
+Ayla, Harmony's Embrace
+special_text: Whenever you attack, flourish 2. [i](Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)[/i]
+[+1]: Create a 1/1 green Saproling creature token.
+[-3]: Exile target artifact, creature or enchantment you don't control. Its controller gains life equal to its mana value.
+[-8]: You get an emblem with “At the beginning of each upkeep, create two 1/1 green Saproling creature tokens, then put a +1/+1 counter on each creature you control.” => Whenever you attack, flourish 2. [i](Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)[/i]
+[+1]: Create a 1/1 white Soldier creature token with lifelink.
+[-3]: Exile target artifact, creature or enchantment. Its controller gains life equal to its mana value.
+[-8]: You get an emblem with “At the beginning of each upkeep, create three 1/1 green Saproling creature tokens, then put a +1/+1 counter on each creature you control.”
+
+Gheshval, Night's Mantle
+special_text: Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand. Do this only once each turn.
+[+1]: Each player mills three cards.
+[-3]: Return target nonland permanent to its owner's hand, then that players discards a card.
+[-8]: Exile each graveyard. You may cast the cards exiled this way without paying their mana cost for as long as they remain exiled. => Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand. Do this only once each turn.
+[+1]: Each player mills three cards.
+[-2]: Target creature gets +X/-X until end of turn, where X is the number of cards in your graveyard.
+[-7]: Exile each graveyard. Until end of turn, you may cast the cards exiled this way without paying their mana cost.
+
+Chains of Torment
+rules_text: When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+At the beginning of your end step, the owner of the exiled card loses 1 life and you gain 1 life. => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+At the beginning of your end step, each opponent loses 1 life and you gain 1 life.
+
+
+VERSION 65 CHANGELOG
 ====================
 
 Sootfurr Brute added.

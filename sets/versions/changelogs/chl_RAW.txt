@@ -1,4 +1,246 @@
-﻿VERSION 42 CHANGELOG
+﻿VERSION 43 CHANGELOG
+====================
+
+Desenite Faithful added.
+Desenites' Favor added.
+Desenites' Vision added.
+Desenites' Corruption added.
+Burning Meditation added.
+Desenites' Impetus added.
+Desenites' Expansion added.
+4/1 Desenite Elemental added.
+1/1 Golgari Saproling added.
+1/1 Bird added.
+Frog Lizard added.
+
+Guildpact Faithful removed.
+Nephilim's Gift removed.
+Nephilim's Vision removed.
+Nephilim's Corruption removed.
+Fiery Comeuppance removed.
+Nephilim's Impetus removed.
+Nephilim's Presence removed.
+1/1 Devil removed.
+4/1 Nephilim Elemental removed.
+Saproling removed.
+
+Aurelia's Judgment
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Destroy all creatures. You gain 1 life for each creature that was destroyed this way. => Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Destroy all creatures. You gain 1 life for each creature destroyed this way.
+
+Benthic Protector
+rules_text: Implant {2}{U} [i]({2}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Defender, hexproof => Implant {1}{U} [i]({1}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Defender, hexproof
+
+Bereave
+
+Elusive Biomage
+rules_text: Implant {2}{U} [i]({2}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+This creature can't be blocked. => Implant {1}{U} [i]({1}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+This creature can't be blocked.
+
+Absorbed Attendant
+pt: 2/3 => 1/4
+
+Reap
+
+The Show Never Ends
+cost: {2}{B} => {3}{B}
+rules_text: Return up to two creature cards from your graveyard to your hand. Each opponent loses 2 life. => Return up to one target creature cards from your graveyard to your hand. Create a 2/1 black and red Elemental Dog creature token with menace, haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Fired-Up Jester
+rules_text: When this creature enters, discard up to two cards, then draw that many cards.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and have it deal damage equal to the number of creature cards in your graveyard to target opponent. If you do, sacrifice it at the beginning of the next end step. => When this creature enters, discard up to two cards, then draw that many cards.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and have target opponent loses life equal to the number of creature cards in your graveyard. If you do, sacrifice it at the beginning of the next end step.
+
+Sting Elemental
+rules_text: Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+When this creature dies, it deals 1 damage to any target. If a player is dealt damage this way, scry 1. => Haste
+When this creature dies, it deals 1 damage to any target. If a player is dealt damage this way, scry 1.
+
+Subjugate
+
+Freemage's Fiery Temper
+cost: {X}{R} => {R}
+rules_text: Affinity for Gates [i](This spell costs {1} less to cast for each Gate you control.)[/i]
+This spell deals X damage to target creature or planeswalker.
+If X is 5 or more, this spell can't be countered and the damage can't be prevented. => This spell deals damage to target creature or planeswalker equal to the number of Gates you control.
+If a permanent dealt damage by Torch the Tower would die this turn, exile it instead.
+
+Welcoming Ringleader
+rules_text: When this creature enters, create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target”.
+Whenever this creature attacks, target creature you control gets +1/+0 until end of turn. => When this creature enters, create a 2/1 black and red Elemental Dog creature token with menace, haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+pt: 0/1 => 2/1
+
+Anglershark Krasis
+rules_text: Implant {2}{G} [i]({2}{G}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Trample => Implant {1}{G} [i]({1}{G}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Trample
+
+Gate Bulwark
+rules_text: Defender, vigilance, reach
+This creature can attack as though it didn't have defender as long as you control a Gate. => Defender, vigilance, reach
+Whenever a Gate you control enters, this creature gains trample and can attack as though it didn't have defender until end of turn.
+pt: 6/5 => 6/6
+
+Stamp Out
+
+Ochran Stalker
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Swarm 1—{1}{BG} [i]({1}{BG}, Exile this card from your graveyard: Create a 1/1 black and green Insect creature token. Swarm only as a sorcery.)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Swarm 1—{BG}{BG} [i]({BG}{BG}, Exile this card from your graveyard: Create a 1/1 black and green Insect creature token. Swarm only as a sorcery.)[/i]
+
+Corrosive Experiment
+rules_text: Implant {2}{G} [i]({2}{G}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Deathtouch => Implant {1}{G} [i]({1}{G}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Deathtouch
+
+Gyre Clade Guardian
+rules_text: Implant {1}{GU}{GU} [i]({1}{GU}{GU}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Whenever this creature deals combat damage to a player, draw a card. => Implant {GU}{GU} [i]({GU}{GU}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Whenever this creature deals combat damage to a player, draw a card.
+
+Plaxplated Biotitan
+
+Scaly Hummerbrood
+rules_text: Implant {1}{G}{U} [i]({1}{G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Flying, trample => Implant {G}{U} [i]({G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Flying, trample
+
+Sunhome Defender
+
+Firefist's Indignation
+
+Firemane Executioner
+
+Judith, the Bloody Deluge
+special_text: Whenever you sacrifice a permanent, Judith deals 1 damage to any target.
+[+1]: You may sacrifice a creature or discard a card. If you do, draw a card.
+[-2]: Create a token that's a copy of target creature you control, except it has haste and “At the beginning of the end step, sacrifice this token.”
+[-6]: Return all creature cards from each graveyard to the battlefield under your control. They gain haste until end of turn. Sacrifice them at the beginning of the next end step. => Whenever you sacrifice a creature, Judith deals 1 damage to any target.
+[+1]: You may sacrifice a creature or discard a card. If you do, draw a card.
+[-2]: Create a token that's a copy of target creature you control, except it has haste and “At the beginning of the end step, sacrifice this token.”
+[-6]: Return all creature cards from each graveyard to the battlefield under your control. They gain haste until end of turn. Sacrifice them at the beginning of the next end step.
+
+Juri, Charismatic Performer
+rules_text: At the beginning of your end step, you may sacrifice another creature. When you do, choose one —
+• Draw a card and create a Treasure token.
+• Put two +1/+1 counters on Juri. Then he deals damage equal to the number of counters on him to target opponent. => At end of combat on your turn, you may sacrifice another creature. When you do, choose one —
+• Draw a card and create a Treasure token.
+• Put two +1/+1 counters on Juri. Then he deals damage equal to the number of counters on him to target opponent.
+
+Unleash
+rules_text: Create two 2/1 black and red Elemental Dog creature token with menace, haste, and “This creature can't block.” Sacrifice them at the beginning of the next end step. => Create two 2/1 black and red Elemental Dog creature token with menace, haste, and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Gulistan, Master Biomancer
+rules_text: Vigilance, ward {1}
+{X}{G}{U}, {T}: Choose up to one target nontoken creature you control. Create a token that's a copy of it, except it isn't legendary, is a Frog Lizard creature and has base power and toughness 0/0. Put X +1/+1 counters on it. => Vigilance, ward {1}
+{X}{2}{G}{U}, {T}: Choose up to one other target nontoken creature you control. Create a 3/3 green Frog Lizard creature token. It has all the abilities of the chosen creature. Put X +1/+1 counters on it.
+pt: 3/5 => 4/4
+
+Diana, Passer of Judgment
+rules_text: Flying, vigilance
+At the beginning of each end step, if two or more creatures you control attacked or blocked this turn, Diana deals 2 damage to each opponent. => Flying, vigilance
+At the beginning of each upkeep, if two or more creatures you control attacked or blocked this turn, Diana deals 2 damage to each opponent.
+
+Forsaken Loxodon
+rules_text: Trample
+Ward—Pay life equal to this creature's power.
+This creature's power is equal to the number of creatures you control or the number of creature cards in your graveyard, whichever is greater. => Trample
+This creature's power is equal to the total number of creatures you control and creature cards in your graveyard.
+Swarm 3—{3}{B}{G} [i]({3}{B}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+
+Fungus Nursery
+rules_text: When this enchantment enters and at the beginning of your upkeep, surveil 1.
+{2}, Sacrifice a permanent: Draw a card.
+{2}, Exile a permanent card from your graveyard: Create a 1/1 green Saproling creature token.
+Swarm 3—{3}{B}{G} [i]({3}{B}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => When this enchantment enters and at the beginning of your upkeep, surveil 1.
+{2}, Sacrifice a land or creature: Draw a card. You gain 1 life.
+{2}, Exile a land or creature card from your graveyard: Create a 1/1 green Saproling creature token.
+
+The Curtain Falls
+
+Xaren, Rakdos Uncager
+rules_text: Whenever Xaren or another nontoken creature you control dies, create a 2/1 black and red Elemental Dog creature token with menace, haste, and “This creature can't block.” This ability triggers only once each turn.
+{BR}, {T}, Sacrifice another creature: Xaren deals 1 damage to any target. => Whenever Xaren or another nontoken creature you control dies, create a 2/1 black and red Elemental Dog creature token with menace, haste, and decayed. This ability triggers only once each turn. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+{BR}, {T}, Sacrifice another creature: Xaren deals 1 damage to any target.
+
+Crypsis Clade Guardian
+rules_text: Implant {1}{G}{U} [i]({1}{G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Whenever one or more creatures you control deal combat damage to a player, that player mills cards equal to the damage dealt this way. You may put a land card milled this way onto the battlefield under your control. => Implant {G}{U} [i]({G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Whenever one or more creatures you control deal combat damage to a player, that player mills cards equal to the damage dealt this way. You may put a land card milled this way onto the battlefield under your control.
+
+Boros Rallier
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+During your turn, creatures you control get +1/+0.
+During turns other than yours, creatures you control get +0/+1. => Flash
+Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+When this creature enters, attacking creatures you control get +1/+1 and gain trample until end of turn.
+pt: 3/3 => 2/3
+
+Righteous Smite
+
+Erstwhile Awakener
+rules_text: {T}, Sacrifice another creature: Add two mana in any combination of colors.
+{G}: Exile target card from a graveyard.
+{3}{B}{B}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery. => {T}, Sacrifice another creature: Add one mana of any color. You gain 2 life.
+{G}: Exile target card from a graveyard.
+{3}{B}{B}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
+
+Corpse-Pit Goliath
+rules_text: Trample
+Whenever this creature or another nontoken creature you control dies, create a 1/1 black and green Insect creature token for each +1/+1 counters on it.
+{BG}, Sacrifice a creature: Put two +1/+1 counters on target creature you control. => Trample
+Whenever this creature or another nontoken creature you control dies, create a 1/1 black and green Insect creature token for each +1/+1 counters on it.
+{2}{BG}, Sacrifice a creature: Put a +1/+1 counters on each creature you control.
+
+Remains
+cost: {2}{BG}{BG} => {1}{BG}{BG}
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+You draw cards equal to the sacrificed creature's power, then you gain life equal to its toughness. => As an additional cost to cast this spell, sacrifice a creature.
+You draw cards equal to that creature's power.
+
+Lamiel, Deathsprout Cultivator
+cost: {1}{B}{G} => {2}{B}{G}
+rules_text: Whenever one or more nontoken cards are put into your graveyard from anywhere or one or more cards leave your graveyard, create a 0/1 green Plant creature token. This ability triggers only once each turn.
+{1}{B}{G}, Discard a permanent card: Put a +1/+1 counter on each creature you control. => Creature tokens you control get +1/+0 and have haste and “{T}: Add one mana of any color.”
+Whenever another nontoken creature you control dies or one or more cards leave your graveyard, create a 0/1 green Plant creature token.
+pt: 1/3 => 3/5
+
+2/1 Elemental Dog
+rules_text: Menace, haste
+This creature can't block. => Menace, haste, decayed
+
+1/1 Insect
+
+2/2 Spirit
+
+Detain Wisdom
+
+Jelenn Grand Elocutor
+pt: 1/4 => 2/3
+
+Pursuit
+rules_text: Create two 1/1 white and blue Thopter artifact creature tokens with flying. => Create two 1/1 colorless Thopter artifact creature tokens with flying.
+
+Sarvis, High Justicar
+rules_text: Each player can't cast more than one spell from their hand each turn.
+Each nonland card in your hand has preamble. The preamble cost is equal to {2} plus its mana cost. [i](Exile a nonland card from your hand and pay its preamble cost: Cast a copy of it without paying its mana cost. You may cast it from exile. Preamble only as a sorcery.)[/i] => Each player can't cast more than one spell from their hand each turn.
+Each nonland card in your hand has preamble. The preamble cost is equal to {2} plus its mana cost. [i](Exile a nonland card from your hand and pay its preamble cost: Cast a copy of it without paying its mana cost. You may cast later it from exile. Preamble only as a sorcery.)[/i]
+
+Octave, Deputy of Discipline
+rules_text: Flying
+Whenever you cast a spell during your turn, create a 1/1 white and blue Thopter artifact creature token with flying. If that spell was cast from anywhere other than your hand, create two of those tokens instead. This ability triggers only once each turn. => Flying, ward {1}
+Whenever you cast a spell during your turn, create a 1/1 white and blue Bird creature token with flying. If that spell was cast from anywhere other than your hand, create two of those tokens instead. This ability triggers only once each turn.
+
+2/2 Drake
+
+1/1 Thopter
+
+
+VERSION 42 CHANGELOG
 ====================
 
 Saproling added.

@@ -5,7 +5,7 @@
 			<name>RNF</name>
 			<longname>Ravnica Fractured</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-24</releasedate>
+			<releasedate>2026-07-10</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -32,13 +32,13 @@
 			<text>This spell can&apos;t be countered.
 This spell deals [[b]5[/b]] damage to target creature or planeswalker. If that permanent would die this turn, exile it instead.
 Iterate {4}{R}{R} (You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/105_Mizzium Cannon.png" num="105">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/106_Mizzium Cannon.png" num="106">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1RR</manacost>
+				<manacost>2R</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -84,7 +84,7 @@ This creature can&apos;t be blocked by creatures with power 2 or less.</text>
 			<name>Inquisitive Minotaur</name>
 			<text>Menace
 Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/99_Inquisitive Minotaur.png" num="99">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/100_Inquisitive Minotaur.png" num="100">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -102,7 +102,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
 			<name>Mountain Hurler</name>
 			<text>Reach
 Whenever this creature blocks or becomes blocked by a creature with flying, it gets +3/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/134_Mountain Hurler.png" num="134">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/133_Mountain Hurler.png" num="133">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -121,7 +121,7 @@ Whenever this creature blocks or becomes blocked by a creature with flying, it g
 			<text>Enchant creature or land you control
 As long as enchanted permanent is a creature, it gets +2/+2 and has haste.
 Whenever you tap enchanted permanent for mana, add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/201_Shamanic Power.png" num="201">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/202_Shamanic Power.png" num="202">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -138,7 +138,7 @@ Whenever you tap enchanted permanent for mana, add one mana of any color.</text>
 			<name>Bloodrust Assailant</name>
 			<text>Double strike
 Whenever a creature you control deals combat damage to a player, this creature rages. (Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/90_Bloodrust Assailant.png" num="90">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/91_Bloodrust Assailant.png" num="91">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -156,7 +156,7 @@ Whenever a creature you control deals combat damage to a player, this creature r
 			<name>Fierce Maaka Kitten</name>
 			<text>Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
 Whenever you put one or more +1/+1 counters on a creature you control, that creature gains menace and haste until end of turn.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/95_Fierce Maaka Kitten.png" num="95">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/96_Fierce Maaka Kitten.png" num="96">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -174,7 +174,7 @@ Whenever you put one or more +1/+1 counters on a creature you control, that crea
 			<name>Gate Breaker</name>
 			<text>Haste (This creature can attack and {T} as soon as it comes under your control.)
 This creature has trample as long as you control a Gate. (This creature can deal excess combat damage to the player or planeswalker it&apos;s attacking.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/98_Gate Breaker.png" num="98">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/99_Gate Breaker.png" num="99">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -193,7 +193,7 @@ This creature has trample as long as you control a Gate. (This creature can deal
 			<text>Trample
 Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature.
 As long as this creature has three or more +1/+1 counters on it, it has double strike.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/89_Augmented Monstrosity.png" num="89">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/90_Augmented Monstrosity.png" num="90">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -203,7 +203,7 @@ As long as this creature has three or more +1/+1 counters on it, it has double s
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>4/4</pt>
+				<pt>3/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -230,7 +230,7 @@ Whenever a creature you control deals combat damage to a player, you draw a card
 			<name>Razortusk Piglet</name>
 			<text>Haste (This creature can attack and {T} as soon as it comes under your control.)
 {2}{G}: This creature rages. Activate only as a sorcery. (Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/136_Razortusk Piglet.png" num="136">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/134_Razortusk Piglet.png" num="134">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -249,7 +249,7 @@ Whenever a creature you control deals combat damage to a player, you draw a card
 			<text>This spell can&apos;t be countered.
 Ward {2}
 {3}{G}: Put a +1/+1 counter on this creature. If an opponent lost life this turn, put two +1/+1 counters on it instead.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/137_Rejuvenated Wood-Kin.png" num="137">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/135_Rejuvenated Wood-Kin.png" num="135">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -268,7 +268,7 @@ Ward {2}
 			<text>Trample
 Whenever this creature attacks, create 1/1 green Saproling creature token that&apos;s tapped and attacking.
 {2}, Sacrifice a token: Put a +1/+1 counter on this creature.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/133_Mossback Pulverizer.png" num="133">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/132_Mossback Pulverizer.png" num="132">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -301,14 +301,15 @@ When this creature enters, each player draws a card and gains 1 life.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Spectral Advisor</name>
-			<text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)
-Whenever you gain or lose life during your turn, you may pay {2}. If you do, draw a card. Do this only once each turn.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/27_Spectral Advisor.png" num="27">RNF</set>
+			<name>Ministrant of Duty</name>
+			<text>Lifelink
+Whenever this creature attacks, create a 1/1 black Soldier creature token with lifelink that&apos;s tapped and attacking.
+Whenever this creature blocks a creature, create a 1/1 black Soldier creature token with lifelink that&apos;s blocking that creature.</text>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/17_Ministrant of Duty.png" num="17">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Spirit Advisor</type>
+				<type>Creature — Human Cleric</type>
 				<maintype>Creature</maintype>
 				<manacost>2W</manacost>
 				<cmc>3</cmc>
@@ -355,7 +356,7 @@ Whenever you gain or lose life during your turn, you may pay {2}. If you do, dra
 		<card>
 			<name>Corpse Excavator</name>
 			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
-Oblation 2 — When this creature enters, you may pay 2 life. When you do, mill three cards, then you may return a creature card from your graveyard to your hand. If you do, put a finality counter on this creature.</text>
+Oblation 2 — When this creature enters, you may pay 2 life. When you do, mill three cards, then return up to one creature card from your graveyard to your hand.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/64_Corpse Excavator.png" num="64">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -446,13 +447,13 @@ Oblation 6 — When this creature enters, you may pay 6 life. When you do, destr
 		<card>
 			<name>Priest of The Welcoming</name>
 			<text>Oblation X — When this creature enters, you may pay X life. When you do, return any number of target creature, enchantment and/or planeswalker cards with total mana value X or less from your graveyard to the battlefield with a finality counter on them.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/20_Priest of The Welcoming.png" num="20">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/21_Priest of The Welcoming.png" num="21">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Cleric</type>
 				<maintype>Creature</maintype>
-				<manacost>4WW</manacost>
+				<manacost>5W</manacost>
 				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -463,13 +464,12 @@ Oblation 6 — When this creature enters, you may pay 6 life. When you do, destr
 		<card>
 			<name>Vicious Blackmailer</name>
 			<text>Flash
-Ward—Discard a card.
 If an opponent would draw a card except the first one they draw in each of their draw steps, instead you draw a card unless they pay 2 life. If they do, you gain 2 life.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/86_Vicious Blackmailer.png" num="86">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Citizen Rogue</type>
+				<type>Creature — Human Rogue</type>
 				<maintype>Creature</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
@@ -484,7 +484,7 @@ If an opponent would draw a card except the first one they draw in each of their
 			<text>Vigilance
 Oblation 4 — When this creature enters, you may pay 4 life. When you do, exile target artifact or enchantment.
 When this creature dies, you and target opponent each create a Treasure token.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/18_Orzhov Exorcist.png" num="18">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/19_Orzhov Exorcist.png" num="19">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -539,7 +539,7 @@ At the beginning of your end step, if you gained or lost life this turn, surveil
 			<name>Knight of Denial</name>
 			<text>Vigilance, menace
 When this creature enters, each opponent loses 2 life and you gain 2 life.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/186_Knight of Denial.png" num="186">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/185_Knight of Denial.png" num="185">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -558,7 +558,7 @@ When this creature enters, each opponent loses 2 life and you gain 2 life.</text
 			<text>Flash
 Flying
 Oblation 2 — When this creature enters, you may pay 2 life. When you do, another target creature gains hexproof and indestructible until end of turn.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/19_Pontific Guard.png" num="19">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/20_Pontific Guard.png" num="20">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -575,7 +575,7 @@ Oblation 2 — When this creature enters, you may pay 2 life. When you do, anoth
 		<card>
 			<name>Profane Ceremony</name>
 			<text>Choose one or both —
-• Exile up to two target cards from a single graveyard. You gain 1 life for each creature cards exiled this way.
+• Exile any number of target players&apos; graveyards. You gain 1 life for each creature card exiled this way.
 • Return up to two target creature cards from your graveyard to your hand.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/78_Profane Ceremony.png" num="78">RNF</set>
 			<prop>
@@ -593,7 +593,7 @@ Oblation 2 — When this creature enters, you may pay 2 life. When you do, anoth
 		<card>
 			<name>Pruning</name>
 			<text>Exile all nontoken creatures. Flourish X, where X is the number of creatures exiled this way. (Put a +1/+1 counter on each of up to X creatures you control. You gain 1 life for each of those creatures.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/22_Pruning.png" num="22">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/23_Pruning.png" num="23">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -609,7 +609,7 @@ Oblation 2 — When this creature enters, you may pay 2 life. When you do, anoth
 		<card>
 			<name>Flowerbed Envoy&apos;s Call</name>
 			<text>Create a 4/4 green Rhino creature token with trample. When you do, flourish 5, then draw a card for each creature you control with a +1/+1 counter on it. (Put a +1/+1 counter on each of up to five creatures you control. You gain 1 life for each of those creatures.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/130_Flowerbed Envoy&apos;s Call.png" num="130">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/129_Flowerbed Envoy&apos;s Call.png" num="129">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -661,24 +661,6 @@ If this card would be put into a graveyard from anywhere, reveal it and shuffle 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Bolstering Spores</name>
-			<text>Choose one —
-• Target creature you control deals damage equal to its power to target creature you don&apos;t control.
-• Creatures you control get +0/+3 and gain reach until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/119_Bolstering Spores.png" num="119">RNF</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
 			<name>Ledev Captain</name>
 			<text>Vigilance (Attacking doesn&apos;t cause this creature to tap.)
 When this creature enters, create a 2/2 green and white Elf Knight creature tokens with vigilance.</text>
@@ -717,7 +699,7 @@ Exile target nonland permanent.</text>
 			<name>Coordinated Assault</name>
 			<text>When this enchantment enters, flourish 2. (Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)
 Whenever you attack, if the total power of attacking creatures you control is 4 or greater, you draw a card.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/122_Coordinated Assault.png" num="122">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/121_Coordinated Assault.png" num="121">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -752,7 +734,7 @@ As long as you control a creature with a +1/+1 counter on it, this creature can 
 			<name>Selesnya Caretaker</name>
 			<text>Vigilance
 When this creature enters, search your library for a basic Forest card or a basic Plains card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/200_Selesnya Caretaker.png" num="200">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/201_Selesnya Caretaker.png" num="201">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -769,7 +751,7 @@ When this creature enters, search your library for a basic Forest card or a basi
 		<card>
 			<name>Sowing Courier</name>
 			<text>Create two 1/1 white Bird creature tokens with flying, then flourish 2. (Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/26_Sowing Courier.png" num="26">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/27_Sowing Courier.png" num="27">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -803,7 +785,7 @@ Copy target instant spell, sorcery spell, activated ability, or triggered abilit
 			<name>Ral, Thundering Genius</name>
 			<text>At the beginning of your first main phase, choose one —
 • When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. You may only cast one spell this turn.
-• Draw a card, then discard a card. Add {U}{R}. This mana can&apos;t be spent to cast permanent spells.</text>
+• Draw a card, then discard a card. Add {U}{R}. Spend this mana only to cast instant or sorcery spells.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/194_Ral, Thundering Genius.png" num="194">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -820,11 +802,11 @@ Copy target instant spell, sorcery spell, activated ability, or triggered abilit
 		</card>
 		<card>
 			<name>Essencesnatch</name>
-			<text>Counter target spell. Choose one —
+			<text>Counter target spell. If that spell is countered this way, choose one —
 • Create a 1/1 blue Faerie creature token with flying and prowess.
 • Put two +1/+1 counters on target creature you control.
 • Draw a card.</text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/39_Essencesnatch.png" num="39">RNF</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/40_Essencesnatch.png" num="40">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -857,7 +839,7 @@ Copy target instant spell, sorcery spell, activated ability, or triggered abilit
 			<name>Overflowing Buffer</name>
 			<text>Return up to [[b]three[/b]] target nonland permanents to their owner&apos;s hand. Then you may cast a spell with mana value X or less from your hand without paying its mana cost, where X is the greatest number of cards in any player&apos;s hand.
 Iterate {8}{U}{U} (You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/48_Overflowing Buffer.png" num="48">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/49_Overflowing Buffer.png" num="49">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -874,7 +856,7 @@ Iterate {8}{U}{U} (You may cast this card from your graveyard for its iterate co
 			<name>Thought Accelerator</name>
 			<text>Draw [[b]two[/b]] cards, then discard [[b]one[/b]] card(s).
 Iterate {4}{U}{U} (You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/56_Thought Accelerator.png" num="56">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/58_Thought Accelerator.png" num="58">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -892,7 +874,7 @@ Iterate {4}{U}{U} (You may cast this card from your graveyard for its iterate co
 			<text>Tap up to one target creature and put [[b]one[/b]] stun counter(s) on it.
 Draw a card.
 Iterate {3}{U} (You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/31_Blinding Flash.png" num="31">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/32_Blinding Flash.png" num="32">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -908,7 +890,7 @@ Iterate {3}{U} (You may cast this card from your graveyard for its iterate cost.
 		<card>
 			<name>Voltaic Strike</name>
 			<text>This spell deals [[b]2[/b]] damage to any target.
-Iterate {5}{R} (You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)</text>
+Iterate {4}{R}{R} (You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/113_Voltaic Strike.png" num="113">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -943,7 +925,7 @@ Iterate {5}{R} (You may cast this card from your graveyard for its iterate cost.
 			<name>Flux Launcher Maniac</name>
 			<text>Trample
 Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature. If that spell was cast from your graveyard, put two +1/+1 counters on this creature instead.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/180_Flux Launcher Maniac.png" num="180">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/179_Flux Launcher Maniac.png" num="179">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -963,7 +945,7 @@ Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creat
 As you cast this spell, choose one —
 • This creature enters with two +1/+1 counters on it. 
 • When this creature enters, you may exile an instant or sorcery card from your graveyard. If you do, it deals damage equal to that card&apos;s mana value to target creature or planeswalker.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/172_Ecstatic Fluxburster.png" num="172">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/171_Ecstatic Fluxburster.png" num="171">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -997,10 +979,10 @@ Iterate {2}{U}{R} (You may cast this card from your graveyard for its iterate co
 		<card>
 			<name>Fluctuating Reality</name>
 			<text>Choose [[b]one[/b]] —
-• Return up to one target creature to its owner&apos;s hand.
-• Mill three cards. You may put a nonpermanent card from among the milled cards into your hand.
+• Return up to one target nonland permanent to its owner&apos;s hand.
+• Mill three cards. You may put an instant or sorcery card from among the milled cards into your hand.
 Iterate {3}{U} (You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/42_Fluctuating Reality.png" num="42">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/43_Fluctuating Reality.png" num="43">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1070,7 +1052,7 @@ At the beginning of each end step, if you gained life this turn, untap this arti
 			<text>Lifelink
 Cover up 2—{U}{U}{B} ({U}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)
 When you cover up this card, target player mills three cards.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/202_Shambling Grotesquerie.png" num="202">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/203_Shambling Grotesquerie.png" num="203">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1088,15 +1070,15 @@ When you cover up this card, target player mills three cards.</text>
 			<name>Deeproot Entity</name>
 			<text>This spell can&apos;t be countered.
 Creature spells you control and abilities of creatures you control can&apos;t be countered.
-If a triggered ability of another creature or land you control triggers, it triggers an additional time.</text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/124_Deeproot Entity.png" num="124">RNF</set>
+If a triggered ability of another creature or land you control triggers, it triggers two additional times.</text>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/123_Deeproot Entity.png" num="123">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Elemental</type>
 				<maintype>Creature</maintype>
-				<manacost>2GGG</manacost>
-				<cmc>5</cmc>
+				<manacost>3GGG</manacost>
+				<cmc>6</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<pt>6/6</pt>
@@ -1108,7 +1090,7 @@ If a triggered ability of another creature or land you control triggers, it trig
 			<text>Flying
 Ward—Pay 5 life.
 Whenever you cast a spell, this creature deals X damage to any target, where X is the amount of mana spent to cast that spell.</text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/111_Storm Eater.png" num="111">RNF</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/112_Storm Eater.png" num="112">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1140,27 +1122,9 @@ Cover up 2—{2}{B} ({2}{B}, Exile this card from your graveyard: Look at the to
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Mind Hemorrhage</name>
-			<text>When this enchantment enters, each opponent discards a card.
-If a player would mill one or more cards, they mill that many cards plus one instead.
-{6}{B}{B}, Sacrifice this enchantment: Each opponent loses life equal to half the number of cards in their graveyard, rounded down.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/75_Mind Hemorrhage.png" num="75">RNF</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>1B</manacost>
-				<cmc>2</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
-			<name>Plains RNF</name>
+			<name>Plains_RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/271_Plains RNF.png" num="271">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/271_Plains_RNF.png" num="271">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1173,9 +1137,9 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Island RNF</name>
+			<name>Island_RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/272_Island RNF.png" num="272">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/272_Island_RNF.png" num="272">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1188,9 +1152,9 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Swamp RNF</name>
+			<name>Swamp_RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/273_Swamp RNF.png" num="273">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/273_Swamp_RNF.png" num="273">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1203,9 +1167,9 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Mountain RNF</name>
+			<name>Mountain_RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/274_Mountain RNF.png" num="274">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/274_Mountain_RNF.png" num="274">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1218,9 +1182,9 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Forest RNF</name>
+			<name>Forest_RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/275_Forest RNF.png" num="275">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/275_Forest_RNF.png" num="275">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1236,7 +1200,7 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 			<name>Orzhov Guildgate</name>
 			<text>This land enters tapped.
 {T}: Add {W} or {B}.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/263_Orzhov Guildgate.png" num="263">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/264_Orzhov Guildgate.png" num="264">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1270,7 +1234,7 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 			<name>Izzet Guildgate</name>
 			<text>This land enters tapped.
 {T}: Add {U} or {R}.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/262_Izzet Guildgate.png" num="262">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/263_Izzet Guildgate.png" num="263">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1284,11 +1248,11 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 			<cipt>1</cipt>
 		</card>
 		<card>
-			<name>Tin Street</name>
-			<text>{T}: Add {C}.
-{1}, {T}: Add one mana of any color.
-{4}, {T}, Discard a card: Create a Treasure token and draw a card.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/268_Tin Street.png" num="268">RNF</set>
+			<name>Gateway Plaza</name>
+			<text>This land enters tapped.
+When this land enters, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/260_Gateway Plaza.png" num="260">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1301,7 +1265,7 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 		</card>
 		<card>
 			<name>Transguild Square</name>
-			<text>When this land enters, scry X, where X is the number of different colors of mana Gates you control could produce.
+			<text>When this land enters, if you control two or more Gates, scry 3.
 {T}: Add {C}.
 {T}: Add one mana of any type that a Gate you control could produce.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/269_Transguild Square.png" num="269">RNF</set>
@@ -1317,17 +1281,17 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 		</card>
 		<card>
 			<name>Orzhov Insignia</name>
-			<text>This artifact enters tapped.
-{T}: Add {W} or {B}.
-{W}{B}, {T}, Sacrifice this artifact: Exile up to two target cards from a single graveyard. You gain 3 life.</text>
+			<text>When this artifact enters, scry 2.
+{1}, {T}: Add {W} or {B}.
+{W}{B}, {T}, Sacrifice this artifact: Exile up to three target cards from a single graveyard. You gain 3 life.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/253_Orzhov Insignia.png" num="253">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
 				<coloridentity>WB</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
@@ -1335,17 +1299,17 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 		</card>
 		<card>
 			<name>Gruul Insignia</name>
-			<text>This artifact enters tapped.
-{T}: Add {R} or {G}.
-{1}{R}{G}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature you control. Draw a card if you control a creature with the greatest power among creatures on the battlefield.</text>
+			<text>When this artifact enters, scry 2.
+{1}, {T}: Add {R} or {G}.
+{R}{G}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature you control. It gains haste until end of turn. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/248_Gruul Insignia.png" num="248">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
 				<coloridentity>RG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
@@ -1353,17 +1317,17 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 		</card>
 		<card>
 			<name>Izzet Insignia</name>
-			<text>This artifact enters tapped.
-{T}: Add {U} or {R}.
-{2}{U}{R}, {T}, Sacrifice this artifact: Draw three cards, then discard two cards.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/250_Izzet Insignia.png" num="250">RNF</set>
+			<text>When this artifact enters, scry 2.
+{1}, {T}: Add {U} or {R}.
+{2}{U}{R}, {T}, Sacrifice this artifact: Draw two cards, then discard a card. Create a Treasure token.</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/249_Izzet Insignia.png" num="249">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
 				<coloridentity>UR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
@@ -1371,17 +1335,17 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 		</card>
 		<card>
 			<name>Selesnya Insignia</name>
-			<text>This artifact enters tapped.
-{T}: Add {G} or {W}.
-{2}{G}{W}, {T}, Sacrifice this artifact: Create a 2/2 green and white Elf Knight creature token with vigilance.</text>
+			<text>When this artifact enters, scry 2.
+{1}, {T}: Add {G} or {W}.
+{3}{G}{W}, {T}, Sacrifice this artifact: Put a +1/+1 counter on each creature you control. They gain trample until end of turn. Activate only as a sorcery.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/255_Selesnya Insignia.png" num="255">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
 				<coloridentity>WG</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
@@ -1389,17 +1353,17 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 		</card>
 		<card>
 			<name>Dimir Insignia</name>
-			<text>This artifact enters tapped.
-{T}: Add {U} or {B}.
-{1}{U}{B}, {T}, Sacrifice this artifact: Draw a card, then each player mills two cards.</text>
+			<text>When this artifact enters, scry 2.
+{1}, {T}: Add {U} or {B}.
+{1}{U}{B}, {T}, Sacrifice this artifact: Surveil 3, then draw a card.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/246_Dimir Insignia.png" num="246">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>2</manacost>
-				<cmc>2</cmc>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
 				<coloridentity>UB</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
@@ -1407,7 +1371,7 @@ If a player would mill one or more cards, they mill that many cards plus one ins
 		</card>
 		<card>
 			<name>Custodian of the Guildpact</name>
-			<text>This artifact is all colors.
+			<text>Custodian of the Guildpact is all colors.
 When this artifact enters, scry 2.
 {1}: Add one mana of any color. Activate only once each turn.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/245_Custodian of the Guildpact.png" num="245">RNF</set>
@@ -1426,8 +1390,8 @@ When this artifact enters, scry 2.
 		<card>
 			<name>Living Monument</name>
 			<text>Defender (This creature can&apos;t attack.)
-Whenever a Gate enters under your control, until end of turn, this creature gains vigilance, can attack as though it didn&apos;t have defender, and assigns combat damage equal to its toughness rather than its power.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/251_Living Monument.png" num="251">RNF</set>
+Whenever a Gate you control enters, until end of turn, this creature gains vigilance, can attack as though it didn&apos;t have defender, and assigns combat damage equal to its toughness rather than its power.</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/250_Living Monument.png" num="250">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1441,7 +1405,7 @@ Whenever a Gate enters under your control, until end of turn, this creature gain
 		</card>
 		<card>
 			<name>Shield of the Guildpact</name>
-			<text>Equipped creature gets +0/+2 for each Gate you control and has ward {X}, where X is the number of Gates you control.
+			<text>Equipped creature gets +0/+2 for each Gate you control and has &quot;Ward {X}&quot;, where X is the number of Gates you control.
 During your turn, equipped creature assigns combat damage equal to its toughness rather than its power.
 Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/256_Shield of the Guildpact.png" num="256">RNF</set>
@@ -1456,24 +1420,8 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Heart of Communion</name>
-			<text>{T}: Add one mana of any color. If that mana is spent to cast a multicolored creature, it enters with an additional +1/+1 counter on it.
-{W}{U}{B}{R}{G}, {T}, Sacrifice this artifact: You draw three cards.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/249_Heart of Communion.png" num="249">RNF</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact</type>
-				<maintype>Artifact</maintype>
-				<manacost>3</manacost>
-				<cmc>3</cmc>
-				<coloridentity>WUBRG</coloridentity>
-			</prop>
-			<tablerow>1</tablerow>
-		</card>
-		<card>
 			<name>Vault of the Paruns</name>
-			<text>When this artifact enters and whenever you cast a multicolored spell, choose one that hasn&apos;t been chosen this turn —
+			<text>Whenever you cast this spell or a multicolored spell, choose one that hasn&apos;t been chosen this turn —
 • Create a 2/2 Citizen creature token that&apos;s all colors.
 • Draw a card.
 • You gain 3 life.</text>
@@ -1504,21 +1452,21 @@ Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Prismatic Custodian</name>
-			<text>This artifact is all colors.
-Hexproof from monocolored
-This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.
-This creature and other multicolored creatures you control get +1/+1 for each +1/+1 counters on this creature.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/254_Prismatic Custodian.png" num="254">RNF</set>
+			<name>Pruniv, Prismatic Custodian</name>
+			<text>Pruniv is all colors.
+Affinity for Gates (This spell costs {1} less to cast for each Gate you control.)
+Hexproof from monocolored.
+Multicolored spells you cast have affinity for Gates.</text>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/254_Pruniv, Prismatic Custodian.png" num="254">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Construct</type>
+				<type>Legendary Artifact Creature — Construct</type>
 				<maintype>Creature</maintype>
-				<manacost>5</manacost>
-				<cmc>5</cmc>
+				<manacost>8</manacost>
+				<cmc>8</cmc>
 				<coloridentity>WUBRG</coloridentity>
-				<pt>0/0</pt>
+				<pt>8/8</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1542,7 +1490,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 			<name>Stomping Ground</name>
 			<text>({T}: Add {R} or {G}.)
 As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/266_Stomping Ground.png" num="266">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/267_Stomping Ground.png" num="267">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1558,7 +1506,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 			<name>Temple Garden</name>
 			<text>({T}: Add {G} or {W}.)
 As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/267_Temple Garden.png" num="267">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/268_Temple Garden.png" num="268">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1574,7 +1522,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 			<name>Godless Shrine</name>
 			<text>({T}: Add {W} or {B}.)
 As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/260_Godless Shrine.png" num="260">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/261_Godless Shrine.png" num="261">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1590,7 +1538,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 			<name>Steam Vents</name>
 			<text>({T}: Add {U} or {R}.)
 As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/265_Steam Vents.png" num="265">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/266_Steam Vents.png" num="266">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1604,9 +1552,9 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		</card>
 		<card>
 			<name>Hidden Scrutiny</name>
-			<text>If a spell or ability you control would make you look at the top cards of any player&apos;s library, look at that many cards plus one instead.
-Whenever one or more cards leave your graveyard, surveil 1.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/44_Hidden Scrutiny.png" num="44">RNF</set>
+			<text>When this enchantment enters, surveil 1.
+You may look at an additional card each time you cover up, scry or surveil.</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/45_Hidden Scrutiny.png" num="45">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1658,7 +1606,7 @@ Cover up 2—{2}{UB}{UB} ({2}{UB}{UB}, Exile this card from your graveyard: Look
 			<name>Incapacitating Probing</name>
 			<text>Target creature gets -2/-0 until end of turn. Surveil 2.
 Cover up 2—{2}{U} ({2}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/45_Incapacitating Probing.png" num="45">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/46_Incapacitating Probing.png" num="46">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1673,7 +1621,7 @@ Cover up 2—{2}{U} ({2}{U}, Exile this card from your graveyard: Look at the to
 		</card>
 		<card>
 			<name>Anguished Fall</name>
-			<text>Each opponent sacrifices a creature. If {U} was spent to cast this spell, any number of target players each mill three cards.</text>
+			<text>Each opponent sacrifices a creature. If {U} was spent to cast this spell, target player mills three cards.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/59_Anguished Fall.png" num="59">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -1709,7 +1657,7 @@ When this creature enters, flourish 3. (Put a +1/+1 counter on each of up to thr
 			<name>Protector of the Meek</name>
 			<text>Flying, vigilance
 When this creature enters, creatures you control get +1/+1 and gain vigilance until end of turn.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/21_Protector of the Meek.png" num="21">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/22_Protector of the Meek.png" num="22">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1725,8 +1673,8 @@ When this creature enters, creatures you control get +1/+1 and gain vigilance un
 		</card>
 		<card>
 			<name>Deep Sewage Lurker</name>
-			<text>When this creature enters, tap up to one target creature an opponent controls and put a stun counter on it, then that creature&apos;s controller mills four cards.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/35_Deep Sewage Lurker.png" num="35">RNF</set>
+			<text>When this creature enters, tap up to one target creature an opponent controls and put a stun counter on it. That creature&apos;s controller mills four cards.</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/36_Deep Sewage Lurker.png" num="36">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1779,8 +1727,8 @@ During your turn, creatures you control with a +1/+1 counter on them have first 
 		</card>
 		<card>
 			<name>Ninth District Benevolent</name>
-			<text>When this creature enters, you gain 3 life. Then if you control two or more Gates, scry 2.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/17_Ninth District Benevolent.png" num="17">RNF</set>
+			<text>When this creature enters, scry 2 and you gain X life, where X the number of Gates you control.</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/18_Ninth District Benevolent.png" num="18">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1798,7 +1746,7 @@ During your turn, creatures you control with a +1/+1 counter on them have first 
 			<name>Shady Courier</name>
 			<text>Vigilance (Attacking doesn&apos;t cause this creature to tap.)
 Cover up 3—{3}{U}{U} ({3}{U}{U}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/52_Shady Courier.png" num="52">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/54_Shady Courier.png" num="54">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1815,7 +1763,7 @@ Cover up 3—{3}{U}{U} ({3}{U}{U}, Exile this card from your graveyard: Look at 
 		<card>
 			<name>Lightningquake</name>
 			<text>This spell deals 4 damage to up to one target creature. If {G} was spent to cast this spell, up to one target land you control becomes a 4/4 Elemental creature with haste until end of turn. It&apos;s still a land.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/102_Lightningquake.png" num="102">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/103_Lightningquake.png" num="103">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1833,7 +1781,7 @@ Cover up 3—{3}{U}{U} ({3}{U}{U}, Exile this card from your graveyard: Look at 
 			<text>Choose one —
 • This spell deals 3 damage to each creature and each planeswalker.
 • Create a 3/3 red Elemental creature token with haste.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/96_Fires of Reclamation.png" num="96">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/97_Fires of Reclamation.png" num="97">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1867,7 +1815,7 @@ Cover up 3—{3}{U}{U} ({3}{U}{U}, Exile this card from your graveyard: Look at 
 			<name>Brilliant Artist</name>
 			<text>Flying
 Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/32_Brilliant Artist.png" num="32">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/33_Brilliant Artist.png" num="33">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1884,7 +1832,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
 		<card>
 			<name>Flood of Memories</name>
 			<text>Target player shuffles their graveyard into their library. Target player mills that many cards.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/41_Flood of Memories.png" num="41">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/42_Flood of Memories.png" num="42">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1901,7 +1849,7 @@ Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until e
 			<name>Duskmantle Agent</name>
 			<text>Flying, deathtouch
 When this creature enters, target player reveals cards from the top of their library until they reveal three land cards, then puts those cards into their graveyard.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/171_Duskmantle Agent.png" num="171">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/170_Duskmantle Agent.png" num="170">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1919,7 +1867,7 @@ When this creature enters, target player reveals cards from the top of their lib
 			<name>Mad Alchemist</name>
 			<text>When this creature enters, discard a card, then draw a card.
 Whenever you cast an instant or sorcery spell or discard one or more cards, create a tapped Treasure token. This ability triggers only once each turn.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/103_Mad Alchemist.png" num="103">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/104_Mad Alchemist.png" num="104">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1937,7 +1885,7 @@ Whenever you cast an instant or sorcery spell or discard one or more cards, crea
 			<name>Mounted Warbeast</name>
 			<text>First strike, haste
 {R}, Sacrifice this creature: Target creature you control rages. Activate only as a sorcery. (Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/106_Mounted Warbeast.png" num="106">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/107_Mounted Warbeast.png" num="107">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1954,7 +1902,7 @@ Whenever you cast an instant or sorcery spell or discard one or more cards, crea
 		<card>
 			<name>Rumbling Drake</name>
 			<text>Flying, vigilance
-Whenever this creature enters or attacks, it deals 1 damage to target opponent.</text>
+Whenever you cast an instant or sorcery spell, this creature deals 1 damage to target opponent.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/199_Rumbling Drake.png" num="199">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -1974,7 +1922,7 @@ Whenever this creature enters or attacks, it deals 1 damage to target opponent.<
 			<text>Flash
 Cover up 2—{3}{U}{U} ({3}{U}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)
 When you cover up this card, return up to one target creature to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/33_Catacombs Cleaner.png" num="33">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/34_Catacombs Cleaner.png" num="34">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2010,7 +1958,7 @@ Whenever another creature you control enters, you gain 1 life.</text>
 			<name>Thraka, Ire of the Wilds</name>
 			<text>This spell can&apos;t be countered.
 Trample, ward {3}
-Whenever this creature attacks, put X +1/+1 counters on each creature you control, where X is the total number of creature and land cards in your graveyard.</text>
+Whenever Thraka attacks, put X +1/+1 counters on each creature you control, where X is the total number of creature and land cards in your graveyard.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/207_Thraka, Ire of the Wilds.png" num="207">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -2046,7 +1994,7 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 		<card>
 			<name>1/1 Saproling RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/10t_1/1 Saproling.png" num="10">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/12t_1/1 Saproling.png" num="12">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2064,7 +2012,6 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			<reverse-related count="2">Rise // Shine</reverse-related>
 			<reverse-related>Mossback Pulverizer</reverse-related>
 			<reverse-related>Harmony Guildmage</reverse-related>
-			<reverse-related>Ayla, Harmony&apos;s Embrace</reverse-related>
 			<reverse-related>Blessing of Vitu-Ghazi</reverse-related>
 			<reverse-related>Emmara, Ancestral Caregiver</reverse-related>
 			<reverse-related count="x">Spore Waltz</reverse-related>
@@ -2072,7 +2019,7 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 		<card>
 			<name>1/1 Spirit RNF</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/17t_1/1 Spirit.png" num="17">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/21t_1/1 Spirit.png" num="21">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2093,7 +2040,7 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 		<card>
 			<name>Hellion Star RNF</name>
 			<text>Haste</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/16t_Hellion Star.png" num="16">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/19t_Hellion Star.png" num="19">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2112,7 +2059,7 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 		<card>
 			<name>1/1 Construct RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/18t_1/1 Construct.png" num="18">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/22t_1/1 Construct.png" num="22">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2130,7 +2077,7 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 		<card>
 			<name>2/2 Zombie RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/5t_2/2 Zombie.png" num="5">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/7t_2/2 Zombie.png" num="7">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2149,7 +2096,7 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 		<card>
 			<name>Zombie Star RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/6t_Zombie Star.png" num="6">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/8t_Zombie Star.png" num="8">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2168,7 +2115,7 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 		<card>
 			<name>2/2 Citizen RNF</name>
 			<text>This creature is all colors.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/12t_2/2 Citizen.png" num="12">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/14t_2/2 Citizen.png" num="14">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2186,7 +2133,7 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 		<card>
 			<name>Elemental Star RNF</name>
 			<text>This creature&apos;s power and toughness are each equal to the number of creatures you control.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/14t_Elemental Star.png" num="14">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/17t_Elemental Star.png" num="17">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2225,7 +2172,7 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 		<card>
 			<name>2/2 Elf Knight RNF</name>
 			<text>Vigilance</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/15t_2/2 Elf Knight.png" num="15">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/18t_2/2 Elf Knight.png" num="18">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2245,7 +2192,7 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 		<card>
 			<name>Treasure RNF</name>
 			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/19t_Treasure.png" num="19">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/23t_Treasure.png" num="23">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2256,18 +2203,18 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
-			<reverse-related>Tin Street</reverse-related>
 			<reverse-related>Orzhov Exorcist</reverse-related>
 			<reverse-related>Devoted Marshal</reverse-related>
 			<reverse-related>Mad Alchemist</reverse-related>
 			<reverse-related>Repurpose the Scraps</reverse-related>
 			<reverse-related>Teysa Karlov, Master of Deals</reverse-related>
 			<reverse-related count="2">Wasteful Inheritor</reverse-related>
+			<reverse-related>Izzet Insignia</reverse-related>
 		</card>
 		<card>
 			<name>3/3 Elemental RNF</name>
 			<text>Haste</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/7t_3/3 Elemental.png" num="7">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/9t_3/3 Elemental.png" num="9">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2322,7 +2269,7 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 		<card>
 			<name>Call of the Hunt</name>
 			<text>Creatures you control get +2/+0 until end of turn. Creatures you control with a +1/+1 counter on them gain trample until end of turn.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/91_Call of the Hunt.png" num="91">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/92_Call of the Hunt.png" num="92">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2338,7 +2285,7 @@ At the beginning of your end step, if you gained or lost life this turn, create 
 		<card>
 			<name>Deadly Familiar</name>
 			<text>Vigilance, haste
-Oblation 2 — When this creature enters, you may pay 2 life. When you do, target creature you control gets +1/+0 and gains deathtouch and indestructible until end of turn.</text>
+Oblation 2 — When this creature enters, you may pay 2 life. When you do, target creature you control gets +1/+0 and gains indestructible until end of turn.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/165_Deadly Familiar.png" num="165">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -2355,7 +2302,7 @@ Oblation 2 — When this creature enters, you may pay 2 life. When you do, targe
 		</card>
 		<card>
 			<name>Deafening Cacophony</name>
-			<text>This spell deals 3 damage to target attacking or blocking creature. If {B} was spent to cast this spell, you gain 3 life.</text>
+			<text>This spell deals 3 damage to target attacking or blocking creature. If {B} was spent to cast this spell, you gain life equal to the damage dealt this way.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/4_Deafening Cacophony.png" num="4">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -2371,8 +2318,8 @@ Oblation 2 — When this creature enters, you may pay 2 life. When you do, targe
 		</card>
 		<card>
 			<name>Mind Tap</name>
-			<text>Tap target creature and put two stun counters on it. Scry 1. If {R} was spent to cast this spell, exile the top card of your library. Until the end of your next turn, you may play that card.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/46_Mind Tap.png" num="46">RNF</set>
+			<text>Tap target creature and put two stun counters on it. Scry 1. Then if {R} was spent to cast this spell, exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/47_Mind Tap.png" num="47">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2389,7 +2336,7 @@ Oblation 2 — When this creature enters, you may pay 2 life. When you do, targe
 			<name>Izzet Apprentice</name>
 			<text>{T}: Add {R}.
 {2}{U}, {T}, Exile an instant or sorcery card from your graveyard: Draw a card.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/101_Izzet Apprentice.png" num="101">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/102_Izzet Apprentice.png" num="102">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2444,7 +2391,7 @@ Oblation 2 — When this creature enters, you may pay 2 life. When you do, targe
 			<text>This spell costs {1} less to cast for each mana you spent to cast instant or sorcery spells this turn.
 Flying, haste
 When this creature enters, it deals 2 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/187_Lightning Rider.png" num="187">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/186_Lightning Rider.png" num="186">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2460,8 +2407,8 @@ When this creature enters, it deals 2 damage to any target.</text>
 		</card>
 		<card>
 			<name>Priest of the Old Ways</name>
-			<text>When this creature enters, target creature you control rages. (Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/192_Priest of the Old Ways.png" num="192">RNF</set>
+			<text>When this creature enters, target creature you control rages. It gains trample and haste until end of turn. (Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/191_Priest of the Old Ways.png" num="191">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2471,14 +2418,14 @@ When this creature enters, it deals 2 damage to any target.</text>
 				<cmc>3</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
-				<pt>3/2</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Magebane Rawhide</name>
 			<text>Whenever an opponent casts a noncreature spell, this creature rages, then deals damage equal to the number of counters on it to that player. (Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/104_Magebane Rawhide.png" num="104">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/105_Magebane Rawhide.png" num="105">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2495,7 +2442,7 @@ When this creature enters, it deals 2 damage to any target.</text>
 		<card>
 			<name>Caller of the Wilds</name>
 			<text>At the beginning of combat on your turn, another target creature you control rages X times, where X is this creature&apos;s power. (Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/121_Caller of the Wilds.png" num="121">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/120_Caller of the Wilds.png" num="120">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2505,7 +2452,7 @@ When this creature enters, it deals 2 damage to any target.</text>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2513,7 +2460,7 @@ When this creature enters, it deals 2 damage to any target.</text>
 			<name>Illuminator Imp</name>
 			<text>Flying
 When this creature enters, look at target opponent&apos;s hand. You may exile a nonland card from it. If you exiled a card this way, that player draws a card.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/72_Illuminator Imp.png" num="72">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/73_Illuminator Imp.png" num="73">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2532,7 +2479,7 @@ When this creature enters, look at target opponent&apos;s hand. You may exile a 
 			<text>Whenever you cast a spell, if at least five mana was spent to cast it, draw a card.
 {T}: Add {U}. Spend this mana only to cast an instant or sorcery spell.
 {T}: Add {C}{C}. Spend this mana only to cast spells from your graveyard and/or activate abilities.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/30_Arrogant Hermit.png" num="30">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/31_Arrogant Hermit.png" num="31">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2549,7 +2496,7 @@ When this creature enters, look at target opponent&apos;s hand. You may exile a 
 		<card>
 			<name>Guardian of the Hour</name>
 			<text>Flash
-Flying, vigilance
+Flying
 When this creature enters, if it&apos;s an opponent&apos;s combat phase, end the phase and that player can&apos;t cast spells this turn. Otherwise, creatures you control get +1/+0 and gain indestructible until end of turn.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/11_Guardian of the Hour.png" num="11">RNF</set>
 			<prop>
@@ -2561,7 +2508,7 @@ When this creature enters, if it&apos;s an opponent&apos;s combat phase, end the
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>3/4</pt>
+				<pt>3/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2583,17 +2530,16 @@ Cover up 3—{3}{B} ({3}{B}, Exile this card from your graveyard: Look at the to
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Truesight Sphinx</name>
+			<name>Archway Sphinx</name>
 			<text>Flying
-When this creature enters, tap or untap up to X target creatures, where X is the number of Gates you control.
-Whenever a Gate you control enters, tap or untap target creature.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/58_Truesight Sphinx.png" num="58">RNF</set>
+When this creature enters, draw half X cards, where X is the number of Gates you control, rounded down.</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/30_Archway Sphinx.png" num="30">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Sphinx</type>
 				<maintype>Creature</maintype>
-				<manacost>3UU</manacost>
+				<manacost>4U</manacost>
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -2622,10 +2568,10 @@ Whenever you cast an instant or sorcery spell that targets only this creature, y
 		</card>
 		<card>
 			<name>Maree, Nivix Grand Chamberlain</name>
-			<text>Whenever an instant or sorcery card leaves your graveyard, draw a card and this creature deals 1 damage to each opponent.
+			<text>Whenever an instant or sorcery card leaves your graveyard, draw a card and Maree deals 1 damage to each opponent.
 {T}: Draw a card, then discard a card.
-{4}{U}{R}: Exile target instant or sorcery card from your graveyard. You may cast a copy of it without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/188_Maree, Nivix Grand Chamberlain.png" num="188">RNF</set>
+{4}{U}{R}: Exile up to one target instant or sorcery card from your graveyard and copy it. You may cast the copy without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/187_Maree, Nivix Grand Chamberlain.png" num="187">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2663,7 +2609,7 @@ Counter target spell. Then if a spell is countered this way, you may cast an ins
 			<name>Factory Line</name>
 			<text>Create [[b]X[/b]] 1/1 colorless Construct artifact creature tokens. They gain flying and haste until end of turn.
 Iterate {X}{U}{U}{R}{R} (You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/176_Factory Line.png" num="176">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/175_Factory Line.png" num="175">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2768,10 +2714,10 @@ Creatures you control get +4/+2 until end of turn. Each creature your opponents 
 		</card>
 		<card>
 			<name>Rakasht, Spawn of Ulasht</name>
-			<text>This creature enters with a number of +1/+1 counters on it equal to total number of creature and/or land cards in all graveyards.
+			<text>Rakasht enters with a number of +1/+1 counters on it equal to total number of land and creature cards in all graveyards.
 {X}, Remove X +1/+1 counters from among creatures you control: Choose one. Activate only once each turn.
-• Create a X/X red and green Hellion creature token with haste. X can&apos;t be 0.
-• This creature deals X damage to any target. X can&apos;t be 0.</text>
+• This creature deals X damage to any target.
+• Create a X/X red and green Hellion creature token with haste.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/193_Rakasht, Spawn of Ulasht.png" num="193">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -2790,7 +2736,7 @@ Creatures you control get +4/+2 until end of turn. Each creature your opponents 
 			<name>Mind Warp</name>
 			<text>Gain control of target creature an opponent controls. That creature&apos;s owner mills cards equal to its mana value.
 Cover up 4—{4}{U}{U} ({4}{U}{U}, Exile this card from your graveyard: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/47_Mind Warp.png" num="47">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/48_Mind Warp.png" num="48">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2825,7 +2771,7 @@ Cover up 2—{3}{B} ({3}{B}, Exile this card from your graveyard: Look at the to
 			<text>Choose one or both —
 • Return target creature to its owner&apos;s hand.
 • Return target creature card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/175_Essence Shift.png" num="175">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/174_Essence Shift.png" num="174">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2938,7 +2884,7 @@ Gain control of target creature. It gains &quot;At the beginning of each upkeep,
 			<name>Incisive Reversal</name>
 			<text>Counter target spell. Its controller loses 2 life.
 Cover up 3—{2}{U}{B} ({2}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/185_Incisive Reversal.png" num="185">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/184_Incisive Reversal.png" num="184">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2992,7 +2938,7 @@ Whenever one or more cards leave your graveyard, you may return this card from y
 		<card>
 			<name>Boon of the Worldsoul</name>
 			<text>Return up to two target permanent cards from your graveyard to your hand, then you may put a land card from your hand onto the battlefield.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/120_Boon of the Worldsoul.png" num="120">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/119_Boon of the Worldsoul.png" num="119">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3008,7 +2954,7 @@ Whenever one or more cards leave your graveyard, you may return this card from y
 		<card>
 			<name>Selesnya Sporewielder</name>
 			<text>Whenever this creature enters or attacks, exile up to one target card from a graveyard. Then if three or more cards have been exiled with this creature, flourish 2. (Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/24_Selesnya Sporewielder.png" num="24">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/25_Selesnya Sporewielder.png" num="25">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3044,7 +2990,7 @@ Oblation 3 — When this creature enters, you may pay 3 life. When you do, exile
 			<name>Cruel Advokist</name>
 			<text>Lifelink
 As this creature enters, look at an opponent&apos;s hand, then choose any nonland card name.
-Whenever an opponent casts a spell with the chosen name or activates an ability of a permanent with the chosen name, this creature deals 3 damage to that player.</text>
+Whenever an opponent casts a spell with the chosen name or activates an ability of a card or permanent with the chosen name, this creature deals 3 damage to that player.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/164_Cruel Advokist.png" num="164">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3062,7 +3008,7 @@ Whenever an opponent casts a spell with the chosen name or activates an ability 
 		<card>
 			<name>Dispossession</name>
 			<text>Destroy all creatures. Exile all graveyards and all cards in exile.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/169_Dispossession.png" num="169">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/168_Dispossession.png" num="168">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3077,9 +3023,9 @@ Whenever an opponent casts a spell with the chosen name or activates an ability 
 		</card>
 		<card>
 			<name>Milana, Orzhov High Prelate</name>
-			<text>At the beginning of your end step, if you gained or lost life this turn, return up to one target artifact, creature or enchantment if it has mana value X or less from your graveyard to the battlefield with a finality counter on it, where X is the amount of life you gained or lost this turn, whichever is greater.
-{2}, {T}, Sacrifice another nontoken nonland permanent you control: You gain life equal to that permanent mana value.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/189_Milana, Orzhov High Prelate.png" num="189">RNF</set>
+			<text>Whenever you pay life, you may look at that many cards from the top of target opponent&apos;s library, exile one of them face down, then put the rest into their graveyard. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell. Do this only once each turn.
+Whenever you cast a spell you don&apos;t own, you gain life equal to its mana value.</text>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/188_Milana, Orzhov High Prelate.png" num="188">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3095,7 +3041,7 @@ Whenever an opponent casts a spell with the chosen name or activates an ability 
 		</card>
 		<card>
 			<name>Vitality // Vitelline</name>
-			<text>Put a +1/+1 counter on target creature you control. It gains lifelink and indestructible until end of turn.
+			<text>Target creature you control gets +1/+0 and gains lifelink and indestructible until end of turn.
 
 ---
 
@@ -3116,7 +3062,7 @@ Exile target creature card from your graveyard. Create a token that&apos;s a cop
 		<card>
 			<name>Disunite</name>
 			<text>Counter target instant or sorcery spell. If that spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/37_Disunite.png" num="37">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/38_Disunite.png" num="38">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3132,7 +3078,7 @@ Exile target creature card from your graveyard. Create a token that&apos;s a cop
 		<card>
 			<name>Dissect Thoughts</name>
 			<text>Counter target spell unless its controller pays {1} for each card in your graveyard. If they do, draw a card.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/36_Dissect Thoughts.png" num="36">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/37_Dissect Thoughts.png" num="37">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3146,19 +3092,16 @@ Exile target creature card from your graveyard. Create a token that&apos;s a cop
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Subvert</name>
-			<text>This spell costs {2} less to cast if it targets a monocolored spell or permanent.
-Choose one —
-• The owner of target nonland permanent puts it on their choice of the top or bottom of their library.
-• Counter target creature or planeswalker spell.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/55_Subvert.png" num="55">RNF</set>
+			<name>Righteous Rebuke</name>
+			<text>Counter target permanent spell. Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/51_Righteous Rebuke.png" num="51">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>2UU</manacost>
-				<cmc>4</cmc>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -3167,7 +3110,7 @@ Choose one —
 		<card>
 			<name>Facsimile Project</name>
 			<text>Create X tokens that are copies of target artifact or creature you control, except the tokens aren&apos;t legendary.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/40_Facsimile Project.png" num="40">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/41_Facsimile Project.png" num="41">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3181,19 +3124,18 @@ Choose one —
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Torpor</name>
-			<text>Flash
-Enchant creature
+			<name>Subvert</name>
+			<text>Enchant creature
 When this Aura enters, tap enchanted creature.
-Whenever enchanted creature becomes tapped, put a stun counter on it.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/57_Torpor.png" num="57">RNF</set>
+Enchanted creature can&apos;t become untapped and can&apos;t have counters put on it. If it is monocolored, it also loses all abilities and has base power and toughness 0/1.</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/57_Subvert.png" num="57">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment — Aura</type>
 				<maintype>Enchantment</maintype>
-				<manacost>U</manacost>
-				<cmc>1</cmc>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -3237,8 +3179,8 @@ When this creature enters, exile up to one target card from a graveyard, then it
 		</card>
 		<card>
 			<name>Hyper Space Time Bubble</name>
-			<text>Flip [[b]one[/b]] coin(s). For each flip you win, take an extra turn after this one. For each flip you lose, add {C}{U}{U}{R}{R} and exile the top [[b]two[/b]] cards of your library. Until end of your next turn, you may play those cards.
-Iterate {7}{U}{U}{R}{R} (You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)</text>
+			<text>Flip [[b]one[/b]] coin(s). For each flip you win, take an extra turn after this one. For each flip you lose, add {U}{U}{R}{R} and exile the top two cards of your library. Until end of your next turn, you may play those cards.
+Iterate {7}{U}{UR}{UR}{R} (You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/224_Hyper Space Time Bubble.png" num="224">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3276,7 +3218,7 @@ When this creature enters, you gain X life and it rages X times. (Put a +1/+1 co
 			<text>Flying
 When this creature enters, draw two cards, then discard a card.
 Whenever this creature deals combat damage to a player, add that much mana in any combination of {U} and/or {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end. This mana can&apos;t be spent to cast permanent spells.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/177_Factory Sentinel.png" num="177">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/176_Factory Sentinel.png" num="176">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3293,8 +3235,8 @@ Whenever this creature deals combat damage to a player, add that much mana in an
 		<card>
 			<name>Heart of Cinders</name>
 			<text>Ward—Pay life equal to this creature&apos;s power.
-Whenever this creature enters or attacks, it rages, then you may return target land card from your graveyard to the battlefield tapped. (Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/184_Heart of Cinders.png" num="184">RNF</set>
+Whenever this creature enters or attacks, it rages, then return up to one land card from your graveyard to the battlefield tapped. (Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)</text>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/183_Heart of Cinders.png" num="183">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3312,7 +3254,7 @@ Whenever this creature enters or attacks, it rages, then you may return target l
 			<name>Flourishing Phytohydra</name>
 			<text>If damage would be dealt to this creature, prevent that damage. When damage is prevented this way, put that many +1/+1 counters on this creature.
 Whenever this creature attacks, flourish X, where X is the number of +1/+1 counters on this creature. (Put a +1/+1 counter on each of up to X creatures you control. You gain 1 life for each of those creatures.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/179_Flourishing Phytohydra.png" num="179">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/178_Flourishing Phytohydra.png" num="178">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3330,8 +3272,8 @@ Whenever this creature attacks, flourish X, where X is the number of +1/+1 count
 			<name>Dimir Necrosage</name>
 			<text>Flash (You may cast this spell any time you could cast an instant.)
 Flying, deathtouch, hexproof
-Whenever one or more cards are put into exile from your graveyard, each opponent loses 1 life.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/168_Dimir Necrosage.png" num="168">RNF</set>
+Whenever one or more cards leave your graveyard, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/167_Dimir Necrosage.png" num="167">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3383,7 +3325,7 @@ Oblation 4 — When this creature enters, you may pay 4 life. When you do, targe
 		<card>
 			<name>Fiery Form</name>
 			<text>Up to one target creature gets +2/+2 until end of turn. Fiery Form deals 2 damage to any target.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/178_Fiery Form.png" num="178">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/177_Fiery Form.png" num="177">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3398,9 +3340,9 @@ Oblation 4 — When this creature enters, you may pay 4 life. When you do, targe
 		</card>
 		<card>
 			<name>Gorz&apos;Ghum, War Incense</name>
-			<text>Whenever you discard one or more cards, you may discard them into exile instead. Until end of turn, you may play those cards from exile.
-Whenever you put one or more +1/+1 counters on a creature you control, it gets +1/+1 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/182_Gorz&apos;Ghum, War Incense.png" num="182">RNF</set>
+			<text>You may play cards from your graveyard that you&apos;ve discarded this turn.
+{8}{R}{G}, {T}: Create a 4/4 red and green Beast creature token with trample. This ability costs {1} less to activate for each land and creature cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/181_Gorz&apos;Ghum, War Incense.png" num="181">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3410,14 +3352,14 @@ Whenever you put one or more +1/+1 counters on a creature you control, it gets +
 				<cmc>3</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
-				<pt>2/2</pt>
+				<pt>1/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Gravel-Hide Channeler</name>
-			<text>{T}: Add one mana of any color. If that mana is spent to cast a creature spell, it gains &quot;When this creature enters, it rages.&quot; (Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/183_Gravel-Hide Channeler.png" num="183">RNF</set>
+			<text>{T}: Add one mana of any color. If that mana is spent to cast a creature spell, it can&apos;t be countered and it gains &quot;When this creature enters, it rages.&quot; (Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/182_Gravel-Hide Channeler.png" num="182">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3427,14 +3369,14 @@ Whenever you put one or more +1/+1 counters on a creature you control, it gets +
 				<cmc>2</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
-				<pt>1/3</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Wrath Guildmage</name>
 			<text>{RG}, {T}: The next spell you cast this turn can&apos;t be countered.
-{2}{R}{G}: Double the power and toughness of another target attacking creature you control until end of turn.</text>
+{2}{R}{G}: Double the power and toughness of target creature you control until end of turn. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/234_Wrath Guildmage.png" num="234">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3455,13 +3397,13 @@ Whenever you put one or more +1/+1 counters on a creature you control, it gets +
 Choose one —
 • This spell deals 6 damage to up to one target creature.
 • Up to three target creatures can&apos;t block this turn.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/107_Ravage.png" num="107">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/108_Ravage.png" num="108">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>3RR</manacost>
+				<manacost>4R</manacost>
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3472,7 +3414,7 @@ Choose one —
 			<name>Static Elemental</name>
 			<text>Defender (This creature can&apos;t attack.)
 As long as you&apos;ve cast an instant or sorcery spell this turn, this creature can attack as though it didn&apos;t have defender.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/54_Static Elemental.png" num="54">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/56_Static Elemental.png" num="56">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3489,7 +3431,7 @@ As long as you&apos;ve cast an instant or sorcery spell this turn, this creature
 		<card>
 			<name>Alcarus, Old Growth Protector</name>
 			<text>First strike, reach
-When this creature enters, create Durn&apos;mir, a legendary 2/3 green and white Bird creature token with flying.
+When Alcarus enters, create Durn&apos;mir, a legendary 2/3 green and white Bird creature token with flying.
 Each creature you control with a +1/+1 counter on it has trample.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/146_Alcarus, Old Growth Protector.png" num="146">RNF</set>
 			<prop>
@@ -3559,7 +3501,7 @@ Each creature you control with a +1/+1 counter on it has vigilance and &quot;{T}
 		<card>
 			<name>Poised to Strike</name>
 			<text>Choose target creature or planeswalker you don&apos;t control. Each creature you control deals damage equal to its power to that permanent.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/190_Poised to Strike.png" num="190">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/189_Poised to Strike.png" num="189">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3616,7 +3558,7 @@ During turns other than yours, this creature has deathtouch.
 			<text>You may cast this spell as though it had flash if you control a creature with a +1/+1 counter on it.
 Enchant creature you control
 Enchanted creature gets +2/+0 and has first strike.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/97_Flaming Claws.png" num="97">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/98_Flaming Claws.png" num="98">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3634,7 +3576,7 @@ Enchanted creature gets +2/+0 and has first strike.</text>
 			<text>As an additional cost to cast this spell, discard [[b]one[/b]] card(s).
 Draw [[b]two[/b]] cards and create [[b]one[/b]] Treasure token(s).
 Iterate {6}{R} (You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/109_Repurpose the Scraps.png" num="109">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/110_Repurpose the Scraps.png" num="110">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3652,7 +3594,7 @@ Iterate {6}{R} (You may cast this card from your graveyard for its iterate cost.
 			<text>Choose one —
 • Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
 • Destroy target artifact.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/108_Reconfigure.png" num="108">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/109_Reconfigure.png" num="109">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3666,10 +3608,10 @@ Iterate {6}{R} (You may cast this card from your graveyard for its iterate cost.
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Defile</name>
+			<name>Profane</name>
 			<text>As an additional cost to cast this spell, pay 3 life or discard a card.
 Destroy target creature, enchantment or planeswalker.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/166_Defile.png" num="166">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/192_Profane.png" num="192">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3702,9 +3644,9 @@ Destroy target creature, enchantment or planeswalker.</text>
 		</card>
 		<card>
 			<name>Priest of Purification</name>
-			<text>During your turn, if a card or token would be put into an opponent&apos;s graveyard from anywhere, exile it instead.
-Whenever a creature blocks this creature, if you gained or lost life this turn, that creature gets -2/-2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/191_Priest of Purification.png" num="191">RNF</set>
+			<text>If one or more cards and/or tokens would be put into an opponent&apos;s graveyard from anywhere, exile them instead. You gain 1 life.
+At the beginning of your end step, if you gained or lost life this turn, each opponent loses 1 life. If you gained and lost life this turn, they lose 2 life instead.</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/190_Priest of Purification.png" num="190">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3741,9 +3683,9 @@ You gain 2 life. Return up to one target creature if it has mana value X or less
 		</card>
 		<card>
 			<name>The Cozen</name>
-			<text>As long as you&apos;ve lost life during your turn, this creature has first strike and deathtouch.
+			<text>As long as you&apos;ve lost life during your turn, The Cozen has first strike and deathtouch.
 Whenever you gain life, put a +1/+1 counter on this creature.
-When this creature dies, you gain life equal to its power.</text>
+When The Cozen dies, you gain life equal to their power.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/163_The Cozen.png" num="163">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3763,7 +3705,7 @@ When this creature dies, you gain life equal to its power.</text>
 			<text>Reach (This creature can block creatures with flying.)
 Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
 Whenever you cast an instant or sorcery spell, untap this creature.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/100_Ironclad Cyclops.png" num="100">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/101_Ironclad Cyclops.png" num="101">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3813,7 +3755,7 @@ Iterate {4}{U}{R} (You may cast this card from your graveyard for its iterate co
 		<card>
 			<name>Innovation Guildmage</name>
 			<text>{2}{UR}, {T}: Draw two cards, then discard two cards.
-{2}{U}{R}: Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.</text>
+{2}{U}{R}: Copy target instant spell, sorcery spell, activated ability, or triggered ability you control. You may choose new targets for the copy.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/225_Innovation Guildmage.png" num="225">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3854,7 +3796,7 @@ When you next cast an instant or sorcery spell this turn, copy that spell. You m
 Whenever this creature enters or attacks, choose one —
 • Two target creatures exchange their power and toughness until of turn.
 • Switch target creature&apos;s power and toughness until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/49_Polarity Switcher.png" num="49">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/50_Polarity Switcher.png" num="50">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3870,8 +3812,8 @@ Whenever this creature enters or attacks, choose one —
 		</card>
 		<card>
 			<name>Rix Navven, Overcharged Brute</name>
-			<text>Trample
-Whenever you cast an instant or sorcery spell, you may have this creature get +X/+X until end of turn, where X is the amount of mana spent to cast that spell. Do this only once each turn.</text>
+			<text>Trample, ward {1}
+Whenever you cast an instant or sorcery spell, you may have Rix Navven get +X/+X until end of turn, where X is the amount of mana spent to cast that spell. Do this only once each turn.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/197_Rix Navven, Overcharged Brute.png" num="197">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -3906,7 +3848,7 @@ Whenever you cast an instant or sorcery spell, you may have this creature get +X
 			<name>Scorching Thunder</name>
 			<text>Players can&apos;t gain life this turn. Damage can&apos;t be prevented this turn. This spell deals X damage to target creature or planeswalker.
 Excess damage is dealt to that permanent&apos;s controller instead.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/110_Scorching Thunder.png" num="110">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/111_Scorching Thunder.png" num="111">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3923,7 +3865,7 @@ Excess damage is dealt to that permanent&apos;s controller instead.</text>
 			<name>Eidolon&apos;s Fury</name>
 			<text>When this enchantment enters, it deals 3 damage to any target.
 Whenever you cast a multicolored spell, return this enchantment to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/93_Eidolon&apos;s Fury.png" num="93">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/94_Eidolon&apos;s Fury.png" num="94">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3941,7 +3883,7 @@ Whenever you cast a multicolored spell, return this enchantment to its owner&apo
 			<text>Menace
 Whenever this creature attacks, you may discard a card. If you do, draw a card.
 Whenever you discard one or more cards, this creature gets +1/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/92_Crazed Rioter.png" num="92">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/93_Crazed Rioter.png" num="93">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3956,21 +3898,20 @@ Whenever you discard one or more cards, this creature gets +1/+0 until end of tu
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Tamed Hellkite</name>
+			<name>Archspire Hellkite</name>
 			<text>Flying
-When this creature enters, it deals X damage distributed between any number of targets, where X is the number of Gates you control.
-Whenever a Gate you control enters, this creature deals 1 damage to target player.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/112_Tamed Hellkite.png" num="112">RNF</set>
+{2}{R}: This creature gets +X/+0 until end of turn, where X is the number of Gates you control.</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/89_Archspire Hellkite.png" num="89">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Dragon</type>
 				<maintype>Creature</maintype>
-				<manacost>2RR</manacost>
+				<manacost>3R</manacost>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/2</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3995,7 +3936,7 @@ Whenever you cast a multicolored spell, return this enchantment to its owner&apo
 			<name>Dimir Cutthroat</name>
 			<text>Deathtouch
 Whenever this creature deals combat damage to a player, draw a card, then discard a card unless a card left your graveyard or was put into your graveyard this turn.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/167_Dimir Cutthroat.png" num="167">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/166_Dimir Cutthroat.png" num="166">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4015,7 +3956,7 @@ Whenever this creature deals combat damage to a player, draw a card, then discar
 
 ---
 
-Target player mills three cards, then each opponent loses X life, where X the number of creature and planeswalker cards in that player&apos;s graveyard.</text>
+Target player mills three cards, then each opponent loses X life, where X the total number of creature and planeswalker cards in that player&apos;s graveyard.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/237_Lost.png" num="237">RNF</set>
 			<prop>
 				<layout>split</layout>
@@ -4028,26 +3969,6 @@ Target player mills three cards, then each opponent loses X life, where X the nu
 				<coloridentity>UB</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-		</card>
-		<card>
-			<name>Sleeper Spybug</name>
-			<text>This creature enters under the control of an opponent of your choice.
-At the beginning of your upkeep, exile the top two cards of your library
-When this creature dies, reveal your hand. Each opponent draws a card.
-{3}: This creature&apos;s controller sacrifices it. Any player may activate this ability.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/203_Sleeper Spybug.png" num="203">RNF</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Insect Horror</type>
-				<maintype>Creature</maintype>
-				<manacost>UB</manacost>
-				<cmc>2</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
-				<pt>0/2</pt>
-			</prop>
-			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Violent Reshaping</name>
@@ -4067,9 +3988,9 @@ When this creature dies, reveal your hand. Each opponent draws a card.
 		</card>
 		<card>
 			<name>Zorin, Hiding in Plain Sight</name>
-			<text>Whenever you exile one or more cards from a graveyard, choose one. This ability triggers only once each turn.
-• Put a +1/+1 counter on this creature. It can&apos;t be blocked until end of turn.
-• Up to one target creature you don&apos;t control gets -2/-1 and loses all abilities until end of turn.</text>
+			<text>Whenever one or more cards leave your graveyard from a graveyard, choose one. This ability triggers only once each turn.
+• Put a +1/+1 counter on Zorin. She can&apos;t be blocked until end of turn.
+• Create a Treasure token.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/214_Zorin, Hiding in Plain Sight.png" num="214">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -4105,7 +4026,7 @@ When this creature enters, target player mills two cards.</text>
 		<card>
 			<name>Sharer of the Ichor</name>
 			<text>Oblation 3 — When this creature enters, you may pay 3 life. When you do, return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/25_Sharer of the Ichor.png" num="25">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/26_Sharer of the Ichor.png" num="26">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4123,7 +4044,7 @@ When this creature enters, target player mills two cards.</text>
 			<name>Escaped Prototype</name>
 			<text>Haste
 Whenever this creature attacks, add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end. Spend this mana only to cast instant or sorcery spells or activate abilities.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/94_Escaped Prototype.png" num="94">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/95_Escaped Prototype.png" num="95">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4141,7 +4062,7 @@ Whenever this creature attacks, add {R}. Until end of turn, you don&apos;t lose 
 			<name>Corrosive Bile Spitter</name>
 			<text>Deathtouch
 {1}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/123_Corrosive Bile Spitter.png" num="123">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/122_Corrosive Bile Spitter.png" num="122">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4173,15 +4094,15 @@ Whenever this creature attacks, add {R}. Until end of turn, you don&apos;t lose 
 		<card>
 			<name>Devoted Marshal</name>
 			<text>Deathtouch, lifelink
-Whenever you gain or lose life during your turn, choose one that hasn&apos;t been chosen this turn —
-• Create a tapped 1/1 white Soldier creature token.
+Whenever you gain or lose life during your turn, choose one that hasn&apos;t been chosen this turn –
+• Create a tapped 1/1 white Human creature token.
 • Create a tapped Treasure token.
 • Surveil 2.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/68_Devoted Marshal.png" num="68">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Knight</type>
+				<type>Creature — Vampire Knight</type>
 				<maintype>Creature</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
@@ -4279,10 +4200,10 @@ Enchanted land has &quot;{T}: Add one mana of any color.&quot;</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Enforcers of the Guildpact</name>
+			<name>Desenite Enforcers</name>
 			<text>Vigilance
 Whenever this creature blocks or becomes blocked by a monocolored creature, it gets +1/+1 until end of turn for each of those creatures.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/129_Enforcers of the Guildpact.png" num="129">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/124_Desenite Enforcers.png" num="124">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4299,38 +4220,37 @@ Whenever this creature blocks or becomes blocked by a monocolored creature, it g
 		<card>
 			<name>Insatiable Moroii</name>
 			<text>Flying
-When this creature enters, each opponent loses 1 life for each Gate you control. You gain life equal to the life lost this way.
-Whenever a Gate you control enters, each player loses 1 life.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/73_Insatiable Moroii.png" num="73">RNF</set>
+Whenever this creature enters or attacks, you lose 2 life.
+Whenever you lose life during your turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/74_Insatiable Moroii.png" num="74">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Vampire</type>
 				<maintype>Creature</maintype>
-				<manacost>3BB</manacost>
+				<manacost>4B</manacost>
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>4/4</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Cloud Drinker</name>
-			<text>This spell can&apos;t be countered.
-Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
-Hexproof (This creature can&apos;t be the target of spells or abilities your opponents control.)</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/34_Cloud Drinker.png" num="34">RNF</set>
+			<text>Flying, vigilance, ward {2}
+Whenever this creature attacks, target player mills X cards, where X is the number of cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/35_Cloud Drinker.png" num="35">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Leviathan Jellyfish</type>
 				<maintype>Creature</maintype>
-				<manacost>4UU</manacost>
-				<cmc>6</cmc>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>5/5</pt>
+				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4338,7 +4258,7 @@ Hexproof (This creature can&apos;t be the target of spells or abilities your opp
 			<name>Eidolon&apos;s Wisdom</name>
 			<text>When this enchantment enters, surveil 2, then draw two cards, then discard a card.
 Whenever you cast a multicolored spell, return this enchantment to its owner&apos;s hand.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/38_Eidolon&apos;s Wisdom.png" num="38">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/39_Eidolon&apos;s Wisdom.png" num="39">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4356,7 +4276,7 @@ Whenever you cast a multicolored spell, return this enchantment to its owner&apo
 			<text>Flash
 Flying
 At the beginning of your end step, if one or more instant or sorcery cards left your graveyard this turn, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/50_Secret Seeker.png" num="50">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/52_Secret Seeker.png" num="52">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4372,9 +4292,9 @@ At the beginning of your end step, if one or more instant or sorcery cards left 
 		</card>
 		<card>
 			<name>Forgotten Phantasm</name>
-			<text>Flying
+			<text>Flying, vigilance
 Whenever one or more cards leave your graveyard, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/43_Forgotten Phantasm.png" num="43">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/44_Forgotten Phantasm.png" num="44">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4405,29 +4325,9 @@ Whenever one or more cards leave your graveyard, surveil 1. (Look at the top car
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>1/1 Soldier RNF</name>
-			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/2t_1/1 Soldier.png" num="2">RNF</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Soldier</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-			<reverse-related count="2">Eidolon&apos;s Call</reverse-related>
-			<reverse-related>Devoted Marshal</reverse-related>
-		</card>
-		<card>
 			<name>4/4 Rhino RNF</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/9t_4/4 Rhino.png" num="9">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/11t_4/4 Rhino.png" num="11">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4446,7 +4346,7 @@ Whenever one or more cards leave your graveyard, surveil 1. (Look at the top car
 		<card>
 			<name>5/5 Wurm RNF</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/11t_5/5 Wurm.png" num="11">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/13t_5/5 Wurm.png" num="13">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4465,7 +4365,7 @@ Whenever one or more cards leave your graveyard, surveil 1. (Look at the top car
 		<card>
 			<name>2/3 Durn&apos; Mir RNF</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/13t_2/3 Durn&apos; Mir.png" num="13">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/16t_2/3 Durn&apos; Mir.png" num="16">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4495,7 +4395,7 @@ As long as you control six or more creatures names Aspect of Uniformity, creatur
 				<cmc>6</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
-				<pt>8/8</pt>
+				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4557,7 +4457,7 @@ When enchanted creature dies, return it to the battlefield tapped under its owne
 		<card>
 			<name>1/1 Faerie RNF</name>
 			<text>Flying, prowess</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/3t_1/1 Faerie.png" num="3">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/4t_1/1 Faerie.png" num="4">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4594,7 +4494,7 @@ When enchanted creature dies, return it to the battlefield tapped under its owne
 		<card>
 			<name>Escalating Wrath</name>
 			<text>At the beginning of combat on your turn, target creature you control rages. It gains your choice of trample or haste until end of turn. (Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/174_Escalating Wrath.png" num="174">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/173_Escalating Wrath.png" num="173">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4612,7 +4512,7 @@ When enchanted creature dies, return it to the battlefield tapped under its owne
 			<text>Flying
 Whenever this creature attacks and is unblocked, target player mills three cards.
 {1}{B}: This creature gains menace until end of turn.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/53_Spectral Rider.png" num="53">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/55_Spectral Rider.png" num="55">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4628,8 +4528,9 @@ Whenever this creature attacks and is unblocked, target player mills three cards
 		</card>
 		<card>
 			<name>Seventh District Scoundrel</name>
-			<text>When this creature enters, if you control two or more Gates, draw two cards, then discard two cards. Otherwise, draw a card, then discard a card instead.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/51_Seventh District Scoundrel.png" num="51">RNF</set>
+			<text>When this creature enters, tap target creature you don&apos;t control and put a stun counter on it.
+{5}{U}, {T}: Surveil 2. This ability costs {1} less to activate for each Gate you control.</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/53_Seventh District Scoundrel.png" num="53">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4639,13 +4540,13 @@ Whenever this creature attacks and is unblocked, target player mills three cards
 				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>3/2</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Eidolon&apos;s Call</name>
-			<text>When this enchantment enters, create two 1/1 white Soldier creature tokens. You gain 2 life.
+			<text>When this enchantment enters, create two 1/1 white Human creature tokens. You gain 2 life.
 Whenever you cast a multicolored spell, return this enchantment to its owner&apos;s hand.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/7_Eidolon&apos;s Call.png" num="7">RNF</set>
 			<prop>
@@ -4680,8 +4581,8 @@ Whenever one or more cards are put into exile from your library and/or your grav
 		</card>
 		<card>
 			<name>Gate Penumbra</name>
-			<text>When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
-This creature has menace as long as you control a Gate.</text>
+			<text>When this creature enters, surveil 2.
+Whenever a Gate you control enters, this creature gains menace and deathtouch until end of turn.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/71_Gate Penumbra.png" num="71">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -4692,7 +4593,7 @@ This creature has menace as long as you control a Gate.</text>
 				<cmc>5</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>5/5</pt>
+				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4752,7 +4653,7 @@ Enchanted creature gets +1/+1 for each creature you control or each counter amon
 			<name>Memorable Feast</name>
 			<text>As an additional cost to cast this spell, sacrifice a creature or token.
 Draw two cards and you gain 2 life.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/74_Memorable Feast.png" num="74">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/75_Memorable Feast.png" num="75">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4768,13 +4669,13 @@ Draw two cards and you gain 2 life.</text>
 		<card>
 			<name>Rousing Freemage</name>
 			<text>At the beginning of combat on your turn, each of up to X target creatures you control gets +1/+1 and gains flying until end of turn, where X is the number of Gates you control.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/23_Rousing Freemage.png" num="23">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/24_Rousing Freemage.png" num="24">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Human Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>3WW</manacost>
+				<manacost>4W</manacost>
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -4787,7 +4688,7 @@ Draw two cards and you gain 2 life.</text>
 			<text>Flash
 Enchant creature you control
 When this Aura enters, untap enchanted creature.
-Enchanted creature gets +1/+2 and has hexproof from monocolored.</text>
+Enchanted creature gets +1/+3 hexproof from monocolored.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/12_Guildpact&apos;s Blessing.png" num="12">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -4820,7 +4721,7 @@ Enchanted creature gets +1/+2 and has hexproof from monocolored.</text>
 		<card>
 			<name>3/3 Centaur RNF</name>
 			<text></text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/8t_3/3 Centaur.png" num="8">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/10t_3/3 Centaur.png" num="10">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4873,28 +4774,26 @@ Whenever you cast a multicolored spell, return this enchantment to its owner&apo
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Outraged Avenger</name>
-			<text>When this creature enters, put a +1/+1 counter on it for each Gate you control. Then it fights up to one target creature you don&apos;t control.
-Whenever a Gate you control enters, put a +1/+1 counter on this creature.</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/135_Outraged Avenger.png" num="135">RNF</set>
+			<name>Righteous Outburst</name>
+			<text>Target creature you control gets +X/+0 until end of turn, where X is the number of Gates you control. Then it deals damage equal to its power to target creature or planeswalker you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/136_Righteous Outburst.png" num="136">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Lizard Warrior</type>
-				<maintype>Creature</maintype>
-				<manacost>4GG</manacost>
-				<cmc>6</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>4/4</pt>
 			</prop>
-			<tablerow>2</tablerow>
+			<tablerow>3</tablerow>
 		</card>
 		<card>
 			<name>Furious Pangoduan</name>
 			<text>Vigilance, haste
 Whenever this creature becomes the target of a spell you control, it rages. (You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature.)</text>
-			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/131_Furious Pangoduan.png" num="131">RNF</set>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/130_Furious Pangoduan.png" num="130">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4963,7 +4862,7 @@ Whenever this creature becomes the target of a spell you control, it rages. (You
 		<card>
 			<name>1/1 Bat RNF</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/4t_1/1 Bat.png" num="4">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/5t_1/1 Bat.png" num="5">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4978,13 +4877,14 @@ Whenever this creature becomes the target of a spell you control, it rages. (You
 			<tablerow>2</tablerow>
 			<token>1</token>
 			<reverse-related>Cleanser of Debt</reverse-related>
+			<reverse-related> Devoted Marshal</reverse-related>
 		</card>
 		<card>
 			<name>Deep Wound</name>
 			<text>Flash (You may cast this spell any time you could cast an instant.)
 Enchant creature
 Enchanted creature gets -2/-2.
-When this card is put into your graveyard from anywhere, surveil 1.</text>
+When this Deep Wound is put into your graveyard from anywhere, surveil 1.</text>
 			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/67_Deep Wound.png" num="67">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -5000,10 +4900,9 @@ When this card is put into your graveyard from anywhere, surveil 1.</text>
 		</card>
 		<card>
 			<name>Emmara, Ancestral Caregiver</name>
-			<text>Whenever another creature or land you control enters, you gain 1 life.
-Whenever a nontoken creature you control dies, if it had one or more +1/+1 counters on it, create a 1/1 green Saproling creature token.
+			<text>Whenever Emmara or another nontoken creature you control dies, if it had one or more +1/+1 counters on it, create a 1/1 green Saproling creature token.
 {3}{G}{W}: Put a +1/+1 counter on each creature you control.</text>
-			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/173_Emmara, Ancestral Caregiver.png" num="173">RNF</set>
+			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/172_Emmara, Ancestral Caregiver.png" num="172">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5021,7 +4920,7 @@ Whenever a nontoken creature you control dies, if it had one or more +1/+1 count
 			<name>Selesnya Guildgate</name>
 			<text>This land enters tapped.
 {T}: Add {G} or {W}.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/264_Selesnya Guildgate.png" num="264">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/265_Selesnya Guildgate.png" num="265">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5036,7 +4935,7 @@ Whenever a nontoken creature you control dies, if it had one or more +1/+1 count
 		</card>
 		<card>
 			<name>Dew&apos;s Benediction</name>
-			<text>Whenever you gain life during your turn, choose one. This ability triggers only once each turn.
+			<text>Whenever you gain life, choose one. This ability triggers only once during each of your turns.
 • Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn.
 • Create a 1/1 white Bird creature token with flying.</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RNF-files/img/5_Dew&apos;s Benediction.png" num="5">RNF</set>
@@ -5056,7 +4955,7 @@ Whenever a nontoken creature you control dies, if it had one or more +1/+1 count
 			<name>Gruul Guildgate</name>
 			<text>This land enters tapped.
 {T}: Add {R} or {G}.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/261_Gruul Guildgate.png" num="261">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/262_Gruul Guildgate.png" num="262">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5089,7 +4988,7 @@ Whenever a nontoken creature you control dies, if it had one or more +1/+1 count
 		<card>
 			<name>Gheshval, Night&apos;s Mantle</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/181_Gheshval, Night&apos;s Mantle.png" num="181">RNF</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/180_Gheshval, Night&apos;s Mantle.png" num="180">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5178,7 +5077,7 @@ Each creature you control with a +1/+1 counter on it has ward {1}.</text>
 			<name>Ledev Rescue</name>
 			<text>You may cast this spell as though it had flash if {W} was spent to cast it.
 Create a 3/3 green Centaur creature token and you gain 3 life.</text>
-			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/132_Ledev Rescue.png" num="132">RNF</set>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/131_Ledev Rescue.png" num="131">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5194,7 +5093,7 @@ Create a 3/3 green Centaur creature token and you gain 3 life.</text>
 		<card>
 			<name>Chains of Torment</name>
 			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
-At the beginning of your end step, the owner of the exiled card loses 1 life and you gain 1 life.</text>
+At the beginning of your end step, each opponent loses 1 life and you gain 1 life.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/158_Chains of Torment.png" num="158">RNF</set>
 			<prop>
 				<layout>normal</layout>
@@ -5213,7 +5112,7 @@ At the beginning of your end step, the owner of the exiled card loses 1 life and
 			<text>Artifacts, creatures and nonbasic lands your opponents control enter tapped.
 Spells your opponents cast during your turn cost an additional 2 life to cast.
 Whenever an opponent loses life, you gain 1 life. (Damage causes loss of life.)</text>
-			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/170_Due of the Powerless.png" num="170">RNF</set>
+			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RNF-files/img/169_Due of the Powerless.png" num="169">RNF</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5260,6 +5159,174 @@ Whenever an opponent loses life, you gain 1 life. (Damage causes loss of life.)<
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
 				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Locket of Communion</name>
+			<text>Multicolored creatures you control get +1/+1.
+{T}: Add one mana of any color.
+{WU}{UB}{BR}{RG}{GW}, {T}, Sacrifice this artifact: Draw three cards.</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/251_Locket of Communion.png" num="251">RNF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>1/1 Selesnya Soldier RNF</name>
+			<text>Lifelink</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/3t_1/1 Selesnya Soldier.png" num="3">RNF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Ayla, Harmony&apos;s Embrace</reverse-related>
+		</card>
+		<card>
+			<name>1/1 Human RNF</name>
+			<text></text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/2t_1/1 Human.png" num="2">RNF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Eidolon&apos;s Call</reverse-related>
+		</card>
+		<card>
+			<name>1/1 Orzhov Soldier RNF</name>
+			<text>Lifelink</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/6t_1/1 Orzhov Soldier.png" num="6">RNF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Devoted Marshal</reverse-related>
+		</card>
+		<card>
+			<name>4/4 Beast RNF</name>
+			<text>Trample</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/15t_4/4 Beast.png" num="15">RNF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Gorz&apos;Ghum, War Incense</reverse-related>
+		</card>
+		<card>
+			<name>Screeching Aberration</name>
+			<text>Flying
+Ward—Pay 2 life.
+Whenever one or more cards leave your graveyard, create a 1/1 blue and black Horror creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/200_Screeching Aberration.png" num="200">RNF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>1/1 Horror RNF</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://Virgile198.github.io/sets/RNF-files/img/20t_1/1 Horror.png" num="20">RNF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<reverse-related>Screeching Aberration</reverse-related>
+		</card>
+		<card>
+			<name>Gateway Curse</name>
+			<text>Target player discards to cards. If you control two or more gates, they discard three cards instead.</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/72_Gateway Curse.png" num="72">RNF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rubblebelt Explorer</name>
+			<text>Trample
+When this creature enters, remove up to three +1/+1 counters from among creatures you control. Choose one for each counter removed this way —
+• Destroy target artifact or enchantment.
+• You gain 4 life.
+• Exile target player&apos;s graveyard.</text>
+			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RNF-files/img/137_Rubblebelt Explorer.png" num="137">RNF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
