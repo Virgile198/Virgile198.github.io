@@ -5,7 +5,7 @@
 			<name>RAW</name>
 			<longname>Ravnica&apos;s Awakening</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-21</releasedate>
+			<releasedate>2026-07-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -192,7 +192,7 @@ Creatures you control get +2/+1 until end of turn.</text>
 		</card>
 		<card>
 			<name>Monument to Solidarity</name>
-			<text>When this enchantment enters and whenever you cast a white spell, put a +1/+1 counter on each creature you control and an awakening counter on this enchantment.
+			<text>When this enchantment enters and whenever you cast a white spell, put a +1/+1 counter on each creature you control. Put an awakening counter on this enchantment.
 As long as Monument to Solidarity has five or more awakening counters on it, it is a 6/6 Angel creature with flying.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/16_Monument to Solidarity.png" num="16">RAW</set>
 			<prop>
@@ -580,8 +580,8 @@ Enchanted creature gets -5/-0 and loses all abilities.</text>
 		</card>
 		<card>
 			<name>Monument to Wisdom</name>
-			<text>When this enchantment enters and whenever you cast a blue spell, draw a card and put an awakening counter on this enchantment.
-As long as Monument to Wisdom has five or more awakening counters on it, it is a 6/6 Sphinx creature with flying.</text>
+			<text>When this enchantment enters and whenever you cast a blue spell, draw a card. Put an awakening counter on this enchantment.
+As long as Monument to Wisdom has five or more awakening counters on it, it is a 5/5 Sphinx creature with flying.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/48_Monument to Wisdom.png" num="48">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -1023,7 +1023,7 @@ Enchanted land has &quot;{1}, {T}: Add two mana in any combination of colors.&qu
 		</card>
 		<card>
 			<name>Monument to Depravity</name>
-			<text>When this enchantment enters and whenever you cast a black spell, each opponent loses 2 life, you gain 2 life and put an awakening counter on this enchantment.
+			<text>When this enchantment enters and whenever you cast a black spell, each opponent loses 2 life, you gain 2 life. Put an awakening counter on this enchantment.
 As long as Monument to Depravity has five or more awakening counters on it, it is a 6/6 Demon creature with flying.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/76_Monument to Depravity.png" num="76">RAW</set>
 			<prop>
@@ -1496,7 +1496,7 @@ Draw two cards. Then if {B} was spent to cast this spell, create a tapped Treasu
 		</card>
 		<card>
 			<name>Monument to Fury</name>
-			<text>When this enchantment enters and whenever you cast a red spell, this enchantment deals 1 damage to any target and put an awakening counter on this enchantment.
+			<text>When this enchantment enters and whenever you cast a red spell, this enchantment deals 1 damage to any target. Put an awakening counter on this enchantment.
 As long as Monument to Fury has five or more awakening counters on it, it is a 5/5 Dragon creature with flying.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/104_Monument to Fury.png" num="104">RAW</set>
 			<prop>
@@ -1998,7 +1998,7 @@ Swarm 3—{4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Create thre
 		</card>
 		<card>
 			<name>Monument to Strength</name>
-			<text>When this enchantment enters and whenever you cast a green spell, create a 5/5 green Beast creature token with trample and put an awakening counter on this enchantment.
+			<text>When this enchantment enters and whenever you cast a green spell, create a 5/5 green Beast creature token with trample. Put an awakening counter on this enchantment.
 As long as Monument to Strength has five or more awakening counters on it, it is a 10/10 Beast creature with trample.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/131_Monument to Strength.png" num="131">RAW</set>
 			<prop>
@@ -2294,7 +2294,7 @@ When this creature enters, you gain 3 life and surveil 3.</text>
 				<cmc>6</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
-				<pt>6/6</pt>
+				<pt>6/7</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3980,7 +3980,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 		</card>
 		<card>
 			<name>Erstwhile Awakener</name>
-			<text>{T}, Sacrifice another creature: Add one mana of any color. You gain 2 life.
+			<text>{T}, Sacrifice another creature: Add two mana in any combination of colors.
 {G}: Exile target card from a graveyard.
 {3}{B}{B}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.</text>
 			<set rarity="mythic" picurl="https://Virgile198.github.io/sets/RAW-files/img/160_Erstwhile Awakener.png" num="160">RAW</set>
