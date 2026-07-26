@@ -153,7 +153,7 @@
     },
     {
         "card_name": "Flowerbed Envoy's Call",
-        "number": 129,
+        "number": 130,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -472,8 +472,8 @@
         "position": ""
     },
     {
-        "card_name": "Furious Pangoduan",
-        "number": 130,
+        "card_name": "Enraged Pangoduan",
+        "number": 129,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1144,7 +1144,7 @@
         "position": ""
     },
     {
-        "card_name": "Zhur-Taa Ember Shaman",
+        "card_name": "Zhur-Taa Embermage",
         "number": 116,
         "shape": "normal",
         "set": "RNF",
@@ -1174,7 +1174,7 @@
     "a->gold",
     {
         "card_name": "Cognition Theft",
-        "number": 160,
+        "number": 161,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1198,7 +1198,7 @@
     },
     {
         "card_name": "Due of the Powerless",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1214,7 +1214,7 @@
     },
     {
         "card_name": "Gheshval, Night's Mantle",
-        "number": 180,
+        "number": 181,
         "shape": "planeswalker",
         "set": "RNF",
         "rotated": false,
@@ -1246,7 +1246,7 @@
     },
     {
         "card_name": "Ral, Thundering Genius",
-        "number": 194,
+        "number": 195,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1294,7 +1294,7 @@
     },
     {
         "card_name": "Circu, Butcher of Memories",
-        "number": 159,
+        "number": 160,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1310,7 +1310,7 @@
     },
     {
         "card_name": "Emmara, Ancestral Caregiver",
-        "number": 172,
+        "number": 173,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1318,7 +1318,7 @@
     },
     {
         "card_name": "Coldhearted Cardinal",
-        "number": 161,
+        "number": 162,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1326,7 +1326,7 @@
     },
     {
         "card_name": "Factory Line",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1334,14 +1334,14 @@
     },
     {
         "card_name": "Dimir Necrosage",
-        "number": 167,
+        "number": 168,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Bushfire Shaman",
+        "card_name": "Bushfire Cyclops",
         "number": 156,
         "shape": "normal",
         "set": "RNF",
@@ -1350,7 +1350,7 @@
     },
     {
         "card_name": "Flourishing Phytohydra",
-        "number": 178,
+        "number": 179,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1358,7 +1358,7 @@
     },
     {
         "card_name": "Cruel Advokist",
-        "number": 164,
+        "number": 165,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1366,7 +1366,7 @@
     },
     {
         "card_name": "Factory Sentinel",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1374,7 +1374,7 @@
     },
     {
         "card_name": "Retriever of Secrets",
-        "number": 196,
+        "number": 197,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1382,7 +1382,7 @@
     },
     {
         "card_name": "Heart of Cinders",
-        "number": 183,
+        "number": 184,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1398,7 +1398,7 @@
     },
     {
         "card_name": "Dispossession",
-        "number": 168,
+        "number": 169,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1406,7 +1406,7 @@
     },
     {
         "card_name": "Maree, Nivix Grand Chamberlain",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1422,7 +1422,7 @@
     },
     {
         "card_name": "Rakasht, Spawn of Ulasht",
-        "number": 193,
+        "number": 194,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1438,7 +1438,7 @@
     },
     {
         "card_name": "Milana, Orzhov High Prelate",
-        "number": 188,
+        "number": 189,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1534,15 +1534,15 @@
     },
     {
         "card_name": "Dimir Cutthroat",
-        "number": 166,
+        "number": 167,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Escalating Wrath",
-        "number": 173,
+        "card_name": "Channel the Elements",
+        "number": 159,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1574,15 +1574,15 @@
     },
     {
         "card_name": "Incisive Reversal",
-        "number": 184,
+        "number": 185,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Fiery Form",
-        "number": 177,
+        "card_name": "Escalating Wrath",
+        "number": 174,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1598,7 +1598,7 @@
     },
     {
         "card_name": "The Cozen",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1606,7 +1606,7 @@
     },
     {
         "card_name": "Ecstatic Fluxburster",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1614,15 +1614,15 @@
     },
     {
         "card_name": "Screeching Aberration",
-        "number": 200,
+        "number": 201,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Gorz'Ghum, War Incense",
-        "number": 181,
+        "card_name": "Fiery Form",
+        "number": 178,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1630,14 +1630,6 @@
     },
     {
         "card_name": "Poised to Strike",
-        "number": 189,
-        "shape": "normal",
-        "set": "RNF",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Priest of Purification",
         "number": 190,
         "shape": "normal",
         "set": "RNF",
@@ -1645,8 +1637,16 @@
         "position": ""
     },
     {
+        "card_name": "Priest of Purification",
+        "number": 191,
+        "shape": "normal",
+        "set": "RNF",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Lightning Rider",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1661,7 +1661,7 @@
         "position": ""
     },
     {
-        "card_name": "Gravel-Hide Channeler",
+        "card_name": "Gorz'Ghum, War Incense",
         "number": 182,
         "shape": "normal",
         "set": "RNF",
@@ -1670,7 +1670,7 @@
     },
     {
         "card_name": "Rootguard Loxodon",
-        "number": 198,
+        "number": 199,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1678,7 +1678,7 @@
     },
     {
         "card_name": "Profane",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1686,7 +1686,7 @@
     },
     {
         "card_name": "Replicating Flare",
-        "number": 195,
+        "number": 196,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1701,8 +1701,8 @@
         "position": ""
     },
     {
-        "card_name": "Shamanic Power",
-        "number": 202,
+        "card_name": "Gravel-Hide Channeler",
+        "number": 183,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1726,7 +1726,7 @@
     },
     {
         "card_name": "Rix Navven, Overcharged Brute",
-        "number": 197,
+        "number": 198,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1790,7 +1790,7 @@
     },
     {
         "card_name": "Conclave Sentinel",
-        "number": 162,
+        "number": 163,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1814,7 +1814,7 @@
     },
     {
         "card_name": "Duskmantle Agent",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1830,7 +1830,7 @@
     },
     {
         "card_name": "Selesnya Caretaker",
-        "number": 201,
+        "number": 202,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1838,7 +1838,7 @@
     },
     {
         "card_name": "Deadly Familiar",
-        "number": 165,
+        "number": 166,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1854,7 +1854,7 @@
     },
     {
         "card_name": "Essence Shift",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1878,7 +1878,7 @@
     },
     {
         "card_name": "Knight of Denial",
-        "number": 185,
+        "number": 186,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1886,7 +1886,7 @@
     },
     {
         "card_name": "Flux Launcher Maniac",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1902,7 +1902,7 @@
     },
     {
         "card_name": "Priest of the Old Ways",
-        "number": 191,
+        "number": 192,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1926,7 +1926,7 @@
     },
     {
         "card_name": "Rumbling Drake",
-        "number": 199,
+        "number": 200,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,

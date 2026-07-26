@@ -44,7 +44,7 @@
 			"name": "Gate Physician",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Elf Cleric",
+			"type": "Creature — Satyr Citizen",
 			"collector_number": "13",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/13_Gate Physician.png"
@@ -293,7 +293,7 @@
 		{
 			"name": "Reprocess Essence",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
 			"collector_number": "52",
 			"image_uris": {
@@ -403,7 +403,7 @@
 		{
 			"name": "Aethermage's Contempt",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "31",
 			"image_uris": {
@@ -644,7 +644,7 @@
 			"name": "Fired-Up Jester",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Creature — Human Shaman Clown",
+			"type": "Creature — Human Sorcerer Clown",
 			"collector_number": "164",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/164_Fired-Up Jester.png"
@@ -754,7 +754,7 @@
 			"name": "Circle Headliner",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Shaman Performer",
+			"type": "Creature — Human Sorcerer Performer",
 			"collector_number": "93",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/93_Circle Headliner.png"
@@ -844,7 +844,7 @@
 			"name": "Bewitching Lead",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Human Shaman Performer",
+			"type": "Creature — Human Sorcerer Performer",
 			"collector_number": "90",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/90_Bewitching Lead.png"
@@ -914,7 +914,7 @@
 			"name": "Welcoming Ringleader",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature — Human Sorcerer",
 			"collector_number": "113",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/113_Welcoming Ringleader.png"
@@ -1504,7 +1504,7 @@
 			"name": "Juri, Charismatic Performer",
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
-			"type": "Legendary Creature — Human Shaman Perfomer",
+			"type": "Legendary Creature — Human Sorcerer Perfomer",
 			"collector_number": "180",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/180_Juri, Charismatic Performer.png"
@@ -1734,7 +1734,7 @@
 			"name": "Decay Guildmage",
 			"rarity": "uncommon",
 			"mana_cost": "{B/G}{B/G}",
-			"type": "Creature — Elf Shaman",
+			"type": "Creature — Elf Sorcerer",
 			"collector_number": "221",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/221_Decay Guildmage.png"
@@ -1764,7 +1764,7 @@
 			"name": "Xaren, Rakdos Uncager",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Devil Shaman Performer",
+			"type": "Legendary Creature — Devil Sorcerer Performer",
 			"collector_number": "214",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/214_Xaren, Rakdos Uncager.png"
@@ -1804,7 +1804,7 @@
 			"name": "Chaos Guildmage",
 			"rarity": "uncommon",
 			"mana_cost": "{B/R}{B/R}",
-			"type": "Creature — Human Shaman Performer",
+			"type": "Creature — Human Sorcerer Performer",
 			"collector_number": "219",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/219_Chaos Guildmage.png"
@@ -1843,7 +1843,7 @@
 		{
 			"name": "Transfigure",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}{U}",
+			"mana_cost": "{1}{G}{U}",
 			"type": "Sorcery",
 			"collector_number": "211",
 			"image_uris": {
@@ -2244,7 +2244,7 @@
 			"name": "Erstwhile Awakener",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{G}",
-			"type": "Creature — Elf Zombie Shaman",
+			"type": "Creature — Elf Zombie Sorcerer",
 			"collector_number": "160",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/160_Erstwhile Awakener.png"
@@ -2254,7 +2254,7 @@
 			"name": "Zafen, Scheming Necromancer",
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
-			"type": "Legendary Creature — Human Shaman",
+			"type": "Legendary Creature — Human Sorcerer",
 			"collector_number": "215",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/215_Zafen, Scheming Necromancer.png"
@@ -2324,7 +2324,7 @@
 			"name": "Rakdos Trailblazer",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Shaman Clown",
+			"type": "Creature — Human Sorcerer Clown",
 			"collector_number": "107",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/107_Rakdos Trailblazer.png"
@@ -2354,7 +2354,7 @@
 			"name": "Lamiel, Deathsprout Cultivator",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
-			"type": "Legendary Creature — Human Shaman",
+			"type": "Legendary Creature — Elf Sorcerer",
 			"collector_number": "181",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/181_Lamiel, Deathsprout Cultivator.png"
@@ -2643,7 +2643,7 @@
 		{
 			"name": "Detain Wisdom",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
 			"collector_number": "37",
 			"image_uris": {
@@ -3254,6 +3254,12 @@
 	5 Boros Insignia
 	5 Simic Insignia
 	5 Rakdos Insignia
+	5 Golgari Insignia
+	5 Azorius Guildgate
+	5 Boros Guildgate
+	5 Golgari Guildgate
+	5 Rakdos Guildgate
+	5 Simic Guildgate
 	5 Rakdos Trailblazer
 	5 Infested Maneater
 	5 Accelerated Growth
@@ -3269,10 +3275,3 @@
 	5 Unending Tirade
 	5 Sphinx Lawbinder
 	5 Gateway Plaza
-[commonland(1)]
-	5 Golgari Insignia
-	5 Azorius Guildgate
-	5 Boros Guildgate
-	5 Golgari Guildgate
-	5 Rakdos Guildgate
-	5 Simic Guildgate

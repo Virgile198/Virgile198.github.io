@@ -1,4 +1,58 @@
-﻿VERSION 45 CHANGELOG
+﻿VERSION 46 CHANGELOG
+====================
+
+
+
+Fired-Up Jester
+type: Creature — Human Shaman Clown => Creature — Human Sorcerer Clown
+
+Circle Headliner
+type: Creature — Human Shaman Performer => Creature — Human Sorcerer Performer
+
+Bewitching Lead
+type: Creature — Human Shaman Performer => Creature — Human Sorcerer Performer
+
+Welcoming Ringleader
+type: Creature — Human Shaman => Creature — Human Sorcerer
+
+Insatiable Troll
+rules_text: Trample
+{2}{G}, Discard this card: Put two +1/+1 counter on target creature you control. It gains trample until end of turn.
+Swarm 2—{2}{G} [i]({2}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => Trample
+{1}{G}, Discard this card: Target creature you control gets +2/+2 and gains trample until end of turn.
+Swarm 2—{2}{G} [i]({2}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i]
+
+Recovering Wilds
+rules_text: Searched your library and/or graveyard for up to three basic land cards and/or Gate cards, reveal them, put one onto the battlefield tapped and the rest into your hand. If you searched your library this way, shuffle. => Search your library and/or graveyard for up to three basic land cards and/or Gate cards, reveal them, put one onto the battlefield tapped and the rest into your hand. If you searched your library this way, shuffle.
+
+Juri, Charismatic Performer
+type: Legendary Creature — Human Shaman Perfomer => Legendary Creature — Human Sorcerer Perfomer
+
+Decay Guildmage
+type: Creature — Elf Shaman => Creature — Elf Sorcerer
+
+Xaren, Rakdos Uncager
+type: Legendary Creature — Devil Shaman Performer => Legendary Creature — Devil Sorcerer Performer
+
+Chaos Guildmage
+type: Creature — Human Shaman Performer => Creature — Human Sorcerer Performer
+
+Erstwhile Awakener
+type: Creature — Elf Zombie Shaman => Creature — Elf Zombie Sorcerer
+
+Zafen, Scheming Necromancer
+type: Legendary Creature — Human Shaman => Legendary Creature — Human Sorcerer
+
+Rakdos Trailblazer
+type: Creature — Human Shaman Clown => Creature — Human Sorcerer Clown
+
+Lamiel, Deathsprout Cultivator
+type: Legendary Creature — Human Shaman => Legendary Creature — Elf Sorcerer
+
+Amalgamate
+
+
+VERSION 45 CHANGELOG
 ====================
 
 

@@ -5,7 +5,7 @@
 			<name>RAW</name>
 			<longname>Ravnica&apos;s Awakening</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-25</releasedate>
+			<releasedate>2026-07-26</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1159,7 +1159,7 @@ Performance — Whenever this creature attacks, you may put a +1/+1 counter on i
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Shaman Clown</type>
+				<type>Creature — Human Sorcerer Clown</type>
 				<maintype>Creature</maintype>
 				<manacost>2BR</manacost>
 				<cmc>4</cmc>
@@ -1361,7 +1361,7 @@ Performance — Whenever this creature attacks, you may put a +1/+1 counter on i
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Shaman Performer</type>
+				<type>Creature — Human Sorcerer Performer</type>
 				<maintype>Creature</maintype>
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
@@ -1519,7 +1519,7 @@ Performance — Whenever this creature attacks, you may put a +1/+1 counter on i
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Shaman Performer</type>
+				<type>Creature — Human Sorcerer Performer</type>
 				<maintype>Creature</maintype>
 				<manacost>2RR</manacost>
 				<cmc>4</cmc>
@@ -1645,7 +1645,7 @@ Whenever this creature or another creature you control dies, this creature deals
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Shaman</type>
+				<type>Creature — Human Sorcerer</type>
 				<maintype>Creature</maintype>
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
@@ -2032,7 +2032,7 @@ As long as Monument to Strength has five or more awakening counters on it, it is
 		<card>
 			<name>Insatiable Troll</name>
 			<text>Trample
-{2}{G}, Discard this card: Put two +1/+1 counter on target creature you control. It gains trample until end of turn.
+{1}{G}, Discard this card: Target creature you control gets +2/+2 and gains trample until end of turn.
 Swarm 2—{2}{G} ({2}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://Virgile198.github.io/sets/RAW-files/img/130_Insatiable Troll.png" num="130">RAW</set>
 			<prop>
@@ -2213,7 +2213,7 @@ Whenever this creature enters, deals combat damage to a player, or dies, create 
 		</card>
 		<card>
 			<name>Recovering Wilds</name>
-			<text>Searched your library and/or graveyard for up to three basic land cards and/or Gate cards, reveal them, put one onto the battlefield tapped and the rest into your hand. If you searched your library this way, shuffle.</text>
+			<text>Search your library and/or graveyard for up to three basic land cards and/or Gate cards, reveal them, put one onto the battlefield tapped and the rest into your hand. If you searched your library this way, shuffle.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/135_Recovering Wilds.png" num="135">RAW</set>
 			<prop>
 				<layout>normal</layout>
@@ -2692,7 +2692,7 @@ At the beginning of combat on your turn, return target creature card with mana v
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Human Shaman Perfomer</type>
+				<type>Legendary Creature — Human Sorcerer Perfomer</type>
 				<maintype>Creature</maintype>
 				<manacost>BR</manacost>
 				<cmc>2</cmc>
@@ -3110,7 +3110,7 @@ Swarm 3—{3}{B}{G} ({3}{B}{G}, Exile this card from your graveyard: Create thre
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Elf Shaman</type>
+				<type>Creature — Elf Sorcerer</type>
 				<maintype>Creature</maintype>
 				<manacost>B/GB/G</manacost>
 				<cmc>2</cmc>
@@ -3164,7 +3164,7 @@ Exile each card that was put into an opponent&apos;s graveyard this turn. Draw a
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Devil Shaman Performer</type>
+				<type>Legendary Creature — Devil Sorcerer Performer</type>
 				<maintype>Creature</maintype>
 				<manacost>2BR</manacost>
 				<cmc>4</cmc>
@@ -3237,7 +3237,7 @@ At the beginning of combat on your turn, target creature you control gains menac
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Shaman Performer</type>
+				<type>Creature — Human Sorcerer Performer</type>
 				<maintype>Creature</maintype>
 				<manacost>B/RB/R</manacost>
 				<cmc>2</cmc>
@@ -3987,7 +3987,7 @@ As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</t
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Elf Zombie Shaman</type>
+				<type>Creature — Elf Zombie Sorcerer</type>
 				<maintype>Creature</maintype>
 				<manacost>1BG</manacost>
 				<cmc>3</cmc>
@@ -4006,7 +4006,7 @@ If one or more creature tokens would be created under your control, those tokens
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Human Shaman</type>
+				<type>Legendary Creature — Human Sorcerer</type>
 				<maintype>Creature</maintype>
 				<manacost>3BG</manacost>
 				<cmc>5</cmc>
@@ -4137,7 +4137,7 @@ Performance — Whenever this creature attacks, you may put two +1/+1 counters o
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Human Shaman Clown</type>
+				<type>Creature — Human Sorcerer Clown</type>
 				<maintype>Creature</maintype>
 				<manacost>2R</manacost>
 				<cmc>3</cmc>
@@ -4189,7 +4189,7 @@ Whenever another nontoken creature you control dies or one or more cards leave y
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Human Shaman</type>
+				<type>Legendary Creature — Elf Sorcerer</type>
 				<maintype>Creature</maintype>
 				<manacost>2BG</manacost>
 				<cmc>4</cmc>

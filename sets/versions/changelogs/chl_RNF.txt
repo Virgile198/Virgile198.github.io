@@ -1,4 +1,155 @@
-﻿VERSION 66 CHANGELOG
+﻿VERSION 67 CHANGELOG
+====================
+
+Channel the Elements added.
+Zhur-Taa Embermage added.
+Bushfire Cyclops added.
+Enraged Pangoduan added.
+
+Shamanic Power removed.
+Zhur-Taa Ember Shaman removed.
+Bushfire Shaman removed.
+Furious Pangoduan removed.
+
+Blightblood Abomination
+type: Creature — Snake Mutant => Creature — Snake Hydra
+cost: {3}{G}{G} => {X}{G}
+rules_text: When this creature enters, distribute two +1/+1 counters among one or two target creatures you control.
+Each creature you control with a +1/+1 counter on it has deathtouch.
+Whenever a creature you control deals combat damage to a player, you draw a card. => This creature enters with X +1/+1 counters on it.
+At the beginning of combat on your turn, you may move any number of +1/+1 counters from this creature to any number of other target creatures.
+Each attacking creature you control with a +1/+1 counter on it has deathtouch and “Whenever this creature deals combat damage to a player, draw a card.”
+pt: 2/5 => 0/0
+
+Cruel Robber
+rules_text: When this creature enters, target player reveals X cards from their hand, where X is the total amount of life players lost this turn. You choose one of those cards. That player discards that card. => When this creature enters, target player reveals X cards from their hand, where X is the amount of life players lost this turn. You choose one of those cards. That player discards that card.
+
+Profane Ceremony
+cost: {3}{B} => {2}{B}
+rules_text: Choose one or both —
+• Exile any number of target players' graveyards. You gain 1 life for each creature card exiled this way.
+• Return up to two target creature cards from your graveyard to your hand. => Choose one or both —
+• Exile target player's graveyard.
+• Return up to two target creature cards from your graveyard to your hand.
+
+Ral, Thundering Genius
+rules_text: At the beginning of your first main phase, choose one —
+• When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. You may only cast one spell this turn.
+• Draw a card, then discard a card. Add {U}{R}. Spend this mana only to cast instant or sorcery spells. => At the beginning of your first main phase, choose one —
+• When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy. You may only cast one spell this turn.
+• Draw a card, then discard a card. Add {U}{R}. This mana can't be spent to cast permanent spells.
+
+Essencesnatch
+rules_text: Counter target spell. If that spell is countered this way, choose one —
+• Create a 1/1 blue Faerie creature token with flying and prowess.
+• Put two +1/+1 counters on target creature you control.
+• Draw a card. => Counter target spell. If that spell is countered this way, choose one —
+• Create a 1/1 blue Faerie creature token with flying.
+• Put two +1/+1 counters on target creature you control.
+• Draw a card.
+
+Ceremony of Fury
+
+Mass Scrambler
+type: Creature — Elemental => Creature — Weird
+
+Flux Launcher Maniac
+type: Creature — Goblin Wizard => Creature — Human Wizard
+rules_text: Trample
+Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature. If that spell was cast from your graveyard, put two +1/+1 counters on this creature instead. => Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+Whenever you cast an instant or sorcery spell, choose one—
+• This creature gets +0/+2 and gains vigilance until end of turn.
+• This creature gets +2/+0 and gains trample until end of turn.
+pt: 2/4 => 2/2
+
+Bionic Strength
+rules_text: Put [[b]one[/b]] +1/+1 counter(s) on target creature you control. It gains trample and “Whenever this creature deals combat damage to a player, draw [[b]one[/b]] card(s)” until end of turn.
+Iterate {2}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Put [[b]one[/b]] +1/+1 counter(s) on target creature you control. It gains trample and “Whenever this creature deals combat damage to a player, draw [[b]one[/b]] card(s)” until end of turn.
+Iterate {3}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Orzhov Insignia
+rules_text: When this artifact enters, scry 2.
+{1}, {T}: Add {W} or {B}.
+{W}{B}, {T}, Sacrifice this artifact: Exile up to three target cards from a single graveyard. You gain 3 life. => When this artifact enters, scry 2.
+{1}, {T}: Add {W} or {B}.
+{1}{W}{B}, {T}, Sacrifice this artifact: Create two 1/1 black Soldier creature tokens with lifelink. Activate only as a sorcery.
+
+Thraka, Ire of the Wilds
+rules_text: This spell can't be countered.
+Trample, ward {3}
+Whenever Thraka attacks, put X +1/+1 counters on each creature you control, where X is the total number of creature and land cards in your graveyard. => This spell can't be countered.
+Trample, ward {3}
+Whenever Thraka attacks, put X +1/+1 counters on each creature you control, where X is the number of creature and land cards in your graveyard.
+
+Lightning Rider
+rules_text: This spell costs {1} less to cast for each mana you spent to cast instant or sorcery spells this turn.
+Flying, haste
+When this creature enters, it deals 2 damage to any target. => This spell costs {1} less to cast for each mana you spent to cast instant or sorcery spells this turn.
+Flying, prowess, haste
+When this creature enters, it deals 2 damage to any target.
+pt: 4/4 => 3/3
+
+Reload
+cost: {UR}{UR} => {1}{UR}{UR}
+
+Rakasht, Spawn of Ulasht
+rules_text: Rakasht enters with a number of +1/+1 counters on it equal to total number of land and creature cards in all graveyards.
+{X}, Remove X +1/+1 counters from among creatures you control: Choose one. Activate only once each turn.
+• This creature deals X damage to any target.
+• Create a X/X red and green Hellion creature token with haste. => Rakasht enters with a number of +1/+1 counters on it equal to number of land and creature cards in all graveyards.
+{X}, Remove X +1/+1 counters from among creatures you control: Choose one. Activate only once each turn.
+• This creature deals X damage to any target.
+• Create a X/X red and green Hellion creature token with haste.
+
+Syphon Psyche
+rules_text: Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile those cards.
+Cover up 2—{3}{B} [i]({3}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile those cards.
+Cover up 2—{2}{B} [i]({2}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Facsimile Project
+
+Heart of Cinders
+
+Fiery Form
+
+Gorz'Ghum, War Incense
+type: Legendary Creature — Ogre Shaman => Legendary Creature — Ogre Sorcerer
+rules_text: You may play cards from your graveyard that you've discarded this turn.
+{8}{R}{G}, {T}: Create a 4/4 red and green Beast creature token with trample. This ability costs {1} less to activate for each land and creature cards in your graveyard. => Once during each of your turns, you may play a card from your graveyard you discarded this turn.
+Whenever Gorz'Ghum attacks, you may remove four +1/+1 counters from among creatures you control. When you do, create a tapped and attacking 4/4 red and green Beast creature token with trample.
+
+Gravel-Hide Channeler
+type: Creature — Goblin Shaman => Creature — Goblin Sorcerer
+
+Wrath Guildmage
+type: Creature — Human Shaman => Creature — Human Sorcerer
+
+Repurpose the Scraps
+
+Now
+
+Lost
+
+Blessing of Wrath
+
+1/1 Faerie
+rules_text: Flying, prowess => Flying
+
+Ayla, Harmony's Embrace
+special_text: Whenever you attack, flourish 2. [i](Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)[/i]
+[+1]: Create a 1/1 white Soldier creature token with lifelink.
+[-3]: Exile target artifact, creature or enchantment. Its controller gains life equal to its mana value.
+[-8]: You get an emblem with “At the beginning of each upkeep, create three 1/1 green Saproling creature tokens, then put a +1/+1 counter on each creature you control.” => Whenever you attack, flourish 2. [i](Put a +1/+1 counter on each of up to two creatures you control. You gain 1 life for each of those creatures.)[/i]
+[+1]: Create a 1/1 white Soldier creature token with lifelink.
+[-3]: Exile target artifact, creature or enchantment. Its controller gains life equal to its mana value.
+[-8]: You get an emblem with “At the beginning of your end step, create eight 1/1 green Saproling creature tokens.”
+
+Dryads' Blessing
+
+1/1 Orzhov Soldier
+
+
+VERSION 66 CHANGELOG
 ====================
 
 Ministrant of Duty added.
