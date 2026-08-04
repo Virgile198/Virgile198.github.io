@@ -328,8 +328,8 @@
         "position": ""
     },
     {
-        "card_name": "Desenites' Vision",
-        "number": 36,
+        "card_name": "Arrester's Key",
+        "number": 33,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -368,8 +368,8 @@
         "position": ""
     },
     {
-        "card_name": "Elusive Biomage",
-        "number": 38,
+        "card_name": "Desenites' Vision",
+        "number": 36,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -408,8 +408,8 @@
         "position": ""
     },
     {
-        "card_name": "Enfeebling Shackles",
-        "number": 39,
+        "card_name": "Elusive Biomage",
+        "number": 38,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -649,7 +649,7 @@
     },
     {
         "card_name": "Benthic Protector",
-        "number": 33,
+        "number": 34,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -689,7 +689,7 @@
     },
     {
         "card_name": "Bereave",
-        "number": 34,
+        "number": 35,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -728,8 +728,8 @@
         "position": ""
     },
     {
-        "card_name": "Chains of Submission",
-        "number": 35,
+        "card_name": "Detain Wisdom",
+        "number": 37,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -768,8 +768,8 @@
         "position": ""
     },
     {
-        "card_name": "Detain Wisdom",
-        "number": 37,
+        "card_name": "Enfeebling Shackles",
+        "number": 39,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1413,7 +1413,7 @@
         "position": ""
     },
     {
-        "card_name": "Sarvis, High Justicar",
+        "card_name": "Sarvis, High Justiciar",
         "number": 201,
         "shape": "normal",
         "set": "RAW",

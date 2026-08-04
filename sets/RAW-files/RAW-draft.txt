@@ -215,9 +215,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Jellyfish Mutant",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/33_Benthic Protector.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/34_Benthic Protector.png"
 			}
 		},
 		{
@@ -281,13 +281,13 @@
 			}
 		},
 		{
-			"name": "Chains of Submission",
+			"name": "Enfeebling Shackles",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "35",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/35_Chains of Submission.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/39_Enfeebling Shackles.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/34_Bereave.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/35_Bereave.png"
 			}
 		},
 		{
@@ -1233,8 +1233,8 @@
 		{
 			"name": "Recovering Wilds",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
-			"type": "Sorcery",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
 			"collector_number": "135",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/135_Recovering Wilds.png"
@@ -2643,7 +2643,7 @@
 		{
 			"name": "Detain Wisdom",
 			"rarity": "common",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
 			"collector_number": "37",
 			"image_uris": {
@@ -2651,13 +2651,13 @@
 			}
 		},
 		{
-			"name": "Enfeebling Shackles",
+			"name": "Arrester's Key",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "39",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/39_Enfeebling Shackles.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/33_Arrester's Key.png"
 			}
 		},
 		{
@@ -2751,13 +2751,13 @@
 			}
 		},
 		{
-			"name": "Sarvis, High Justicar",
+			"name": "Sarvis, High Justiciar",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/201_Sarvis, High Justicar.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/201_Sarvis, High Justiciar.png"
 			}
 		},
 		{
@@ -2833,7 +2833,7 @@
 		{
 			"name": "Unending Tirade",
 			"rarity": "common",
-			"mana_cost": "{X}{1}{W}{U}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Instant",
 			"collector_number": "212",
 			"image_uris": {
@@ -3082,7 +3082,7 @@
 	5 Pursuit
 	5 Azorius Purifier
 	5 Binding Decree
-	5 Sarvis, High Justicar
+	5 Sarvis, High Justiciar
 	5 Forecaster Arbitrator
 	5 Judgment of Balance
 	5 Lavinia, the Just
@@ -3163,7 +3163,7 @@
 	5 Coerced Participation
 	5 Righteous Uprising
 	5 Zealous Arrester
-	5 Enfeebling Shackles
+	5 Arrester's Key
 	5 Denied
 	5 Order Guildmage
 	5 Decipher the Chronology
@@ -3191,7 +3191,7 @@
 	5 Gate Infiltrator
 	5 Spliced Guardian
 	5 Lyev Skywatch
-	5 Chains of Submission
+	5 Enfeebling Shackles
 	5 Reprocess Essence
 	5 Bereave
 	5 Void Wave
@@ -3255,6 +3255,11 @@
 	5 Simic Insignia
 	5 Rakdos Insignia
 	5 Golgari Insignia
+	5 Azorius Guildgate
+	5 Boros Guildgate
+	5 Golgari Guildgate
+	5 Rakdos Guildgate
+	5 Simic Guildgate
 	5 Rakdos Trailblazer
 	5 Infested Maneater
 	5 Accelerated Growth
@@ -3270,14 +3275,3 @@
 	5 Unending Tirade
 	5 Sphinx Lawbinder
 	5 Gateway Plaza
-[commonland(1)]
-	12 Azorius Guildgate
-	12 Boros Guildgate
-	12 Golgari Guildgate
-	12 Rakdos Guildgate
-	12 Simic Guildgate
-	1 Hallowed Fountain
-	1 Blood Crypt
-	1 Breeding Pool
-	1 Overgrown Tomb
-	1 Sacred Foundry
