@@ -2695,7 +2695,7 @@
             "number": 195,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
-            "rules_text": "This spell can't be countered.\nWard\u2014Pay 3 life.\nAt the beginning of combat on your turn, return target creature card with mana value 2 or less from your graveyard to the battlefield. Put a +1/+1 counter on it. It gains haste until end of turn and attacks each combat this turn if able.",
+            "rules_text": "This spell can't be countered.\nAt the beginning of combat on your turn, return target creature card with mana value 2 or less from your graveyard to the battlefield. Put a +1/+1 counter on it. It gains haste until end of turn and attacks each combat this turn if able.",
             "flavor_text": "[i][/i]",
             "pt": "5/3",
             "special_text": "",
@@ -3477,7 +3477,7 @@
             "cost": "{2}{R}{W}",
             "rules_text": "Flash\nMuster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]\nWhen this creature enters, attacking creatures you control get +1/+1 and gain trample until end of turn.",
             "flavor_text": "[i][/i]",
-            "pt": "2/3",
+            "pt": "2/4",
             "special_text": "",
             "shape": "normal",
             "set": "RAW",
@@ -5506,5 +5506,5 @@
             "notes": ""
         }
     ],
-    "version": 47
+    "version": 48
 }
