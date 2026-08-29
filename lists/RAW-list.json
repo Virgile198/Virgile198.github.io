@@ -129,7 +129,7 @@
     },
     {
         "card_name": "Precognition Serum",
-        "number": 49,
+        "number": 50,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -488,8 +488,8 @@
         "position": ""
     },
     {
-        "card_name": "Reconsider",
-        "number": 51,
+        "card_name": "Permute Memories",
+        "number": 49,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -896,7 +896,7 @@
         "position": ""
     },
     {
-        "card_name": "Jubilent Sewer Cook",
+        "card_name": "Jubilant Sewer Cook",
         "number": 75,
         "shape": "normal",
         "set": "RAW",
@@ -1009,7 +1009,7 @@
     },
     {
         "card_name": "Raskal Perfumist",
-        "number": 50,
+        "number": 51,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1174,7 +1174,7 @@
     "a->gold",
     {
         "card_name": "Judgment of Balance",
-        "number": 178,
+        "number": 179,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1214,7 +1214,7 @@
     },
     {
         "card_name": "Lavinia, the Just",
-        "number": 182,
+        "number": 183,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1222,7 +1222,7 @@
     },
     {
         "card_name": "Judith, the Bloody Deluge",
-        "number": 179,
+        "number": 180,
         "shape": "planeswalker",
         "set": "RAW",
         "rotated": false,
@@ -1318,7 +1318,7 @@
     },
     {
         "card_name": "Incandescent Blessing",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1326,7 +1326,7 @@
     },
     {
         "card_name": "Gulistan, Master Biomancer",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1342,7 +1342,7 @@
     },
     {
         "card_name": "Gleeful Skinner",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1381,8 +1381,8 @@
         "position": ""
     },
     {
-        "card_name": "Juri, Charismatic Performer",
-        "number": 180,
+        "card_name": "Juri, Macabre Showmaster",
+        "number": 181,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1390,7 +1390,7 @@
     },
     {
         "card_name": "Lamiel, Deathsprout Cultivator",
-        "number": 181,
+        "number": 182,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1574,7 +1574,7 @@
     },
     {
         "card_name": "Incarcerate",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1614,7 +1614,7 @@
     },
     {
         "card_name": "Inquisitive Guardmage",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1670,7 +1670,7 @@
     },
     {
         "card_name": "Gutbloom Host",
-        "number": 172,
+        "number": 173,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1710,7 +1710,7 @@
     },
     {
         "card_name": "Lothran, the Glouton",
-        "number": 183,
+        "number": 184,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1822,15 +1822,15 @@
     },
     {
         "card_name": "Havoc Bringer",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Inspect the Remains",
-        "number": 177,
+        "card_name": "Giant Mosshopper",
+        "number": 170,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1862,15 +1862,15 @@
     },
     {
         "card_name": "Macabre Spectacle",
-        "number": 184,
+        "number": 185,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Mangled Rootgiant",
-        "number": 185,
+        "card_name": "Inspect the Remains",
+        "number": 178,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -1885,7 +1885,7 @@
         "position": ""
     },
     {
-        "card_name": "Plaxplated Biotitan",
+        "card_name": "Plaxplated Lobstocaris",
         "number": 192,
         "shape": "normal",
         "set": "RAW",
@@ -2034,7 +2034,7 @@
         "position": ""
     },
     {
-        "card_name": "Esoteric Signet",
+        "card_name": "Gatekeeper Golem",
         "number": 252,
         "shape": "normal",
         "set": "RAW",
@@ -2042,8 +2042,8 @@
         "position": ""
     },
     {
-        "card_name": "Gatekeeper Golem",
-        "number": 253,
+        "card_name": "Lost Keyrune",
+        "number": 254,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,
@@ -2067,7 +2067,7 @@
     },
     {
         "card_name": "Golgari Insignia",
-        "number": 254,
+        "number": 253,
         "shape": "normal",
         "set": "RAW",
         "rotated": false,

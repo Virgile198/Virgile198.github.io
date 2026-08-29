@@ -1,4 +1,272 @@
-﻿VERSION 67 CHANGELOG
+﻿VERSION 68 CHANGELOG
+====================
+
+3/3 Selesnya Centaur added.
+Boulderquake added.
+3/3 Gruul Centaur added.
+Essence Shift added.
+
+Lightningquake removed.
+3/3 Centaur removed.
+
+Wildheart Raiders
+
+Fierce Maaka Kitten
+rules_text: Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
+Whenever you put one or more +1/+1 counters on a creature you control, that creature gains menace and haste until end of turn. => Whenever you discard one or more cards, put that many +1/+1 counters on this creature.
+Whenever you put one or more +1/+1 counters on a creature you control, that creature gains your choice of menace and haste until end of turn.
+
+Augmented Monstrosity
+rules_text: Trample
+Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature.
+As long as this creature has three or more +1/+1 counters on it, it has double strike. => Trample
+When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card.
+Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature.
+pt: 3/4 => 3/3
+
+Ceremony of Fury
+rules_text: Target creature you control rages. It fights up to one target creature you don't control. [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i] => Put a +1/+1 counter on target creature you control. It fights up to one target creature you don't control.
+
+Flux Launcher Maniac
+rules_text: Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+Whenever you cast an instant or sorcery spell, choose one—
+• This creature gets +0/+2 and gains vigilance until end of turn.
+• This creature gets +2/+0 and gains trample until end of turn. => Haste [i](This creature can attack and {T} as soon as it comes under your control.)[/i]
+Whenever you cast an instant or sorcery spell, this creature gets your choice of +2/+0 or +0/+2 and gains your choice of vigilance or trample until end of turn.
+pt: 2/2 => 3/2
+
+Ecstatic Fluxburster
+rules_text: Flying, haste
+As you cast this spell, choose one —
+• This creature enters with two +1/+1 counters on it. 
+• When this creature enters, you may exile an instant or sorcery card from your graveyard. If you do, it deals damage equal to that card's mana value to target creature or planeswalker. => Flash
+Flying, haste
+As you cast this spell, choose one —
+• This creature enters with two +1/+1 counters on it. 
+• When this creature enters, it deals 3 damage divided as you choose between one, two or three targets.
+
+Bionic Strength
+rules_text: Put [[b]one[/b]] +1/+1 counter(s) on target creature you control. It gains trample and “Whenever this creature deals combat damage to a player, draw [[b]one[/b]] card(s)” until end of turn.
+Iterate {3}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Put [[b]one[/b]] +1/+1 counter(s) on target creature you control. It gains trample and “Whenever this creature deals combat damage to a player, draw [[b]one[/b]] card(s)” until end of turn.
+Iterate {2}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Fluctuating Reality
+rules_text: Choose [[b]one[/b]] —
+• Return up to one target nonland permanent to its owner's hand.
+• Mill three cards. You may put an instant or sorcery card from among the milled cards into your hand.
+Iterate {3}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Choose [[b]one[/b]] —
+• Return up to one target nonland permanent to its owner's hand.
+• Surveil 2, then draw a card.
+Iterate {3}{U}{U} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Aether Condensator
+rules_text: Exile the top [[b]one[/b]] card(s) of your library. You may play cards exiled this way this turn.
+Iterate {R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Mill the top [[b]one[/b]] card(s) of your library. You may play cards milled this way this turn.
+Iterate {1}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Cognition Theft
+rules_text: Target player mills three cards. You may play a land card and/or cast a nonland card milled this way without paying its mana cost.
+Cover up 3—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Target player mills three cards. You may play a land card and/or cast a nonland card milled this way without paying its mana cost.
+Cover up 5—{2}{U}{B} [i]({2}{U}{B}, Exile this card from your graveyard: Look at the top five cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Shambling Grotesquerie
+rules_text: Lifelink
+Cover up 2—{U}{U}{B} [i]({U}{U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, target player mills three cards. => Lifelink
+When this creature enters, up to one target player mills three cards.
+Cover up 2—{U}{B} [i]({U}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Orzhov Insignia
+
+Gruul Insignia
+rules_text: When this artifact enters, scry 2.
+{1}, {T}: Add {R} or {G}.
+{R}{G}, {T}, Sacrifice this artifact: Put a +1/+1 counter on target creature you control. It gains haste until end of turn. Activate only as a sorcery. => When this artifact enters, scry 2.
+{1}, {T}: Add {R} or {G}.
+{2}{R}{G}, {T}, Sacrifice this artifact: Create a 3/3 green Centaur creature token. It gains haste and trample until end of turn.
+
+Izzet Insignia
+
+Selesnya Insignia
+rules_text: When this artifact enters, scry 2.
+{1}, {T}: Add {G} or {W}.
+{3}{G}{W}, {T}, Sacrifice this artifact: Put a +1/+1 counter on each creature you control. They gain trample until end of turn. Activate only as a sorcery. => When this artifact enters, scry 2.
+{1}, {T}: Add {G} or {W}.
+{2}{G}{W}, {T}, Sacrifice this artifact: Put a +1/+1 counter on each creature you control. They gain trample until end of turn. Activate only as a sorcery.
+
+Dimir Insignia
+
+Steam Vents
+
+Backstreet Informant
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Cover up 2—{2}{UB}{UB} [i]({2}{UB}{UB}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Cover up 2—{1}{UB}{UB} [i]({1}{UB}{UB}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Deep Sewage Lurker
+rules_text: When this creature enters, tap up to one target creature an opponent controls and put a stun counter on it. That creature's controller mills four cards. => When this creature enters, tap up to one target creature an opponent controls. That creature can't become untapped for as long as you control this creature.
+
+Shady Courier
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Cover up 3—{3}{U}{U} [i]({3}{U}{U}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+Cover up 3—{2}{U}{U} [i]({2}{U}{U}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Rumbling Drake
+rules_text: Flying, vigilance
+Whenever you cast an instant or sorcery spell, this creature deals 1 damage to target opponent. => Flying, vigilance
+
+Catacombs Cleaner
+rules_text: Flash
+Cover up 2—{3}{U}{U} [i]({3}{U}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, return up to one target creature to its owner's hand. => Flash
+When this creature dies, create a 1/1 blue and black Horror creature token with flying.
+Cover up 2—{2}{U} [i]({2}{U}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Unearthed Mysteries
+rules_text: Return target creature card from a graveyard to the battlefield under your control with a finality counter on it.
+Cover up 3—{3}{B} [i]({3}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Return target creature card from a graveyard to the battlefield under your control with a finality counter on it.
+Cover up 4—{2}{B}{B} [i]({2}{B}{B}, Exile this card from your graveyard: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Ram
+rules_text: Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control. => Target creature you control gets +1/+1 until end of turn. It fights up to one target creature you don't control.
+
+Mind Warp
+rules_text: Gain control of target creature an opponent controls. That creature's owner mills cards equal to its mana value.
+Cover up 4—{4}{U}{U} [i]({4}{U}{U}, Exile this card from your graveyard: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Gain control of target creature or planeswalker.
+Cover up 4—{2}{U}{U} [i]({2}{U}{U}, Exile this card from your graveyard: Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Syphon Psyche
+rules_text: Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile those cards.
+Cover up 2—{2}{B} [i]({2}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Target opponent reveals their hand. You choose a nonland card from that player's graveyard and/or hand. Exile those cards.
+Cover up 3—{2}{B}{B} [i]({2}{B}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Examination
+
+Incisive Reversal
+rules_text: Counter target spell. Its controller loses 2 life.
+Cover up 3—{2}{U}{B} [i]({2}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i] => Counter target spell. Its controller loses 2 life.
+Cover up 3—{1}{U}{B} [i]({1}{U}{B}, Exile this card from your graveyard: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Disunite
+rules_text: Counter target instant or sorcery spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. => Choose one —
+• Counter target instant or sorcery spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+• Counter target activated or triggered ability.
+
+Subvert
+rules_text: Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature can't become untapped and can't have counters put on it. If it is monocolored, it also loses all abilities and has base power and toughness 0/1. => You may cast this spell as though it had flash, if it targets a monocolored creature.
+Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature can't become untapped and can't have counters put on it.
+
+Hyper Space Time Bubble
+rules_text: Flip [[b]one[/b]] coin(s). For each flip you win, take an extra turn after this one. For each flip you lose, add {U}{U}{R}{R} and exile the top two cards of your library. Until end of your next turn, you may play those cards.
+Iterate {7}{U}{UR}{UR}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Flip [[b]one[/b]] coin(s). For each flip you win, take an extra turn after this one. For each flip you lose, add {U}{U}{R}{R} and exile the top two cards of your library. You may play them this turn.
+Iterate {7}{U}{UR}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Factory Sentinel
+rules_text: Flying
+When this creature enters, draw two cards, then discard a card.
+Whenever this creature deals combat damage to a player, add that much mana in any combination of {U} and/or {R}. Until end of turn, you don't lose this mana as steps and phases end. This mana can't be spent to cast permanent spells. => Flying
+When this creature enters, draw two cards, then discard two cards.
+Whenever this creature deals combat damage to a player, add that much mana in any combination of {U} and/or {R}. Until end of turn, you don't lose this mana as steps and phases end. This mana can't be spent to cast permanent spells.
+
+Heart of Cinders
+rules_text: Ward—Pay life equal to this creature's power.
+Whenever this creature enters or attacks, it rages, then return up to one land card from your graveyard to the battlefield tapped. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i] => Whenever this creature enters or attacks, it rages, then return up to one land card from your graveyard to the battlefield tapped. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Gravel-Hide Channeler
+rules_text: {T}: Add one mana of any color. If that mana is spent to cast a creature spell, it can't be countered and it gains “When this creature enters, it rages.” [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i] => {T}: Add one mana of any color. If that mana is spent to cast a creature spell, it gains “When this creature enters, it rages.” [i](Put a +1/+1 counter on that creature, then you may discard a card. If you do, draw a card.)[/i]
+pt: 2/3 => 2/2
+
+Repurpose the Scraps
+rules_text: As an additional cost to cast this spell, discard [[b]one[/b]] card(s).
+Draw [[b]two[/b]] cards and create [[b]one[/b]] Treasure token(s).
+Iterate {6}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => As an additional cost to cast this spell, discard [[b]one[/b]] card(s).
+Draw [[b]two[/b]] cards and create [[b]one[/b]] Treasure token(s).
+Iterate {5}{R}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Wave of Agitation
+rules_text: This spell deals 1 damage to each opponent and each creature and planeswalker they control. Creatures damaged this way can't block this turn and must attack this turn if able. => Choose one —
+• Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+• This spell deals 1 damage to each opponent and each creature and planeswalker they control. Creatures damaged this way can't block this turn.
+
+Eidolon's Fury
+
+Eidolon's Thirst
+cost: {2}{B} => {1}{B}
+rules_text: When this enchantment enters, each opponent loses 2 life and discards a card. You gain life equal to the life lost this way.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand. => When this enchantment enters, each opponent loses 2 life and discards a card.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand.
+
+Dimir Cutthroat
+rules_text: Deathtouch
+Whenever this creature deals combat damage to a player, draw a card, then discard a card unless a card left your graveyard or was put into your graveyard this turn. => Deathtouch
+Whenever this creature deals combat damage to a player, draw a card. Then discard a card unless a card left your graveyard or was put into your graveyard this turn.
+
+Violent Reshaping
+rules_text: Up to one target creature gets -8/-4 until end of turn. Up to one target player mills three cards. => Target creature gets -6/-3 until end of turn. Surveil 2.
+
+Blessing of Wrath
+rules_text: Put a +1/+1 counter on target creature you control. It gains hexproof and indestructible until end of turn. Untap it. => Put a +1/+1 counter on target creature you control. It gains reach, hexproof and indestructible until end of turn. Untap it.
+
+Cloud Drinker
+rules_text: Flying, vigilance, ward {2}
+Whenever this creature attacks, target player mills X cards, where X is the number of cards in your graveyard. => Flying, ward {2}
+Whenever this creature attacks, surveil 3. Then you may exile ten cards from your graveyard. When you do, search your library for a card with the same name as a card exiled this way, reveal it, put it into your hand, then shuffle.
+pt: 4/5 => 4/4
+
+Eidolon's Wisdom
+rules_text: When this enchantment enters, surveil 2, then draw two cards, then discard a card.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand. => When this enchantment enters, surveil 2, then draw a card.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand.
+
+Eidolon's Call
+
+Writhing Amalgamate
+rules_text: Cover up 2—{3}{B}{B} [i]({3}{B}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+When you cover up this card, create a 2/2 black Zombie creature token. => When this creature dies, create a 2/2 black Zombie creature token.
+Cover up 2—{2}{B} [i]({2}{B}, Exile this card from your graveyard: Look at the top two cards of your library. Put one of them into your hand and the rest into your graveyard. Cover up only as a sorcery.)[/i]
+
+Eidolon's Vitality
+rules_text: When this enchantment enters, search your library for a creature card with mana value 2 or less, put it onto the battlefield tapped, then shuffle.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand. => When this enchantment enters, search your library for a creature card with mana value 2 or less or a basic land card, put it onto the battlefield tapped, then shuffle.
+Whenever you cast a multicolored spell, return this enchantment to its owner's hand.
+
+Enraged Pangoduan
+rules_text: Vigilance, haste
+Whenever this creature is dealt damage, it rages. [i](You may discard a card. If you do, draw a card. Otherwise, put a +1/+1 counter on that creature. It must survive the damage to get the counter.)[/i] => Vigilance, haste
+Whenever this creature is dealt damage, it rages. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Gheshval, Night's Mantle
+special_text: Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand. Do this only once each turn.
+[+1]: Each player mills three cards.
+[-2]: Target creature gets +X/-X until end of turn, where X is the number of cards in your graveyard.
+[-7]: Exile each graveyard. Until end of turn, you may cast the cards exiled this way without paying their mana cost. => Whenever one or more cards are put into your graveyard from your library, you may put one of them into your hand. Do this only once each turn.
+[+1]: Each player mills three cards.
+[-2]: Target creature gets up to +X/-X until end of turn, where X is the number of cards in your graveyard.
+[-7]: Exile each graveyard. Cast up to three cards exiled this way without paying their mana cost.
+loyalty: 4 => 3
+
+Replicating Flare
+rules_text: Create a token that's a copy of target artifact or creature with mana value [[b]3[/b]] or less. It gains haste until end of turn. Sacrifice it at the beginning of the next end step unless this spell was cast from your graveyard.
+Iterate {4}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i] => Create a token that's a copy of target artifact or creature, except it has haste and “At the beginning of the end step, sacrifice this token unless it has mana value [b][3][/b] or less.”
+Iterate {3}{U}{R} [i](You may cast this card from your graveyard for its iterate cost. If you do, double the numbers in square brackets in its text. Then exile it.)[/i]
+
+Mindflayer of the Dim
+rules_text: When this creature enters, choose one —
+• Gain control of target permanent. It gains hexproof and “At the beginning of your end step, this permanent's owner loses 1 life.”
+• Target player reveals their hand. You choose a nonland card from that player's graveyard or hand and exile it. Cast a copy of it without paying its mana cost. => Menace
+When this creature enters, if you cast it, each player reveals their hand and mills half their library, rounded up. For each player, exile up to one nonland card from that player's graveyard or hand. When you do, cast a copy of that spell without paying its mana cost.
+
+1/1 Orzhov Soldier
+
+Gateway Curse
+rules_text: Target player discards to cards. If you control two or more gates, they discard three cards instead. => Target player discards to cards. If you control three or more gates, they discard three cards instead.
+
+
+VERSION 67 CHANGELOG
 ====================
 
 Channel the Elements added.

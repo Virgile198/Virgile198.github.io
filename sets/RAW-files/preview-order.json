@@ -10,5 +10,6 @@
 	{ "cards":  [ "L" ] },
 	{ "cards":  [ "basic" ] },
 	{ "title": "token", "cards":  [ "token" ] },
+	{ "title": "promo", "cards": [ "promo" ] },
 	{ "title": "masterpiece", "cards":  [ "mp" ] }
 ]

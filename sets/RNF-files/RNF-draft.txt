@@ -45,9 +45,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Minotaur Wizard",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/100_Inquisitive Minotaur.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/101_Inquisitive Minotaur.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Beast",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/96_Fierce Maaka Kitten.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/97_Fierce Maaka Kitten.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Boar",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/99_Gate Breaker.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/100_Gate Breaker.png"
 			}
 		},
 		{
@@ -1001,23 +1001,13 @@
 			}
 		},
 		{
-			"name": "Lightningquake",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "103",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/103_Lightningquake.png"
-			}
-		},
-		{
 			"name": "Fires of Reclamation",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/97_Fires of Reclamation.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/98_Fires of Reclamation.png"
 			}
 		},
 		{
@@ -1135,9 +1125,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Saproling",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/12t_1/1 Saproling.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/13t_1/1 Saproling.png"
 			}
 		},
 		{
@@ -1145,9 +1135,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/21t_1/1 Spirit.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/22t_1/1 Spirit.png"
 			}
 		},
 		{
@@ -1155,9 +1145,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Hellion",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/19t_Hellion Star.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/20t_Hellion Star.png"
 			}
 		},
 		{
@@ -1165,9 +1155,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Construct",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/22t_1/1 Construct.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/23t_1/1 Construct.png"
 			}
 		},
 		{
@@ -1195,9 +1185,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Citizen",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/14t_2/2 Citizen.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/15t_2/2 Citizen.png"
 			}
 		},
 		{
@@ -1205,9 +1195,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/17t_Elemental Star.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/18t_Elemental Star.png"
 			}
 		},
 		{
@@ -1225,9 +1215,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elf Knight",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/18t_2/2 Elf Knight.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/19t_2/2 Elf Knight.png"
 			}
 		},
 		{
@@ -1235,9 +1225,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/23t_Treasure.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/24t_Treasure.png"
 			}
 		},
 		{
@@ -1275,9 +1265,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/92_Call of the Hunt.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/93_Call of the Hunt.png"
 			}
 		},
 		{
@@ -1315,9 +1305,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Vedalken Wizard",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/102_Izzet Apprentice.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/103_Izzet Apprentice.png"
 			}
 		},
 		{
@@ -1995,9 +1985,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/98_Flaming Claws.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/99_Flaming Claws.png"
 			}
 		},
 		{
@@ -2075,9 +2065,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Cyclops Wizard",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/101_Ironclad Cyclops.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/102_Ironclad Cyclops.png"
 			}
 		},
 		{
@@ -2165,9 +2155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/94_Eidolon's Fury.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/95_Eidolon's Fury.png"
 			}
 		},
 		{
@@ -2175,9 +2165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Goblin Berserker",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/93_Crazed Rioter.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/94_Crazed Rioter.png"
 			}
 		},
 		{
@@ -2193,7 +2183,7 @@
 		{
 			"name": "Eidolon's Thirst",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
 			"collector_number": "69",
 			"image_uris": {
@@ -2265,9 +2255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Artifact Creature — Goblin Construct",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/95_Escaped Prototype.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/96_Escaped Prototype.png"
 			}
 		},
 		{
@@ -2425,9 +2415,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Rhino",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/11t_4/4 Rhino.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/12t_4/4 Rhino.png"
 			}
 		},
 		{
@@ -2435,9 +2425,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wurm",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/13t_5/5 Wurm.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/14t_5/5 Wurm.png"
 			}
 		},
 		{
@@ -2445,9 +2435,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Bird",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/16t_2/3 Durn' Mir.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/17t_2/3 Durn' Mir.png"
 			}
 		},
 		{
@@ -2641,13 +2631,13 @@
 			}
 		},
 		{
-			"name": "3/3 Centaur",
+			"name": "3/3 Selesnya Centaur",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Centaur",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/10t_3/3 Centaur.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/11t_3/3 Selesnya Centaur.png"
 			}
 		},
 		{
@@ -2935,9 +2925,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Beast",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/15t_4/4 Beast.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/16t_4/4 Beast.png"
 			}
 		},
 		{
@@ -2955,9 +2945,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Horror",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RNF-files/img/20t_1/1 Horror.png"
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/21t_1/1 Horror.png"
 			}
 		},
 		{
@@ -2978,6 +2968,36 @@
 			"collector_number": "137",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RNF-files/img/137_Rubblebelt Explorer.png"
+			}
+		},
+		{
+			"name": "Boulderquake",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/92_Boulderquake.png"
+			}
+		},
+		{
+			"name": "3/3 Gruul Centaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Centaur",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/10t_3/3 Gruul Centaur.png"
+			}
+		},
+		{
+			"name": "Essence Shift",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://Virgile198.github.io/sets/RNF-files/img/0_Essence Shift.png"
 			}
 		}
 	]
@@ -3199,7 +3219,6 @@
 	5 Frontline Cultivator
 	5 Ninth District Benevolent
 	5 Shady Courier
-	5 Lightningquake
 	5 Conclave Sentinel
 	5 Brilliant Artist
 	5 Duskmantle Agent
@@ -3255,3 +3274,5 @@
 	5 Vernadi Protector
 	5 Ledev Rescue
 	5 Dryads' Blessing
+	5 Boulderquake
+	5 Essence Shift

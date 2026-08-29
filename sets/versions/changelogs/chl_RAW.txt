@@ -1,4 +1,181 @@
-﻿VERSION 48 CHANGELOG
+﻿VERSION 49 CHANGELOG
+====================
+
+Permute Memories added.
+Jubilant Sewer Cook added.
+Giant Mosshopper added.
+Juri, Macabre Showmaster added.
+Lost Keyrune added.
+Plaxplated Lobstocaris added.
+
+Reconsider removed.
+Jubilent Sewer Cook removed.
+Mangled Rootgiant removed.
+Plaxplated Biotitan removed.
+Juri, Charismatic Performer removed.
+Esoteric Signet removed.
+
+Gate Physician
+
+Spiretop Courier
+
+Enlighted Freemage
+
+Gate Infiltrator
+rules_text: Vigilance
+Whenever this creature deals damage to a player, draw a card, then discard a card.
+This creature can't be blocked as long as you control a Gate. => Vigilance
+Whenever this creature deals combat damage to a player, draw a card, then discard a card.
+This creature can't be blocked as long as you control a Gate.
+
+Carnarium Acrobat
+rules_text: Deathtouch
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it, draw a card and lose 1 life. If you do, sacrifice it at the beginning of the next end step. => Deathtouch
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, draw a card and lose 1 life. Sacrifice it at the beginning of the next end step.
+
+Stage Cleaner
+rules_text: Flash
+Flying
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and have defending player lose 2 life. If you do, sacrifice it at the beginning of the next end step. => Flash
+Flying
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, defending player loses 2 life. Sacrifice it at the beginning of the next end step.
+
+Gorespawn Demon
+rules_text: Flying, trample
+At the beginning of each upkeep, each player draws a card.
+Whenever a player draws a card, they lose 1 life.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and have target player draw seven cards. If you do, sacrifice it at the beginning of the next end step. => Flying, trample
+At the beginning of each upkeep, each player draws a card.
+Whenever a player draws a card, they lose 1 life.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, target player draws seven cards. Sacrifice it at the beginning of the next end step.
+
+Fired-Up Jester
+rules_text: When this creature enters, discard up to two cards, then draw that many cards.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and have target opponent lose life equal to the number of creature cards in your graveyard. If you do, sacrifice it at the beginning of the next end step. => When this creature enters, discard up to two cards, then draw that many cards.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, target opponent loses life equal to the number of creature cards in your graveyard. Sacrifice it at the beginning of the next end step.
+
+Smog Predator
+
+Circle Headliner
+rules_text: When this creature enters, you may discard a card. If you do, draw a card.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and create a Treasure token. If you do, sacrifice it at the beginning of the next end step. => When this creature enters, you may discard a card. If you do, draw a card.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, create a Treasure token. Sacrifice it at the beginning of the next end step.
+
+Backstage Preparations
+rules_text: As an additional cost to cast this spell, discard a card.
+Draw two cards. Then if {B} was spent to cast this spell, create a tapped Treasure token and you lose 1 life. => As an additional cost to cast this spell, discard a card.
+If {B} was spent to cast this spell, surveil 2, then draw two cards. Otherwise, draw two cards.
+
+Bewitching Lead
+rules_text: Ward—Pay 3 life.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and untap each creature you control with a +1/+1 counter on it. After this combat phase, there is an additional combat step. Do this only once each turn. If you do, sacrifice it at the beginning of the next end step. => Ward—Pay 3 life.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, untap each creature you control with a +1/+1 counter on it. After this combat phase, there is an additional combat step. Sacrifice it at the beginning of the next end step. Do this only once each turn.
+
+Shackled Bloodrake
+rules_text: When this creature enters, each opponent discards a card.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and have it gain flying. If you do, sacrifice it at the beginning of the next end step. => When this creature enters, each opponent discards a card.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, it gains flying until end of turn. Sacrifice it at the beginning of the next end step.
+
+Mourning Legionnaire
+rules_text: Whenever this creature or another creature you control dies, put a +1/+1 counter on each creature you control. This ability triggers only once each turn.
+{1}, Sacrifice this creature: Creatures you control gain indestructible until end of turn. => Whenever this creature or another creature you control dies, put a +1/+1 counter on each creature you control. This ability triggers only once each turn.
+{1}, Sacrifice this creature: Creatures you control gains indestructible until end of turn.
+
+All Consuming Rage
+type: Sorcery => Instant
+
+Recovering Wilds
+rules_text: Choose one —
+• Destroy target artifact or enchantment.
+• Search your library and/or graveyard for a basic land card or Gate card, put it onto the battlefield tapped. If you searched your library this way, shuffle. => Choose one —
+• Exile target artifact or enchantment.
+• Search your library and/or graveyard for a basic land card or Gate card, put it onto the battlefield tapped. If you searched your library this way, shuffle.
+
+Ring Fire Maniac
+rules_text: Whenever this creature becomes blocked by a creature, it deals 1 damage to that creature and its controller.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and have it gain menace. If you do, sacrifice it at the beginning of the next end step. => Whenever this creature becomes blocked by a creature, it deals 1 damage to that creature and its controller.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, it gains menace until end of turn. Sacrifice it at the beginning of the next end step.
+
+Escaped Hellsteed
+rules_text: Haste
+[i][i]Performance[/i][/i] — Whenever this creature attacks, you may return target creature card from a graveyard to the battlefield under your control tapped and attacking and put a +1/+1 counter on both of them. If you do, sacrifice both of them at the beginning of the next end step. => Haste
+[i][i]Performance[/i][/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, return target creature card from your graveyard to the battlefield tapped and attacking with an additional +1/+1 counter on it. Sacrifice them at the beginning of the next end step.
+
+Gleeful Skinner
+rules_text: Lifelink
+If a player would gain life, each of your opponent loses that much life instead.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and have each other creature you control gain lifelink until end of turn. If you do, sacrifice it at the beginning of the next end step. => Lifelink
+If a player would gain life, each of your opponent loses that much life instead.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, each other creature you control gains lifelink until end of turn. Sacrifice it at the beginning of the next end step.
+
+Gulistan, Master Biomancer
+rules_text: Vigilance, ward {1}
+{X}{2}{G}{U}, {T}: Choose up to one other target nontoken creature you control. Create a 3/3 green Frog Lizard creature token. It has all the abilities of the chosen creature. Put X +1/+1 counters on it. => Flash
+Whenever Gulistan enters or attacks, if a creature you control became the target of a spell or ability you control this turn, create a 3/3 green Frog Lizard creature token.
+pt: 4/4 => 3/3
+
+Force Shaping
+rules_text: Choose one or both —
+• Copy target activated or triggered ability from a nonland source. You may chose new targets for the copy.
+• Counter target activated or triggered ability from a nonland source. => Choose one —
+• Copy target activated or triggered ability. You may chose new targets for the copy.
+• Counter target activated or triggered ability.
+
+Xaren, Rakdos Uncager
+type: Legendary Creature — Devil Sorcerer Performer => Legendary Creature — Devil Performer
+
+Giant Roustabout
+rules_text: Trample
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it and have it gain “This creature must be blocked if able.” If you do, sacrifice it at the beginning of the next end step. => Trample
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, it must be blocked this turn if able. Sacrifice it at the beginning of the next end step.
+
+Crypsis Clade Guardian
+rules_text: Implant {G}{U} [i]({G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Whenever one or more creatures you control deal combat damage to a player, that player mills cards equal to the damage dealt this way. You may put a land card milled this way onto the battlefield under your control. => Implant {G}{U} [i]({G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Whenever this creature deals combat damage to a player, tap or untap target nonland permanent and put your choice of a +1/+1 or stun counter on it.
+pt: 3/4 => 2/3
+
+Transfigure
+rules_text: Exile target nonland permanent. Its controller reveals cards from the top of their library until they reveal a card with mana value X or less, where X is 1 plus the exiled permanent's mana value, exiles it, then shuffles. They may cast that card from exile without paying its mana cost until their next end step. => As an additional cost to cast this spell, sacrifice a creature.
+Search your library for a nonland card with mana value X or less, where X is 1 plus the sacrificed creature's mana value, exile that card, then shuffle. You may cast that card without paying its mana cost.
+
+Golgari Insignia
+rules_text: When this artifact enters, scry 2.
+{1}, {T}: Add {B} or {G}.
+{2}{B}{G}, {T}, Sacrifice this artifact: Mill two cards. Return up to one creature card and/or up to one land card from your graveyard to your hand. => When this artifact enters, scry 2.
+{1}, {T}: Add {B} or {G}.
+{2}{B}{G}, {T}, Sacrifice this artifact: Mill two cards. Return up to two creature and/or land cards from your graveyard to your hand.
+
+Ancient Monoliths
+rules_text: Multicolored spells you control can't be countered.
+Multicolored permanents you control have hexproof from monocolored.
+Whenever you cast a multicolored spell, copy it. You may chose new targets for the copy. => Multicolored spells you control can't be countered.
+Multicolored permanents you control have hexproof from monocolored.
+Whenever you cast a multicolored spell, copy it. You may chose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i]
+
+Zafen, Scheming Necromancer
+pt: 5/3 => 5/4
+
+Putrefied Tutor
+rules_text: Search your library for a card, put that card into your graveyard, then shuffle. You may return a card from your graveyard to your hand.
+Exile Putrefied Tutor. => Search your library for a card, put that card into your graveyard, then shuffle. You may return a card from your graveyard to your hand. Exile Putrefied Tutor.
+
+Rakdos Trailblazer
+rules_text: Trample
+[i]Performance[/i] — Whenever this creature attacks, you may put two +1/+1 counters on it. If you do, sacrifice it at the beginning of the next end step. => Trample
+[i]Performance[/i] — Whenever this creature attacks, you may put two +1/+1 counters on it. When you do, sacrifice it at the beginning of the next end step.
+
+Lamiel, Deathsprout Cultivator
+rules_text: Creature tokens you control get +1/+0 and have haste and “{T}: Add one mana of any color.”
+Whenever another nontoken creature you control dies or one or more cards leave your graveyard, create a 0/1 green Plant creature token. => Creature tokens you control get +1/+0 and have “{T}: Add one mana of any color.”
+Whenever another nontoken creature you control dies or one or more cards leave your graveyard, create a 0/1 green Plant creature token.
+
+Decipher the Chronology
+rules_text: Search your library and/or graveyard for a nonland card with mana value 3 or less, reveal it, and put it into your hand. If you searched your library this way, shuffle.
+Exile Decipher the Chronology. => Search your library and/or graveyard for a nonland card with mana value 3 or less, reveal it, and put it into your hand. If you searched your library this way, shuffle. Exile Decipher the Chronology.
+
+
+VERSION 48 CHANGELOG
 ====================
 
 
