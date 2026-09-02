@@ -1,4 +1,83 @@
-﻿VERSION 49 CHANGELOG
+﻿VERSION 50 CHANGELOG
+====================
+
+3/3 Boar added.
+
+5/5 Beast removed.
+
+Monument to Wisdom
+cost: {3}{U}{U} => {2}{U}{U}
+
+Bewitching Lead
+rules_text: Ward—Pay 3 life.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, untap each creature you control with a +1/+1 counter on it. After this combat phase, there is an additional combat step. Sacrifice it at the beginning of the next end step. Do this only once each turn. => Ward—Pay 3 life.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, until end of turn, if a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead. Sacrifice this creature at the beginning of the next end step.
+pt: 5/3 => 5/4
+
+Goldscale Whelp
+rules_text: Flying, haste
+This creature can't block.
+{2}{R}, Sacrifice this creature: Draw a card and create a Treasure token. => Flying, haste
+This creature can't block.
+When this creature dies, choose one —
+• Exile the top card of your library. You may play it until the end of your next turn.
+• Create a Treasure token.
+
+Underdeep Kraul
+
+Monument to Strength
+cost: {4}{G}{G} => {3}{G}{G}
+rules_text: When this enchantment enters and whenever you cast a green spell, create a 5/5 green Beast creature token with trample. Put an awakening counter on this enchantment.
+As long as Monument to Strength has five or more awakening counters on it, it is a 10/10 Beast creature with trample. => When this enchantment enters and whenever you cast a green spell, create a 3/3 green Boar creature token. Put an awakening counter on this enchantment.
+As long as Monument to Strength has five or more awakening counters on it, it is a 8/8 Boar creature with trample.
+
+Skyrender Knight
+
+Firemane Executioner
+
+Escaped Hellsteed
+rules_text: Haste
+[i][i]Performance[/i][/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, return target creature card from your graveyard to the battlefield tapped and attacking with an additional +1/+1 counter on it. Sacrifice them at the beginning of the next end step. => First strike, haste
+[i][i]Performance[/i][/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, return target creature card from your graveyard to the battlefield tapped and attacking with an additional +1/+1 counter on it. Sacrifice them both at the beginning of the next end step.
+pt: 6/3 => 6/4
+
+Giant Roustabout
+rules_text: Trample
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, it must be blocked this turn if able. Sacrifice it at the beginning of the next end step. => Trample
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, it fights up to one target creature you don't control. Sacrifice it at the beginning of the next end step.
+
+Righteous Smite
+
+Lothran, the Glouton
+rules_text: Menace
+Whenever Lothran attacks, you may sacrifice another creature. If you do, he gains indestructible until end of turn.
+Whenever you sacrifice a permanent, put a +1/+1 counter on Lothran. => Menace
+Whenever Lothran attacks, you may sacrifice a creature. If you do, he gains indestructible until end of turn and you gain 2 life.
+{1}, Discard a creature card: Put a +1/+1 counter on Lothran.
+
+Festering Mass
+rules_text: Attacking creatures you control have deathtouch and lifelink.
+Each permanent card in your graveyard has “Swarm 2—{2}{BG}{BG}.” [i]({2}{BG}{BG}, Exile a creature card from your graveyard: Create two 1/1 black and green Insect creature tokens.)[/i] => Attacking creatures you control have deathtouch and lifelink.
+Each creature card in your graveyard has “Swarm 2—{2}{BG}{BG}.” [i]({2}{BG}{BG}, Exile a creature card from your graveyard: Create two 1/1 black and green Insect creature tokens.)[/i]
+
+Remains
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+You draw cards equal to that creature's power. => As an additional cost to cast this spell, sacrifice a creature.
+Draw cards equal to that creature's power.
+
+Treasure
+
+Hull Clade Guardian
+rules_text: Ward {2}
+Whenever this creature becomes the target of a spell or ability you control, put a +1/+1 counter on it. This ability triggers only once each turn.
+Remove a +1/+1 counter from this creature: It gains your choice of vigilance, reach or trample until end of turn. => Ward {2}
+Whenever a creature you control becomes the target of a spell or ability you control, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+Remove a +1/+1 counter from this creature: It gains your choice of vigilance, reach or trample until end of turn.
+
+Plaxplated Lobstocaris
+
+
+VERSION 49 CHANGELOG
 ====================
 
 Permute Memories added.

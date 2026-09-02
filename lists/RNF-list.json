@@ -680,7 +680,7 @@
         "position": ""
     },
     {
-        "card_name": "Falling Apart",
+        "card_name": "Fractured Essence",
         "number": 8,
         "shape": "normal",
         "set": "RNF",
@@ -1813,8 +1813,8 @@
         "position": ""
     },
     {
-        "card_name": "Essence Shift",
-        "number": 0,
+        "card_name": "Duskmantle Agent",
+        "number": 171,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,
@@ -1853,8 +1853,8 @@
         "position": ""
     },
     {
-        "card_name": "Duskmantle Agent",
-        "number": 171,
+        "card_name": "Essence Shift",
+        "number": 175,
         "shape": "normal",
         "set": "RNF",
         "rotated": false,

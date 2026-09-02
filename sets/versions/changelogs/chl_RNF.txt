@@ -1,4 +1,39 @@
-﻿VERSION 68 CHANGELOG
+﻿VERSION 69 CHANGELOG
+====================
+
+Fractured Essence added.
+
+Falling Apart removed.
+Essence Shift removed.
+
+Ceremony of Fury
+type: Sorcery => Instant
+rules_text: Put a +1/+1 counter on target creature you control. It fights up to one target creature you don't control. => As an additional cost to cast this spell, choose a creature you control or reveal a creature card from your hand.
+This spell deals damage equal to the power of the creature you chose or the card you revealed to target creature or planeswalker.
+
+Magebane Rawhide
+rules_text: Whenever an opponent casts a noncreature spell, this creature rages, then deals damage equal to the number of counters on it to that player. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i] => Whenever an opponent casts a noncreature spell, this creature rages, then it deals damage equal to the number of +1/+1 counters on it to that player. [i](Put a +1/+1 counter on this creature, then you may discard a card. If you do, draw a card.)[/i]
+
+Bolrac-Clan City Breacher
+
+Gorz'Ghum, War Incense
+rules_text: Once during each of your turns, you may play a card from your graveyard you discarded this turn.
+Whenever Gorz'Ghum attacks, you may remove four +1/+1 counters from among creatures you control. When you do, create a tapped and attacking 4/4 red and green Beast creature token with trample. => Once during each of your turns, you may play a land card or cast a creature card from your graveyard that was discarded this turn.
+{1}{R}{G}, {T}, Exile four land and/or creature cards from your graveyard: Create a 4/4 red and green Beast creature token with trample.
+
+Rubblebelt Explorer
+rules_text: Trample
+When this creature enters, remove up to three +1/+1 counters from among creatures you control. Choose one for each counter removed this way —
+• Destroy target artifact or enchantment.
+• You gain 4 life.
+• Exile target player's graveyard. => Trample
+When this creature enters, remove up to three +1/+1 counters from among creatures you control. Choose one for each counter removed this way —
+• Destroy target artifact or enchantment.
+• You gain 3 life.
+• Exile target player's graveyard.
+
+
+VERSION 68 CHANGELOG
 ====================
 
 3/3 Selesnya Centaur added.
