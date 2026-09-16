@@ -1650,9 +1650,7 @@ Whenever this creature or another creature you control dies, this creature deals
 			<name>Goldscale Whelp</name>
 			<text>Flying, haste
 This creature can&apos;t block.
-When this creature dies, choose one —
-• Exile the top card of your library. You may play it until the end of your next turn.
-• Create a Treasure token.</text>
+When this creature dies, create a treasure token.</text>
 			<set rarity="uncommon" picurl="https://Virgile198.github.io/sets/RAW-files/img/101_Goldscale Whelp.png" num="101">RAW</set>
 			<prop>
 				<layout>normal</layout>

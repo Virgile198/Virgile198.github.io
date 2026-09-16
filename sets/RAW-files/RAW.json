@@ -183,7 +183,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Gjaldir",
-            "notes": "!tag Boros"
+            "notes": "!tag Boros\n!tag aggro-threat"
         },
         {
             "card_name": "Monument to Solidarity",
@@ -219,7 +219,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Manthos Lappas",
-            "notes": ""
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Sanctum of Protection",
@@ -1551,7 +1551,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Aj Ramos",
-            "notes": ""
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Freemage's Fiery Temper",
@@ -1669,15 +1669,15 @@
             "number": 101,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Flying, haste\nThis creature can't block.\nWhen this creature dies, choose one \u2014\n\u2022 Exile the top card of your library. You may play it until the end of your next turn.\n\u2022 Create a Treasure token.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "Flying, haste\nThis creature can't block.\nWhen this creature dies, create a treasure token.",
+            "flavor_text": "[i]Highly sought after for their scales, only a handful of them still remains.[/i]",
             "pt": "1/1",
             "special_text": "",
             "shape": "normal",
             "set": "RAW",
             "loyalty": "",
             "artist": "Margaux Valonia",
-            "notes": ""
+            "notes": "!tag aggro-threat"
         },
         {
             "card_name": "Mourning Legionnaire",
@@ -2875,7 +2875,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Jonny Wall",
-            "notes": "!tag Simic"
+            "notes": "!tag Simic\n!tag cheatout-threat"
         },
         {
             "card_name": "Thorough Probing",
@@ -2957,7 +2957,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Roy Valenzuela",
-            "notes": "!tag Boros"
+            "notes": "!tag Boros\n!tag tutor"
         },
         {
             "card_name": "Ordruun Marshal",
@@ -3075,7 +3075,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Sebastian Horoszko",
-            "notes": "!tag Golgari"
+            "notes": "!tag Golgari\n!tag removal"
         },
         {
             "card_name": "Forsaken Loxodon",
@@ -3193,7 +3193,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Artur Fast",
-            "notes": "!tag Rakdos"
+            "notes": "!tag Rakdos\n!tag sweeper"
         },
         {
             "card_name": "Xaren, Rakdos Uncager",
@@ -3365,7 +3365,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Dan Zhou",
-            "notes": "!tag Simic"
+            "notes": "!tag Simic\n!tag tutor"
         },
         {
             "card_name": "Ooze Bioprocessor",
@@ -3501,7 +3501,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Lily Abdulina",
-            "notes": "!tag Boros"
+            "notes": "!tag Boros\n!tag aggro-threat"
         },
         {
             "card_name": "Righteous Smite",
@@ -4141,7 +4141,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Naznamy",
-            "notes": "!tag Golgari"
+            "notes": "!tag Golgari\n!tag topend-threat"
         },
         {
             "card_name": "Corpse-Pit Goliath",
@@ -4213,7 +4213,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Vilenko",
-            "notes": "!tag Golgari"
+            "notes": "!tag Golgari\n!tag tutor"
         },
         {
             "card_name": "Remains",
@@ -4331,7 +4331,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Norbert Toth",
-            "notes": "!tag Golgari\n!tag wishlist"
+            "notes": "!tag Golgari\n!tag wishlist\n!tag removal"
         },
         {
             "card_name": "2/1 Elemental Dog",
@@ -4835,7 +4835,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Kevin Mckenna",
-            "notes": "!tag Azorius"
+            "notes": "!tag Azorius\n!tag cantrip"
         },
         {
             "card_name": "Jelenn Grand Elocutor",
@@ -4999,7 +4999,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Sam Kanios",
-            "notes": "!tag Azorius"
+            "notes": "!tag Azorius\n!tag tutor"
         },
         {
             "card_name": "Sarvis, High Justiciar",
@@ -5251,7 +5251,7 @@
             "set": "RAW",
             "loyalty": "",
             "artist": "Kyle Pearson",
-            "notes": "!tag Azorius"
+            "notes": "!tag Azorius\n!tag cheatout-threat"
         },
         {
             "card_name": "1/1 Thopter",
@@ -5434,5 +5434,5 @@
             "notes": "!tag Simic"
         }
     ],
-    "version": 51
+    "version": 52
 }

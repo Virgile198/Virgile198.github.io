@@ -1,4 +1,49 @@
-﻿VERSION 51 CHANGELOG
+﻿VERSION 52 CHANGELOG
+====================
+
+
+
+Press the Advantage
+
+Wall of Fury
+
+Firstblade Lieutenant
+
+Goldscale Whelp
+rules_text: Flying, haste
+This creature can't block.
+When this creature dies, choose one —
+• Exile the top card of your library. You may play it until the end of your next turn.
+• Create a Treasure token. => Flying, haste
+This creature can't block.
+When this creature dies, create a treasure token.
+
+Skybreaker Biotitan
+
+Recruitment Campaign
+
+Fester
+
+The Curtain Falls
+
+Transfigure
+
+Mileva of the Tenth
+
+Rotmaw Hellkite
+
+Putrefied Tutor
+
+Amalgamate
+
+Inquire
+
+Decipher the Chronology
+
+Arbiter of Law
+
+
+VERSION 51 CHANGELOG
 ====================
 
 Colony Protector added.
