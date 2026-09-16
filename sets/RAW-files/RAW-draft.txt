@@ -193,7 +193,7 @@
 		{
 			"name": "Desenites' Favor",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "8",
 			"image_uris": {
@@ -283,7 +283,7 @@
 		{
 			"name": "Enfeebling Shackles",
 			"rarity": "common",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "39",
 			"image_uris": {
@@ -433,7 +433,7 @@
 		{
 			"name": "Desenites' Vision",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Instant",
 			"collector_number": "36",
 			"image_uris": {
@@ -524,7 +524,7 @@
 			"name": "Eaten From Within",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "67",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/67_Eaten From Within.png"
@@ -565,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/137_Regenerative Cocoon.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/136_Regenerative Cocoon.png"
 			}
 		},
 		{
@@ -581,13 +581,13 @@
 			}
 		},
 		{
-			"name": "Demon Progeny",
+			"name": "Colony Protector",
 			"rarity": "rare",
 			"mana_cost": "{B}",
-			"type": "Creature — Demon Egg",
-			"collector_number": "65",
+			"type": "Creature — Rat",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/65_Demon Progeny.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/60_Colony Protector.png"
 			}
 		},
 		{
@@ -623,11 +623,11 @@
 		{
 			"name": "Daughter of Stone Death",
 			"rarity": "rare",
-			"mana_cost": "{4}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Gorgon Assassin",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/62_Daughter of Stone Death.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/63_Daughter of Stone Death.png"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/60_Corpse Jeweler.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/61_Corpse Jeweler.png"
 			}
 		},
 		{
@@ -665,9 +665,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Gorgon Assassin",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/64_Deceitful Guide.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/65_Deceitful Guide.png"
 			}
 		},
 		{
@@ -694,7 +694,7 @@
 			"name": "Desenites' Corruption",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "66",
 			"image_uris": {
 				"en": "https://Virgile198.github.io/sets/RAW-files/img/66_Desenites' Corruption.png"
@@ -1095,9 +1095,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/136_Redo.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/135_Redo.png"
 			}
 		},
 		{
@@ -1121,13 +1121,13 @@
 			}
 		},
 		{
-			"name": "Perfected Rebirth",
+			"name": "Reprocessing Vat",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Enchantment",
-			"collector_number": "133",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/133_Perfected Rebirth.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/137_Reprocessing Vat.png"
 			}
 		},
 		{
@@ -1143,7 +1143,7 @@
 		{
 			"name": "Woodwraith Behemoth",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Elemental Horror",
 			"collector_number": "145",
 			"image_uris": {
@@ -1153,7 +1153,7 @@
 		{
 			"name": "Rotten Banquet",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Instant",
 			"collector_number": "139",
 			"image_uris": {
@@ -1195,9 +1195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Fungus Beast",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/134_Ravenous Sewerscraper.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/133_Ravenous Sewerscraper.png"
 			}
 		},
 		{
@@ -1235,15 +1235,15 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/135_Recovering Wilds.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/134_Recovering Wilds.png"
 			}
 		},
 		{
 			"name": "Desenites' Expansion",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
 			"collector_number": "124",
 			"image_uris": {
@@ -1285,9 +1285,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B/R}",
 			"type": "Creature — Zombie Warrior",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/233_Splatterhouse Ravager.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/234_Splatterhouse Ravager.png"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G/U}{U}",
 			"type": "Creature — Leviathan Mutant",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/232_Skybreaker Biotitan.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/233_Skybreaker Biotitan.png"
 			}
 		},
 		{
@@ -1713,7 +1713,7 @@
 		{
 			"name": "Fungus Nursery",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
+			"mana_cost": "{B}{G}",
 			"type": "Enchantment",
 			"collector_number": "169",
 			"image_uris": {
@@ -2251,13 +2251,13 @@
 			}
 		},
 		{
-			"name": "Voracious Deathstinger",
+			"name": "Rotmaw Hellkite",
 			"rarity": "mythic",
-			"mana_cost": "{4}{B}{B/G}{G}",
-			"type": "Creature — Scorpion Horror",
-			"collector_number": "234",
+			"mana_cost": "{3}{B}{B/G}{G}",
+			"type": "Creature — Dragon Zombie",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/234_Voracious Deathstinger.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/232_Rotmaw Hellkite.png"
 			}
 		},
 		{
@@ -2353,7 +2353,7 @@
 		{
 			"name": "Amalgamate",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}{B}{G}",
+			"mana_cost": "{1}{B}{G}",
 			"type": "Sorcery",
 			"collector_number": "147",
 			"image_uris": {
@@ -2365,9 +2365,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental Dog",
-			"collector_number": "16",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/16t_2/1 Elemental Dog.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/12t_2/1 Elemental Dog.png"
 			}
 		},
 		{
@@ -2375,9 +2375,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Insect",
-			"collector_number": "17",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/17t_1/1 Insect.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/13t_1/1 Insect.png"
 			}
 		},
 		{
@@ -2385,9 +2385,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
-			"collector_number": "20",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/20t_1/1 Boros Soldier.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/16t_1/1 Boros Soldier.png"
 			}
 		},
 		{
@@ -2395,9 +2395,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "23",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/23t_Treasure.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/19t_Treasure.png"
 			}
 		},
 		{
@@ -2405,9 +2405,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Citizen",
-			"collector_number": "13",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/13t_2/2 Citizen.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/9t_2/2 Citizen.png"
 			}
 		},
 		{
@@ -2415,9 +2415,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "6",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/6t_1/1 Elemental.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/4t_1/1 Elemental.png"
 			}
 		},
 		{
@@ -2435,9 +2435,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
-			"collector_number": "19",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/19t_1/1 Azorius Soldier.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/15t_1/1 Azorius Soldier.png"
 			}
 		},
 		{
@@ -2445,9 +2445,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Sphinx",
-			"collector_number": "21",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/21t_4/4 Sphinx.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/17t_4/4 Sphinx.png"
 			}
 		},
 		{
@@ -2461,13 +2461,13 @@
 			}
 		},
 		{
-			"name": "Ooze",
+			"name": "0/0 Ooze",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Ooze",
-			"collector_number": "18",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/18t_Ooze.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/14t_0/0 Ooze.png"
 			}
 		},
 		{
@@ -2485,39 +2485,19 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/61_Cull.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/62_Cull.png"
 			}
 		},
 		{
-			"name": "6/6 Demon",
+			"name": "1/1 Rat",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Demon",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/4t_6/6 Demon.png"
-			}
-		},
-		{
-			"name": "2/2 Spirit",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Spirit",
+			"type": "Token Creature — Rat",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/3t_2/2 Spirit.png"
-			}
-		},
-		{
-			"name": "4/1 Desenite Elemental",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Elemental",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/7t_4/1 Desenite Elemental.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/3t_1/1 Rat.png"
 			}
 		},
 		{
@@ -2525,9 +2505,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Goblin",
-			"collector_number": "8",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/8t_1/1 Goblin.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/5t_1/1 Goblin.png"
 			}
 		},
 		{
@@ -2855,19 +2835,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Drake",
-			"collector_number": "15",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/15t_2/2 Drake.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/11t_2/2 Drake.png"
 			}
 		},
 		{
 			"name": "Deadly Spore Storm",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Instant",
-			"collector_number": "63",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/63_Deadly Spore Storm.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/64_Deadly Spore Storm.png"
 			}
 		},
 		{
@@ -2885,9 +2865,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Thopter",
-			"collector_number": "22",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/22t_1/1 Thopter.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/18t_1/1 Thopter.png"
 			}
 		},
 		{
@@ -2915,9 +2895,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Boar",
-			"collector_number": "9",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/9t_3/3 Boar.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/6t_3/3 Boar.png"
 			}
 		},
 		{
@@ -2925,9 +2905,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "24",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/24t_Tajic Emblem.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/20t_Tajic Emblem.png"
 			}
 		},
 		{
@@ -2935,19 +2915,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "25",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/25t_Vannifar Emblem.png"
-			}
-		},
-		{
-			"name": "2/1 Skeleton",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Skeleton",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/5t_2/1 Skeleton.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/21t_Vannifar Emblem.png"
 			}
 		},
 		{
@@ -2955,19 +2925,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Saproling",
-			"collector_number": "12",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/12t_1/1 Golgari Saproling.png"
-			}
-		},
-		{
-			"name": "0/1 Plant",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Plant",
-			"collector_number": "11",
-			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/11t_0/1 Plant.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/8t_1/1 Golgari Saproling.png"
 			}
 		},
 		{
@@ -2975,19 +2935,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bird",
-			"collector_number": "14",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/14t_1/1 Bird.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/10t_1/1 Bird.png"
 			}
 		},
 		{
-			"name": "Frog Lizard",
+			"name": "3/3 Frog Lizard",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Frog Lizard",
-			"collector_number": "10",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Virgile198.github.io/sets/RAW-files/img/10t_Frog Lizard.png"
+				"en": "https://Virgile198.github.io/sets/RAW-files/img/7t_3/3 Frog Lizard.png"
 			}
 		},
 		{
@@ -3012,7 +2972,7 @@
 	5 Time Bend
 	5 Synapse Linker
 	5 Monument to Depravity
-	5 Demon Progeny
+	5 Colony Protector
 	5 Skull Clamper Parasite
 	5 Gorespawn Demon
 	5 Gruesome Spectacle
@@ -3024,7 +2984,7 @@
 	5 Rakdos Excrutiator
 	5 Mourning Legionnaire
 	5 Monument to Strength
-	5 Perfected Rebirth
+	5 Reprocessing Vat
 	5 Insatiable Troll
 	5 Woodwraith Behemoth
 	5 Ooze Hydra
@@ -3059,15 +3019,15 @@
 	5 Opal Medallion
 	5 Ancient Monoliths
 	5 Ravnican Omnicompass
-	4 Blood Crypt
-	4 Breeding Pool
-	4 Hallowed Fountain
-	4 Overgrown Tomb
+	5 Blood Crypt
+	5 Breeding Pool
+	5 Hallowed Fountain
+	5 Overgrown Tomb
 	5 Plaza's Omenpath
-	4 Sacred Foundry
+	5 Sacred Foundry
 	5 Erstwhile Awakener
 	5 Zafen, Scheming Necromancer
-	5 Voracious Deathstinger
+	5 Rotmaw Hellkite
 	5 Corpse-Pit Goliath
 	5 Festering Mass
 	5 Putrefied Tutor
@@ -3254,6 +3214,11 @@
 	5 Simic Insignia
 	5 Rakdos Insignia
 	5 Golgari Insignia
+	5 Azorius Guildgate
+	5 Boros Guildgate
+	5 Golgari Guildgate
+	5 Rakdos Guildgate
+	5 Simic Guildgate
 	5 Rakdos Trailblazer
 	5 Infested Maneater
 	5 Accelerated Growth
@@ -3270,14 +3235,3 @@
 	5 Sphinx Lawbinder
 	5 Gateway Plaza
 	5 Plaxplated Lobstocaris
-[commonland(1)]
-	12 Azorius Guildgate
-	12 Boros Guildgate
-	12 Golgari Guildgate
-	12 Rakdos Guildgate
-	12 Simic Guildgate
-	1 Hallowed Fountain
-	1 Blood Crypt
-	1 Breeding Pool
-	1 Overgrown Tomb
-	1 Sacred Foundry

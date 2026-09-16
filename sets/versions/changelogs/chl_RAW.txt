@@ -1,4 +1,365 @@
-﻿VERSION 50 CHANGELOG
+﻿VERSION 51 CHANGELOG
+====================
+
+Colony Protector added.
+Reprocessing Vat added.
+Rotmaw Hellkite added.
+0/0 Ooze added.
+1/1 Rat added.
+3/3 Frog Lizard added.
+
+Demon Progeny removed.
+Perfected Rebirth removed.
+Voracious Deathstinger removed.
+Ooze removed.
+6/6 Demon removed.
+2/2 Spirit removed.
+4/1 Desenite Elemental removed.
+2/1 Skeleton removed.
+0/1 Plant removed.
+Frog Lizard removed.
+
+Wall of Fury
+rules_text: Defender, reach
+This creature's gets +1/+0 for each attacking creatures.
+At the beginning of combat on your turn, target creature you control gains haste and can attack as though it didn't have defender until end of turn. => Defender, reach
+This creature's power is equal to the number of attacking creatures.
+At the beginning of combat on your turn, target creature you control gains haste and can attack as though it didn't have defender until end of turn.
+pt: 0/3 => */3
+
+Desenites' Favor
+cost: {2}{W} => {1}{W}
+rules_text: Choose one. If you control a multicolored permanent, you may choose two instead.
+• Create a 2/2 white Spirit creature token with flying.
+• You draw a card and gain 3 life. => Creatures you control get +1/+1 until end of turn. If you control a multicolored permanent, they get +2/+2 until end of turn instead.
+
+Enfeebling Shackles
+cost: {U} => {1}{U}
+rules_text: Enchant creature
+Enchanted creature loses all abilities and has base power 0. => Enchant creature
+Enchanted creature loses all abilities, has base power 0 and can't have counters put on it.
+
+Permute Memories
+rules_text: Shuffle up to three cards from your graveyard into your library, then draw three cards. => Target player shuffles up to three target cards into their library. Draw three cards.
+
+Desenites' Vision
+cost: {1}{U} => {2}{U}
+rules_text: Choose one. If you control a multicolored permanent, you may choose two instead.
+• Exile target creature, then return it to the battlefield under its owner's control.
+• Scry 2. Draw a card. => Look at the top four cards of your library, put one of them into your hand and the rest on the bottom of your library in any order. If you control a multicolored permanent, instead put two of them into your hand and the rest on the bottom of your library in any order.
+
+Jubilant Sewer Cook
+rules_text: When this creature enters, mill two cards.
+Swarm 2—{3}{B} [i]({3}{B}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => When this creature enters, mill two cards, then harvest 1. You gain 2 life. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on target creature.)[/i]
+pt: 2/2 => 1/2
+
+Swarm Broodmother
+rules_text: Flying
+Swarm 3—{4}{B}{B} [i]({4}{B}{B}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => Flying
+When this creature enters, create a 1/1 black and green Insect creature token, then harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on target creature.)[/i]
+pt: 3/4 => 2/4
+
+Undercity Cleaner
+rules_text: When this creature enters, you may sacrifice another creature. If you do, put a +1/+1 counter on this creature and draw a card. => When this creature enters, you may sacrifice another creature or exile two creature cards from your graveyard. If you do, put a +1/+1 counter on this creature and draw a card.
+
+Eaten From Within
+type: Sorcery => Instant
+rules_text: This spell costs {1} less to cast for each creature that died this turn.
+Return target creature card from your graveyard to the battlefield. => This spell costs {1} less to cast for each creature that died this turn.
+Return target creature card from your graveyard to the battlefield tapped.
+
+Reap
+
+Regenerative Cocoon
+rules_text: Enchant land you control
+When this Aura enters, mill three cards. You may put a land card from among them into your hand. If you don't, put a +1/+1 counter on target creature you control.
+Enchanted land has “{1}, {T}: Add two mana in any combination of colors.” => Enchant land you control
+When this Aura enters, mill three cards. You may put a permanent card from among them into your hand. If you don't, put a +1/+1 counter on up to one target creature.
+Enchanted land has “{1}, {T}: Add two mana in any combination of colors.”
+
+Daughter of Stone Death
+cost: {4}{B} => {2}{B}
+rules_text: When this creature enters, other creatures get -2/-2 until end of turn.
+{1}{B}, Discard this card: Target creature gets -2/-2 until end of turn.
+Swarm 2—{2}{B} [i]({2}{B}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => Deathtouch
+Whenever another creature dies, harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on target creature.)[/i]
+{1}{B}, Remove X +1/+1 counter from among creatures you control: Target creature gets -X/-X until end of turn.
+pt: 5/3 => 2/4
+
+Ochran Enforcer
+rules_text: Deathtouch, lifelink
+Swarm 1—{B} [i]({B}, Exile this card from your graveyard: Create a 1/1 black and green Insect creature token. Swarm only as a sorcery.)[/i] => Deathtouch, lifelink
+{2}{B}, Exile this card from your graveyard: You draw a card and you lose 1 life.
+
+Deceitful Guide
+rules_text: Menace
+When this creature enters, sacrifice up to three other creatures. Choose one for each creature sacrificed this way —
+• Target player discards a card.
+• Target player draws a card and loses 1 life.
+• Target creature gets -2/-2 until end of turn. => Menace
+As this creature enters, remove all counters from target permanent. This creature enters with a +1/+1 counter on it for each counter removed this way.
+pt: 4/4 => 3/3
+
+Desenites' Corruption
+type: Sorcery => Instant
+rules_text: Choose one. If you control a multicolored permanent, you may choose two instead.
+• Create two 1/1 black and green Insect creature tokens.
+• Target player discards two cards. => Creatures your opponents control get -1/-1 until end of turn. If you control a multicolored permanent, they get -2/-2 until end of turn instead.
+
+Krenko's Ransack
+
+Desenites' Impetus
+rules_text: Choose one. If you control a multicolored permanent, you may choose two instead.
+• Create a 4/1 red Elemental creature token with trample and haste. Sacrifice it at the beginning of the next end step.
+• Exile the top two cards of your library. You may play them this turn. => Exile the top two cards of your library. If you control a multicolored permanent exile the top four cards of your library instead. You may play those cards this turn.
+
+Golgari Rotseer
+rules_text: When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+{T}: Add {G}.
+{T}, Exile a card from your graveyard: Add one mana of any color. => When this creature enters, surveil 1.
+{T}: Add {G}.
+{1}{G}, {T}: Harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on target creature.)[/i]
+
+Breeding Plant Supervisor
+rules_text: The first nonmana ability you activate each turn costs {2} less to activate.
+Whenever you activate a nonmana ability for the first time each turn, surveil 1. => Whenever you put one or more +1/+1 counters on a creature you control it gains your choice of vigilance, reach or trample until end of turn.
+
+Underdeep Kraul
+rules_text: Flash
+{B}, Sacrifice another creature: This creature gets +2/+2 until end of turn. Activate only once each turn. => Flash
+{2}{B}: Return this card from your graveyard to your hand.
+pt: 5/3 => 4/3
+
+Gate Bulwark
+rules_text: Defender, vigilance, reach
+Whenever a Gate you control enters, this creature gains trample and can attack as though it didn't have defender until end of turn. => Defender, vigilance, reach
+Whenever a Gate you control enters, this creature can attack this turn as though it didn't have defender.
+
+Undercity Ravager
+rules_text: Trample
+Swarm 3—{4}{G}{G} [i]({4}{G}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => Trample
+{2}{G}, Discard this card: Target creature you control gains trample until end of turn. Harvest 3. Activate only as a sorcery. [i](Exile up to three permanent cards from your graveyard to put that many +1/+1 counters on target creature.)[/i]
+pt: 7/6 => 7/5
+
+Return to the Cycle
+rules_text: Choose one —
+• Destroy target artifact or enchantment.
+• Exile target card from a graveyard.
+• Put target face-up exiled card you don't own into its owner's graveyard. => Choose one —
+• Destroy target artifact or enchantment.
+• Exile target card from a graveyard.
+• Put target face-up exiled card you don't own into its owner's graveyard. Draw a card.
+
+Swarm's Voracity
+rules_text: Choose one —
+• Until end of turn, target creature gets +1/+1 for each creature you control and gains trample.
+• Destroy target creature with flying.
+• Create two 1/1 black and green Insect creature tokens. => Choose one —
+• Until end of turn, target creature get +1/+1 for each creature card in your graveyard and gains trample.
+• Destroy target creature with flying.
+• Create two 1/1 black and green insect creature tokens.
+
+Rotquake
+rules_text: Destroy target creature or land. Then if {G} was spent to cast this spell, search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => Destroy target creature or land. Then if {G} was spent to cast this spell, search your library and/or graveyard for a basic land card, put it onto the battlefield tapped. If you searched your library this way, shuffle.
+
+Monument to Strength
+
+Insatiable Troll
+rules_text: Trample
+{1}{G}, Discard this card: Target creature you control gets +2/+2 and gains trample until end of turn.
+Swarm 2—{2}{G} [i]({2}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => Trample
+Whenever this creature enters or attacks, harvest 2. [i](Exile up to two permanent cards from your graveyard to put that many +1/+1 counters on target creature.)[/i]
+Remove two +1/+1 counters from this creature: It gains indestructible until end of turn. Tap it.
+pt: 4/4 => 3/3
+
+Woodwraith Behemoth
+cost: {3}{G} => {3}{G}{G}
+rules_text: Whenever this creature enters or attacks, if it's not a token, you may sacrifice another creature. When you do, create a token that's a copy of that creature, except it's a 1/1 green Forest Elemental land creature token. [i](It is affected by summoning sickness, and it has “{T}: Add {G}.”)[/i]
+{1}{G}, {T}, Sacrifice a land: Return target creature card from your graveyard to your hand. => This creature can't be blocked by creatures with power 2 or less.
+Whenever this creature enters or attacks, mill three cards, then you may return a land or creature card from your graveyard to your hand.
+pt: 3/5 => 5/5
+
+Rotten Banquet
+cost: {1}{G} => {3}{G}
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Choose one —
+• Create X 1/1 black and green Insect creature tokens, where X is the sacrificed creature's toughness.
+• Put X +1/+1 counters on target creature, where X is the sacrificed creature's power. => Mill four cards, then choose two. You may choose the same mode more than once.
+• Return up to one permanent card from your graveyard to your hand. You gain 2 life.
+• Harvest 2. [i](Exile up to two permanent cards from your graveyard to put that many +1/+1 counters on target creature.)[/i]
+
+Deathbloom Mandrake
+rules_text: Reach
+Whenever another creature you control dies or one or more cards leave your graveyard, put a +1/+1 counter on this creature.
+Swarm 1—{G} [i]({G}, Exile this card from your graveyard: Create a 1/1 black and green Insect creature token. Swarm only as a sorcery.)[/i] => Flash
+Reach
+Whenever another creature you control dies or one or more cards leave your graveyard, put a +1/+1 counter on target creature you control.
+
+Ochran Stalker
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Swarm 1—{BG}{BG} [i]({BG}{BG}, Exile this card from your graveyard: Create a 1/1 black and green Insect creature token. Swarm only as a sorcery.)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+When this creature dies, surveil 2.
+
+Ravenous Sewerscraper
+rules_text: As an additional cost to cast this spell, sacrifice a creature or pay {2}.
+This creature can't be blocked by creatures with power 2 or less. => Trample
+Whenever this creature attacks, target player shuffles up to one target cards from their graveyard into their library.
+pt: 5/3 => 3/2
+
+Desenites' Expansion
+cost: {3}{G} => {2}{G}
+rules_text: Choose one. If you control a multicolored permanent, you may choose two instead.
+• Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
+• Distribute three +1/+1 counters among up to three target creatures you control. => Search your library for up to one basic land card. If you control a multicolored permanent, search your library for up to two basic land cards instead. Reveal those cards, put them onto the battlefield tapped, then shuffle.
+
+Surging Horror
+rules_text: Haste
+This creature can't be blocked by more than one creature.
+Swarm 2—{1}{B}{G} [i]({1}{B}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => Haste
+this creature can't be blocked by more than one creature.
+When this creature dies, harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on target creature.)[/i]
+
+Inspect the Remains
+rules_text: Mill five cards. Return a creature or land card from your graveyard into your hand. => Mill five cards. Return a creature or land card from your graveyard to your hand.
+
+Metamorphosed Adapter
+rules_text: Whenever you activate a nonmana ability, you may copy it. If you do, you may choose new targets for the copy. Do this only once each turn.
+If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on that creature instead. => Whenever you activate a nonmana ability, you may copy it. If you do, you may choose new targets for the copy. Do this only once each turn.
+If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.
+pt: 4/4 => 3/3
+
+Forsaken Loxodon
+rules_text: Trample
+This creature's power is equal to the number of creatures you control and creature cards in your graveyard.
+Swarm 3—{3}{B}{G} [i]({3}{B}{G}, Exile this card from your graveyard: Create three 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => Trample
+When this creature enters, harvest 3. [i](Exile up to three permanent cards from your graveyard to put that many +1/+1 counters on target creature.)[/i]
+pt: */5 => 3/3
+
+Gutbloom Host
+rules_text: Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+{BG}, Sacrifice a creature: Return this card from your graveyard to the battlefield. Activate only as a sorcery. => Vigilance [i](Attacking doesn't cause this creature to tap.)[/i]
+{BG}, Exile another creature card from your graveyard: Return this card from your graveyard to the battlefield. Activate only as a sorcery.
+
+Fungus Nursery
+cost: {1}{B}{G} => {B}{G}
+rules_text: When this enchantment enters and at the beginning of your upkeep, surveil 1.
+{2}, Sacrifice a land or creature: Draw a card. You gain 1 life.
+{2}, Exile a land or creature card from your graveyard: Create a 1/1 green Saproling creature token. => At the beginning of your upkeep, choose one—
+• Harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on target creature.)[/i]
+• Surveil 1.
+
+Decay Guildmage
+rules_text: {2}{BG}, {T}: Surveil 2.
+{4}{B}{G}: Put a +1/+1 counter on each creature you control. They gain menace until end of turn. Activate only as a sorcery. => {BG}{2}, {T}: Surveil 2.
+{4}{B}{G}: Put a +1/+1 counter on each creature you control. They gain menace until end of turn. Activate only as a sorcery.
+
+Crypsis Clade Guardian
+rules_text: Implant {G}{U} [i]({G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Whenever this creature deals combat damage to a player, tap or untap target nonland permanent and put your choice of a +1/+1 or stun counter on it. => Implant {1}{G}{U} [i]({1}{G}{U}, Exile this card from your hand during your turn: Put a +1/+1 counter on target creature. It gains the following abilities until end of turn. You may cast this later from exile.)[/i]
+Whenever this creature deals combat damage to a player, for each kind of counter on target permanent, give that permanent another two counters of that kind.
+pt: 2/3 => 3/3
+
+Erstwhile Awakener
+rules_text: {T}, Sacrifice another creature: Add two mana in any combination of colors.
+{G}: Exile target card from a graveyard.
+{3}{B}{B}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery. => {T}, Sacrifice another creature: Add X mana in any combination of colors, where X is the sacrificed creature's power.
+{G}: Exile target card from a graveyard.
+{3}{B}{B}: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
+
+Zafen, Scheming Necromancer
+rules_text: Ward—Sacrifice a creature.
+If one or more creature tokens would be created under your control, those tokens plus that many 2/1 black Skeleton creature tokens are created instead.
+{T}, Sacrifice X other creatures: Zafen deals X damage to any target and you gain X life. => Ward—Sacrifice a creature.
+Whenever one or more land or creature cards leave your graveyard, you may pay {1}{B}{G} any number of times. If you do, for each time the cost was paid, create a token that's a copy of one of those cards.
+pt: 5/4 => 5/5
+
+Corpse-Pit Goliath
+rules_text: Trample
+Whenever this creature or another nontoken creature you control dies, create a 1/1 black and green Insect creature token for each +1/+1 counters on it.
+{2}{BG}, Sacrifice a creature: Put a +1/+1 counters on each creature you control. => Trample
+Whenever this creature or another nontoken creature you control dies, create a 1/1 black and green Insect creature token for each +1/+1 counter on it.
+{2}{BG}, Sacrifice a creature: Put a +1/+1 counter on each creature you control.
+
+Lothran, the Glouton
+rules_text: Menace
+Whenever Lothran attacks, you may sacrifice a creature. If you do, he gains indestructible until end of turn and you gain 2 life.
+{1}, Discard a creature card: Put a +1/+1 counter on Lothran. => Menace
+When Lothran enters, mill two cards.
+Whenever one or more cards leave your graveyard, put a +1/+1 counter on Lothran and you gain 2 life. This ability triggers only once each turn.
+pt: 2/2 => 3/2
+
+Festering Mass
+rules_text: Attacking creatures you control have deathtouch and lifelink.
+Each creature card in your graveyard has “Swarm 2—{2}{BG}{BG}.” [i]({2}{BG}{BG}, Exile a creature card from your graveyard: Create two 1/1 black and green Insect creature tokens.)[/i] => Deathtouch, lifelink
+Whenever a creature you control attacks, you may remove a +1/+1 counter from it. When you do, create a tapped and attacking token that's a copy of it, except it's a 1/1 Ooze in addition to its other types.
+When this card is put into exile from your graveyard, shuffle it into your library.
+pt: 4/5 => 3/3
+
+Remains
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+Draw cards equal to that creature's power. => As an additional cost to cast this spell, sacrifice a creature.
+Draw cards equal to the sacrificed creature's power.
+
+Infested Maneater
+rules_text: Deathtouch, reach
+Swarm 2—{3}{G} [i]({3}{G}, Exile this card from your graveyard: Create two 1/1 black and green Insect creature tokens. Swarm only as a sorcery.)[/i] => Deathtouch, reach
+{3}{G}, Exile this card from your graveyard: Create two 1/1 green Saproling creature tokens. Activate only as a sorcery.
+
+Accelerated Growth
+rules_text: Look at the top five cards of your library. If {U} was spent to cast this spell, put a card from among them into your hand. Otherwise, reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. => Look at the top five cards of your library. If {U} was spent to cast this spell, put a card from among them into your hand and the rest on the bottom of your library in any order. Otherwise, reveal a permanent card from among them, put it into your hand and put the rest on the bottom of your library in any order.
+
+Lamiel, Deathsprout Cultivator
+rules_text: Creature tokens you control get +1/+0 and have “{T}: Add one mana of any color.”
+Whenever another nontoken creature you control dies or one or more cards leave your graveyard, create a 0/1 green Plant creature token. => At the beginning of each end step, choose one, where X is equal to the number of +1/+1 counters you put on creatures you control this turn.
+• Each opponent loses X life and you gain X life.
+• Create X 1/1 green Saproling creature tokens.
+
+Amalgamate
+cost: {2}{B}{B}{G} => {1}{B}{G}
+rules_text: This spell can't be countered.
+Destroy target permanent. Add X mana in any combination of colors, where X is the destroyed permanent's mana value. => This spell can't be countered.
+Exile target nonland permanent. Harvest X, where X is that permanent's mana value. [i](Exile up to X permanent cards from your graveyard to put that many +1/+1 counters on target creature.)[/i]
+
+2/1 Elemental Dog
+
+1/1 Insect
+
+1/1 Elemental
+
+Arrester's Key
+rules_text: When this artifact enters, scry 2.
+{1}, {T}: Tap target creature. If that creatures is already tapped, put a stun counter on it instead. Activate only as a sorcery.
+Preamble {2}{U} [i]({2}{U}, Exile this card from your hand: Cast a copy of it from exile without paying its mana cost. You may cast this later from exile. Preamble only as a sorcery. A copy of a permanent spell becomes a token.)[/i] => When this artifact enters, scry 2.
+{1}, {T}: Tap target creature. If that creature is already tapped, put a stun counter on it instead. Activate only as a sorcery.
+Preamble {2}{U} [i]({2}{U}, Exile this card from your hand: Cast a copy of it from exile without paying its mana cost. You may cast this later from exile. Preamble only as a sorcery. A copy of a permanent spell becomes a token.)[/i]
+
+Binding Decree
+rules_text: Abilities of nonland permanents and cards your opponents activate cost {2} more to activate.
+Activated abilities of nonland permanents and cards you control cost {2} less to activate. This effect can't reduce the mana in that cost to less than one mana. => Whenever a nonmana ability you don't control is activated or triggers, counter it unless its controller pays {1}. When they do, you gain 1 life.
+Creatures your opponents control enter tapped.
+
+Sarvis, High Justiciar
+rules_text: Each player can't cast more than one spell from their hand each turn.
+Each nonland card in your hand has preamble. The preamble cost is equal to {2} plus its mana cost. [i](Exile a nonland card from your hand and pay its preamble cost: Cast a copy of it from exile without paying its mana cost. You may cast later it from exile. Preamble only as a sorcery. A copy of a permanent spell becomes a token.)[/i] => Each player can't cast more than one spell from their hand each turn.
+Each nonland card in your hand has preamble. The preamble cost is equal to {2} plus its mana cost. [i](Exile a nonland card from your hand and pay its preamble cost: Cast a copy of it from exile without paying its mana cost. You may cast it later from exile. Preamble only as a sorcery. A copy of a permanent spell becomes a token.)[/i]
+
+Seal of Censure
+rules_text: Tap all creatures. They lose all their abilities until end of turn. You gain 1 life for each of those creatures. => Tap all creatures. They lose all their abilities until end of turn. You gain 1 life for each of those creatures. Draw a card.
+
+Deadly Spore Storm
+type: Instant => Sorcery
+cost: {1}{B} => {2}{B}
+rules_text: Choose one —
+• Target creature gets -3/-3 until end of turn.
+• All creatures get -1/-1 until end of turn. => Choose one —
+• Mill two cards and you gain 2 life.
+• Harvest 2. [i](Exile up to two permanent cards from your graveyard to put that many +1/+1 counters on target creature.)[/i]
+Then each creature gets -X/-X, where X is the number of creature cards in your graveyard.
+
+1/1 Golgari Saproling
+
+
+VERSION 50 CHANGELOG
 ====================
 
 3/3 Boar added.
