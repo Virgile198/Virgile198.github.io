@@ -1,4 +1,364 @@
-﻿VERSION 52 CHANGELOG
+﻿VERSION 53 CHANGELOG
+====================
+
+Boros Warhound added.
+Lawmage Familiar added.
+Arresters Company added.
+Sova High Arbitrator added.
+
+Loyal Warhound removed.
+Lawmage Familliar removed.
+Safeguard removed.
+Forecaster Arbitrator removed.
+
+Firemane Protector
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Flying
+When this creature enters, you gain 3 life. => Muster [i](This spell costs {1} less to cast for each creature you control that attacked this turn.)[/i]
+Flying
+When this creature enters, you gain 3 life.
+
+Press the Advantage
+cost: {4}{W}{W} => {3}{W}{W}
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Creatures you control get +2/+1 until end of turn. => Muster [i](This spell costs {1} less to cast for each creature you control that attacked this turn.)[/i]
+Creatures you control get +2/+1 until end of turn.
+
+Monument to Solidarity
+rules_text: When this enchantment enters and whenever you cast a white spell, put a +1/+1 counter on each creature you control. Put an awakening counter on this enchantment.
+As long as Monument to Solidarity has five or more awakening counters on it, it is a 6/6 Angel creature with flying. => When this enchantment enters and whenever you cast a white spell, put a +1/+1 counter on each creature you control. Put an awakening counter on this enchantment.
+As long as Monument to Solidarity has five or more awakening counters on it, it is a 6/6 Angel creature with flying in addition to its other types.
+
+Aurelia's Judgment
+cost: {6}{W}{W} => {4}{W}{W}
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Destroy all creatures. You gain 1 life for each creature destroyed this way. => Muster [i](This spell costs {1} less to cast for each creature you control that attacked this turn.)[/i]
+Destroy all creatures. If it's your turn, you gain 1 life for each creature you control that was destroyed this way.
+
+Featherscale Drake
+rules_text: Flash
+Flying
+When this creature enters, tap all creatures you don't control and untap all creatures you control. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Flying
+When this creature enters, tap all creatures you don't control and untap all creatures you control.
+
+Express Mandate
+cost: {5}{W} => {3}{W}
+rules_text: Flash
+Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. => Muster [i](This spell costs {1} less to cast for each creature you control that attacked this turn.)[/i]
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+
+Spliced Guardian
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+{2}{G}: Put a +1/+1 counter on this creature. It gains trample until end of turn. Activate only as a sorcery. => When this creature enters, surveil 2.
+{2}{G}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.
+pt: 2/2 => 1/3
+
+Enfeebling Shackles
+rules_text: Enchant creature
+Enchanted creature loses all abilities, has base power 0 and can't have counters put on it. => Enchant creature you don't contol
+When this Aura enters, remove all counters from enchanted creature.
+Enchanted creature loses all abilities, has base power 0 and can't have counters put on it.
+
+Bereave
+rules_text: Counter target spell unless its controller pays {2}. If that spell is monocolored, counter it unless its controller pays {3} instead. => Counter target spell unless its controller pays {2}. If the spell countered this way is monocolored, exile it instead of putting it into its owner's graveyard.
+
+Monument to Wisdom
+cost: {2}{U}{U} => {3}{U}{U}
+rules_text: When this enchantment enters and whenever you cast a blue spell, draw a card. Put an awakening counter on this enchantment.
+As long as Monument to Wisdom has five or more awakening counters on it, it is a 5/5 Sphinx creature with flying. => When this enchantment enters and whenever you cast a blue spell, draw a card. Put an awakening counter on this enchantment.
+As long as Monument to Wisdom has five or more awakening counters on it, it is a 5/5 Sphinx creature with flying in addition to its other types.
+
+Synapse Linker
+pt: 3/3 => 3/4
+
+Rimescale Drake
+rules_text: Flash
+Flying
+Whenever you cast a spell from anywhere other than your hand, tap up to one target creature and put a stun counter on it. => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+Flying
+Whenever you cast a spell from anywhere other than your hand, tap up to one target creature and put a stun counter on it.
+
+Jubilant Sewer Cook
+rules_text: When this creature enters, mill two cards, then harvest 1. You gain 2 life. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on target creature.)[/i] => When this creature enters, mill two cards, then harvest 1. You gain 2 life. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on up to one target creature.)[/i]
+
+Swarm Broodmother
+rules_text: Flying
+When this creature enters, create a 1/1 black and green Insect creature token, then harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on target creature.)[/i] => Flying
+When this creature enters, create a 1/1 black and green Insect creature token, then harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on up to one target creature.)[/i]
+
+Eaten From Within
+rules_text: This spell costs {1} less to cast for each creature that died this turn.
+Return target creature card from your graveyard to the battlefield tapped. => This spell costs {1} less to cast for each creature you control that died this turn.
+Return target creature card from your graveyard to the battlefield tapped.
+
+The Show Never Ends
+rules_text: Return up to two target creature cards from your graveyard to your hand. Create a 2/1 black and red Elemental Dog creature token with menace, haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Mill two cards. Return up to two creature cards from your graveyard to your hand. Create a 2/1 black and red Elemental Dog creature token with menace, haste and decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Monument to Depravity
+cost: {2}{B}{B} => {1}{B}{B}
+rules_text: When this enchantment enters and whenever you cast a black spell, each opponent loses 2 life, you gain 2 life. Put an awakening counter on this enchantment.
+As long as Monument to Depravity has five or more awakening counters on it, it is a 6/6 Demon creature with flying. => When this enchantment enters and whenever you cast a black spell, each opponent loses 1 life, you gain 1 life. Put an awakening counter on this enchantment.
+As long as Monument to Depravity has five or more awakening counters on it, it is a 5/5 Demon creature with flying in addition to its other types.
+
+Daughter of Stone Death
+rules_text: Deathtouch
+Whenever another creature dies, harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on target creature.)[/i]
+{1}{B}, Remove X +1/+1 counter from among creatures you control: Target creature gets -X/-X until end of turn. => Deathtouch
+Whenever another creature dies, harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on up to one target creature.)[/i]
+{1}{B}, Remove X +1/+1 counters from among creatures you control: Target creature gets -X/-X until end of turn.
+
+Corpse Jeweler
+rules_text: Whenever another creature you control dies, create a Treasure token. This ability triggers only once during each of your turn.
+{T}, Sacrifice a creature: Surveil 1.
+{2}, {T}, Sacrifice a token: Draw a card. => Whenever a creature you control dies, surveil 1. This ability triggers only once each turn.
+{T}, Sacrifice a creature: Create a Treasure token.
+{2}, Sacrifice a token: Draw a card.
+pt: 1/2 => 1/3
+
+Desenites' Corruption
+type: Instant => Sorcery
+cost: {2}{B} => {B}
+rules_text: Creatures your opponents control get -1/-1 until end of turn. If you control a multicolored permanent, they get -2/-2 until end of turn instead. => Target opponent reveals their hand. You choose a nonland card from it with mana value 2 or less. If you control a multicolored permanent, choose a nonland card from it with mana value 4 or less instead. That player discards that card.
+
+Boros Phalanx
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Reach [i](This creature can block creatures with flying.)[/i]
+When this creature enters, it deals 3 damage to target opponent. => Muster [i](This spell costs {1} less to cast for each creature you control that attacked this turn.)[/i]
+Reach [i](This creature can block creatures with flying.)[/i]
+When this creature enters, it deals 3 damage to target opponent.
+
+Just Strike
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Target creature gets +2/+0 and gains first strike and trample until end of turn. => Muster [i](This spell costs {1} less to cast for each creature you control that attacked this turn.)[/i]
+Target creature gets +2/+0 and gains first strike and trample until end of turn.
+
+Subjugate
+rules_text: Enchant creature
+When this Aura enters, target creature can't block this turn and monocolored creatures can't block this turn.
+Enchanted creature gets +1/+1 and has haste. => Enchant creature
+Enchanted creature gets +1/+0 for each monocolored creature blocking it and has menace and haste.
+
+Monument to Fury
+cost: {1}{R}{R} => {2}{R}{R}
+rules_text: When this enchantment enters and whenever you cast a red spell, this enchantment deals 1 damage to any target. Put an awakening counter on this enchantment.
+As long as Monument to Fury has five or more awakening counters on it, it is a 5/5 Dragon creature with flying. => When this enchantment enters and whenever you cast a red spell, this enchantment deals 2 damage to target player. Put an awakening counter on this enchantment.
+As long as Monument to Fury has five or more awakening counters on it, it is a 6/6 Dragon creature with flying in addition to its other types.
+
+Flame-kin Commander
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+When this creature enters, it deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control. => Muster [i](This spell costs {1} less to cast for each creature you control that attacked this turn.)[/i]
+When this creature enters, it deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control.
+
+Rakdos Excrutiator
+rules_text: This spell can't be countered.
+Your opponents can't gain life.
+Damage can't be prevented.
+Spells and abilities you control can't be countered. => Players can't gain life.
+Damage can't be prevented.
+Permanents lose indestructible and can't have or gain indestructible.
+
+Goldscale Whelp
+rules_text: Flying, haste
+This creature can't block.
+When this creature dies, create a treasure token. => Flying, haste
+This creature can't block.
+When this creature dies, create a Treasure token.
+
+Mourning Legionnaire
+rules_text: Whenever this creature or another creature you control dies, put a +1/+1 counter on each creature you control. This ability triggers only once each turn.
+{1}, Sacrifice this creature: Creatures you control gains indestructible until end of turn. => Whenever this creature or another creature you control dies, put a +1/+1 counter on each creature you control. This ability triggers only once each turn.
+{1}, Sacrifice this creature: Creatures you control gain indestructible until end of turn.
+
+Burning Meditation
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards. => Muster [i](This spell costs {1} less to cast for each creature you control that attacked this turn.)[/i]
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+
+Golgari Rotseer
+rules_text: When this creature enters, surveil 1.
+{T}: Add {G}.
+{1}{G}, {T}: Harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on target creature.)[/i] => When this creature enters, surveil 1.
+{T}: Add {G}.
+{1}{G}, {T}: Harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on up to one target creature.)[/i]
+
+Undercity Ravager
+rules_text: Trample
+{2}{G}, Discard this card: Target creature you control gains trample until end of turn. Harvest 3. Activate only as a sorcery. [i](Exile up to three permanent cards from your graveyard to put that many +1/+1 counters on target creature.)[/i] => Trample
+{2}{G}, Discard this card: Target creature you control gains trample until end of turn. Harvest 3. Activate only as a sorcery. [i](Exile up to three permanent cards from your graveyard to put that many +1/+1 counters on up to one target creature.)[/i]
+
+Stamp Out
+rules_text: Target creature you control deals damage equal to its power to target creature or planeswalker you don't control. If the permanent you don't control is monocolored, the creature you control deals twice that much damage to it instead. => Target creature you control gets +2/+0 until end of turn if target creature or planeswalker you don't control is monocolored. Then that creature deals damage equal to its power to that permanent.
+
+Swarm's Voracity
+rules_text: Choose one —
+• Until end of turn, target creature get +1/+1 for each creature card in your graveyard and gains trample.
+• Destroy target creature with flying.
+• Create two 1/1 black and green insect creature tokens. => Choose one —
+• Until end of turn, target creature get +1/+1 for each creature card in your graveyard and gains trample.
+• Destroy target creature with flying.
+• Create two 1/1 black and green Insect creature tokens.
+
+Monument to Strength
+cost: {3}{G}{G} => {4}{G}{G}
+rules_text: When this enchantment enters and whenever you cast a green spell, create a 3/3 green Boar creature token. Put an awakening counter on this enchantment.
+As long as Monument to Strength has five or more awakening counters on it, it is a 8/8 Boar creature with trample. => When this enchantment enters and whenever you cast a green spell, create a 3/3 green Boar creature token. Put an awakening counter on this enchantment.
+As long as Monument to Strength has five or more awakening counters on it, it is a 8/8 Boar creature with trample in addition to its other types.
+
+Insatiable Troll
+rules_text: Trample
+Whenever this creature enters or attacks, harvest 2. [i](Exile up to two permanent cards from your graveyard to put that many +1/+1 counters on target creature.)[/i]
+Remove two +1/+1 counters from this creature: It gains indestructible until end of turn. Tap it. => Trample
+Whenever this creature enters or attacks, harvest 2. [i](Exile up to two permanent cards from your graveyard to put that many +1/+1 counters on up to one target creature.)[/i]
+Remove two +1/+1 counters from this creature: It gains indestructible until end of turn. Tap it.
+
+Rotten Banquet
+rules_text: Mill four cards, then choose two. You may choose the same mode more than once.
+• Return up to one permanent card from your graveyard to your hand. You gain 2 life.
+• Harvest 2. [i](Exile up to two permanent cards from your graveyard to put that many +1/+1 counters on target creature.)[/i] => Mill four cards. When you do, choose two. You may choose the same mode more than once.
+• Return up to one permanent card from your graveyard to your hand. You gain 2 life.
+• Harvest 2. [i](Exile up to two permanent cards from your graveyard to put that many +1/+1 counters on up to one target creature.)[/i]
+
+Ravenous Sewerscraper
+rules_text: Trample
+Whenever this creature attacks, target player shuffles up to one target cards from their graveyard into their library. => Trample
+Whenever this creature attacks, target player shuffles up to one target card from their graveyard into their library.
+
+Surging Horror
+rules_text: Haste
+this creature can't be blocked by more than one creature.
+When this creature dies, harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on target creature.)[/i] => Haste
+this creature can't be blocked by more than one creature.
+When this creature dies, harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on up to one target creature.)[/i]
+
+Sunhome Defender
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Vigilance => Muster [i](This spell costs {1} less to cast for each creature you control that attacked this turn.)[/i]
+Vigilance
+
+Firefist's Indignation
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+This spell deals 3 damage to any target and you gain 3 life. => Muster [i](This spell costs {1} less to cast for each creature you control that attacked this turn.)[/i]
+This spell deals 3 damage to any target and you gain 3 life.
+
+On Wings of Fury
+rules_text: Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+Create X 4/4 white Angel creature tokens with flying and vigilance. Untap all creatures you control. They gain haste until end of turn. After this main phase, there is an additional combat phase. => Muster [i](This spell costs {1} less to cast for each creature you control that attacked this turn.)[/i]
+Create X 4/4 white Angel creature tokens with flying and vigilance. Untap all creatures you control. They gain haste until end of turn. After this main phase, there is an additional combat phase.
+
+Gleeful Skinner
+rules_text: Lifelink
+If a player would gain life, each of your opponent loses that much life instead.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, each other creature you control gains lifelink until end of turn. Sacrifice it at the beginning of the next end step. => Lifelink
+If a player would gain life, each of your opponents lose that much life instead.
+[i]Performance[/i] — Whenever this creature attacks, you may put a +1/+1 counter on it. When you do, each other creature you control gains lifelink until end of turn. Sacrifice it at the beginning of the next end step.
+
+Force Shaping
+rules_text: Choose one —
+• Copy target activated or triggered ability. You may chose new targets for the copy.
+• Counter target activated or triggered ability. => Choose one —
+• Copy target activated or triggered ability. You may chose new targets for the copy.
+• Counter target activated or triggered ability from a nonland source.
+
+Transform
+rules_text: Until end of turn, target creature becomes a green and blue Mutant with base power and toughness 6/6. => Until end of turn, target creature becomes a green and blue Mutant with base power and toughness 5/5.
+
+Firemane's Flamberge
+rules_text: Flash
+When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+0 for each attacking creatures and has flying and first strike.
+Equip {3} => Flash
+When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+0 for each attacking creature you control and has flying and first strike.
+Equip {3}
+
+Ordruun Marshal
+rules_text: When this creature enters, create two 1/1 red and white Soldier creature tokens.
+Whenever this creature attacks or blocks, the next spell you cast this turn without muster has muster. [i](That spell costs {1} less to cast for each creature that attacked this turn.)[/i] => When this creature enters, create two 1/1 red and white Soldier creature tokens.
+Whenever this creature attacks, the next spell you cast this turn without muster has muster. [i](That spell costs {1} less to cast for each creature you control that attacked this turn.)[/i]
+
+Diana, Passer of Judgment
+rules_text: Flying, vigilance
+At the beginning of each end step, if two or more creatures you control attacked or blocked this turn, Diana deals 2 damage to each opponent. => Flying, vigilance
+At the beginning of your end step, if two or more creatures you control attacked this turn, Diana deals 2 damage to each opponent.
+
+Forsaken Loxodon
+rules_text: Trample
+When this creature enters, harvest 3. [i](Exile up to three permanent cards from your graveyard to put that many +1/+1 counters on target creature.)[/i] => Trample
+When this creature enters, harvest 3. [i](Exile up to three permanent cards from your graveyard to put that many +1/+1 counters on up to one target creature.)[/i]
+
+Fungus Nursery
+rules_text: At the beginning of your upkeep, choose one—
+• Harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on target creature.)[/i]
+• Surveil 1. => At the beginning of your upkeep, choose one—
+• Harvest 1. [i](Exile up to one permanent card from your graveyard to put a +1/+1 counter on up to one target creature.)[/i]
+• Surveil 1.
+
+Decay Guildmage
+rules_text: {BG}{2}, {T}: Surveil 2.
+{4}{B}{G}: Put a +1/+1 counter on each creature you control. They gain menace until end of turn. Activate only as a sorcery. => {2}{BG}, {T}: Surveil 2.
+{4}{B}{G}: Put a +1/+1 counter on each creature you control. They gain menace until end of turn. Activate only as a sorcery.
+
+Boros Rallier
+rules_text: Flash
+Muster [i](This spell costs {1} less to cast for each creature that attacked this turn.)[/i]
+When this creature enters, attacking creatures you control get +1/+1 and gain trample until end of turn. => Flash
+Muster [i](This spell costs {1} less to cast for each creature you control that attacked this turn.)[/i]
+When this creature enters, creatures you control get +1/+1 and gain trample until end of turn.
+pt: 2/4 => 2/3
+
+Mileva of the Tenth
+rules_text: Vigilance, haste
+As long as Mileva is blocking or being blocked, prevent all damage that would be dealt to other creatures you control. => Haste
+As long as Mileva is blocking or being blocked, prevent all damage that would be dealt to other creatures you control.
+
+Remains
+
+Amalgamate
+rules_text: This spell can't be countered.
+Exile target nonland permanent. Harvest X, where X is that permanent's mana value. [i](Exile up to X permanent cards from your graveyard to put that many +1/+1 counters on target creature.)[/i] => This spell can't be countered.
+Exile target nonland permanent. Harvest X, where X is that permanent's mana value. [i](Exile up to X permanent cards from your graveyard to put that many +1/+1 counters on up to one target creature.)[/i]
+
+1/1 Insect
+
+Treasure
+
+1/1 Azorius Soldier
+
+Hull Clade Guardian
+rules_text: Ward {2}
+Whenever a creature you control becomes the target of a spell or ability you control, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+Remove a +1/+1 counter from this creature: It gains your choice of vigilance, reach or trample until end of turn. => Whenever a creature you control becomes the target of a spell or ability you control, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+Remove a +1/+1 counter from this creature: It gains your choice of vigilance, reach or trample until end of turn.
+
+Jelenn Grand Elocutor
+rules_text: Spells you cast from anywhere other than your hand cost {2} less to cast.
+Whenever you cast a spell from anywhere other than your hand, draw a card. This ability triggers only once each turn. => Spells you cast from anywhere other than your hand cost {1} less to cast.
+Whenever you cast a spell from anywhere other than your hand, draw a card. This ability triggers only once each turn.
+
+Azorius Purifier
+rules_text: Whenever this creature enters or attacks, exile up to one target card from a graveyard.
+Whenever an opponent casts a spell or activates an ability of a nonland permanent or card that shares a name with a card exiled with this creature, you draw a card. => Whenever this creature enters or attacks, exile up to one target card from a graveyard.
+Whenever an opponent casts a spell that shares a name with a card exiled with this creature, draw a card.
+
+Binding Decree
+cost: {W}{U} => {1}{W}{U}
+rules_text: Whenever a nonmana ability you don't control is activated or triggers, counter it unless its controller pays {1}. When they do, you gain 1 life.
+Creatures your opponents control enter tapped. => At the beginning of each end step, if an opponent attacked with two or more creatures, drew two or more cards, or cast two or more spells this turn, choose one—
+• Create a 1/1 white and blue Bird creature token with flying.
+• Draw a card.
+• You gain 3 life.
+
+Deadly Spore Storm
+cost: {2}{B} => {2}{B}{B}
+rules_text: Choose one —
+• Mill two cards and you gain 2 life.
+• Harvest 2. [i](Exile up to two permanent cards from your graveyard to put that many +1/+1 counters on target creature.)[/i]
+Then each creature gets -X/-X, where X is the number of creature cards in your graveyard. => Harvest 2. Then all creatures gets -2/-2 until end of turn. [i](Exile up to two permanent cards from your graveyard to put that many +1/+1 counters on up to one target creature.)[/i]
+
+
+VERSION 52 CHANGELOG
 ====================
 
 
